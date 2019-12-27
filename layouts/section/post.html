@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+        <main>
+        {{ .Content }}
+        {{ range .Paginator.Pages }}
+
+        {{ end }}
+	{{ partial "pagination.html" . }}
+	</main>
+{{ partial "sidebar.html" . }}
+{{ partial "footer.html" . }}
+	

@@ -3,7 +3,7 @@ title = "Patrick Lam"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-44519764-2"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = false
@@ -12,9 +12,9 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/00612_descending_into_canyon.JPG"
   SEOTitle = "Patrick Lam"
-  description = "Associate Professor of Electrical and Computer Engineering at the University of Waterloo"
+  description = "Personal website of Patrick Lam"
   keyword = "patricklam, program analysis, static analysis, travel, climbing, hiking"
   slogan = "Thoughts and travels of Patrick Lam"
 
@@ -33,9 +33,8 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Trying hard"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_about_description = "Associate Professor of Electrical and Computer Engineering at the University of Waterloo"
+  sidebar_avatar = "img/20150912_142906898_plam.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -91,8 +90,8 @@ home = ["HTML", "RSS", "Algolia"]
   href = "https://unsplash.com"
   
   [[params.addtional_menus]]
-  title =  "BOOKS"
-  href =  "/top/books/"
+  title =  "PUBLICATIONS"
+  href =  "/top/publications/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
