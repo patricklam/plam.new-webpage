@@ -90,8 +90,17 @@ home = ["HTML", "RSS", "Algolia"]
   href = "https://unsplash.com"
   
   [[params.addtional_menus]]
+  title =  "BLOG"
+  href =  "/post/"
+  [[params.addtional_menus]]
   title =  "PUBLICATIONS"
   href =  "/top/publications/"
+  [[params.addtional_menus]]
+  title =  "STUDENTS"
+  href =  "/top/students/"
+  [[params.addtional_menus]]
+  title =  "GALLERY"
+  href =  "https://gallery.patricklam.ca/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
