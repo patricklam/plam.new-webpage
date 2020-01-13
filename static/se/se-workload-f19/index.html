@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SE Burnout Survey, Fall 2019</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+  </head>
+
+  <body>
+
+  <div class="container" id="main">
+    <div class="starter-template">
+  <h1>SE Burnout Survey, November 2019</h1>
+  <p>Author: Patrick Lam</p>
+  <p>
+    During Week 9 of Fall 2019, I polled Waterloo Software Engineering students about workload and burnout. Here are the answers I received, separated by class (SE 2021 and SE 2023). A = Strongly agree (left), D = strongly disagree (right).
+  </p>
+  
+<div>
+<h4>I've achieved the success I want at this stage of life.</h4>
+<div>
+    <div id="success_2a" style="float:left"></div>
+    <div id="success_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I feel a sense of belonging to my SE class.</h4>
+<div>
+    <div id="belonging_2a" style="float:left"></div>
+    <div id="belonging_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I don't know what I want in life.</h4>
+<div>
+    <div id="dont_know_what_want_in_life_2a" style="float:left"></div>
+    <div id="dont_know_what_want_in_life_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">My life is well-balanced and I'm good at life maintenance (aka "adulting").</h4>
+<div>
+    <div id="life_well_balanced_2a" style="float:left"></div>
+    <div id="life_well_balanced_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I can find time to pursue my personal out-of-class interests.</h4>
+<div>
+    <div id="can_pursue_other_interests_2a" style="float:left"></div>
+    <div id="can_pursue_other_interests_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">The end of my degree is in sight.</h4>
+<div>
+    <div id="end_of_degree_in_sight_2a" style="float:left"></div>
+    <div id="end_of_degree_in_sight_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I am learning useful things in several of my classes.</h4>
+<div>
+    <div id="learning_useful_things_2a" style="float:left"></div>
+    <div id="learning_useful_things_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I feel overworked.</h4>
+<div>
+    <div id="overworked_2a" style="float:left"></div>
+    <div id="overworked_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">(3B) I look forward to working on my FYDP.</h4>
+<div>
+    <div id="looking_forward_to_fydp_2a" style="float:left"></div>
+    <div id="looking_forward_to_fydp_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I implement strategies to avoid burnout.</h4>
+<div>
+    <div id="implement_anti_burnout_2a" style="float:left"></div>
+    <div id="implement_anti_burnout_3b" style="float:right"></div>
+</div>
+
+<h4 style="clear:both">I feel like being in SE has been a net benefit to me.</h4>
+<div>
+    <div id="se_net_benefit_2a" style="float:left"></div>
+    <div id="se_net_benefit_3b" style="float:right"></div>
+</div>
+
+</div>
+    </div>
+  </div>
+  
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 30, bottom: 30, left: 40},
+    width = 460 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
+
+var clientWidth = document.getElementById("main").clientWidth;
+if ((width + margin.left + margin.right) * 2 > clientWidth) {
+    width = (clientWidth - margin.left * 3 - margin.right * 2) / 2;
+}
+
+// append the svg object to the body of the page
+var create_svg = function (tag) {
+  return d3.select(tag)
+    .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+}
+
+var ordinalToLetter = function(i) {
+    return ["", "A","a","n","d","D"][i];
+}
+
+// get the data
+var chart = function(filename, f, svg, fill) {
+  d3.csv(filename, function(data) {
+
+    // X axis: scale and draw:
+    var x = d3.scaleLinear()
+        .domain([0.6,5.5])
+        .range([0, width]);
+    svg.append("g")
+        .attr("transform", "translate(20," + height + ")")
+        .call(d3.axisBottom(x)
+                .tickValues([1,2,3,4,5])
+                .tickFormat(ordinalToLetter));
+//                .tickValues(["A","a","n","d","D"])
+//                .tickFormat(d3.format(".0f")));
+
+    // set the parameters for the histogram
+    var histogram = d3.histogram()
+        .value(function(d) { return d[f]; })   // I need to give the vector of value
+        .domain(x.domain())  // then the domain of the graphic
+        .thresholds(x.ticks(20)); // then the numbers of bins
+
+    // And apply this function to data to get the bins
+    var bins = histogram(data);
+
+    // Y axis: scale and draw:
+    var y = d3.scaleLinear()
+        .range([height, 0]);
+        y.domain([0, d3.max(bins, function(d) { return d.length; })]);   // d3.hist has to be called before the Y axis obviously
+    svg.append("g")
+        .call(d3.axisLeft(y)
+                .tickFormat(d3.format(".0f")));
+
+    // append the bar rectangles to the svg element
+    svg.selectAll("rect")
+        .data(bins)
+        .enter()
+        .append("rect")
+          .attr("x", 1)
+          .attr("transform", function(d) { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+          .attr("width", function(d) { return 3 * (x(d.x1) - x(d.x0) -1) ; })
+          .attr("height", function(d) { return height - y(d.length); })
+          .style("fill", fill)
+
+  });
+}
+var chart_names = ["success", "belonging", "dont_know_what_want_in_life", "life_well_balanced", "can_pursue_other_interests", "end_of_degree_in_sight", "learning_useful_things", "overworked", "looking_forward_to_fydp", "implement_anti_burnout", "se_net_benefit"];
+
+var svg_2a = chart_names.map(n => [n, create_svg("#"+n+"_2a")]);
+var svg_3b = chart_names.map(n => [n, create_svg("#"+n+"_3b")]);
+
+svg_2a.forEach(x => chart(x[0]+"_2a.csv", x[0], x[1], "#69b3a2"));
+svg_3b.forEach(x => chart(x[0]+"_3b.csv", x[0], x[1], "#404080"));
+
+
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+

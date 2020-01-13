@@ -1,0 +1,14 @@
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.vtc
+*.xdv
+!/cc-by.pdf
+!/lipics-logo-bw.pdf
+
