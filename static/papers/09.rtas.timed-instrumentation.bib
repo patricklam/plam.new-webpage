@@ -1,0 +1,12 @@
+@conference {Fischmeister2009,
+	title = {On Time-Aware Instrumentation of Programs},
+	booktitle = {Proc. of the 15th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)},
+	year = {2009},
+	pages = {305--314},
+	address = {San Fransisco, USA},
+	abstract = {Software instrumentation is a key technique in many stages of the development process. It is of particular importance for debugging embedded systems. Instrumented programs produce data traces which enable the developer to locate the origins of misbehaviours in the system under test. However, producing data traces incurs runtime overhead in the form of additional computation resources for capturing and copying the data. The instrumentation may therefore interfere with the system{\textquoteright}s timing and perturb its behavior. In the worst case, this perturbation leads to new system behaviours that prevent the developer from locating the original misbehaviours.
+
+In this work, we propose an instrumentation technique for applications with temporal constraints, specifically targetting background/foreground systems. Our framework permits reasoning about space and time for software instrumentations. In particular, we propose a definition for trace reliability, which enables us to instrument real-time applications which aggressively push their time budgets. Using the framework, we present a method with low perturbation by optimizing the number of insertion points and trace buffer size for code size and time budgets. Finally, we apply the theory to a concrete case study and instrument the OpenEC firmware for the keyboard controller of the One Laptop Per Child project.},
+	keywords = {debugging, real-time, tracing},
+	author = {Sebastian Fischmeister and Patrick Lam}
+}
