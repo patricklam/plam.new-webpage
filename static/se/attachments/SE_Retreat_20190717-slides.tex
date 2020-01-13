@@ -1,0 +1,410 @@
+\documentclass{beamer}
+
+\usetheme{Boadilla}
+
+%\includeonlyframes{current}
+
+\usepackage{times}
+\usefonttheme{structurebold}
+\usepackage{listings}
+
+\usepackage{pgf}
+\usepackage{tikz}
+\usepackage{alltt}
+\usepackage[normalem]{ulem}
+\usetikzlibrary{arrows}
+\usetikzlibrary{automata}
+\usetikzlibrary{shapes}
+\usepackage{amsmath,amssymb}
+\usepackage{rotating}
+\usepackage{ulem}
+
+%\setbeamercovered{dynamic}
+\setbeamertemplate{footline}[page number]{}
+\setbeamertemplate{navigation symbols}{}
+\usefonttheme{structurebold}
+
+\title{The State of the Software Engineering Program}
+\author{Patrick Lam}
+\date{July 17, 2019}
+
+\colorlet{redshaded}{red!25!bg}
+\colorlet{shaded}{black!25!bg}
+\colorlet{shadedshaded}{black!10!bg}
+\colorlet{blackshaded}{black!40!bg}
+
+\colorlet{darkred}{red!80!black}
+\colorlet{darkblue}{blue!80!black}
+\colorlet{darkgreen}{green!80!black}
+
+\newcommand{\rot}[1]{\rotatebox{90}{\mbox{#1}}}
+\newcommand{\gray}[1]{\mbox{#1}}
+
+\newenvironment{changemargin}[1]{% 
+  \begin{list}{}{% 
+    \setlength{\topsep}{0pt}% 
+    \setlength{\leftmargin}{#1}% 
+    \setlength{\rightmargin}{1em}
+    \setlength{\listparindent}{\parindent}% 
+    \setlength{\itemindent}{\parindent}% 
+    \setlength{\parsep}{\parskip}% 
+  }% 
+  \item[]}{\end{list}}
+
+\defbeamertemplate{part page}{mine}[1][]{%
+  \begin{centering}
+    {\usebeamerfont{part name}\usebeamercolor[fg]{part name}#1}
+    \vskip1em\par
+    \begin{beamercolorbox}[sep=12pt,center]{part title}
+      \usebeamerfont{part title}\insertpart\par
+    \end{beamercolorbox}
+  \end{centering}
+}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+
+  \vfill
+  
+  \begin{minipage}{15em}
+    \small ~\\[1.5em] Faculty of Engineering\\
+    Faculty of Mathematics\\[1.5em]
+  \end{minipage}\
+  \hfill\
+  \begin{minipage}{10em}\hfill \includegraphics[height=5em]{universityofwaterloo_logo_vert_rgb_0-300x195.png}
+  \end{minipage}
+\end{frame}
+
+\part{What we said last time...}
+\frame{\partpage}
+
+% note: check up on CS 247 and "more STL"
+
+\begin{frame}{Years 2-3}
+  \Large
+  \begin{changemargin}{1em}
+    \begin{itemize}
+    \item[$\checkmark$] DB to 2nd year
+    \item More stats: discussing making STAT 206 a 0.75 credit course.\\
+      \qquad       (F18: 5 students took STAT 230; \\
+      \qquad F17: 14 students took STAT 230).
+      \item[$\checkmark$] Econ/impact: MSCI 261 $\rightarrow$ ECE 192
+    \end{itemize}
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{SE 463/464/465}
+  \Large
+  \begin{changemargin}{1em}
+    \begin{itemize}
+    \item[$\checkmark$] CS 247/SE 464 overlap taskforce recommendations
+      \begin{itemize}
+      \item archive CS 247 exams for SE 464 instructor
+      \item SE 464: early assignment/test on CS247 material
+      \item SE 464: no course project
+      \end{itemize}
+    \item we're talking about SE 463 today
+    \item for information: SE 465 to be taught by new faculty Chengnian Sun
+    \end{itemize}
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{New ATEs}
+  \begin{changemargin}{1em}
+    Did we add any since 2017? I don't think so.
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{Student wellness}
+  \Large
+  \begin{changemargin}{1em}
+    Kind of talking about that today (indirectly)\ldots\\[1em]
+    
+    We now have more data, \\ \qquad which we can talk about next.
+  \end{changemargin}
+\end{frame}
+
+\part{Curriculum Committee Updates}
+\frame{\partpage}
+
+\begin{frame}{Recent Changes: Done}
+  \Large
+  \begin{changemargin}{1em}
+    \begin{itemize}
+    \item Curriculum shuffle, \\[0.2em]
+      \qquad reducing SE from 44.5 to 44 courses:
+      \begin{itemize}
+      \item MSCI 261 $\rightarrow$ ECE 192 (in 2B);
+      \item CS 348 from 3B to 2B;
+      \item ECE 358 from 4A to 3B;
+      \item elective from 4B to 4A.
+      \end{itemize}
+    \item Abolish Technical Presentation Milestone (2B)
+    \item Streamline Work Report guidelines \\ \qquad (5000 words max)
+    \end{itemize}
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{Recent Changes (Underway)}
+  \Large
+  \begin{changemargin}{1em}
+  Approved by SE Curriculum Committee/Math UAC/Eng FUGS:
+    \begin{itemize}
+    \item Reducing open electives from 3 to 2\\
+      (one elective in either 3A or 3B);
+    \item Allowing CHEM 120 for CHE 102 \& \\
+      flexibility in term taken.
+    \end{itemize}
+    ~\\
+    Resulting loads:
+    \begin{center}
+    \begin{tabular}{llll}
+      1A & 5.5 & 1B & 5 \\
+      2A & 6 & 2B & 5.5 \\
+      3A & 5/6 & 3B & 5/6 \\
+      4A & 5 & 4B & 5
+    \end{tabular}
+    \end{center}
+    If approved, total course count will be 43.
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{Other Curriculum Changes}
+  \Large
+  \begin{changemargin}{1em}
+    \begin{itemize}
+    \item Ideas Clinic in SE 101.
+    \end{itemize}
+  \end{changemargin}
+\end{frame}
+
+\part{Student Survey Results}
+\frame{\partpage}
+\begin{frame}{2019 Exit Survey (N=49): Expectations \& Would Recommend}
+  \begin{changemargin}{1cm}
+    % 2019 N=49
+    % 2018 N=116
+    The on-campus portion of my engineering undergraduate program has met my expectations:\\
+    \begin{center}
+      D = 0, d = 2, n = 6, a = 29, A = 13\\[1em]
+    \end{center}
+  
+  The co-op portion of my engineering undergraduate program has met my expectations:\\
+    \begin{center}
+      D = 1, d = 0, n = 0, a = 8, A = 41\\[1em]
+    \end{center}
+
+  I would recommend my program to other prospective students:\\
+    \begin{center}
+      D = 0, d = 3, n = 7, a = 19, A = 21\\[1em]
+    \end{center}
+
+  Similar to 2018, though slightly less positive in general.
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{2019 Exit Survey: Cannot Program}
+  \begin{changemargin}{1cm}
+    Do you know of any classmates who cannot program (to a level that one would expect of an SE grad)? How many?
+    \begin{itemize}
+    \item 0: 32
+    \item 1: 1
+    \item 2: 2
+    \item 5+: 3
+    \end{itemize}
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{2019 Exit Survey: Next Steps}
+  \begin{changemargin}{1cm}
+    In the year after graduation my next career step will be:\\
+\begin{center}
+    \begin{tabular}{lr}
+  Full-time, SE & 45\\
+  Other/unknown & 2\\
+  Grad school (CS/ECE) & 2\\
+  Grad school (other) & 1 \\
+    \end{tabular}
+\end{center}
+
+    Do you plan to work on getting a professional engineering license in the next 5 years?\\
+    \begin{center}
+      \begin{itemize}
+    \item Yes: 3
+    \item No: 47
+      \end{itemize}
+    \end{center}
+  \end{changemargin}
+\end{frame}
+
+\begin{frame}{Social Connectedness Survey}
+
+  Poll broadcast to students:\\[1em]
+  
+How many people have you had an in-person social conversation with for more than 15 minutes last week?
+  \begin{center}
+  \begin{tabular}{lrrr}
+term  &0-2        &3-9     &   10+  \\ 
+1B    &7 (15\%)   &   14 (29\%) &   27 (56\%)\\
+3A    &4 (10\%)   &   29 (69\%)  &  9 (21\%)\\
+4B    &0 ~~(0\%)  &   18 (66\%)   & 9 (33\%)\\ \\
+2B    & 4 ~~(9\%) &   24 (53\%)  & 18 (40\%) \\
+4A    & 2 ~~(8\%) &   14 (58\%) &  8 (33\%) 
+  \end{tabular}
+  \end{center}
+  Longer-term trends from W18, S18, F18, W19:
+  \begin{itemize}
+  \item 0-2: max of 21\%
+  \item 3-9: most responses here
+  \item mean just below 10
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Workload Survey}
+  \begin{center}
+  \begin{tabular}{lrrr}
+    term&     nominal &contact hrs &    total workload (hrs/week) \\
+& load & &     (last year)\\
+1A  &     5.5    &28.25   & 59.0 (57.5)\\
+1B  &     5.0    &28      & 57.8 (51.5)\\
+2A  &     6.0    &27.25   & 56.6 (51.3)\\
+2B  &     5.0    &20      & 48.9 (57.1)\\
+3A  &     5.0    &19.25   & 47.0 (39.5*)\\
+3B  &     6.0    &20.25   & 43.5 (56.3)\\
+4A  &     5.0    &17      & 36.2 (43.4)\\
+4B  &     6.0    &17      & 35.0 (47.6)
+  \end{tabular}
+
+  * 3A is going to 6.0 as of the class of 2022 and had no HW lab last year; 2B was at 5.0 last year.
+  \end{center}
+\end{frame}
+
+\begin{frame}{SE Society}
+  \begin{center}
+    \includegraphics[width=.6\textwidth]{../../../media/SE_logo.png}
+  \end{center}
+  \vspace*{-5em}
+  \begin{center}
+    Founding Presidents: \\
+    Bilal Akhtar (SE 2019) \& Spencer Dobrik (SE 2020).\\
+    Incoming President: \\
+    Roxane Fruytier (SE 2021).
+  \end{center}
+\end{frame}
+
+\part{Admissions, Graduations, \\ and Retention}
+\frame{\partpage}
+
+\begin{frame}
+  \frametitle{Admissions Data}
+
+  \footnotesize
+  \vfill
+  \begin{tabular}{lrrrrrrrrrr}
+                 & 2019 & f \% & 2018 & f \% & 2017 & f \% & 2016 & f \% & 2015 & f \%  \\
+    Applications & 1480 & 24.3 & 1555 &    & 1475 & 16 & 1340 & 17 & 1112 & 14 \\
+    Offers       &  214 &   & 184  & 23 & 190  & 26 & 195 & 21 & 185 & 20 \\
+    Accepts      &  140 &   & 125  & 22 & 135  & 26 & 130 & 18 & 123 & 20  \\
+    OSS avg      & 96.4&    & 96.8 &    & 95.9 && 96.5 && 96.0  \\
+    OSS $10^{\mbox{\scriptsize th}}$ dec & 94.2 & & 95.0 & & 93.2 && 94.3 && 92.5  \\
+  \end{tabular}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{2019 \& 2018 Applications}
+
+  2019 applications:
+
+  \begin{center}
+  \begin{tabular}{lrrr}
+    & OSS & NOSS & total\\
+  Domestic  & 764 & 280 & 1036\\
+  Visa      & 73  & 363 & 426\\
+  \end{tabular}
+  \end{center}
+  \vspace*{1em}
+  2018 applications:
+
+  \begin{center}
+  \begin{tabular}{lrrr}
+    & OSS & NOSS & total\\
+  Domestic  & 782 & 292& 1074\\
+  Visa      & 79 & 402 & 481\\
+  \end{tabular}
+  \end{center}
+  
+\end{frame}
+
+\begin{frame}
+  \frametitle{Gender Counts}
+  \includegraphics[width=\textwidth]{../../../board/data/gender-2019.pdf}
+  % 2019: dropped 3\% after each of 2A, 2B
+  % 2018: drop after 1B
+  % 2016: male attrition
+\end{frame}
+
+%% \begin{frame}
+%%   \frametitle{Failed Term Counts}
+
+%%   \begin{changemargin}{2cm}
+%%   Failed term: term average $< 59.5\%$.\\[1em]
+
+%%   \begin{tabular}{rrrrrrr}
+%%     & initial \# & 1A + 1B & \% female & 2A + 2B\\
+%%     2022 & 141 & \alert{20} & 25\% & --\\
+%%     2021 & 130 & 9 & 22\% & $4^*$ \\
+%%     2020 & 125 & 10 & 30\% & 9 \\
+%%     2019 & 135 & 18 & 22\% & 10 \\
+%%     2018 & 151 & 18 & 33\% & 8
+%%   \end{tabular}
+%%   ~\\[1em]
+%%   $^*$: class of 2021 currently in 2B.\\[2em]
+%%   % 2021: 2 2A fails by females
+%%   % 2020: 0 2B fails by females, 1 2A fail by female
+%%   % 2019: 1 2A fail by female, 1 2B fail
+%%   % 2018: 0 fails by females
+%%    2A+2B failed terms \% by females = 16\%.
+%%   \end{changemargin}
+%% \end{frame}
+
+\begin{frame}{Cohort Sizes}
+  \includegraphics[width=\textwidth]{../../../board/data/attrition-2019.pdf}
+  
+\end{frame}
+
+\begin{frame}{Graduation Rates}
+  \begin{center}
+    Tracking each of the students that initially enrolled in the BSE:\\[1em]
+  \begin{tabular}{rrrrr}
+  class of  &\# initial & \% BSE & \% BSE or BCS & \% B.any \\
+  2014 & 113 & 71 & 82 & 85 \\
+  2015 & 131 & 67 & 78 & 82 \\
+  2016 & 122 & 65 & 79 & 85 \\
+  2017 & 129 & 75 & 89 & 91 \\
+  2018 & 148 & 82 & 89 & 90 \\
+  2019 & 133 & 59 & 79 & 80 \\
+  \end{tabular}
+  ~\\[1em]
+  \end{center}
+\end{frame}
+
+\begin{frame}{2019 BSE Graduates}
+  \large
+  \begin{itemize}
+  \item 92 students were granted BSEs in 2019.
+  \item 87\% of the 2019 graduates started with us in 2014.
+  \item 8 students transferred into this class internally + 1 external.
+  \item 2 students originally from SE 2018 (repeaters), 1 from SE 2017. (1 start term S14?!)
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{BSE Degrees Granted (total 2006--2019 = 1200)}
+  % add 155 for 2018
+  \includegraphics[width=\textwidth]{../../../board/data/graduation-2019.pdf}
+\end{frame}
+
+\end{document}

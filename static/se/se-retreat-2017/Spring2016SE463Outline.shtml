@@ -1,0 +1,651 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <link rel="stylesheet" type="text/css" href="se463.css">
+    <title>Course Outline for SE 463</title>
+    <style type="text/css"></style>
+  </head>
+  <body style="background-color: rgb(255, 255, 255); color: rgb(0, 0,
+    0);" link="#0000ee" vlink="#551a8b" alink="#ee0000">
+    <h1><span style="font-weight: bold;">Course Outline for SE463 -
+        Spring 2016<br>
+      </span></h1>
+    <h1><span style="font-weight: bold;"></span></h1>
+    <big style="font-weight: bold;">Course Times and Locations<br>
+      <br>
+    </big>
+    <table border="1" cellpadding="2" cellspacing="2" width="400">
+      <tbody>
+        <tr>
+          <td valign="top">Lectures:&nbsp;&nbsp; <br>
+          </td>
+          <td valign="top">Tu-Th 10:00-11:20, MC 4058<br>
+            Tu-Th 1:00-2:20, DWE 3516</td>
+        </tr>
+        <tr>
+          <td valign="top">Tutorials: <br>
+          </td>
+          <td valign="top">Mon&nbsp; 2:30-3:20 (on select weeks), MC
+            4058<br>
+            Mon&nbsp; 3:30-4:20 (on select weeks), MC 4042<big><br>
+            </big></td>
+        </tr>
+      </tbody>
+    </table>
+    <big><br>
+      <br>
+      <span style="font-weight: bold;">Course Instructor</span><br>
+    </big>&nbsp;<small>&nbsp;&nbsp; </small><big><small>Joanne Atlee<br>
+        &nbsp;&nbsp; DC 2337 <br>
+        &nbsp;&nbsp; 519-888-4567&nbsp; x34871<br>
+        &nbsp;&nbsp; jmatlee@uwaterloo.ca<br>
+        &nbsp;&nbsp; OFFICE HOURS:<br>
+        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Mondays
+        3:00-4:20, or by appointment<br>
+      </small><br>
+      <br>
+      <span style="font-weight: bold;">Teaching Assistants</span><br>
+      <small>&nbsp;&nbsp; <span style="color: rgb(0, 0, 0);"><br
+            style="color: rgb(0, 0, 0);">
+        </span></small></big>
+    <table style="width: 531px; height: 49px; background-color: rgb(255,
+      255, 255);" border="1">
+      <tbody>
+        <tr>
+          <td>
+            <div align="center"><strong>Name</strong></div>
+          </td>
+          <td>
+            <div align="center"><strong>Office</strong></div>
+          </td>
+          <td>
+            <div align="center"><strong>Email</strong></div>
+          </td>
+        </tr>
+        <tr>
+          <td>Sandy Beidu</td>
+          <td align="center">
+            <div>DC 2551A</div>
+          </td>
+          <td align="center">
+            <div>sbeidu</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="vertical-align: top;">Manish Chauhan<br>
+          </td>
+          <td align="center">
+            <div>DC 3587</div>
+          </td>
+          <td style="vertical-align: top; text-align: center;"
+            align="center">m5chauha</td>
+        </tr>
+        <tr>
+          <td valign="top">Kristen Morgan<br>
+          </td>
+          <td valign="top" align="center">DC 3335<br>
+          </td>
+          <td valign="top" align="center">k7morgan<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">Bryan Muscedere<br>
+          </td>
+          <td valign="top" align="center">DC 2551A</td>
+          <td valign="top" align="center">bmuscedere<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">Rafael Olaechea<br>
+          </td>
+          <td valign="top" align="center">DC 3587<br>
+          </td>
+          <td valign="top" align="center">rolaechea<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">Ivens Portugal<br>
+          </td>
+          <td valign="top" align="center">DC 2517<br>
+          </td>
+          <td valign="top" align="center">iportugal<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">Parsa Pourali<br>
+          </td>
+          <td valign="top" align="center">DC 2551B</td>
+          <td valign="top" align="center">ppourali<br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <big><small><span style="color: rgb(0, 0, 0);"></span></small></big><big
+      style="font-weight: bold;"><br>
+      <br>
+      Calendar Description<br>
+      <br>
+    </big><big><small>Introduction to the requirements definition phase
+        of software development. Models, notations, and processes for
+        software requirements identification, representation,
+        validation, and analysis. An important component of the course
+        is a group project: the software requirements specification of a
+        large software system.<br>
+        <br>
+      </small></big><big style="font-weight: bold;">Required Background</big><br>
+    <ul style="background-color: rgb(255, 255, 255);">
+      <li>Knowledge of finite-state machines (e.g., as used in CS 241 or
+        ECE 251)</li>
+      <li>Experience with object-orientation (e.g., experience with OO
+        programming languages like Java or C#)</li>
+      <li>Knowledge of propositional and predicate logic (e.g., as used
+        in CS 245 or ECE 103)</li>
+    </ul>
+    <br>
+    <big><span style="font-weight: bold;"><small><big>Overall</big> <big>Goals<br>
+            <br>
+          </big></small></span><small><small><small><big><big>SE463
+                exposes students to the problem of determining, or
+                deciding, <span style="font-style: italic;">what </span>a
+                proposed software system should do.&nbsp; That is, it
+                focuses on identifying the problem to be solved by
+                software. In this sense, the course is very different
+                from other CS/SE courses, which tend to focus on
+                knowledge and techniques that lead to software
+                solutions.&nbsp; There are some nontechnical aspects of
+                the course, with respect to communication and
+                negotiation.&nbsp; However, most of the course covers
+                technical approaches to the requirements problem, such
+                as notations for modelling and documenting requirements,
+                strategies for prioritizing requirements, and techniques
+                for analyzing and verifying documented requirements.<br>
+                <br>
+              </big></big></small></small></small></big><big><span
+        style="font-weight: bold;"><small><big>Learning Outcomes</big></small></span></big><br
+      style="font-style: italic;">
+    <ul style="background-color: rgb(255, 255, 255);">
+      <li>Ability to separate requirements from specifications from
+        domain assumptions, and argue that a specification + domain
+        assumptions satisfy requirements<br>
+      </li>
+      <li>Ability to elicit requirements using different strategies<br>
+      </li>
+      <li>Ability to model requirements in a variety of modelling
+        paradigms</li>
+      <li>Ability to elicit and document nonfunctional requirements,
+        such that the to-be-developed software can be objectively tested
+        for their satisfaction</li>
+      <li>Ability to prioritize requirements using AHP<br>
+      </li>
+      <li>Ability to explain and compare different techniques for
+        validating and verifying a requirements document<br>
+      </li>
+    </ul>
+    <big style="font-weight: bold;"><span style="font-weight: bold;">Course
+
+
+
+
+
+        Readings</span> </big><br>
+    <br>
+    The lecture material is structured around a collection of book
+    chapters and papers that cover different aspects of requirements
+    elicitation, modelling, and analysis.&nbsp; All materials are
+    available online, either from IEEE Reference Shelf, ACM Digital
+    Library, or Safari OnLine@UW:<br>
+    <ul style="background-color: rgb(255, 255, 255);">
+      <li>Robertson, S. and Robertson, J., <i>Mastering the
+          Requirements Process, 3rd ed.</i>, Addison-Wesley
+        Professional, 2012.<br>
+      </li>
+      <li>Larman, C., <i>Applying UML and Patterns</i><i>, 3rd ed., </i>Prentice
+Hall,
+
+
+
+
+        2004.<br>
+      </li>
+      <li>McConnell, S.,<i> Software Estimation: Demystifying the Black
+          Art, </i>Microsoft Press, 2006.</li>
+      <li>Wiegers, K. and Beatty, J., <i>Software Requirements, 3ed, </i>Microsoft
+Press,
+
+
+
+
+        2013<i>.</i></li>
+      <li>Jackson, M. and Zave, P. "Deriving specifications from
+        requirements: an example", in <span style="font-style: italic;">Proceedings
+          of the 17th International Conference on Software Engineering
+          (ICSE), </span>1995, pp. 15-24. </li>
+      <li>Mavin, A. et al., "EARS (Easy Approach to Requirements
+        Syntax)", in <i>Proceedings of the 11th IEEE International
+          Requirements Engineering Conference</i><i> (RE)</i>, 2009, pp.
+        317-322.</li>
+      <li>Berander, P. and Andrews, A., "Requirements Prioritization",
+        in <i>Engineering and Managing Software Requirements</i>, Aurum
+        and Wohlin (eds.), 2005. <br>
+      </li>
+      <li>Karlsson, J. and Ryan, K. "A Cost-Value Approach for
+        Prioritizing Requirements." in IEEE Software, vol. 14, no. 5
+        (Sep. 1997), pp. 67-74.</li>
+      <li>J. D. Kiper and M. S. Feather, "A Risk-Based Approach to
+        Strategic Decision-Making for Software Development," in <i>Proceedings
+
+          of the 38th Annual Hawaii International Conference on System
+          Sciences</i>, 2005.</li>
+      <li>Rumbaugh et al., <span style="font-style: italic;">UML
+          Reference Manual</span>, 2ed (available via&nbsp;Safari
+        Online@ UW), Chapter 7: "State Machine View", Addison-Wesley,
+        1999.</li>
+      <li>Huth and Ryan, <i>Logic in Computer Science: Modelling and
+          Reasoning about Systems</i>, Ch. 3.2 "Linear Temporal Logic",
+        Cambridge University Press, 2004.</li>
+      <li>McConnell, S., <i>Software Estimation: Demystifying the Black
+          Art,</i> Microsoft Press, 2006.</li>
+    </ul>
+    <big><span style="font-weight: bold;"><small><big><br>
+            General Overview of Topics to be Covered<br>
+            <br>
+          </big></small></span></big>The course covers the four major
+    phases of the software requirements process:&nbsp; elicitation,
+    modelling, analysis (e.g., prioritizing requirements, detecting
+    conflicting requirements, risk analysis), and documentation.&nbsp;
+    The phases are broken down into 12 topics, each of which is 1-3
+    lectures long.&nbsp; Each topic focuses on a particular
+    requirements-related problem to be solved when developing a software
+    system or on a particular technique for addressing a
+    requirements-related problem.&nbsp; Listed below are the required
+    topics to be covered in every offering of this course, and the
+    expected number of lecture hours needed to cover the topic.&nbsp;
+    The topics need not be taught in the order in which they are listed
+    below.&nbsp; The only real constraint on topic order is that each
+    project-related topic should be covered at least two weeks before
+    the corresponding project deliverable is due.<br>
+    <br>
+    <span style="font-weight: bold;">1. Introduction (1 hours)</span><br>
+    Course philosophy and logistics. Why requirements analysis is
+    hard.&nbsp; <br>
+    <span style="font-weight: bold;"><br>
+      2: Requirements Engineering Reference Model (3 hours)<br>
+    </span>Context diagram. Identifying or determining a system's
+    interfaces.&nbsp; Monitorable inputs and controllable outputs.&nbsp;
+    Requirements vs. specifications. <br>
+    <br>
+    <span style="font-weight: bold;">3: Requirements Elicitation (4.5
+      hours)<br>
+    </span> Stakeholders, sources of requirements, strategies for
+    identifying requirements.<br>
+    <br>
+    <b> 4: Domain Modelling (1.5 hours)</b><br>
+    Modelling of the system's environment.&nbsp; Entity-relationship
+    diagrams.&nbsp; UML Class and object diagrams. <br>
+    <br>
+    <span style="font-weight: bold;">5: Functional Requirements and
+      Specifications (3 hours)</span><br>
+    Lightweight modelling (Use-case diagrams, Activity diagrams, Process
+    models).&nbsp; Functional requirements.&nbsp; <br>
+    <br>
+    <span style="font-weight: bold;">6: Behavioural Modelling (7 hours)</span><br>
+    Modelling dynamic behaviour of a software system.&nbsp; Use cases,
+    scenarios, sequence diagrams. Extended state machine models,
+    including state hierarchy, concurrent regions, communication,
+    activities, history.&nbsp; UML State Machines.<br>
+    <br>
+    <span style="font-style: italic;"></span><span style="font-weight:
+      bold;">7: Constraint Modelling (1.5 hours)<br>
+    </span><span style="font-style: italic;"></span>Temporal
+    Logic.&nbsp; Specification patterns.&nbsp; <span
+      style="font-weight: bold;"></span><br>
+    <br>
+    <span style="font-style: italic;"></span><span style="font-style:
+      italic;"></span><span style="font-weight: bold;">8: Requirements
+      Analysis (6 hours) </span><br>
+    <span style="font-style: italic;"></span><span style="font-weight:
+      bold;"></span>Requirements triage and prioritization.&nbsp;
+    Cost-benefit analysis.&nbsp; Analytic Hierarchy Process.&nbsp;
+    Conflicts and negotiation.&nbsp; Cost Estimation.&nbsp; Risk
+    Analysis. <br>
+    <span style="font-weight: bold;"><br>
+      9:&nbsp; Quality Requirements (1.5 hours)</span><br
+      style="font-weight: bold;">
+    Nonfunctional requirements (e.g., performance, security, useability,
+    maintainability).&nbsp; Fitness criteria.&nbsp; User-interface
+    requirements.<br>
+    <br>
+    <span style="font-style: italic;"></span><span style="font-weight:
+      bold;"> 10: Validation and Verification (3 hours)</span><br
+      style="font-weight: bold;">
+    Walkthroughs, inspections, technical reviews of requirements
+    documents.&nbsp; Executable specifications.&nbsp; Automated
+    analysis. Verifying that specifications satisfy requirements.<br>
+    <br>
+    <span style="font-weight: bold;">11: Documenting Requirements (1.5
+      hours)<br>
+    </span>Expected contents and organization of a Software Requirements
+    Specification (SRS).&nbsp; Nontraditional means for documenting
+    requirements (e.g., user manuals, test cases).<br>
+    <span style="font-weight: bold;"><br>
+      12 Other Topics (3 hours)</span><span style="font-weight: bold;"><br>
+      <br>
+    </span> <big><span style="font-weight: bold;"><small><big><br>
+            Course Deliverables<br>
+            <br>
+          </big></small></span><small><big><small>The course content is
+            delivered via lectures (3 hours a week) and reading
+            material.&nbsp; The course covers techniques for performing
+            various requirements-related tasks (elicitation, modelling,
+            analysis, documentation), with a heavy emphasis on
+            modelling.&nbsp; Students apply these techniques as they
+            work on the course project.&nbsp; </small></big></small></big><br>
+    <big><small><span style="font-family: times new roman,times,serif;"><br>
+          The course project consists of a number of
+          requirements-related activities and artifacts as applied to
+          their Software Engineering Fourth Year Design Project.&nbsp; </span></small></big><big><small><big><small>If
+
+
+
+            a student's FYDP is not suitable as a requirements project
+            (i.e., it has few stakeholders, offers little new
+            functionality, focuses mostly on improving nonfunctional
+            properties like performance), then he or she will be given
+            an alternate project. </small></big></small></big><big><small><big><small><big><small><big><small><span
+                      style="color: rgb(0, 0, 0);">Part of the project
+                      is the students' professional interactions with
+                      their projects' stakeholders. <br>
+                      <br>
+                    </span></small></big></small></big></small></big></small></big>
+    <table style="text-align: left;" height="100" border="1"
+      cellpadding="2" cellspacing="2" width="1000">
+      <tbody>
+        <tr>
+          <td valign="top">1%<br>
+          </td>
+          <td style="vertical-align: top; text-align: left;" width="160">Fri.
+
+
+
+
+
+
+
+
+            May 13 12:00 PM<br>
+          </td>
+          <td style="vertical-align: top; text-align: left;">Team
+            membership; Problem statement; Purpose<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">3%<br>
+          </td>
+          <td style="width: 50px; vertical-align: top;">Wed. May 18
+            12:00 PM<span style="color: rgb(204, 0, 0);"></span> </td>
+          <td style="vertical-align: top;">Stakeholders; Context
+            diagram; Use case diagram (with brief use-case descriptions)</td>
+        </tr>
+        <tr>
+          <td valign="top">5%<br>
+          </td>
+          <td style="vertical-align: top; text-align: left;" width="160">Wed.
+
+
+
+
+
+
+
+
+            May 25 12:00 PM<span style="text-decoration: line-through;">
+            </span> </td>
+          <td style="vertical-align: top;">Domain model<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">3%<br>
+          </td>
+          <td style="vertical-align: top;">Wed. June 1 12:00 PM </td>
+          <td style="vertical-align: top;">Lightweight process model for
+            up to 5 use cases; Scenarios (3 x number of team members);
+            Indicate the sources of each process model and scenario<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">5%<br>
+          </td>
+          <td valign="top">Wed. June 8 12:00 PM<br>
+          </td>
+          <td valign="top">Functional requirements; Indicate the sources
+            of each requirement<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">5%<br>
+          </td>
+          <td valign="top">Wed. June 15 12:00 PM</td>
+          <td valign="top">AHP Prioritization of functional
+            requirements; Indicate the stakeholders involved <br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">3%<br>
+          </td>
+          <td valign="top">Wed. June 22 12:00 PM</td>
+          <td valign="top">Functional specifications; Assumptions;
+            Indicate the stakeholders involved<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">3%<br>
+          </td>
+          <td valign="top">Wed. June 29 12:00 PM</td>
+          <td valign="top">Nonfunctional requirements; Indicate the
+            sources of each requirement<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">4%<br>
+          </td>
+          <td valign="top">Wed. July 6 12:00 PM</td>
+          <td valign="top">Risk Analysis; Indicate the sources of each
+            Risk, Impact assessment, Countermeasure, Effect assessment<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">10%<br>
+          </td>
+          <td valign="top">Wed. July 20 12:00 PM</td>
+          <td valign="top">Prototype (Storyboards, Executable, Behaviour
+            Model); Evaluations by 5 stakeholders<br>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">3%<br>
+          </td>
+          <td valign="top">Tue. July 26 12:00 PM</td>
+          <td valign="top">Cost Estimation</td>
+        </tr>
+      </tbody>
+    </table>
+    <big><small><big><small><big><small><big><small><span style="color:
+                      rgb(0, 0, 0);"><br>
+                    </span></small></big></small></big> <span
+              style="color: rgb(0, 0, 0);">In addition, 5% of the course
+              marks will be based on the students' professionalism in
+              their interactions with their projects' stakeholders, the
+              peer evaluations that they write, and their teammates'
+              evaluations of their performance.<br>
+              <br>
+              Tutorials (1 hour a week) on select weeks during the
+              term.&nbsp; Tutorials are used to discuss the deliverables
+              of the course project.&nbsp; A majority of these tutorials
+              cover extra examples of modelling notations used in the
+              course. </span><br>
+            <br>
+            <big> <span style="font-weight: bold;">Late Policy</span></big><br>
+            <br>
+            <big> </big>Each team has a <font color="#cc0000">total of
+              5 late days</font> that it can apply to the course
+            deliverables, in any manner that it chooses (e.g., 1 late
+            day to 5 deliverables, 5 late days to 1 deliverable). Note
+            that feedback on deliverables that are submitted late is
+            likely to be returned late.<span style="font-weight: bold;"><br>
+            </span></small></big><small>
+          <h3 style="background-color: rgb(255, 255, 255);"><strong>Assignment
+
+
+
+              Submission and Pickup</strong></h3>
+          <big> All project deliverables in this course will be
+            submitted electronically. Feedback from course personnel
+            will also be provided electronically (through MarkUs).</big><br>
+          <br>
+          <big><big><big> <small><span style="font-weight: bold;">Assessment</span></small></big></big><br
+              style="font-weight: bold;">
+            <br>
+            <big><small>The marking scheme is as follows:</small></big><big><small>
+                <br>
+              </small></big> </big>
+          <ul style="background-color: rgb(255, 255, 255);">
+            <big> </big>
+            <li><big><big><small>Project (11 deliverables) 45%</small></big></big></li>
+            <big> </big>
+            <li><big><big><small>Project professionalism&nbsp; 5%<br>
+                  </small></big></big></li>
+            <big> </big><big> </big>
+            <li><big><big><small>Final Exam 50%</small></big></big></li>
+            <big> </big>
+          </ul>
+          <big> </big><big><small><big> The final exam is weighted 50%
+                of a student's final mark, to conform to an ECE
+                Department policy.&nbsp; </big><big><span
+                  style="font-weight: bold; color: rgb(204, 0, 0);">Students
+
+
+
+                  must pass the final exam to pass the course.&nbsp;</span></big><big>
+                Final grades will be computed as follows:</big><big><br>
+              </big><big> </big><big><br>
+              </big><big> </big><big><span style="font-family: courier
+                  new,courier,monospace;">&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Normal% =
+                  0.45*Project% + 0.05*Professionalism&nbsp; +
+                  0.50*FinalExam%&nbsp; </span></big><big><br
+                  style="font-family: courier new,courier,monospace;">
+              </big><big> </big><big><span style="font-family: courier
+                  new,courier,monospace;">&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IF FinalExam%
+                  &lt; 50%&nbsp;&nbsp; </span></big><big><br
+                  style="font-family: courier new,courier,monospace;">
+              </big><big> </big><big><span style="font-family: courier
+                  new,courier,monospace;">&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+                  FinalGrade = min{Normal%, FinalExam%} </span></big><big><br
+                  style="font-family: courier new,courier,monospace;">
+              </big><big> </big><big><span style="font-family: courier
+                  new,courier,monospace;">&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ELSE&nbsp;&nbsp;
+                </span></big><big><br style="font-family: courier
+                  new,courier,monospace;">
+              </big><big> </big><big><span style="font-family: courier
+                  new,courier,monospace;">&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
+                  FinalGrade = Normal%</span></big><big><br>
+              </big><big> </big><br>
+              <big><br>
+              </big></small><big style="font-weight: bold;">Academic
+              Integrity</big><br>
+            <br>
+            In order to maintain a culture of academic integrity,
+            members of the University of Waterloo community are expected
+            to promote honesty, trust, fairness, respect and
+            responsibility. Refer to the <a
+              href="https://uwaterloo.ca/academic-integrity/">Academic
+              Integrity website</a> for details. <br>
+            <span style="font-weight: bold;"><big><span
+                  style="font-weight: bold;"><br>
+                  Discipline</span></big></span><br>
+            <br>
+            <big> <small>A student is expected to know what constitutes
+                academic integrity to avoid committing an academic
+                offence, and to take responsibility for his/her actions.<br>
+                <br>
+                A student who is unsure whether an action constitutes an
+                offence, or who needs help in learning how to avoid
+                offences (e.g., plagiarism, cheating) or about "rules"
+                for group work/collaboration should seek guidance from
+                the course instructor, academic advisor, or the
+                undergraduate Associate Dean.<br>
+                <br>
+                For information on categories of offences and types of
+                penalties, students should refer to <a
+href="https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71">Policy
+                  71 (Student Discipline)</a>.&nbsp; For typical
+                penalties check <a
+href="https://uwaterloo.ca/secretariat/policies-procedures-guidelines/guidelines/guidelines-assessment-penalties">Guidelines
+                  for the Assessment of Penalties</a>.</small></big><big><span
+                style="font-weight: bold;"><br>
+                <br>
+                Grievance</span></big><br>
+            <br>
+            A student who believes that a decision affecting some aspect
+            of his/her university life has been unfair or unreasonable
+            may have grounds for initiating a grievance. Read <a
+href="https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-70">Policy
+              70 (Student Petitions and Grievances), Section 4</a>. When
+            in doubt please be certain to contact the department's
+            administrative assistant who will provide further
+            assistance.<br>
+            <br>
+            <big><span style="font-weight: bold;">Appeals</span></big><br>
+            <br>
+            A decision made or penalty imposed under <a
+href="https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-70">Policy
+              70 (Student Petitions and Grievances)</a> (other than a
+            petition) or <a
+href="https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71">Policy
+              71 (Student Discipline)
+            </a> may be appealed if there is a ground.&nbsp; A student
+            who believes he/she has a ground for an appeal should refer
+            to <a
+href="https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-72">Policy
+              72 (Student Appeals)</a>.<br>
+            <big><span style="font-weight: bold;"><br>
+                Notes for students with disabilities</span></big></big><br>
+          <br>
+          <a href="http://uwaterloo.ca/disability-services/"><span
+              style="font-size: 12pt; line-height: 115%; color: black;">AccessAbility
+              Services</span></a><span style="font-size: 12pt;
+            line-height: 115%; color: black;">, l<span
+              style="mso-tab-count:1"></span>ocated in Needles Hall,
+            Room 1132, collaborates with all academic departments to
+            arrange&nbsp;<span style="mso-tab-count:1"></span>appropriate
+
+
+
+
+
+
+            accommodations for students with disabilities without
+            compromising the academic&nbsp;<span style="mso-tab-count:1"></span>integrity
+
+
+
+            of the curriculum. If you require academic accommodations to
+            lessen the impact of your <span style="mso-tab-count:1"> </span>disability,
+
+
+
+
+
+
+            please register with the office at the beginning of each
+            academic term. </span> <br>
+          <big style="font-weight: bold;"><br>
+          </big> </small></small></big>
+  </body>
+</html>

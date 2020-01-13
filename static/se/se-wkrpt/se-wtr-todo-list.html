@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Software Engineering Work Term Report To Do List</title>
+     <meta charset="UTF-8"> 
+<style>
+    /* Include the padding and border in an element's total width and height */
+
+    * {
+        box-sizing: border-box;
+    }
+    /* Remove margins and padding from the list */
+
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+    /* Style the list items */
+
+    ul li {
+        cursor: pointer;
+        position: relative;
+        padding: 12px 8px 12px 40px;
+        background: #eee;
+        font-size: 18px;
+        transition: 0.2s;
+
+        /* make the list items unselectable */
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    /* Set all odd list items to a different color (zebra-stripes) */
+
+    ul li:nth-child(odd) {
+        background: #f9f9f9;
+    }
+    /* Darker background-color on hover */
+
+    ul li:hover {
+        background: #ddd;
+    }
+    /* When clicked on, add a background color and strike out text */
+
+    ul li.checked {
+        background: #888;
+        color: #fff;
+        text-decoration: line-through;
+    }
+    /* Add a "checked" mark when clicked on */
+
+    ul li.checked::before {
+        content: '';
+        position: absolute;
+        border-color: #fff;
+        border-style: solid;
+        border-width: 0 2px 2px 0;
+        top: 10px;
+        left: 16px;
+        transform: rotate(45deg);
+        height: 15px;
+        width: 7px;
+    }
+    /* Style the header */
+
+    .header {
+        background-color: #000000;
+        padding: 30px 40px;
+        color: #FDD54F;
+        text-align: center;
+    }
+    /* Clear floats after the header */
+
+    .header:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
+
+
+  </head>
+  
+  <body>
+
+<div class="header">
+  <h1>Software Engineering Work Term Report To Do List</h1>
+  <h2>author: Jon Shahen</h2>
+</div>
+
+<ul id="myUL">
+    <li class='checked'>Open Software Engineering Work Term Report To Do List</li>
+    <li>First page of report must include a TITLE followed by your NAME</li>
+    <li>Below your NAME you must include a list of 3 COURSES that most closely resemble the work discussed in this report</li>
+    <li>(Optional) Indicate below COURSES, you may indicate if you want to be graded by recent Software Engineering alumni</li>
+    <li>Font size of the body should be easily readable for the marker</li>
+    <li>PDF is the only acceptable format</li>
+    <li>Report length should be between 2000 and 3000 words long</li>
+    <li>Your work report must describe a design decision (or a series of related smaller decisions) and justify a choice</li>
+    <li>The report can be in an engineering format or a blog-style post</li>
+    <li>Work reports must be free of spelling mistakes. (Spell checkers exist; use them!)</li>
+    <li>Reports are due 7 calendar days after the first day of lectures; late submissions will be given a failing grade and graded
+        the following term</li>
+</ul>
+
+<pre>Click on an item to check it off the list</pre>
+
+<script>
+    // Add a "checked" symbol when clicking on a list item
+    var list = document.querySelector('ul');
+    list.addEventListener('click', function (ev) {
+        if (ev.target.tagName === 'LI') {
+            ev.target.classList.toggle('checked');
+        }
+    }, false);
+
+</script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+body {
+    padding-top: 50px;
+}
+.template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+table {
+    border:1px dashed #888;
+    border-collapse:collapse;
+    margin-left:5em;
+}
+
+tr:nth-child(even) { background-color:#f2f2f2}
+
+.marks {
+    border:0.5px dashed #eee;
+    padding-right: 1em;
+}
+
+blockquote {
+    font-size: small;
+}

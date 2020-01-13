@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- note: modified simple.css to comment out webfont loading -->
+    <head>
+        <meta charset="utf-8">
+
+        <title>State of the Software Engineering Program, 2017</title>
+        <link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/simple.css" id="theme">    
+		<link rel="stylesheet" href="styles/default.css">
+
+		<!--Add support for earlier versions of Internet Explorer -->
+		<!--[if lt IE 9]>
+			<script src="lib/js/html5shiv.js"></script>
+	    <![endif]-->
+
+        <script src="js/raphael-min.js"></script>
+        <style media="screen">
+            body {
+                margin: 0;
+                padding: 0;
+                text-align: center;
+            }
+            h1 {
+                font-weight: 400;
+                height: 5%;
+            }
+	    .reveal h1 {
+	        margin-bottom: 60px;
+	        font-size: 60px;
+            }
+	    .reveal p {
+	        text-align:left;
+	    }
+            #canvas {
+                height: 480px;
+                margin: 0 auto;
+                text-align: left;
+                width: 640px;
+            }
+            #code {
+                font-family: Consolas, Monaco, "Lucida Console", monospace;
+                height: 4em;
+                margin: 10px;
+                padding: 0;
+                width: 90%;
+            }
+            table { 
+                border-collapse:collapse;
+                width: 100%;
+            }
+            table td.marks {
+              border:0.5px dashed #eee;
+              padding-right: 1em;
+              text-align: right;
+            }
+            table td.attrition {
+              border:0.5px dashed #eee;
+              border-right:10em;
+              text-align: right;
+            }
+            table td.degrees {
+              border:0.5px dashed #eee;
+              padding-right: 0;
+              text-align: right;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div class="reveal">
+          <div class="slides">
+	  <section>
+           <h1 style="font-size:58px; line-height:110%">State of the<br /> Software Engineering Program, <br />Spring 2017</h1>
+           <p style="text-align:center">Patrick Lam</p>
+           <p style="text-align:center">Director, Software Engineering Program</p>
+		   <p style="text-align:center">April 4, 2017</p>
+	  </section>
+
+      <section style="background-image:url(images/convocation.JPG); background-size:100%; background-repeat:no-repeat; background-position: 0 0.5em; color: white; min-height:768px">
+        <div style="padding-left: 10px">
+           <h1 style="color: white">History</h1>
+           <p>First graduating class: 2006</p>
+           <p># of BSEs granted to 2016: 865</p>
+        </div>
+      </section>
+
+      <section>
+        <div style="padding-left: 10px">
+           <h1>Today's Goal</h1>
+           <p>Today, the SE program is extremely successful.</p>
+           <p>&nbsp;</p>
+           <p style="font-size:36pt">Where should we go from here?</p>
+           <ul>
+             <li>adjustments to courses?</li>
+             <li>non-technical adjustments?</li>
+           </ul>
+        </div>
+      </section>
+
+      <section>
+        <div style="padding-left: 10px">
+           <h1>Key Design Features of SE</h1>
+           <p>Engineering or Math? Both!</p>
+           <ul>
+           <li>SE students meet almost all BCS requirements.</li>
+           <li>SE students get foundational Engineering background.</li>
+           </ul>
+           <p style="padding-top:2em">In practice:<br>&nbsp;&nbsp;SE students feel more connection to Engineering, <br>&nbsp;&nbsp;but take more CS electives.</p>
+        </div>
+      </section>
+
+      <section style="background-image:url(images/lessons-learned.png); background-size:100%; min-height:768px">
+        <h2>&nbsp;</h2>
+        <div>
+        <p style="padding-left:20em; padding-top: 14em" >credit: Jo Atlee</p>
+        </div>
+      </section>
+
+      <section>
+        <div style="padding-left: 10px">
+           <h1>Accreditation</h1>
+           <p>SE Design Goal:</p>
+           <ul><li>PEng-able and CIPS-able.</li></ul>
+           <p style="padding-top:1em">Actual result:</p>
+           <ul><li>less than 1% of grads have PEng.</li></ul>
+           <p style="font-size:30px; padding-top: 7em; color:#888">(how should we formulate SE's raison d'&ecirc;tre?)</p>
+        </div>
+      </section>
+
+      <section style="background-image:url(images/se2021.jpg); background-repeat: no-repeat; background-size:100%; min-height:768px">
+           <h1>SE 2021</h1>
+      </section>
+
+      <section>
+           <h1>First-year Averages</h1>
+    <table style="text-align:right;">
+      <tr><td class="marks"></td><td class="marks">1A mean</td><td class="marks">1A 1st dec</td><td class="marks">1A fails</td><td class="marks">1B mean</td><td class="marks">1B 1st dec</td><td class="marks">1B fails</td></tr>
+      <tr><td class="marks">2016</td><td class="marks">75.5</td><td class="marks">90.3</td><td class="marks">9</td><td class="marks">71.4</td><td class="marks">88</td><td class="marks">22</td></tr>
+      <tr><td class="marks">2020</td><td class="marks">81.3</td><td class="marks">93.0</td><td class="marks">4</td><td class="marks">78.7</td><td class="marks">91.6</td><td class="marks">4</td></tr>
+      <tr><td class="marks">2021&nbsp;</td><td class="marks">85.4</td><td class="marks">95.8</td><td class="marks">2</td><td></td><td></td><td class="marks"></td></tr>
+    </table>
+      </section>
+
+      <section>
+           <h1>Diversity: % Females</h1>
+           <table style="text-align:right; margin-top:1em; margin-left: 5em; ">
+             <tr><td class="marks">Class</td><td class="marks">1A</td><td class="marks">4B</td><td></td></tr>
+             <tr><td class="marks">2006</td><td class="marks">17%</td><td class="marks">11%</td><td></td></tr>
+             <tr><td class="marks">2009</td><td class="marks">7%</td><td class="marks">5%</td><td>(=3 females)</td></td></tr>
+             <tr><td class="marks">2012</td><td class="marks">9%</td><td class="marks">10%</td><td></td></tr>
+             <tr><td class="marks">2015</td><td class="marks">13%</td><td class="marks">11%</td><td></td></tr>
+             <tr><td class="marks">2018</td><td class="marks">18%</td><td class="marks"><i style="color:#888;">15%</i></td><td><i style="color:#888;"> (4A)</i></td></tr>
+             <tr><td class="marks">2021</td><td class="marks">18%</td><td></td></tr>
+           </table>
+      </section>
+
+      <section>
+           <h1>Attrition</h1>
+           <table style="text-align:right; border-collapse:collapse;">
+             <tr><td class="attrition">Class</td><td class="attrition">1A</td><td class="attrition">4B</td><td class="attrition">retention</td><td></td></tr>
+             <tr><td class="attrition">2006</td><td class="attrition">102</td><td class="attrition">80</td><td class="attrition">78%</td><td></td></tr>
+             <tr><td class="attrition">2009</td><td class="attrition">105</td><td class="attrition">55</td><td class="attrition">52%</td><td></td></tr>
+             <tr><td class="attrition">2012</td><td class="attrition">116</td><td class="attrition">80</td><td class="attrition">69%</td><td></td></tr>
+             <tr><td class="attrition">2015</td><td class="attrition">137</td><td class="attrition">101</td><td class="attrition">74%</td><td></td></tr>
+             <tr><td class="attrition">2018</td><td class="attrition">151</td><td class="attrition"><i style="color:#888;">142</i></td><td class="attrition"><i style="color:#888">94%</i></td><td>&nbsp;(to 4A)</i></td></tr>
+             <tr><td class="attrition">2021</td><td class="attrition">130</td><td></td></tr>
+           </table>
+      </section>
+
+      <section>
+           <h1>Class of 2015: how many degrees?</h1>
+
+           <p>Initial (F10): 137; final (W15): 101 in 4B.</p>
+           <p>% graduated = 74</p>
+
+
+           <table style="border-collapse:collapse; width: 70%;">
+<tr><td class="degrees">BSE</td><td class="degrees">    89</td></tr>
+<tr><td class="degrees">BCS</td><td class="degrees">    10</td></tr>
+<tr><td class="degrees">dropout</td><td class="degrees">    23</td></tr>
+<tr><td class="degrees">incl. were registered in BCS</td><td class="degrees">    12</td></tr>
+<tr><td class="degrees">BMath (Aci Sci)</td><td class="degrees">    1</td></tr>
+<tr><td class="degrees">BMath (Comp Math, Stat)</td><td class="degrees">    1</td></tr>
+<tr><td class="degrees">BA (Econ)</td><td class="degrees">    1</td></tr>
+<tr><td class="degrees">BMath (Math Studies)</td><td class="degrees">    1</td></tr>
+<tr><td class="degrees">BASc ENVE</td><td class="degrees">    1</td></tr>
+<tr><td class="degrees">BASc MGMT</td><td class="degrees">    1</td></tr>
+<tr><td class="degrees">BSc</td><td class="degrees">2</td></tr>
+</table>
+       
+      </section>
+
+      <section style="background-image:url(images/2017-exitsurvey-oncampus.png); background-repeat: no-repeat; background-size:100%; background-position: 0 3em; min-height:768px">
+        <h1>2017 Exit Survey</h1>
+           <div>
+           </div>
+      </section>
+
+      <section style="background-image:url(images/2017-exitsurvey-coop.png); background-repeat: no-repeat; background-size:100%; background-position: 0 3em; min-height:768px">
+        <h1>2017 Exit Survey</h1>
+           <div>
+           </div>
+      </section>
+
+      <section style="background-image:url(images/2017-exitsurvey-would-recommend.png); background-repeat: no-repeat; background-size:100%; background-position: 0 3em; min-height:768px">
+        <h1>2017 Exit Survey</h1>
+           <div>
+           </div>
+      </section>
+
+      <section>
+        <h1>Today's Agenda</h1>
+           <div>
+             <ul>
+               <li>Fitness for Future: are our SE grads well-prepared?</li>
+               <li>Student well-being and engagement: how to improve?</li>
+               <li>Curriculum: Year 1, Years 2-3, CS 247/SE 46[345] sequence</li>
+             </ul>
+           </div>
+      </section>
+
+	  </div>
+	  </div>
+
+	  <script src="lib/js/head.min.js"></script>
+	  <script src="js/reveal.min.js"></script>
+        <script>
+// reveal
+Reveal.initialize({
+
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable touch events for navigation
+        touch: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // Transition style
+        transition: 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+
+        // Transition style for full page backgrounds
+        backgroundTransition: 'default', // default/linear/none
+
+        // Optional libraries used to extend on reveal.js
+		dependencies: [
+		        { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+		        { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		        { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		        { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+		        { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+		        { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+        ]
+});
+        </script>
+ 
+    </body>
+</html>

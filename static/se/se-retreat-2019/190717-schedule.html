@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- todo: integrate michael n's comments; state of SE; vision -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="verify-v1" content="uWOD3hwnkhqEtxfofLKoWL1CnqK8DE4T7+kDt10MhEw=">
+    <title>2019 SE Retreat Schedule</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+ 
+    <link rel="stylesheet" href="190717-schedule.css">
+</head>
+
+<body>
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	  <span class="sr-only">Toggle navigation</span>
+	  <span class="icon-bar"></span>
+	  <span class="icon-bar"></span>
+	  <span class="icon-bar"></span>
+	</button>
+	<a class="navbar-brand" href="#">SE Retreat</a>
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+	<ul class="nav navbar-nav">
+	  <li class="active"><a href="#">Home</a></li>
+	  <li><a href="#sked">Schedule</a></li>
+	  <li><a href="#resources">Resources</a></li>
+	</ul>
+      </div><!--/.nav-collapse -->
+    </div>
+        </nav>
+
+  <div class="container">
+    <div class="starter-template">
+  <h1>SE Retreat, July 17, 2019</h1>
+  <p>Author: Patrick Lam</p>
+  <h2 id="summary">Summary</h2>
+  <p>I've written up <a href="190717-notes.pdf">notes</a> summarizing discussions at the retreat.</p>
+
+  <h2 id="sked">Schedule</h2>
+  <table>
+    <tr><td style="padding-right: 1em">0830-0900</td><td>Breakfast</td></tr>
+    <tr><td>0900-0930</td><td><a href="#status">State of the SE Program</a>&nbsp;</td></tr>
+
+    <tr> <td> &nbsp;  </td><td></td></tr>
+    <tr> <td></td><td><a href="#deepdive">Curriculum hotspots</a></td></tr>
+    <tr> <td>0930-1000</td><td><a href="#physics">ECE 106: 1B Physics</a></td></tr>
+    <tr> <td>1000-1030</td><td><a href="#reqs">SE 463: Software Requirements</a></td></tr>
+    
+    <tr> <td> &nbsp;  </td><td>&nbsp;</td></tr>
+    <tr> <td>1030-1045</td><td>Break</td></tr>
+    <tr> <td> &nbsp;  </td><td>&nbsp;</td></tr>
+    
+    <tr> <td>1045-1115</td><td><a href="#coop">Co-op: support (peer and admin) / competitiveness&nbsp;</a></td></tr>
+    <tr> <td>1115-1145</td><td><a href="#vision">Plans and Vision for SE</a></td></tr>
+
+    <tr> <td>1145-1200</td><td>Wrap-up</td></tr>
+    <tr> <td> &nbsp;  </td><td>&nbsp;</td></tr>
+    <tr> <td>1200</td><td>Lunch</td></tr>
+    <tr> <td> &nbsp;  </td><td>&nbsp;</td></tr>
+  </table>
+
+  <h2 id="status">State of SE</h2>
+
+  <p>Director's Report: <a href="attachments/SE_Retreat_20190717-slides.pdf">pdf slides</a>.</p>
+
+  <h2 id="deepdive">Curriculum hotspots</h2>
+
+  <h3 id="physics">SE 106: 1B Physics</h3>
+  <p> Let's talk about physics again. </p>
+  
+  <h4>Questions for Discussion</h4>
+
+  <ul>
+    <li> What purpose is 1B physics serving in the SE curriculum? </li>
+    <li> Should this course have labs? </li>
+    <li> Consider these three options:
+      <ul>
+        <li> status quo: ECE 106, same as taken by ECE students; </li>
+        <li> SE 1B physics course on electricity and magnetism, but with a focus on numerical analysis and simulation; or, </li>
+        <li> SE 1B physics course on waves and intro to quantum physics.</li>
+      </ul>
+      What are the advantages and disadvantages of these options?
+    </li>
+  </ul>
+
+  <h4>Background info</h4>
+  
+  <p> The current ECE 106 is not required for any subsequent SE course. It is certainly not required for the circuits courses ECE 124 and ECE 140. The current course design requires a skilled instructor and is a generally high-workload course. </p>
+
+  <p> Most recently we've been talking about it because the lab consumes hours in the 1B schedule and doesn't provide many AUs. However, a well-integrated lab can reduce the number of hours that students need to study outside of class, and there is evidence that this can happen in ECE 106. </p>
+
+  <p> A waves/quantum course could contain content on second-order differential equations; understanding waves; and a chapter of a book on quantum mechanics (not enough to be antireq to PHYS 234, the Physics quantum physics course). </p>
+
+  <p> ECE has some instructors who can teach the waves/quantum physics course. I'm told that Physics would find it difficult to teach a simulation-based course of any sort. </p>
+
+  <h3 id="reqs">SE463: Software Requirements course</h3>
+
+  <p>This course is still a work in progress, although it seems to me like there have been improvements in student perceptions of the course. These are mostly due to Jo Atlee's continuing course development work.</p>
+
+  <p>Currently, students are supposed to elicit requirements for their Capstone Design Project. The bulk of the complaints this term have to do with the tempo of the assignments (weekly) and about what happens when students' projects don't match this course's requirements well. (For instance, if students are doing research for their FYDP, it's hard to get requirements).</p>
+
+  <p>Students have suggested that they could choose, say, the most relevant 6 of 10 assignments (subject to instructor approval). We've also thought that there could be an instructor-provided project for which it is possible to elicit meaningful requirements. Can students flip back and forth between their FYDP and the default project? (are assignments cumulative?) One could have each default-project assignment be standalone.</p>
+
+  <p>SE 463 is basically about three kinds of projects:</p>
+  <ol>
+    <li>new products: app/website; UI-heavy</li>
+    <li>enterprise information systems</li>
+    <li>safety-critical systems (e.g. automotive)</li>
+  </ol>
+  <p>Some of the assignments work for some classes of projects.</p>
+
+  <p>I'd like opinions about how to improve the course. Here are some specific questions for thought.</p>
+  <ol>
+    <li> What do you think about SE 463/Capstone Design Project integration in principle? Does it work in practice?</li>
+    <li> How do we balance workload for this course, in particular between small groups and large groups?</li>
+    <li> How should we set up assignments for this course? </li>
+  </ol>
+    
+  <h2 id="coop">Co-op: the good, the bad, the ugly</h2>
+
+  <p>See <a href="#resources-coop">resources</a> for further reading. I will also email the full report from CEE; it contains numbers that are not mine to publish.</p>
+
+  <h4>Why are we talking about this?</h4>
+  
+  <p>It's clear to me that we wouldn't be here if the University of Waterloo didn't have co-op. On the other hand, co-op means that fewer of the students we do get go on to graduate school.</p>
+
+  <p>I'd like to talk about coop and the student wellness angle today. Our students are generally doing just fine in their classes. I think our students spend lots of time worrying about co-op, competing for co-op jobs, and judging each other about them.</p>
+
+  <h4>Anecdotes</h4>
+
+  <p>Here are some thoughts from Michael Noukhovitch of SE 2017.</p>
+  <blockquote>
+<p>I like to joke that software is the only place you find both low self 
+esteem and high ego. My guess is that both come from defining yourself 
+by your ability to code and comparing that self worth to your peers. 
+Whereas in high school it was grades, at Waterloo it's coop with much 
+more concrete ways to succeed/fail: salary, prestige, job location. At 
+the beginning, there was a lot of showing off and judging. But as terms 
+progressed, it became clear that any of the students in the class could 
+get any job and mutual respect greatly increased. As well, people 
+specialized both in their work and in their personal hobbies, seeing 
+each other less on a linear scale and more working in different 
+direction towards different goals. As soon as you knew you could get a 
+"good" job, you could focus on getting the job you actually care about, 
+but first you have to feel like you can get that job.</p>
+
+  <p>It also helped that people "specialized" to some degree and instead of seeing everyone on a linear scale, people instead saw themselves as working in different directions towards different goals.</p>
+  </blockquote>
+
+  <p>We always want to discourage "Cali or bust"; in the strict form it is applying to only California-based jobs in main round. US jobs do pay much more than Canadian jobs, but aren't necessarily the best jobs for everyone in every co-op term. On the other hand, they help students pay tuition.</p>
+
+  <p>At the Engineering 101 day in July 2019, the first few new-student questions were all about co-op until I pointed out that there were other important topics to ask about too.</p>
+
+  <p>The SE Society runs r&eacute;sum&eacute; critiques which are super popular.</p>
+
+  <p>I'm thinking that poor coop job ratings by employers correlate with the disengaged students that I was looking for last time. Working on this issue.</p>
+
+  <p>Omer Strumpf from SE 2020 said that we've done way too good a job with his career prospects for him to think about graduate school, despite the fact that he'd want to take a 4C term and more courses.</p>
+  
+  <h4>Questions for Discussion</h4>
+  <ol>
+    <li>What is the proper amount of emphasis on co-op from program administration?</li>
+    <li>What is the official party line about: (1) judging peers based on co-op placements; (2) good locations for students to go on co-op jobs; (3) amount of effort to spend on finding co-op jobs?</li>
+    <li>What else should we do to support students in their coop job search?</li>
+   </ol>
+  
+  <h2 id="vision">Plans and Vision</h2>
+
+  <p>The CEAB questionnaire asks about our plans and vision for SE. So this is a good time to talk about them.</p>
+  
+  <h4>Questions for Discussion</h4>
+  <ol>
+    <li>Why are we doing this [running the SE Program]?</li>
+    <li>What do we do well?</li>
+    <li>What could we improve?</li>
+  </ol>
+
+  <p>I have my own answers to these questions but I'd like to not bias the audience. Let's discuss these questions for 10 minutes and then talk about future plans and vision.</p>
+
+  <p>I'm going to put our current CEAB questionnaire answers in a separate link. It's probably what we used last time. I updated the data. <a href="attachments/201907-ceab-plans-and-vision.html">Selected CEAB content/Desired Properties of Graduates from 2017 retreat.</a>.</p>
+
+
+  
+  <h2 id="resources">Resources</h2>
+
+  <h3 id="resources-state-of-se">State of SE</h3>
+  <ul>
+    <li><a href="attachments/SE-CC-20190129-SE-464-subcommittee-report.pdf">CS 247/SE 464 subcommittee report</a></li>
+  </ul>
+  
+  
+  <h3 id="resources-coop">Co-op</h3>
+  <ul>
+    <li>
+      <a href="attachments/201907-coop-report-select.pdf">Program Review for Software Engineering</a> (selected pages) by Gabrielle Smith of Co-operative Education; dated March 2019.
+    </li>
+    <li>
+      <a href="attachments/201907-ready-for-coop.pdf">Survey: Ready for Co-op?</a> by Patrick Lam; dated April 2019; surveyed class of 2023.
+    </li>
+    <li>
+      <a href="attachments/201907-coop-application-effort-writeup.pdf">Survey: co-op application effort</a> by Patrick Lam; dated Spring 2018; surveyed classes of 2019 and 2021.
+    </li>
+    <li>
+      <a href="https://docs.google.com/document/d/1ZShBVhS2yubUtZ7usvYtu66Pj5LXMpM9-ZDYFN83PJ8/edit?usp=sharing">Response to Globe and Mail op-ed on brain drain (unpublished)</a> by Dan Brown, Patrick Lam, and Derek Rayside; dated March 2018.
+  </ul>
+
+  <h3 id="misc">Miscellaneous</h3>
+  <ul>
+    <li> <a href="attachments/201704-retreat-summary.pdf">Report from previous retreat in 2017</a> </li>
+  </ul>
+      
+    </div>
+    </div>
+  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ 
+</body>
+</html>
+
