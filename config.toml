@@ -20,6 +20,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Not Found :("
+  omit_categories = true
 
   # leancloud storage for page view counter
   page_view_conter = false 
@@ -36,7 +37,7 @@ home = ["HTML", "RSS", "Algolia"]
   sidebar_about_description = "Associate Professor of Electrical and Computer Engineering at the University of Waterloo"
   sidebar_avatar = "img/20150912_142906898_plam.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true 
+  featured_tags = true
   featured_condition_size = 1 
 
   reward = false
@@ -76,22 +77,16 @@ home = ["HTML", "RSS", "Algolia"]
   title = "MP"
   href =  "https://mpdesjardins.ca"
 
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
+  #[[params.bookmark_link]]
+  #title =  "Martin Fowler"
+  #href =  "https://martinfowler.com"
   
   [[params.addtional_menus]]
   title =  "BLOG"
   href =  "/post/"
+  [[params.addtional_menus]]
+  title =  "RESEARCH"
+  href =  "/top/research/"
   [[params.addtional_menus]]
   title =  "PUBLICATIONS"
   href =  "/top/publications/"
