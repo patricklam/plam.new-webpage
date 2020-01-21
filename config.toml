@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "Associate Professor of Electrical and Computer Engineering at the University of Waterloo"
-  sidebar_avatar = "img/20150912_142906898_plam.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/plam_forest_small.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true
   featured_condition_size = 1 
