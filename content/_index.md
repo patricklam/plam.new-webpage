@@ -3,11 +3,9 @@ layout:     post
 
 ---
 
-Associate Professor of Electrical and Computer Engineering<br>
-University of Waterloo
-
 # Professional
 
+I'm an Associate Professor of Electrical and Computer Engineering at the University of Waterloo.
 I'm currently on sabbatical as a Visiting Scholar at the Victoria University of Wellington.
 I am returning to campus in January 2021. I was the Director of the Software
 Engineering Program at Waterloo from 2016 through 2019.
