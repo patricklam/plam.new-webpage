@@ -209,13 +209,16 @@ and mango). Never had a guedille before.
 The total elevation gain was 753m. One climb early on felt hard on my
 crappy bike, but the stats suggest that it's only 119m over 2.8km.
 
-> Segment selected: 	14.8 km to 17.6 km
-> Distance selected: 	2.8 km
-> Selected start elevation: 	119 metres
-> Select end elevation: 	185 metres
-> Average grade: 	2.4%
-> Climb score: 	6636
-> Climb category: 	NC
+|   |   |
+|---|---|
+| Segment selected: 	   	   |14.8 km to 17.6 km|
+| Distance selected: 		   |2.8 km|
+| Selected start elevation: 	   |119 metres|
+| Select end elevation: 	   |185 metres|
+| Average grade: 		   |2.4%|
+| Climb score: 			   |6636|
+| Climb category: 		   |NC|
+|   |   |
 
 La Paysanne was most but not all of my riding that day. I continued
 another 1.1km to the Gite with the food in a paper bag, checked in,
@@ -415,6 +418,8 @@ through to eventually Etobicoke Creek (there was "interesting" riding
 along the creek at some point) and east on Burnhamthorpe. An hour and
 50 minutes later I got to Square One and took the 25 to WLU and biked
 home.
+
+<div style="text-align:center"><iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d92440.59597823388!2d-79.60848507222487!3d43.61135893941691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e1!4m5!1s0x882b34d334933a71%3A0x63d8a0ae303a1e65!2sUnion%20Station%2C%2065%20Front%20St%20W%2C%20Toronto%2C%20ON%20M5J%201E6%2C%20Canada!3m2!1d43.645195!2d-79.3806!4m5!1s0x882b472eb07900ab%3A0x89bde44dc86b9e5b!2sSquare%20One%20Shopping%20Centre%2C%20100%20City%20Centre%20Dr%2C%20Mississauga%2C%20ON%20L5B%202C9%2C%20Canada!3m2!1d43.593088099999996!2d-79.6422712!5e0!3m2!1sen!2snz!4v1579939126017!5m2!1sen!2snz" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div>
 
 That was fun, but in 2019 I flew round-trip to YYY and got a ride in a car.
 
