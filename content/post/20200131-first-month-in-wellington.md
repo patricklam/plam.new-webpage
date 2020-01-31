@@ -7,6 +7,7 @@ author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
 published:  true
+image:      "/img/00408_cape_palliser_seal.JPG"
 
 ---
 
