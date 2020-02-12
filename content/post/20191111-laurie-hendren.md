@@ -6,12 +6,13 @@ date:       2019-11-11
 author:     "Patrick Lam"
 tags:       ["academia"]
 categories: ["work"]
+showtoc:    false
 published:  true
 
 ---
 
 
-# Recommendation letter for CS-Can Lifetine Achievement Award
+# Recommendation letter for CS-Can Lifetime Achievement Award
 
 I am writing to strongly endorse the nomination of Prof. Laurie
 Hendren for a posthumous Award for Lifetime Achievement in Computer
