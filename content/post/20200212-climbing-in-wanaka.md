@@ -20,6 +20,13 @@ We spent almost 0 time in Queenstown, driving directly to the Pak'N'Save grocery
 
 Somehow we ate $120 of groceries between the two of us over 5 days. I'm not sure how that happened when we had a lot of ramen (augmented with real food) for dinner.
 
+<figure>
+<img src="/img/20200212-wanaka/20200201_205702_pak_n_save.jpg" alt="Did we save at Pak N Save?">
+<img src="/img/20200212-wanaka/20200201_210828_glendhu_bay.jpg" alt="View at Glendhu Bay Motor Camp">
+<figcaption style="text-align:center">Life at Glendhu Bay Motor Camp</figcaption>
+</figure>
+
+
 # Walking (tramping): Roy's Peak (<a href="https://gallery.patricklam.ca/index.php?/category/1212">gallery</a>)
 
 Posted walking times seem calibrated to the average walker for a walk, e.g. we did Roy's Peak and it said 5-6 hours and we were around that. That demographic skewed relatively young and fit for some reason. On walks where the demographic is less hardcore the times seem more inflated. And then there was the <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/wairarapa/places/putangirua-pinnacles-scenic-reserve/things-to-do/pinnacles-track/">Putangirua Pinnacles</a> segment that said 2 hours and it wouldn't be 2hr except that everyone got lost and it took us and others 2 hours.
@@ -104,6 +111,13 @@ slab, where Michi encountered some Japanese climbers she knew (small
 world!) and we climbed some slabs. It looked like it was going to rain
 but in the end it wasn't that wet and we successfully climbed at Far
 Side (not actually that far).
+
+
+<figure>
+<img src="/img/20200212-wanaka/20200201_181328_slabby.jpg" alt="Thin crack">
+<img src="/img/20200212-wanaka/20200203_104407_riverside_beginners_slab.jpg" alt="another 15 warmup">
+<figcaption style="text-align:center">Slabs galore</figcaption>
+</figure>
 
 Climbing volume:
 
