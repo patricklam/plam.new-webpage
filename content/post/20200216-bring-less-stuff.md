@@ -4,7 +4,7 @@ layout:     post
 title:      "Bring less stuff!"
 date:       2020-02-16
 author:     "Patrick Lam"
-tags:       []
+tags:       ["tips"]
 categories: ["travel"]
 published:  true
 showtoc:    false
