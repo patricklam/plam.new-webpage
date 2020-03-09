@@ -14,14 +14,14 @@ image:      "/img/20200228_195102_towards_field_with_clouds_banner.jpg"
 We've now passed the halfway mark for my time in New Zealand, even with
 an extra 3 days courtesy of Air Canada/Air New Zealand&mdash;they rescheduled
 my return flight from 29 Apr to 2 May and I didn't notice until I got the seat
-change email. Turns out I'm totally fine with an extra 3 days in New Zealand.
+change email. I'm totally fine with an extra 3 days in New Zealand.
 
 Classes have started again. I guess it's like September in the northern hemisphere.
 Days are only 13 hours now, on their way to 10.5 hours when we go back north.
 
 Have I done stuff in my time in Wellington so far? Here's
 my second-month-and-a-third retrospective before a pile of upcoming
-travel, mostly in New Zealand but also including a visa run to
+travel. Up for the rest of March: mostly travels in New Zealand but also including a visa run to
 Melbourne. (<a href="/post/20200131-first-month-in-wellington/">previously</a>)
 
 # Professional
@@ -30,11 +30,11 @@ Mostly I hacked on the ongoing project at VUW, setting up a bunch of
 infrastructure to download, run, test, and run tools on benchmarks
 within a Vagrant VM. There's some shell scripting and some Python
 involved here. I keep on hosing my laptop with Virtualboxes taking up
-all the RAM and having slow disk I/O. Sometimes (when I remember) I
+all the RAM. Sometimes (when I remember) I
 ssh to a Waterloo computer and do compute there. We have the first
 results from our approach, which is great.
 
-Writing this post was a good way to get me to look up why Virtualbox
+VirtualBox disk I/O feels super slow. Writing this post was a good way to get me to look up why Virtualbox
 is actually slow. Perhaps this: <a
 href="https://www.electricmonk.nl/log/2016/03/14/terrible-virtualbox-disk-performance/">Terrible
 Virtualbox disk performance</a>.
@@ -51,7 +51,8 @@ Workshop</a>.
 We resubmitted our JORT paper. Thanks for doing the heavy lifting, Dave!
 
 I'll put travel planning for Athens under "professional". Booked plane
-tickets and an airbnb for May-June. Looking forward to that collaboration!
+tickets and an airbnb for May-June. Looking forward to that collaboration;
+hope the global situation is stable by then.
 
 <figure>
 <img src="/img/20200308_temple_of_olympian_zeus_and_lycabettus_hill.jpg">
@@ -94,11 +95,13 @@ So far I've posted pictures from:
 
 I'm trying to use <a href="https://digikam.org">digiKam</a> to manage
 photos.  The main difference is that I put pictures in the
-<code>Pictures</code> subdirectory instead of in home. It seems to
+<code>Pictures</code> subdirectory instead of <code>$HOME</code>. It seems to
 support my workflow. I struggled to make it hide the photos that I
 reject but finally I managed to encode the right search. (My workflow:
 rename files to include the title; hide files that are redundant; keep
-more rather than less files; at best crop and rotate images).
+more rather than less files; at best, crop and rotate images. I think
+that sidecars are actually sort of OK for storing user metadata like title,
+but I like being able to use <code>find</code> to find photos.)
 
 ## Walks
 
@@ -108,15 +111,17 @@ more rather than less files; at best crop and rotate images).
 * small walks at Sanctuary Mountain (like Zealandia but in Pukeatua); it's more natural than the Otoruhangu Kiwi House but we saw more birds at the Kiwi House because they're in enclosures.
 * Rotorua redwoods walk
 * Wellington airport to home: 11km
-* Tongariro Alpine Crossing: 19.2km, 762m elevation gain (but more loss; also class 1 terrain)
+* <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/tongariro-alpine-crossing/">Tongariro Alpine Crossing</a>: 19.2km, 762m elevation gain (but more elevation loss; also class 1 terrain)
 * Kime Hut tramp: 23km, 1292m elevation gain (slippery tree roots on descent)
 
 The big ones are Roy's Peak, the Tongariro Alpine Crossing, and the
 Kime Hut tramp. We had excellent weather for Roy's Peak and
 Tongariro. I'm not sure I'd call Tongariro the best day-hike in the
 world but it is up there, and the views of Ngauruhoe aka Mordor are
-exceptional. We started early and fit young Germans and French people
-kept on passing us. The terrain is generally quite well-groomed and
+exceptional. Fit young German and French people
+kept on passing us, but I thought about it and ascribed it to
+the fact that we started as early as possible: that means that we were
+unlikely to pass anyone. The terrain is generally quite well-groomed and
 the scree on Tongariro looks as if they took a bunch of dump trucks of
 gravel and unloaded them. The Kime Hut tramp had fine weather on day 1
 and rain on day 2. The rain made the forest look more enchanted but
