@@ -2,7 +2,7 @@
 layout:     post
 
 title:      "Beyond Diet: on red pandas and doing better"
-date:       2020-03-08
+date:       2020-03-07
 author:     "Patrick Lam"
 tags:       ["tips"]
 categories: ["travel"]
