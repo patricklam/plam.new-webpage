@@ -1,0 +1,92 @@
+[SE_2024] today is Tuesday
+SE Director Derek Rayside se-director at uwaterloo.ca
+Tue Mar 17 15:55:29 EDT 2020
+
+    Previous message (by thread): [SE_2024] L102: practice
+    Next message (by thread): [SE_2024] Wacky Wednesday
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+Hello SE Students,
+
+"Life moves pretty fast. If you don't stop and look around once in a 
+while, you could miss it." That movie could be a good distraction from 
+our current situation. Distraction can sometimes be a good mental health 
+management technique.
+
+Let's see if I can recap some things that have happened since yesterday:
+
+  * *St Patrick's Day: Don't do it.*
+
+  * The Government of Canada urges everyone to return home. Self-isolate
+    for two weeks when you get back.
+      o *CECA* will give you credit for the work term. Come home.
+      o *Exchange*: we will give you credit somehow. Come home.
+          + Tricky: You are in Singapore, Hong Kong, or Taiwan, which
+            are probably the safest places in the world. Might be a long
+            time before you can come back. Official advice is to come back.
+      o *International students*: Go where you feel comfortable and
+        safe. Some of you are in Canada, and some are outside Canada on
+        co-op. I'm not sure if you can re-enter Canada right now ... but
+        you can speak to me or Victoria or Shaz or the UW international
+        student office. We are officially told to not tell you what to
+        do. But we are happy to listen to your concerns and talk it through.
+          + https://uwaterloo.ca/student-success/international-student-resources/immigration-consulting
+          + https://thevarsity.ca/2020/03/16/canada-to-close-border-on-international-students-without-permanent-residency-amid-covid-19-outbreak/
+
+      o *Residence: *Go home. Do not stay in UW residence unless you
+        really have to. Residence is already communicating with you on this.
+  * The Province of Ontario has declared a state of emergency.
+      o All restaurant dining rooms + bars are closed.
+      o All recreational facilities are closed.
+  * University of Waterloo
+      o Campus is basically closed ... everyone has been told to work
+        from home.
+      o CECA says you will only need 4 work terms to graduate (instead
+        of the usual 5).
+        https://uwaterloo.ca/coronavirus/frequently-asked-questions#co-op
+      o UW services that are now available online:
+        https://uwaterloo.ca/daily-bulletin/2020-03-17
+  * Mental Health resources:
+      o Empower-Me Student care has 24/7 support via ecounselling
+        https://uwaterloo.ca/waterloo-undergraduate-student-association/services/empower-me
+      o Counselling has several online resources. The "Calming the
+        Panic" workshop might be of particular interest
+        https://uwaterloo.ca/campus-wellness/counselling-services/seminars-and-workshops/coping-skills-seminars-online
+      o Bounceback Ontario has free workshops for depression and anxiety
+        -https://bouncebackontario.ca/
+      o Tips on how to help a friend -
+        https://uwaterloo.ca/campus-wellness/counselling-services/how-help-friend
+      o More Feet on the Ground online training
+        -https://morefeetontheground.ca/
+      o The Big List of Self-Care and Distraction Activities -
+        https://uwaterloo.ca/campus-wellness/sites/ca.campus-wellness/files/uploads/files/list_of_distraction_techniques.pdf
+      o The Centers for Disease Control and Prevention has posted Manage
+        Anxiety & Stress
+        <https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html>
+        related to the coronavirus pandemic.
+      o Five Mental Health Tips Amid COVID-19 Concerns
+        <http://ontario.cmha.ca/news/cmha-offers-tips-to-support-mental-health-amid-concerns-of-covid-19-pandemic/>
+        from the Canadian Mental Health Association
+      o How to prevent loneliness in a time of social distancing
+        <https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-to-prevent-loneliness-in-a-time-of-social-distancing/?amp=true>
+        by Scientific American
+
+
+Ok, that's a lot. Probably I missed something. Maybe I made a mistake. 
+There are also some cohort-specific issues that I'm working on, and will 
+communicate with you as they develop.
+
+TODO: If your class reps have a spreadsheet about where you are or what 
+you are doing this term or next term, please add your name to it. This 
+data might be helpful for us to try to create the best possible 
+opportunities for you, under the circumstances.
+
+
+Best wishes,
+-- 
+
+*Derek Rayside, PhD, PEng*
+Director, Software Engineering <https://uwaterloo.ca/software-engineering>
+University of Waterloo
+Calendar <https://ece.uwaterloo.ca/~drayside/cal/>. DC-2539 or E7-5426.
+

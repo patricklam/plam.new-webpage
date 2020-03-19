@@ -1,0 +1,54 @@
+SE Director Derek Rayside se-director at uwaterloo.ca
+Wed Mar 18 20:26:06 EDT 2020
+
+    Previous message (by thread): [SE_2024] today is Tuesday
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+Hello SE Students,
+
+“It all began with a shoe on the wall. A shoe on the wall shouldn't be 
+there at all.” A great opening line from a classic book your parents 
+probably read to you when you were a child. Another great distraction.
+
+Back to our regularly scheduled program:
+
+  * *Border "closed": *In international governmental news today, as I'm
+    sure you're aware, the Canada-US border is "closed" to all
+    "non-essential" traffic. Unclear what exactly that means. Does it
+    apply to the new researcher that my wife's lab hired who is supposed
+    to immigrate to Canada from the US on Friday? Does it apply to you
+    attempting to go south with that J1 you can't get right now? Who knows.
+  * *ECE Coronavirus website: *This is new. Mostly engineering-specific
+    academic stuff.
+      o https://uwaterloo.ca/electrical-computer-engineering/faculty-and-staff-0/covid-19-information-ece-faculty-and-staff
+
+  * *UW Coronavirus website: *This is old, but is the official site for
+    the UW-wide official news.
+      o https://uwaterloo.ca/coronavirus/
+  * *S20?* If you want to talk about what S20 might look like, please
+    contact Derek, Victoria or Shaz.
+
+*SE2020*: I'm hoping to get some stability in childcare organized 
+tomorrow, so then we can start to plan. Right now it's day-to-day. As 
+you might be aware, all March Break camps have been cancelled, all 
+public schools are closed, etc. I'm excited to hear about your projects. 
+Yes, you should give a (virtual) practice talk to your peers. Pay 
+particular attention to the narrative structure that you choose for your 
+talk. Discussed in Communication chapter of Handbook (and in class, back 
+when that was a thing). Hoping to write something longer tomorrow.
+
+*Everyone:* SE2020 Symposium "Day" is obviously not going to be like 
+anything previously. Maybe you can watch remotely. We'll try to figure 
+it out.
+
+
+"Only twenty more things will be wacky", he said. "Just find them and 
+then you can go back to bed."
+
+Best wishes,
+-- 
+
+*Derek Rayside, PhD, PEng*
+Director, Software Engineering <https://uwaterloo.ca/software-engineering>
+University of Waterloo
+Calendar <https://ece.uwaterloo.ca/~drayside/cal/>. DC-2539 or E7-5426.
