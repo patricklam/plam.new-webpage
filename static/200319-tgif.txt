@@ -1,0 +1,120 @@
+thank goodness it's Friday
+SE Director Derek Rayside se-director at uwaterloo.ca
+Fri Mar 20 21:46:35 EDT 2020
+
+    Previous message (by thread): [SE_2024] Thorsday --- what would Mjolner do?
+    Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+
+Hello SE Students,
+
+Thank goodness it's Friday. Hopefully a day where we can start to 
+decompress a bit and take stock of what we know and what we've learned. 
+As of this afternoon, we have some greater certainty on a few big issues:
+
+  * https://uwaterloo.ca/coronavirus/ has all the details, which I
+    summarize here.
+  * *S20 will be online*.
+      o All courses and exams will be online. No in-person meetings.
+      o Dates shifted by a week: Starts May 11, ends August 4th.
+      o More info to come from the UW President next Friday.
+  * *Most of campus will be locked up on Tuesday.*
+      o A few buildings will still be open during business hours: E5,
+        E7, M3, QNC, SLC, some others.
+      o Importantly, DC and MC will be completely locked. Even faculty
+        will require a police escort to enter.
+  * Co-op academic flexibility:
+      o You have 6 work terms scheduled. Usually you need 5 jobs in
+        order to graduate. That number is being reduced to 3 or 4 ...
+        I'm a little unclear on whether it's 3 or 4.
+      o For S20, CECA will accept 8 weeks of employment for co-op
+        credit. So just July+August. Usually they require 12 weeks for
+        academic credit.
+  * Co-op: international work terms.
+      o My understanding of the UW President's words is that CECA is
+        communicating with employers about the possibility of you
+        working from home in Canada.
+      o Monitor WaterlooWorks for messages.
+
+Off-campus news highlights today:
+
+  * Know anyone returning from March Break? *Urge them to self-isolate.*
+  * Ontario has 38 testing centres.
+  * Some local distilleries have shifted from making booze to making
+    hand sanitizer.
+  * California is shut down.
+  * New York State is almost shut down.
+  * Community transmission in Toronto.
+  * The Canadian border closes to all non-essential traffic at 11:59pm
+    today.
+      o Canadian citizens and permanent residents can still return after
+        the deadline.
+      o Truckers can still bring goods after the deadline.
+      o Essential workers will still be allowed to cross after the deadline.
+      o Tourism is over.
+      o Recreational travel is over.
+      o What does this mean for students? Unclear to me at this time ...
+
+
+Through this week I've been reflecting a bit on teamwork and the 
+Myers-Briggs personality test. Perhaps we'll get you younger cohorts to 
+do it when you get to the capstone courses. A thing that a friend 
+enlightened me about in grad school is that many of the points of 
+friction in my professional life are explained by my test results here. 
+The Myers-Briggs test produces a ranking in four dimensions. The 
+rankings are abstracted with binaries of which side of the centre you 
+are on: thinking vs feeling, etc. On the first three dimensions, I score 
+very close to the centre. For example, I score "thinking", but am very 
+close to the boundary with "feeling". But on the fourth dimension I'm 
+way out in left field: I am very "P" (for perceiving), whereas (I think) 
+most technical people are "J". This "P" power is helping me this week. I 
+have a very high tolerance for the unknown. I am comfortable to make 
+decisions later, when more information becomes available.
+
+On the flip side, many "J" people get really frustrated with my 
+inability to make or keep a schedule. Utter failure to nail things down. 
+Don't really care about many deadlines, because they are minor and 
+essentially flexible. This is pretty frustrating for many students in my 
+SE491 capstone course, for example.
+
+In many contexts, I need to develop better strategies to be more "J". 
+It's a lifelong struggle. But in this COVID-19 global pandemic context, 
+"P" power is actually helpful, because the situation is constantly 
+evolving, and plans are always provisional and often need to be revised 
+quickly.
+
+With the SE2024's we did a quick personality analysis by PowerPuff Girls 
+back in SE101 last fall. Professor Utonium designed the PowerPuff Girls 
+systematically: sugar (Bubbles), spice (Buttercup), and everything nice 
+(Blossom). It's a simple structure we can quickly work with. The 
+Myers-Briggs Test is a more sophisticated structure that is about a 
+hundred years old. The Big 5 is another, more modern, personality 
+assessment. One shouldn't get too carried away with these things, but 
+they can sometimes provide useful insights.
+
+In a sense, dynamic dispatch and dynamic linking and changing methods on 
+individual objects, are the programming language equivalents of the 
+Myers-Briggs "P": decision deferred until more information is available. 
+Turing Award winner Alan Kay, inventor of SmallTalk, thinks that this 
+/late binding/ is an essential feature of object-oriented languages (and 
+also of Lisp).
+
+     https://en.wikipedia.org/wiki/Late_binding
+
+
+Go for a walk through the trees and think deep thoughts about 
+programming languages and personality types. It will be good for you in 
+many ways.
+
+There are a few things that I'm working on for you, which hopefully I'll 
+be able to report on in the coming days. The powers vested in this 
+office are those of communication and persuasion. These are also good 
+powers for you to cultivate in yourself, for they will always serve you 
+well when wielded with skill.
+
+Be well, do good work, stay in touch,
+--
+
+*Derek Rayside, PhD, PEng*
+Director, Software Engineering <https://uwaterloo.ca/software-engineering>
+University of Waterloo
+Calendar <https://ece.uwaterloo.ca/~drayside/cal/>. DC-2539 or E7-5426.
