@@ -1,0 +1,82 @@
+Saturday --- it's the weekend !
+SE Director Derek Rayside se-director at uwaterloo.ca
+Sat Mar 21 21:17:44 EDT 2020
+
+Hello SE Students,
+
+Today is Saturday. It's the weekend. The office is closed, as a normal 
+matter of course. Nothing has changed. There is no news. Lovely!
+
+It was not always thus. The weekend is a concept that's only been 
+official for about a hundred years. The three main western monotheisms 
+(Judaism, Christianity, and Islam), have no religious concept of 
+"weekend". They do have a concept of a day of worship. But that's one 
+day, and the weekend is two days. Who do we have to thank for the second 
+day? I've read different histories, some saying it's the labour unions, 
+one even claiming that Henry Ford invented the weekend. We may not know 
+who to thank, but we can still be grateful for the weekend.
+
+The weekend is a good time for many things that we don't always have the 
+time or opportunity for during the week. Cooking is sometimes one of 
+those things. One strategy is to cook in large batches on the weekend, 
+and then have food throughout the week. One good appliance for 
+implementing that strategy is the Instant Pot.
+
+     https://instantpot.com/
+
+Patrick introduced me to the Instant Pot a few years ago. It's great. 
+It's SE380 in action: a bunch of control systems to regulate temperature 
+and pressure, designed by a Canadian engineer who left the telecom 
+business to innovate in small kitchen appliances. There are a few things 
+that I really like about it:
+
+  * Never have to worry about undercooking or overcooking. The recipe
+    will always specify time and pressure, so you just program the
+    machine to those specs and it cooks the food, then switches to "keep
+    warm" mode.
+  * Separate cooking time from eating time. I usually cook after dinner.
+    Like I did today. Cooking when hungry isn't a great strategy for me.
+    So after supper I chop everything up and throw it in the pot. Then
+    the next day I eat it.
+  * Many of the recipes are easy, healthful, nutritious, and inexpensive.
+  * Has a saute mode, so you can saute the onions and garlic in the pot
+    before switching over to the pressure-cooker mode. Saves having to
+    wash a frying pan.
+  * Can also be used as a rice cooker. Mostly we use our Zojirushi for
+    cooking rice, but right now I'm making rice & beans in the Instant
+    Pot, and appreciate that it can do combo dishes like this.
+
+I didn't learn really anything about cooking until six years ago when I 
+was on parental leave with my daughter when she was a baby. My 
+grandfather learned how to cook after he retired, so I beat him on that 
+by several decades. Of course, he didn't have the opportunity for 
+parental leave when my mother was born. I would have learned more in 
+school (and got better grades) if I had learned how to cook and eat a 
+balanced diet earlier in life.
+
+My main criticism of the Instant Pot is that the UI looks like it was 
+designed by an electrical engineer ... because it was ... You could do 
+better, because learning about UI design is actually part of your core 
+curriculum, whereas it wasn't for the Instant Pot designer.
+
+Canadian Tire has the Instant Pot on sale this weekend. There are a 
+bunch of different models, but this one that's on sale is the one that 
+most people would usually buy:
+
+https://www.canadiantire.ca/en/pdp/instant-pot-duo-nova-multi-cooker-6-qt-0432725p.html
+
+Here are two recipe websites that I like:
+
+     https://www.pressurecookrecipes.com/
+     https://amindfullmom.com/easy-healthy-instant-pot-recipes/
+
+So today let's be grateful for the weekend, and appreciate the good work 
+that Canadian engineers do in the kitchen.
+
+Be well, do good work, stay in touch,
+-- 
+
+*Derek Rayside, PhD, PEng*
+Director, Software Engineering <https://uwaterloo.ca/software-engineering>
+University of Waterloo
+Calendar <https://ece.uwaterloo.ca/~drayside/cal/>. DC-2539 or E7-5426.
