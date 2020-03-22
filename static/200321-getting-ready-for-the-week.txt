@@ -1,0 +1,55 @@
+Hello SE Students,
+
+Hope you had an opportunity to enjoy the sunshine today. I always aspire to use part of Sunday to do some low-stress preparations for the coming week. Here are some things that are happening this week, to refresh your memory:
+
+    Monday:
+        Classes for W20 resume in their new online form tomorrow (Monday). Your profs should have contacted you about how they are doing this.
+        Each course could have its own strategy.
+    Tuesday:
+        Instructors need to tell their Associate Deans and the Registrar's Office what they are doing for their S20 courses.
+        Last day of access to DC and MC and a bunch of other buildings. So last day of access to the SE student labs.
+    Wednesday:
+        Unscheduled wackiness.
+    Thursday:
+        SE Symposium Day.  
+        Obviously this isn't happening in any of the forms that we've been previously envisioning. For one, DC will be locked up.
+        Instead, the SE2020 students will be presenting to me online at 11am, noon, 1pm, 2pm, and 3pm every day.
+        They are welcome to invite any of you to watch --- or anyone else they want to invite, including referees they might be interested in.
+    Friday:
+        Another big announcement from the UW President? We've got one of those just after lunch on Friday for each of the last two weeks. I'm not anticipating anything here, but maybe it's a pattern? That's how machine learning works, right? It just extrapolates the patterns without understanding the meaning, right? Maybe human learning is different than that ...
+
+International Students can re-enter Canada:
+
+On Friday the federal government clarified that international students can re-enter Canada --- the current "border closing" does not stop those with a student visa from re-entering Canada. Thanks to SE Student Aman for sending me this link.
+
+     https://www.cbc.ca/news/canada/montreal/quebec-farmers-covid19-1.5501421
+
+You must self-isolate for 14 days when you return to Canada:
+
+The federal Health Minister is considering imposing criminal penalties for people who do not properly self-isolate after returning from travel. France is already doing this, and has deployed 100,000 enforcement officers.
+
+    "When we say that you must stay at home for 14 days, that means you stay at home for 14 days. You do not stop for groceries, that you do not go visit your neighbours or your friends, that you rest in your house for 14 days. No exceptions."
+
+    https://www.cbc.ca/news/politics/trudeau-house-returns-1.5506049
+
+
+Canadian Doctor figures out how to multi-plex a ventilator machine to multiple patients:
+
+     https://www.dailymail.co.uk/news/article-8136299/Doctors-turns-one-ventilator-nine-genius-DIY-mechanics.html
+
+
+SE Technical Tidbit:
+
+Prof Mei Nagappan (class prof for SE2023) recently did some research on how the personality characteristics of patch submiters and code maintainers influence the likelihood of the patch being accepted. From a capstone project perspective, I really like the abstract for this paper because it clearly states both the methodology of the work and the results. A good example for you to follow.
+
+    https://ieeexplore.ieee.org/document/8935389
+
+
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
