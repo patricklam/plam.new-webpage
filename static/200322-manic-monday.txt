@@ -1,0 +1,78 @@
+ Hello SE Students,
+
+These are the days when you wish your bed was already made.
+
+    SE2020 Symposium Presentations started in earnest today
+        I'm proud of SE2020. They've done great projects, and are having to finish up in challenging circumstances.
+        You can see their project abstracts here:
+            https://ece.uwaterloo.ca/~drayside/tmp/se2018-symposium-booklet.pdf
+        SE2020, please feel free to invite your external referees to join your virtual presentation. We can also schedule something next week if necessary to accommodate your external referees.
+        SE2020, you are also welcome to invite the younger cohorts to watch your virtual presentation if you want. You know how to communicate with them.
+    S20 what we know and what we don't know:
+        All courses will be online (we knew that since Friday)
+            Tips for how to learn online (new resource today, from UW Centre for Teaching Excellence)
+            https://contensis.uwaterloo.ca/sites/open/resources/GettingReadyToLearnOnline/table-of-contents.aspx
+        No courses will have scheduled times, because students might be in different time zones. (New decision today.)
+        CS courses will not have SE-specific sections: SE students will be mixed with CS students. (New decision today.)
+        If your normal sequence has an academic term in S20, then open enrollment starts on Quest March 25th. Drop/add dates have shifted too.
+        If your normal sequence has a co-op term in S20, then we might hear news on Friday about your academic options for S20. (New news today.)
+            I'm not feeling too optimistic right now.
+            There are also a lot of students outside SE who might want to switch sequences.
+            It looks like there will be a centralized decision that applies to everyone.
+            I have done my best to advocate for your specific situation.
+        Financial support for students who have, or are at risk of, losing co-op positions:
+            CECA is encouraging employers to allow remote work, which is necessary for all foreign employment, since the Canadian government has an advisory against all travel:
+                https://uwaterloo.ca/coronavirus/academic-information
+                https://uwaterloo.ca/hire/employer-resources/supporting-co-op-students-remotely
+            Government of Canada might have some financial support:
+                https://www.canada.ca/en/department-finance/news/2020/03/canadas-covid-19-economic-response-plan-support-for-canadians-and-businesses.html#Income_Support_for%20%E2%80%93
+        Opportunity to make a difference.
+            Some medical school students are volunteering to assist frontline medical workers with childcare and chores etc.
+            https://www.thestar.com/news/gta/2020/03/20/medical-students-help-health-care-workers-with-everyday-tasks-during-covid-19-outbreak.html
+            I asked CECA if they would approve you doing this for co-op credit this summer: they said yes.
+            Probably they will give you co-op credit for anything you can do to fight the virus --- I will help you organize this if you are interested.
+            Maybe there are ways you can apply your SE skills to the fight --- such as on my email from last Thorsday. I can think of other such potential opportunities "on campus".
+            I know that the monetary wages of volunteering are low, and that's not what you came to UW for ... but here's a start at opening a door, and who knows what we'll find if we look through it ...
+    Email:
+        Academic advising:
+            Shaz: se-advisor@uwaterloo.ca
+            Victoria: se-assocdir@uwaterloo.ca
+            Derek: se-director@uwaterloo.ca
+        Capstone/FYDP/SE491:
+            drayside@uwaterloo.ca
+            subject should include at least one of "capstone", "fydp", "se491"
+            otherwise it's hard for me to find your email, because my filters don't find it and it will just sit in the general pile of stuff
+    Ontario closes all non-essential businesses for two weeks.
+        Close at Tuesday 11:59PM.
+        The list of what counts as "non-essential" will be released tomorrow.
+    Come back to Canada.
+        If you are a Canadian citizen outside the country, you should come back.
+        Prime Minister Trudeau called all Canadians home last Monday.
+        CECA then called all co-op students back to UW.
+            You will still get co-op credit for the time you have worked this term.
+            Maybe you can still keep working for your foreign employer remotely from Canada --- ask them.
+        Exchange then called all exchange students back to UW.
+        The Canadian federal government is concerned that :
+            you won't get appropriate healthcare.
+            you won't have commercial travel options to get home. Air Canada just laid off 5000 people, etc.
+            your foreign health insurance will have a clause that says it doesn't apply during pandemics.
+        You must self-isolate for 14 days when you return.
+            The federal Health Minister is considering implementing criminal penalties for people who do not comply.
+            "When we say that you must stay at home for 14 days, that means you stay at home for 14 days. You do not stop for groceries, that you do not go visit your neighbours or your friends, that you rest in your house for 14 days. No exceptions."
+            https://www.cbc.ca/news/politics/trudeau-house-returns-1.5506049
+            It's hard. I'm bringing one of my sisters groceries and supper every day since she returned from the states last week.
+
+
+I wish it was Sunday
+'Cause that's my fun day
+My I don't have to run day
+Just another manic Monday
+
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
