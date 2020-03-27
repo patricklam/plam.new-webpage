@@ -1,0 +1,23 @@
+Hello SE Students,
+
+Today was terrific!  I slept well, I had good balanced meals, and I even climbed 100 flights of stairs for exercise.  The best part, of course, was listening to the Capstone project presentations.  Today I was thrilled that SE2018 alumni Patrick Perrier was able to join me listening to some of the talks. I made an anonymous write-only note about my terrific day in our SE Daily Jog Log:
+
+    https://forms.gle/e9Ur4qdQvvyLh5nVA
+
+One of today's projects solves a problem that has become far more important in our daily lives now than it was just a few short weeks ago:  Yummify is an app for Android and iOS that suggests recipes that you can make with the ingredients the you have on hand.  Its search procedure is guided by both ingredients substitutions and by an understanding of which ingredients are staples.  Give it a try for lunch tomorrow!
+
+Are you an artist?  We could use new cover art for the symposium booklet.  This year's booklet has last year's cover art, from SE2019 student Dave Pagurek. It was great for last year. Send me something new for this year!
+
+    https://ece.uwaterloo.ca/~drayside/tmp/se2020-symposium-booklet.pdf
+
+Kafka's wisdom from today: in-person meetings are really valuable for requirements elicitation, and for getting your patch accepted.  This is not just the experience of teams this year, but also of alumni Patrick, and it's in that research paper by prof Mei Nagappan that we talked about earlier this week.
+
+Today's main academic announcement is that there will be an announcement tomorrow.  That is, we are expecting to hear some decisions at both the faculty and the university levels.  If our machine learning prediction is correct, then we will get the news after your lunch that you made with the recipe from Yummify.
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
