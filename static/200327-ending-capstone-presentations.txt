@@ -1,0 +1,43 @@
+
+Hello Software Engineering Students ,
+
+We just about wrapped up the SE2020 capstone project presentations this week. A great range of fantastic projects. I hope we can find a way to create videos or slideshows for the rest of you to enjoy them as well.
+
+On the university front,  I was expecting some academic announcements today. But they didn't really happen.  You got an email from the Registrar about adjusted date for course enrollment,  which was nice.  What I was  hoping for was news about whether you can take courses in the spring term if you do not have a job. While I did not hear any news on this, one of you did get an email from CECA that said:
+
+    Last week, you received an email letting you know that we would share more information on the Spring 2020 work term. Since that time, we've been in close contact with our faculty partners to sort out a wide variety of implications that COVID-19 is having on the upcoming term.
+
+    One area we are currently working on: enabling students scheduled for a Spring 2020 work term to enroll in full-time studies in spring (if they don't find employment). Early next week, we will provide additional information on this and other details you need to know ahead of your upcoming Spring work term.
+
+    Thank you for your patience as we all work through this together.
+
+
+So I guess we'll hear more about that next week.
+
+One of the 4B students wrote in with an opportunity that might be good for the lower-year students. His writing is clear, concise, correct, and complete, so I'll just quote it:
+
+    Hi Professor Rayside,
+
+    Hope you are doing well! A past coworker sent me this Mozilla MVP challenge, and I think it'd be a great way for students whose co-ops have been impacted by the current pandemic to have something to work on over this summer. It's a 8-week challenge where students who complete the challenge can be eligible for a 2.5k stipend each, and can be completed remotely and set themselves up for future co-ops. There's an application process due Monday April 6th.
+
+    Link to the challenge: https://builders.mozilla.community/springlab/index.html
+
+    If you think it's appropriate for students, feel free to share this in your daily emails (which are great by the way).
+
+    Thanks,
+
+My personal day was pretty good. I didn't sleep too well, but my wife and I did go for a nice bike ride this morning. This is one of the first recreational bike rides we have taken in a long time. Usually we ride our bike to go buy groceries or to take the kids to hockey or something like that. Using a bike for transportation saves a huge amount of money, and also the environment and your long-term health (wards off chronic diseases like diabetes and cancer, etc). A very rational choice. Anyhow, nowadays we don't have much need to go places, so we just rode for fun. We tried the new Garrison Crossing bike bridge to Fort York. It's very pretty. I'll make a note of that in our SE Daily Jog Log:
+
+    https://forms.gle/e9Ur4qdQvvyLh5nVA
+
+You might wonder: what's the point of a write-only anonymous log? You could think of it as the kind of mind-trick that Arnold Schwarzenegger would play on himself in order to achieve his peak performance. At least he used to do this kind of thing back when he was pumping iron. In this kind of way, athletes often have a more sophisticated understanding of practical psychology than do academics. We could learn from them. Or, perhaps it's a friendly version of Bentham's Panopticon. If you prefer quantum physics metaphors, consider that at the quantum level merely observing a thing changes it. This is a way to observe yourself, and thereby create positive change. It's a way for you to be accountable to yourself. It's a way for you to be accountable to your peers, because it's a collective shared document of our shared experience. But at the same time to be free of judgement and criticism because it's anonymous and write-only --- a chance for you to develop your self-compassion. It's a way for us to create some structure in our days. It's a way for us to create a common shared experience out of this forced isolation.
+
+The poetic ending to my academic day was the discovery that SE 2018 alumni Patrick Perrier, who graciously joined me for all of the SE2020 capstone talks today, was also an orientation-week leader for some of the SE2020 students who presented today: so he both welcomed them in to SE at the very beginning of their journey, and congratulated them with their final grades as they are about to graduate. Beautiful.
+
+Be well, do good work, stay in touch.
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
