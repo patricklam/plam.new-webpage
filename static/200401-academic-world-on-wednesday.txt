@@ -1,0 +1,77 @@
+Hello SE Students,
+
+Today we got the news that SE 2022 + SE 2024 were waiting for, and it's not what some of them were hoping for. Let's review the situation for each cohort:
+
+SE2020
+
+    Still grieving the loss of convocation.
+    Still grieving the loss of symposium day.
+    Wondering how the CR/NCR stuff will affect DHL calculations. Those details will come by the time you need them. First we will get the rules of what passing the term means in light of CR/NCR.
+
+
+SE2021
+
+    Hopefully home safe and sound.
+    Getting co-op credit for work term that might have ended early (per CECA details).
+    Getting ready to select courses for 4A, the spring online term.
+
+
+SE2022
+
+    Finishing 3A in the now online winter term.
+    Wondering if they can take courses this summer, and if so which ones. We now have definitive answers to these questions.
+        They can take non-core courses.
+        They cannot do 3B in the spring term.
+        Minor exception: they can take ECE 358 in the spring term if this frees up an ATE pathway. This is a flexibility that we have had for years, so nothing new here.
+        I spoke to as many people as I could today, trying to find some more wiggle room, but I couldn't. Here's the bigger picture perspective and data.
+        There is a university-wide policy to prohibit sequence changes at this time.
+        There are about 800 students who had secured co-op jobs outside of Canada for the spring term. All of those placements are in jeopardy.For example, Tron has twice as many S20 jobs in jeopardy as does SE.
+        If all 800 of these students did a sequence change and started looking for work for the fall term, that would create hardship for those students whose normal sequence has a work term in the fall. In other words, you would be taking jobs away from SE 2023 and SE 2021.
+        The reasons for speculating that the fall employment market will be better than the spring employment market are more aspirational than empirical. We all hope that the world and the economy will be back to normal sooner rather than later. But we lack sufficient prior data to make that a confident projection. There is still a significant chance that the fall labour market could be worse than the spring labour market. Practice your social distancing and hand washing.
+        Consider the Sustainability Diploma from Faculty of the Environment.
+        https://uwaterloo.ca/software-engineering/current-undergraduate-students/enrichment-opportunities
+        Also see attached list of non-technical courses that are known to have open enrollment.  Perhaps there are also others --- I'm not sure.
+
+
+SE2023
+
+    Hopefully home safe and sound.
+    Getting co-op credit for work term that might have ended early (per CECA details).
+    Getting ready to select courses for 2B, the spring online term.
+    Work term reports ...
+        You are enrolled in WKRPT200 in Quest for S20.
+        Spring courses have not been added on LEARN yet.
+        Quest is actually the authoritative source for enrollment information.
+        https://uwaterloo.ca/software-engineering/current-undergraduate-students/policies-procedures-guidelines/work-term-report-guidelines
+
+
+SE2024
+
+    Finishing 1B in the now online winter term.
+    Wondering if they can take courses this summer, and if so which ones. We now have definitive answers to these questions.
+        They can take non-core courses.
+        They cannot do 2A in the spring term.
+        Minor exceptions for historical flexibilities: CHE102 and Communications Elective can be taken in the spring term.
+        Ditto bigger picture perspective and data from SE2022 discussion + first year students.
+        Consider the Sustainability Diploma from Faculty of the Environment.
+        https://uwaterloo.ca/software-engineering/current-undergraduate-students/enrichment-opportunities 
+        Also see attached list of non-technical courses that are known to have open enrollment. Perhaps there are also others -- I'm not sure.
+    https://www.therecord.com/news-story/9921752-uw-professor-apologizes-for-anti-chinese-posts-on-social-media/
+        https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-33
+        https://www.peo.on.ca/licence-holders/code-ethics
+        https://uwaterloo.ca/human-rights-equity-inclusion/
+        https://wusa.ca/services/racial-advocacy-inclusion-solidarity-and-equity-raise
+
+
+
+It's tough times all around these days. We will get through this together. Although we are all isolated in our own homes now and for the foreseeable future, we can still make efforts to support each other and build community.
+
+Today is the 10th anniversary of my employment at the University of Waterloo. I started on April 1, 2010. I had a special plan for today that I was really excited about. I had arranged with the university archives to do special exhibit on student activism and student government for all of you who volunteer your time in the service of your peers as class reps, SE Society reps, EngSoc reps, MathSoc reps, ambassadors, WICS, and so on. I have a draft email with about 45 of you on it that never got sent. Yes, I had hoped to celebrate my tenth anniversary here by taking you on a special field trip to the library to encourage you to organize and advocate.
+
+Things didn't turn out quite as I had hoped for today. But I am grateful that we can all still be together in the ways that we can: as far as I know, none of you have fallen seriously ill. So I'll make my note in our Daily Jog Log, appreciate what we have, and look forward to what we can do together tomorrow.
+
+    https://forms.gle/e9Ur4qdQvvyLh5nVA
+
+Be well, do good work, stay in touch,
+Derek.
+
