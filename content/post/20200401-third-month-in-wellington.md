@@ -69,10 +69,9 @@ journal paper to review.
 
 Sent weekly tips to SE 2024 and exhorted them to fill out the SE
 survey.
-* Get natural sunlight
-* Do coarse-grained activity logging
-* Explore local
-(will post links later)
+* <a href="/post/20200316-get-sunlight/">Get natural sunlight</a>
+* <a href="/post/20200323-logs/">Be intentional about your time</a>
+* <a href="/post/20200330-local/">Explore local</a>
 
 # Travels
 
@@ -100,7 +99,7 @@ Nope. Worked on Taranaki pics but there's a lot of triage left.
 <a href="/img/20200401-third-month/04392_queenstown_large.JPG"><img src="/img/20200401-third-month/04392_queenstown.JPG"></a>
 <a href="/img/20200401-third-month/20200318115947703_taranaki_summit_hoarfrost_v1_large.jpg"><img src="/img/20200401-third-month/20200318115947703_taranaki_summit_hoarfrost_v1.jpg"></a>
 <a href="/img/20200401-third-month/20200401_143940_wellington_large.jpg"><img src="/img/20200401-third-month/20200401_143940_wellington.jpg"></a>
-<figcaption style="text-align:center">Aspiring Hut, Queenstown, Taranaki, Wellington</figcaption>
+<figcaption style="text-align:center">Aspiring Hut, Queenstown (photo: Marie-Pascale Desjardins), Taranaki, Wellington</figcaption>
 </figure>
 
 
