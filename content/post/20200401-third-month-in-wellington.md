@@ -19,8 +19,8 @@ became not normal. The last 11 days have been a whirlwind, and only
 in the past few days have I been able to get some research done.
 
 <figure>
-<img src="/img/20200401-third-month/04317_sheep_portrait.JPG">
-<figcaption style="text-align:center">Sheep, not doing physical distancing</figcaption>
+<a href="/img/20200401-third-month/04317_sheep_portrait_large.JPG"><img src="/img/20200401-third-month/04317_sheep_portrait.JPG"></a>
+<figcaption style="text-align:center">Sheep, not implementing physical distancing</figcaption>
 </figure>
 
 Flights to YYZ and ATH in early May are definitely not happening. In
@@ -96,10 +96,10 @@ Nope. Worked on Taranaki pics but there's a lot of triage left.
 * <a href="https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/across-the-city/polhill-reserve-loop">Polhill Reserve Loop</a> + around Zealandia + Wrights Hill + Brooklyn Wind Turbine: 16.7km, 856m gain, from our front door 
 
 <figure>
-<img src="/img/20200401-third-month/04348_glacier_view_near_aspiring_hut.JPG">
-<img src="/img/20200401-third-month/04392_queenstown.JPG">
-<img src="/img/20200401-third-month/20200318115947703_taranaki_summit_hoarfrost_v1.jpg">
-<img src="/img/20200401-third-month/20200401_143940_wellington.jpg">
+<a href="/img/20200401-third-month/04348_glacier_view_near_aspiring_hut_large.JPG"><img src="/img/20200401-third-month/04348_glacier_view_near_aspiring_hut.JPG"></a>
+<a href="/img/20200401-third-month/04392_queenstown_large.JPG"><img src="/img/20200401-third-month/04392_queenstown.JPG"></a>
+<a href="/img/20200401-third-month/20200318115947703_taranaki_summit_hoarfrost_v1_large.jpg"><img src="/img/20200401-third-month/20200318115947703_taranaki_summit_hoarfrost_v1.jpg"></a>
+<a href="/img/20200401-third-month/20200401_143940_wellington_large.jpg"><img src="/img/20200401-third-month/20200401_143940_wellington.jpg"></a>
 <figcaption style="text-align:center">Aspiring Hut, Queenstown, Taranaki, Wellington</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ in NZ.
 Multipitch at Double Cone, George 14 220m (5.7 6p). Climbing reasonable. Descent challenging. Trip report to come. 15 hours car-to-car.
 
 <figure>
-<img src="/img/20200401-third-month/20200311_201921_double_cone_sunset.jpg">
+<a href="/img/20200401-third-month/20200311_201921_double_cone_sunset_large.jpg"><img src="/img/20200401-third-month/20200311_201921_double_cone_sunset.jpg"></a>
 <figcaption style="text-align:center">Sunset at Double Cone</figcaption>
 </figure>
 
