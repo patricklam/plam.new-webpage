@@ -23,7 +23,7 @@ me at Waterloo, send me a non-form-letter email and let's talk!
 I maintain work/life balance by participating in various hobbies,
 particularly rock climbing and judo, and sometimes hiking and
 skiing. I also volunteer with the <a href="https://ontarioallianceofclimbers.ca">Ontario Alliance of Climbers</a> as a Board member.
-My <a href+"/top/about">about page</a> has more details.
+My <a href="/top/about">about page</a> has more details.
 
 # Some profiles
 
