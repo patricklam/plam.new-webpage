@@ -1,0 +1,42 @@
+Hello SE Students,
+
+You are fortunate to have many professors who care about you. Some of them have been replying to my daily letters pointing out corrections. I will share some of those with you today.
+
+# DHL
+
+You are fortunate to be eligible for both the Engineering DHL and the Math DHL. Patrick Lam wrote in to remind me of that.
+
+Last week, I wrote to you about the rules for the Engineering DHL: I wrote that a single CR/NCR grade will mean that you do not qualify. That is true to a first-order approximation, but there are some important details I heard about today:
+
+1. If you choose the CR/NCR, then you do not qualify. If the instructor chooses to make the course grades CR/NCR, then you can you can ask the Engineering Associate Dean Undergraduate to manually do the calculations for your case.
+
+2. If you are overloading and have a DRNA course, then that doesn't matter: it can be CR/NCR no problem. DRNA = Degree Required, Not in Average. Since it is already defined to be not in your average it doesn't matter if it has a numerical grade or not for DHL calculations.
+
+Today, the Math Undergraduate Affairs Committee met and approved revised rules for the Math DHL. As long as you are enrolled in 5 courses and have numerical grades for at least two of them, and the average of those is at least 87%, then you qualify. Usual rules about no failed or excluded courses, no incompletes, and so on.
+
+Now, you should understand that this is all preliminary information. It is possible that a higher level committee will change this information. And maybe I made a mistake. But probably these are the rules that will be applied in both cases.
+
+# Date of Easter
+
+Prof Dan Berry pointed out that I made an off by one error in describing the date of Easter. I wrote:
+
+the first Sunday after the first full moon after the spring equinox
+
+But really it is:
+
+the first Sunday after the first full moon ON or after the Spring Equinox
+
+If there is a full moon on the spring equinox then these definitions are a month apart. That's what I get for relying on Wikipedia and the popular press for technical information. Dan uses a more authoritative book written by two computer scientists, called _Calendrical_Calculations_, which is full of algorithms for doing all of these calculations. 
+
+    https://www.amazon.ca/Calendrical-Calculations-Nachum-Dershowitz/dp/0521702380
+
+It looks like a really exciting book that covers calendar systems from many cultures. I hope I get a chance to work it into some of my teaching sometime. Maybe I can use some of the algorithms from this book as example code in my compilers class.
+
+# Face Masks
+
+Today Canada's Chief Medical Officer of Health recommended that Canadians wear homemade cloth masks while in shared public spaces such as grocery stores. The Centers for Disease Control has made a similar recommendation for Americans. The purpose of these homemade masks is not to protect the wearer, but to prevent the wearer from inadvertently infecting others. 
+
+I am using my daughter's old T-shirts. Just enough of my head can fit through the neck hole so that I can see. It's an exciting new accessory to my outfits. When I went to the LCBO, I wore a black-and-white striped one to look like a robber. When I went to visit the old lady (at an appropriate physical distance) who lives down the hall, I wore one with pink hearts. Have fun with your new fashion accessory when you go grocery shopping.
+
+Be well, do good work, stay in touch,
+Derek.
