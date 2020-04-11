@@ -1,0 +1,22 @@
+Hello SE Students,
+
+I hope you had a Good Friday. Those of you studying for exams might not have noticed that today is a national holiday. Here's how SE education went at my house this morning with my six-year old:
+
+Charlotte: [with a mischievous glint in her eye] What's 2+2?
+Derek: 4
+Charlotte: No! It's 22!
+Derek: That's concatenation, not addition.
+Charlotte: I don't know what concatenation is.
+Derek: You're just the age to learn. Do you want me to write it down? 
+ 
+
+This is something you need to know for when you're a programmer.
+Charlotte: I'm not going to be a programmer!
+Derek: Why not?
+Charlotte: I'm not a machine that programs computers! I'm a human being that kicks daddy!
+[Proceeds to kick Derek in the shins.]
+
+Good luck with your studying! 
+
+Be well, do good work, stay in touch,
+Derek.
