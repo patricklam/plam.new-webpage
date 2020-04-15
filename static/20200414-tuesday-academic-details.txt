@@ -1,0 +1,52 @@
+
+Hello SE Students,
+
+Recall that the university made a decision that for the winter term only students can choose to convert individual numeric grades into pass/fail: that is, CR/NCR for Credit/No-Credit. The CR/NCR choice period is April 26 to May 10. You do the conversion of individual grades to CR/NCR in Quest if you want. Probably most of you will not want to for most grades. But if you do it, what are the implications?
+
+How does Engineering know you passed the term if you have a mixture of numeric grades and CR/NCRs? This is the "promotion" decision. They just published new rules for that:
+
+     https://uwaterloo.ca/engineering/current-undergraduate-students/academic-support
+     https://uwaterloo.ca/engineering/sites/ca.engineering/files/uploads/files/w2020-modified-promotion-rules-eng-arch.pdf
+     https://youtu.be/a6fpzYC9ET8
+
+Promotion rules are about whether you pass and graduate. SE students are governed by Engineering's promotion rules, which are based on your term average. (FYI, CS uses Math promotion rules, which are based on your CS-Major Average and your Math-Major Average and your Cumulative Overall Average.) You can read the rules and watch the video, so I'll just try to give you some brief highlights here:
+
+    If you get an average in the 50s, convert all your grades to CR/NCR and you will pass the term.
+    If you fail the term, then you will automatically (without petition), get FLRN instead of the usual FLR. That means "failure no penalty". So you still need to repeat the term, but it doesn't count towards your number of failed terms (maximum 2).
+    If you get a numeric grade that you don't like but is above 60% then I suppose you could convert it to CR but I'm not sure exactly what the benefit of that is.
+    If you are overloading and have a DRNA course (Degree Required Not in Average) then it already defined to be excluded from your average, so there isn't too much point in converting it to CR/NCR. But you could.
+
+Ok, but promotion is not the only thing that depends on grades. There are also:
+
+    DHL: Deans Honour List. More details below.
+    Scholarships. You'll need to look at the individual rules for your individual scholarship.
+
+# DHL -- this section is a rehash of information I already told you in a previous email, for your convenience
+
+SE students are uniquely eligible for both the Engineering DHL and the Math DHL. They are calculated in different ways. The Math way is basically that your term average is 87% or higher. The Engineering way depends on your term average but also on your ranking, so it's more complicated.
+
+## Math DHL
+
+These rules are easy. As long as you are enrolled in 5 courses and have numerical grades for at least two of them, and the average of those is at least 87%, then you qualify. Usual rules about no failed or excluded courses, no incompletes, and so on.
+
+## Engineering DHL
+
+This is a bit more complicated. If a CR/NCR appears on your transcript, then it depends how it got there: did the instructor convert the whole course to CR/NCR, or did you choose it?
+
+1. If you choose the CR/NCR, then you are disqualified from the Engineering DHL for this term.
+
+2. If the instructor chose to give the entire class CR/NCR grades, then you will need to write to the Engineering Associate Dean Undergraduate's Office for manual consideration of your case. The automated system for computing the Engineering DHL won't process your record.
+
+3. If you are overloading and have a DRNA course, then that doesn't matter: it can be CR/NCR no problem. DRNA = Degree Required, Not in Average. Since it is already defined to be not in your average it doesn't matter if it has a numerical grade or not for DHL calculations.
+
+# News on My Daily Emails
+
+We'll run these daily emails through to the end of the week, and then we'll transition to weekly emails. The point of the daily emails has been to communicate important academic news to you, and to try to build community in this time of disruption and dislocation, and to try to coach you a bit on structuring your life in this new stay-at-home world. That will take us to five weeks of the daily email, which essentially started on Friday, March 13th when the university moved online. The rate of academic news is slowing, and at this point you don't need to hear more wellness ideas so much as to implement them in your lives. Weekly emails will be a more appropriate frequency as we settle in to this new normal.
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
