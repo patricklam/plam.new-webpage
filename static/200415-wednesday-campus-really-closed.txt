@@ -1,0 +1,35 @@
+Hello SE Students,
+
+Three small things today:
+
+1. DO NOT GO TO CAMPUS
+
+As I believe you have been notified from the Campus Safety Office, campus is now really locked. Even professors and staff are locked out, except for perhaps some plant operations people. Maybe a few people are allowed to reboot servers. Campus Police now have a very short list of people who are allowed, and are ticketing other people under the new provincial emergency orders.
+
+2. Student email addresses migrating to @uwaterloo.ca April 25-27
+
+I think you have also been notified that your student email addresses will migrate away from @edu.uwaterloo.ca to @uwaterloo.ca in the April 25-27 window, after exams are over.
+
+This will be good for us, because then students and faculty will be in the same address book and calendaring system.
+
+3. Habits
+
+This week I'm discussing habits a bit because it was the topic of two capstone projects this year, and it's highly relevant to our new unstructured working-from-home lives. As you might know, this week Ontario extended emergency orders by another month. I expect that will happen again -- just my guess. So, what can we learn from the capstone projects of SE2020 that might help us here?
+
+Habit Loop: Cue -> Routine -> Reward
+
+Habitica: An RPG that you play by scoring your habits. I started playing this with my kids this week. It's kind of complicated for them, but they're really in to it. They've done way more dishes and laundry this week than in any other week. It allows you to join a "party", and so work together with your friends on quests etc. This social feature might be particularly valuable in our current circumstances. One of the things that being physically at school gives you is social affirmation of positive learning habits. Maybe Habitica can help with that now that campus is truly locked up.
+
+Habitica, or any gamification, focuses on the Reward part of the Habit Loop. To be really successful with positive habit formation (or negative habit removal), you also need to focus on the Cues that are getting you to do the habit.
+
+    https://charlesduhigg.com/how-habits-work/
+    https://habitica.com/static/home
+
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
