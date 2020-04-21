@@ -115,7 +115,10 @@ leaving the bottom. Pitches went at about 40-50 minutes each,
 including setting up gear anchors. This got us to the summit (Double
 Cone North Peak) at 17:55, so 2 hours before sunset.
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8764/category/1221">
+<p style="text-align:center; margin-bottom: 0">
+<a href="https://gallery.patricklam.ca/picture.php?/8737/category/1221">
+<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311181017434_mp_on_summit-me.jpg"></a>
+<a href="https://gallery.patricklam.ca/picture.php?/8764/category/1221">
 <img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_175536-EFFECTS_summit-me.jpg"></a>
 </p>
 
