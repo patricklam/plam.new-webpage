@@ -1,0 +1,66 @@
+ Hello SE Students,
+
+Hope you are doing well as the term winds down. Some of you have written in recently with more questions about the CR/NCR thing. I'll try to expand my previous answers here in light of the new questions, and also some new details that I've got from the Associate Dean Undergraduate Engineering and the Registrar's Office.
+
+One other thing first: You should now all have access to EngAdvisor. This is a system that was formerly called SE Advisor, and was created by past SE Director Andrew Morton (now ECE Associate Chair Undergraduate). It let's you see which elective slots you need to fill. It was previously the case that all SE students had access to it, and then some privacy concerns came up so it got locked down to staff only, but now it's been through a privacy audit and had some technical changes and available to you again. The technical lesson here is: don't store user data; let someone else handle that problem for you. Good lesson for your capstone projects.
+
+    https://engadvisor.uwaterloo.ca/advisor/
+
+CR/NCR. Here are the special promotion rules:
+
+    https://uwaterloo.ca/engineering/current-undergraduate-students/academic-support
+    https://uwaterloo.ca/engineering/sites/ca.engineering/files/uploads/files/w2020-modified-promotion-rules-eng-arch.pdf
+    https://youtu.be/a6fpzYC9ET8
+
+
+Recommendation #1: If you write to us for advice about this, or any other academic thing really, don't ask just an abstract policy question. That's what most students do: they write in quoting some rule and asking a question about it. Why is this a poor approach? What could be better?
+
+    * Asking abstract policy questions is a poor approach for several reasons:
+        - You might not understand what the terms actually mean. So you could be saying abstract words and we could be saying the same abstract words, yet both of us having different definitions of those terms in our heads.
+        - You might not understand the context of the rule. Sometimes a rule only applies in a particular context that you aren't in.
+        - You might not be familiar with the "case law" around the issue. There are two general systems of law: Common Law (British origin), and Civil Code (French origin). In a common law tradition, prior decisions set precedent around how rules are interpreted. That's the tradition we mostly live in at UW. In a Civil Code system, each magistrate derives decisions from first principles every time. That's the mental model that most of you have when you write in with questions.
+        - Usually you are motivated to ask the abstract policy question because you are trying to achieve a particular goal. There might be a better way to achieve that goal that does not involve the rule you are asking about.
+    * Asking a concrete question about your own personal situation is better.
+        + That's the question that you actually want to ask.
+        + When you write in with the abstract policy question, your mental strategy is to try to interpret the answer in your particular context for your own reasons. It's better to ask your academic advisor to help with that interpretation, for the reasons included above and more.
+
+
+Some Details about CR/NCR. 
+
+    * These new promotion rules were written for the purpose of defining how to determine if a student has passed the term or not (that's what "promotion" is).
+    * The phrasing around averages is confusing for those of you with high grades who are trying to optimize how your transcript appears for awards and outsiders.
+    * These new rules are Faculty of Engineering --- not something the SE Office can change.
+    * Engineering promotion:
+        + If you have a CR/NCR, then you don't have a term average for the purposes of promotion.
+        + Usually you need a term average of 60% to pass the term.
+        + But if you have a CR/NCR, then how to know if your term average is at least 60%?
+        + That's the question the promotion rules are trying to address.
+    * Unofficial transcript.
+        + This is what you look at in Quest.
+        + It will still compute a Term Average based on all of your numeric grades for the W20 term.
+        + It will still compute a Cumulative Average based on all of your numeric grades.
+        + This Cumulative Average is used for some advising purposes. For example, if you want to take CO 485 Mathematics of Public-Key Cryptography, then you need to have a Cumulative Average of at least 80%.
+        + This Term Average is what is used for the Math Term DHL. If your Term Average is at least 87% and you have at least two numeric grades then you qualify for the Math Term DHL.
+    * Official Transcript.
+        + You have probably never seen this, and you probably never will.
+        + This is what gets sent to other universities if you apply to grad school. The UW Registrar sends it directly to the other university, so you wouldn't see it unless you ordered one to be sent to yourself.
+        + This contains no averages of any sort.
+        + The grad school you apply to will compute your average according to their own rules. Maybe they will ignore first year. Maybe they will focus on certain kinds of technical courses. For example, inside UW, CS undergraduate advising is based on your Math Major Average and your CS Major Average. Those don't appear in Quest. Find out how the grad school you want to apply to thinks about grades.
+        + All around the world there will be weird things on university transcripts in 2020. So I don't think you need to worry about it too much. This issue is way bigger than you and way bigger than UW.
+    * Graduation Awards
+        + CR/NCR should not affect your eligibility for graduation awards.
+        + Exception for Engineering Graduation DHL:
+            = If you choose a CR, then you aren't eligible for the Engineering Term DHL. (You are still eligible for the Eng Term DHL if an instructor gives everyone CR.)
+            = To get the Engineering Graduation DHL, you need to be on the Engineering Term DHL twice after first year.
+
+If you're wondering about making a CR/NCR decision and unsure of how to interpret the rules, please explain the specific decision you are thinking about and what you perceive the trade-offs to be. Then we can help you figure it out.
+
+Phew, that's a lot of words. Ok, time for me to cook dinner with the kids. On another day I'll tell you about the exciting meeting the SE Curriculum Committee had yesterday.
+
+Be well, do good work, stay in touch,
+--
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
