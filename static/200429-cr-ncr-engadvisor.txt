@@ -64,3 +64,48 @@ Derek Rayside, PhD, PEng
 Director, Software Engineering
 University of Waterloo
 Calendar. DC-2539 or E7-5426.
+
+Updated a few hours later:
+
+Hello SE Students,
+
+Congratulations! We found a bug! Thanks to your detailed questions and my persistence in pursuing answers, we have helped Engineering and the Registrar's Office connect with each other in the realization that they were not on the same page about how this CR/NCR thing is going to work.
+
+The Registrar's Office is now trying to figure out how to make Quest follow the new rules:
+
+    If there is a CR/NCR grade, then there will be NO TERM AVERAGE COMPUTED.
+    If there is a CR/NCR grade, then the remaining numeric grades WILL NOT BE INCLUDED IN YOUR CUMULATIVE AVERAGE.
+
+Yes, that is not what I said before. The reason is that the Registrar's Office and Engineering were telling me different, conflicting things. I had tried to make sense of those different, conflicting messages in my head with the assumption that they were on the same page with each other, but it turns out that they were not.
+
+How will they make Quest do this? I don't know. One possibility is that if you have a CR/NCR grade that they will code the remaining numeric grades as DRNA = Degree Required Not In Average. When you overload a course or take a course on co-op (under usual circumstances), it also gets coded DRNA.
+
+Some other good questions that you have asked me that I do not yet have answers to:
+
+    What will employers see in Waterloo Works?
+    What do grad schools do with your official transcript? Do grad schools understand DRNA?
+
+
+Keep up the good questions.
+
+Best wishes,
+Derek.
+
+--
+
+Hello SE Students,
+
+And one other thing that Patrick Lam corrected me on:
+
+For Engineering Graduation DHL, you need to be on Engineering DHL for two terms AFTER FIRST YEAR. So apparently 1A and 1B terms on Engineering term DHL do not count towards the Engineering Graduation DHL.
+
+Best wishes,
+Derek.
+
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
+
