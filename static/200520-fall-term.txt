@@ -1,0 +1,23 @@
+Hello SE Students,
+
+Hope you and your family are doing well and getting settled in to the new term. Three things today:
+
+1. Fall Term. We are still working out what exactly might be happening in the fall. Right now it very much looks like you will have the option to study online/remotely. Look, there are some students who will be prevented from travelling to Waterloo because of the global pandemic. So the university needs to support the possibility of remote/online study. I'm 99% confident in that, and expect we'll get 100% confidence over the next week or so. So no need to rent a place in Waterloo for fall if you don't want to.
+
+2. Indy 500 Autonomous Challenge. The people who organize the Indy 500 car race are now also running an autonomous racecar challenge. A grad student and I got us entered in the challenge. But now we need to build a team ASAP. The kickoff hackathon is on Thursday. The next two stages of the challenge, which cover the next year or so, are all in software simulation. If we win the software simulation, then they give us a pile of money and a real racecar. This would be a good FYDP for those of you in SE2021 or SE2022. Let me know if you're interested. Individuals welcome to join. If you've got friends outside SE with skills they can join too.
+
+    https://www.indyautonomouschallenge.com/
+
+3. Jo Atlee wins IEEE Award. Our founding Director of SE at Waterloo, Prof Jo Atlee from CS, just won an important award from the IEEE TCSE (Technical Council on Software Engineering):
+
+    https://cs.uwaterloo.ca/news/jo-atlee-receives-2020-ieee-tcse-distinguished-wise-leadership-award
+
+Hey class reps, let's chat soon to see how things are going with the new term.
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
