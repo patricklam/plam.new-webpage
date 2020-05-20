@@ -1,0 +1,37 @@
+Hello SE Students,
+
+I hope you are doing well. Wow, hard to believe the spring term starts on Monday. UW President Hamdullahpur has said that, starting Monday, Waterloo will be the largest online university in Canada and in Canadian history.
+
+Last week the SE Curriculum Committee met and voted to expand all of your elective lists:
+
+    More technical electives
+        CS has created a new course CS 479 Neural Networks
+        ECE has created three new courses
+            ECE 495 Autonomous Vehicles
+            ECE457C Reinforcement Learning
+            ECE410 Internet of Things Signal Processing
+        ECE has changed their curriculum to explicitly state that some third year courses count as technical electives, and has also renumbered some courses.
+            ECE320 Computer Architecture (renumbering of ECE429)
+            ECE327 Digital Hardware Systems (counts as TE for ECE students)
+                Also, I got the prerequisites for this changed to make it easier for you to enroll: you just need ECE222 now.
+            ECE340 Electronic Circuits 2 (counts as TE for ECE students)
+            ECE313 Digital Signal Processing (renumbering of ECE413)
+        The third elective slot has been opened up to other interesting courses across the Faculties of Engineering and Mathematics, so you now have access to selections from SYDE, MSCI, MTE (Tron), Stats, C&O, etc.
+
+    More science electives. ECE recently expanded their list, so we voted to add everything on their list to our list.
+
+    More communications electives. A small subset of you consider yourselves very good writers and would like to take something more challenging than ENGL109. I worked with George Lamont from English to identify some courses that would be appropriate in these cases. The prerequisite for these course is just level 2A. You need to pick the right course for you: English will let you enroll in ENGL209 even if you haven't taken ENGL109, but don't do that unless you're ready for it.
+        ENGL 209 Advanced Academic Writing
+        ENGL 210E Technical Writing
+        ENGL 309C Contemporary Rhetoric
+
+
+Full details are in the meeting minutes attached. Formally, these decisions need to go through four or five more committees before they become official in the 2021-2022 calendar, but we're willing to take a speculative execution approach because these decisions are non-controversial and unlikely to be struck down by the higher committees. Mostly we are following changes in the ECE and CS curricula, which is part of our core mandate. So we will approve you taking these courses now.
+
+Be well, do good work, stay in touch,
+-- 
+
+Derek Rayside, PhD, PEng
+Director, Software Engineering
+University of Waterloo
+Calendar. DC-2539 or E7-5426.
