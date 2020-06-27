@@ -58,6 +58,7 @@ Analyses for Data Structure Consistency</a>
  Patrick Lam, Etienne Gagnon and Charles Godin.  OOPSLA 2000:  <a href="/papers/vta.ps">Practical Virtual Method Resolution for Java</a> [<a href="/papers/vta.bib">bib</a>].  </li>
   <li>Raja Vall&eacute;e-Rai, Etienne Gagnon, Laurie Hendren, Patrick Lam, 
 Patrice Pominville, and Vijay Sundaresan.  CC 2000: <a href="/papers/cc2000.ps">Optimizing Java Bytecode using the Soot Framework: Is it Feasible?</a> [<a href="/papers/cc2000.bib">bib</a>] (I gave the <a href="/papers/cctalk.ps">presentation</a> for this paper.)</li>
+  <li>Raja Vall&eacute;e-Rai, Phong Co, Etienne Gagnon, Laurie Hendren, Patrick Lam, and Vijay Sundaresan. CASCON 1999: <a href="/papers/99.cascon.soot.pdf">Soot: A Java bytecode optimization framework</a>.</li>
 </ul>
 
 # Posters and Presentations
