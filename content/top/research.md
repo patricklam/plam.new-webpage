@@ -8,7 +8,7 @@ published:  true
 
 # Research
 
-My <a href="/publications/">publications</a> contain
+My <a href="/top/publications/">publications</a> contain
 more technical descriptions of my research. 
 
 <p> My research aims to develop tools and techniques to help
