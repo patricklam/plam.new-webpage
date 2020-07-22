@@ -1,7 +1,7 @@
 # Refereed Publications
 
 <ul>
-  <li>Patrick Lam, Jens Dietrich, and David J. Pearce. Onward Essays 2020: <a href="/papers/20.onward.semsemver.pdf"></a>Putting the Semantics into Semantic Versioning (as submitted)</a>. [<a href="/papers/20.onward.semsemver.bib">bib</a>]>/li>
+  <li>Patrick Lam, Jens Dietrich, and David J. Pearce. Onward Essays 2020: <a href="/papers/20.onward.semsemver.pdf"></a>Putting the Semantics into Semantic Versioning (as submitted)</a>. [<a href="/papers/20.onward.semsemver.bib">bib</a>]</li>
   <li>Jon Eyolfson and Patrick Lam. ICSE 2019: <a href="/papers/19.icse.empirical-static-const.pdf">How C++ Developers Use Immutability Declarations: an Empirical Study</a>. [<a href="/papers/19.icse.empirical-static-const.bib">bib</a>]</li>
   <li>Andrei Marian Dan, Patrick Lam, Torsten Hoefler, and Martin Vechev. OOPSLA 2016: <a href="/papers/16.oopsla.rma-alloy.pdf">Modeling and Analysis of Remote Memory Access Programming</a>. [<a href="/papers/16.oopsla.rma-alloy.bib">bib</a>, <a href="/files/rma-alloy.xz">artifact</a>]</li>
   <li>Jon Eyolfson and Patrick Lam. ECOOP 2016: <a href="/papers/16.ecoop.dynamic-immutability.pdf">C++ const and Immutability: An Empirical Study of Writes-Through-const</a>. [<a href="/papers/16.ecoop.dynamic-immutability.bib">bib</a>, <a href="http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=6124">artifact</a>]</li>
