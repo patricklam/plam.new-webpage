@@ -1,7 +1,8 @@
 # Refereed Publications
 
 <ul>
-  <li>Qian Liang and Patrick Lam. SiblingClassTestDetector: Finding Untested Sibling Functions. ICSME NIER 2020 (37% accept rate). [<a href="/papers/20.icsme.nier.hierarchy-analysis.bib">bib</a>]
+  <li>David Carter, Garrett Hutson, Nate Furman, Jeff Rose, and Patrick Lam. Journal of Outdoor Recreation and Tourism. <a href="/papers/20.jort.climbers-self-governance.pdf">The Self-Governance Challenges Facing Climbers, with Examples from Utah, Colorado, and Ontario</a>.</li>
+  <li>Qian Liang and Patrick Lam. ICSME NIER 2020: <a href="/papers/20.icsme.nier.hierarchy-analysis.pdf">SiblingClassTestDetector: Finding Untested Sibling Functions</a>. [<a href="/papers/20.icsme.nier.hierarchy-analysis.bib">bib</a>]</li>
   <li>Patrick Lam, Jens Dietrich, and David J. Pearce. Onward Essays 2020: <a href="/papers/20.onward.semsemver-submission.pdf">Putting the Semantics into Semantic Versioning (as submitted)</a>. [<a href="/papers/20.onward.semsemver.bib">bib</a>, <a href="https://arxiv.org/abs/2008.07069">arXiv</a>]</li>
   <li>Jon Eyolfson and Patrick Lam. ICSE 2019: <a href="/papers/19.icse.empirical-static-const.pdf">How C++ Developers Use Immutability Declarations: an Empirical Study</a>. [<a href="/papers/19.icse.empirical-static-const.bib">bib</a>]</li>
   <li>Andrei Marian Dan, Patrick Lam, Torsten Hoefler, and Martin Vechev. OOPSLA 2016: <a href="/papers/16.oopsla.rma-alloy.pdf">Modeling and Analysis of Remote Memory Access Programming</a>. [<a href="/papers/16.oopsla.rma-alloy.bib">bib</a>, <a href="/files/rma-alloy.xz">artifact</a>]</li>
