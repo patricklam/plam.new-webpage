@@ -1,7 +1,7 @@
 # Refereed Publications
 
 <ul>
-  <li>David Carter, Garrett Hutson, Nate Furman, Jeff Rose, and Patrick Lam. To appear in Journal of Outdoor Recreation and Tourism. <a href="/papers/20.jort.climbers-self-governance.pdf">The Self-Governance Challenges Facing Climbers, with Examples from Utah, Colorado, and Ontario</a>.</li>
+  <li>David Carter, Garrett Hutson, Patrick Lam, Nate Furman, and Jeff Rose. To appear in Journal of Outdoor Recreation and Tourism. <a href="/papers/20.jort.climbers-self-governance.pdf">The Self-Governance Challenges Facing Climbers, with Examples from Utah, Colorado, and Ontario</a>.</li>
   <li>Qian Liang and Patrick Lam. To appear at ICSME NIER 2020: <a href="/papers/20.icsme.nier.hierarchy-analysis.pdf">SiblingClassTestDetector: Finding Untested Sibling Functions</a>. [<a href="/papers/20.icsme.nier.hierarchy-analysis.bib">bib</a>]</li>
   <li>Patrick Lam, Jens Dietrich, and David J. Pearce. To appear at Onward Essays 2020: <a href="/papers/20.onward.semsemver-submission.pdf">Putting the Semantics into Semantic Versioning (as submitted)</a>. [<a href="/papers/20.onward.semsemver.bib">bib</a>, <a href="https://arxiv.org/abs/2008.07069">arXiv</a>]</li>
   <li>Jon Eyolfson and Patrick Lam. ICSE 2019: <a href="/papers/19.icse.empirical-static-const.pdf">How C++ Developers Use Immutability Declarations: an Empirical Study</a>. [<a href="/papers/19.icse.empirical-static-const.bib">bib</a>, <a href="https://zenodo.org/record/2577579">artifact</a>]</li>
