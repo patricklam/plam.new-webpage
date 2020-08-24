@@ -9,7 +9,7 @@ Here's some of the courses that I've taught in the past.
 *  [W19, W18, W15, W14, W13, W11] ECE459: Programming for Performance [<a href="https://github.com/jzarnett/ece459">github</a>]
 *  [F18, F16] SE 101: Introduction to Methods of Software Engineering [<a href="https:///github.com/patricklam/se101-f18">F18</a>, <a href="https:///github.com/patricklam/se101-f16">F16</a>]
 * [S12, F08] ECE750-T5, Spring 2012: Static Analysis for Software Engineering.
-* [S11, W11] ECE155: Engineering Design for Embedded Systems. [<a href="teaching/ece155-s11.pdf">S11 syllabus</a>, <a href="teaching/ece155-w11.pdf"</a>W11 syllabus</a>]
+* [S11, W11] ECE155: Engineering Design for Embedded Systems. [<a href="teaching/ece155-s11.pdf">S11 syllabus</a>, <a href="teaching/ece155-w11.pdf">W11 syllabus</a>]
 * [F10] ECE 251: Programming Languages and Translators
 * [W08] ECE 493T3: Component-Based Software Engineering
 * [S06] COMP 302 (McGill): Programming Languages and Paradigms [<a href="teaching/comp302-s06.pdf">syllabus</a>]
