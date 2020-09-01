@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
 published:  true
-image:      "/img/20200724-akaroa/20200710_113446.vr_akaroa_head.jpg"
+image:      "/img/20200831-august/20200808_173120_waterloo_peak_and_friends_header.jpg"
 showtoc:    true
 
 ---
