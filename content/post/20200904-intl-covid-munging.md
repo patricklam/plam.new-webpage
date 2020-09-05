@@ -82,7 +82,7 @@ to hundreds (July onwards).
 I'd read about Israel really not doing well, and I'd looked at France's numbers.
 In the thousands category, Germany, Italy and the UK are well below their historical peaks,
 while Israel keeps on increasing (I've read multiple pieces about how it was controlled
-and then got away), and Frence is at mid-thousands and near its peak.
+and then got away), and France is at mid-thousands and near its peak.
 
 ## PS
 
