@@ -1,0 +1,36 @@
+<!--  https://github.com/mroughan/AlephZeroHeroesData/blob/master/Code/Hugo/csv_table.html -->
+{{ if .Get "maxLines"}}
+   {{ $.Scratch.Set "maxLines" (.Get "maxLines" | int)  }}
+{{ else }}
+   {{ $.Scratch.Set "maxLines" 1000 }}
+{{ end }}
+
+{{ if .Get "colStyle"}}
+   {{ $.Scratch.Set "colStyle" (.Get "colStyle")  }}
+{{ else }}
+   {{ $.Scratch.Set "colStyle" "" }}
+{{ end }}
+
+{{ $arg := .Get 0 }}
+{{ $csv := getCSV "," $arg }}
+
+<table>
+  {{ range $i, $r := (first 1 $csv) }} 
+    <thead><tr>
+       {{ range $j, $s := $r}}
+        <th style="text-align:right;">{{ $s }}</th>
+       {{ end }}
+    </tr> </thead>
+  {{ end }}
+  {{ range $i, $r := (first ($.Scratch.Get "maxLines") (after 1 $csv)) }}
+    {{ if eq (index $r 1) "SUBHEAD" }}
+       <tr style="text-align: left"> <td colspan="6"> <strong> {{ index $r 0 }} </strong> </td> </tr>
+    {{ else }}
+       <tr>
+         {{ range $j, $s := $r }}
+            <td style="text-align: right; {{ $.Scratch.Get "colStyle" | safeCSS }}"> {{ $s }} </td>
+         {{ end }}
+       </tr>
+    {{ end }}
+  {{ end }}
+</table>
