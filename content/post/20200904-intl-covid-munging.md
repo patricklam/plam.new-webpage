@@ -44,7 +44,12 @@ it's not going to generally be evenly-distributed across the whole
 country, but rather in a couple of hotspots.  We saw, for instance,
 how New York was a hotspot for the US, and how Quebec was a hotspot
 for Canada. (I will agree that per-capita numbers in e.g. a city say
-something about how likely it is to encounter a case in that city.)
+something about how likely it is to encounter a case in that city.
+[Edit: A valid implication is that per-capita numbers in a city can serve
+as an approximation of the risk level involved in being out and around
+in that city; but I'll reiterate that I don't think that one should say
+that X is doing better or worse than Y because its per-capita number
+is lower or higher.])
 
 So here are the results of my data munging.
 
