@@ -12,6 +12,13 @@ showtoc:    true
 
 ---
 
+Finally, part 1. <a href="/post/20200723-penguins/">Part 2: Pohatu Penguins.</a> <a href="/post/20200822-arthurs-pass-and-the-tranzalpine">Part 3: Arthur's Pass and the TranzAlpine.</a> <a href="/post/20200718-breakfree/">Part 3b: BreakFree on Cashel</a>.
+
+All the pictures: <a href="https://gallery.patricklam.ca/index.php?/category/1227">gallery</a>
+
+
+# Introduction
+
 As soon as the Great Walks bookings opened after lockdown, we thought
 we would sign up for at least one, to see what they were like. At this
 point I can’t remember why, but we chose the Heaphy Track as our first
@@ -343,3 +350,7 @@ Dinner was at Costas Taverna in a suburban Christchurch power centre.
 Despite the location, it was quite good.
 
 An exhausting day!
+
+# Next part
+
+Continue reading at <a href="/post/20200723-penguins/">July 10: Pohatu Penguins</a>.
