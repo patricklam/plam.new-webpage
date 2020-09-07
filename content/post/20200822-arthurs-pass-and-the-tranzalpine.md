@@ -12,7 +12,7 @@ showtoc:    true
 
 ---
 
-Here's the third part of this South Island trip. Part 1 still to come. <a href="/post/20200723-penguins/">Part 2: penguins, Mount Sunday, and Christchurch</a>. <a href="/post/20200715-breakfree/">Part 3b: BreakFree on Cashel</a>.
+Here's the third part of this South Island trip. <a href="/post/20200905-heaphy-track/">Part 1: Heaphy Track.</a> <a href="/post/20200723-penguins/">Part 2: penguins, Mount Sunday, and Christchurch</a>. <a href="/post/20200718-breakfree/">Part 3b: BreakFree on Cashel</a>.
 
 On my list of “things to check for re-opening” was New Zealand railway trips. So when I saw that the <a href="https://www.youtube.com/watch?v=vS_wiDrE_IU">TranzAlpine</a> was re-opening for <a href="https://www.kiwirail.co.nz/media/tranzalpine-to-resume-next-month/">$75 winter fares</a>, I talked MP into a trip from Christchurch. Like the Heaphy, this trip leaves you far away from where you started, and on the wrong side of the Southern Alps. The train is logistically easier because at least you're in a town, Greymouth. But that town is still remote enough that one can buy a starter home for $95k. The solution here is easier than for the Heaphy though: you just take the train back.
 
@@ -68,7 +68,7 @@ Back on the train. After the superlatively-long tunnel, the scenery was nice (bu
 {{< gallery-slider dir="/img/20200822-tranzalpine-6" id="6" >}}
 </div>
 
-Bonus: Review of the <a href="/post/20200715-breakfree">BreakFree on Cashel</a>.
+Bonus: Review of the <a href="/post/20200718-breakfree">BreakFree on Cashel</a>.
 
 # July 15: Wellington via Kaikoura
 
