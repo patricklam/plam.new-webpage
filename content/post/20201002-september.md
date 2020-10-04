@@ -31,7 +31,7 @@ behind. At least I have a while before the next trip.
 There was a judo camp in Christchurch in lieu of the tournament, which was
 hard work. Smaller camp in Wellington as well. So a lot of judo training: in
 all, 11 sessions. Would have loved to get another one in Christchurch before returning
-to Wellington but the runny nose was a bit worrisome these days. Called Healthline
+to Wellington but the runny nose was a bit worrisome in these days of pandemic, even/especially in New Zealand. Called Healthline
 a few days later and they cleared me based on symptoms, although they said I could
 get a test for my peace of mind if I wanted. I guess I actually got a cold this year.
 
@@ -41,11 +41,11 @@ get a test for my peace of mind if I wanted. I guess I actually got a cold this 
 </div>
 
 The University of Waterloo has officially declared that Winter 2021 will be
-mostly-remote like Fall 2020 was. So we'll be staying in New Zealand for a while.
+mostly-remote, i.e. like Fall 2020 was. So we'll be staying in New Zealand for a while.
 Feels like a good call with the numbers increasing again in Quebec and Ontario.
 Fortunately, I have a NZ work visa good through June 2021 and MP is applying for
-Partner of a Worker Work visa (after waiting on the interim visa for almost 6 months
-after applying for a Visitor visa).
+Partner of a Worker Work visa (after waiting on an interim visa for almost 6 months
+after applying for a Visitor visa; fun fact: interim visas expire after 6 months).
 
 ## COVID-19
 Worldwide situation: NZ has no community transmission and continues to
@@ -59,7 +59,7 @@ transit, though I believe that Air New Zealand requires masks.
 
 I think the major transmission route in most countries is <a
 href="https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/edit">aerosols</a>,
-but there have been a few cases in NZ that are attributed to fomites,
+but there have been two cases in NZ attributed to fomites,
 since aerosols are generally well-contained.  The two cases are an <a
 href="https://www.stuff.co.nz/national/health/coronavirus/122512325/coronavirus-mystery-rydges-case-possibly-linked-to-use-of-hotel-elevator">elevator</a>
 and a <a
@@ -129,7 +129,7 @@ review.
 
 ## Teaching
 
-Definitely ECE459 Rustification took a bunch of time. Content and infrastructure.
+Definitely <a href="https://www.github.com/jzarnett/ece459">ECE459</a> <a href="https://github.com/jzarnett/ece459/blob/master/RustConversion.md">Rustification</a> took a bunch of time. Content and infrastructure.
 Figured out some GitHub Actions as well. I should make a GitHub action for this site.
 
 # Travels
@@ -140,7 +140,7 @@ really were like 15 minutes of chatting.
 
 * 🚶 Walking distance: 105km (no long hikes); two at-home zero days, one travel zero day.
 * 🚲 Biking distance: 153km (3× more than August, but that includes one 48km day); bike needs wheel replacement more now it seems.
-* ⛷️ Skiing distance: 5.3km? Dunno, one day of skiing at Mount Hutt.
+* ⛷️ Skiing distance: 5.3km? Dunno, one day of lift-served downhill skiing at Mount Hutt.
 * 🚗 Driving distance: 407km (Christchurch-Kaikoura, back via Mount Grey), chauffered 238km to Mount Hutt
 * ⛴ Boat distance: 45km, Kaikoura Albatross Encounter
 * 🚆 Train distance: 54km to Paraparaumu
@@ -150,7 +150,7 @@ really were like 15 minutes of chatting.
 ## Walks
 * Visited a bunch of Wellington apartments.
 * Part of <a href="https://ccc.govt.nz/parks-and-gardens/explore-parks/waterways/avon-river/te-ara-trail">Te Ara Ōtākaro Avon River Trail</a> in Christchurch.
-* <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/ka-whata-tu-o-rakihouia-clarence/things-to-do/tracks/mt-fyffe-and-the-seaward-kaikoura-range/">Mount Fyffe</a> overnighting at hut, best views in NZ.
+* <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/ka-whata-tu-o-rakihouia-clarence/things-to-do/tracks/mt-fyffe-and-the-seaward-kaikoura-range/">Mount Fyffe</a>, overnighting at hut, best views in NZ.
 * Mountain/road biking on <a href="https://kaikouracycling.co.nz/kaikoura-trail/">Kaikoura Trail</a> (ok, not a walk).
 * <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/mount-grey-maukatere-conservation-area/things-to-do/mt-grey-maukatere-tracks/">Mount Grey/Maukatere</a>, much better reward-to-effort ratio than Mount Fyffe. Climbed to cell phone tower subpeak, did not summit main peak.
 * bit of walking around Waikanae Estuary Scientific Reserve
