@@ -12,7 +12,7 @@ showtoc:    true
 
 ---
 
-I consolidated the list of restaurants we liked in New Zealand from my monthly summaries so far. Considering how few days we spent in Christchurch there are a surprisingly large number of restaurants from there. In general we've been doing a lot of cooking a home.
+I consolidated the list of restaurants we liked in New Zealand from my monthly summaries so far. Considering how few days we spent in Christchurch there are a surprisingly large number of restaurants from there. In general we've been doing a lot of cooking at home.
 
 # Wellington
 
