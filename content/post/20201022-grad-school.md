@@ -21,7 +21,10 @@ and very little is your courses. Of course you're not signing up for a
 PhD at the moment but instead a Master's, so it's not quite the same.
 
 There are two types of master's programs: course-based master's and
-research master's. I'd generally recommend against course-based
+research master's. More people should do a research master's: it's a different
+perspective on knowledge than you get in an undergrad, and you produce a bit of new
+knowledge.
+I'd generally recommend against course-based
 master's for people with Waterloo undergrad degrees; you've taken a
 bunch of courses and the incremental gain of taking more courses isn't
 as big as that of doing something new, i.e. research.
