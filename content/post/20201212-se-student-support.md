@@ -78,7 +78,10 @@ Services and place a postcard (provided by us) in a box. This gets
 students actually going to the physical space ahead of time in case they
 need to go there in the future.
 
+<figure>
 <img src="/img/20201212-se-student-support/IMG_20180913_104858.jpg">
+<figcaption style="text-align:center">Box by T. Gao, SE 2022</figcaption>
+</figure>
 
 # Crisis management
 
