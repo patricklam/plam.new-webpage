@@ -80,7 +80,7 @@ need to go there in the future.
 
 <figure>
 <img src="/img/20201212-se-student-support/IMG_20180913_104858.jpg">
-<figcaption style="text-align:center">Box by T. Gao, SE 2022</figcaption>
+<figcaption style="text-align:center">Box by Tina Gao, SE 2022</figcaption>
 </figure>
 
 # Crisis management
