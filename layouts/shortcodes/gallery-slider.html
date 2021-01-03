@@ -40,7 +40,7 @@
     -webkit-transition: all 0.66s ease;
 }
 
-.slide {
+.slide-{{ $.Scratch.Get "id" }} {
     list-style: none;
     position: relative;
     float: left;
@@ -91,7 +91,7 @@
             {{- $files := readDir (print "/static/" .) }} 
             {{- range $files -}} 
                 {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-                <li class="slide" style="background-image:url({{ $absoluteUrl }});"></li>
+                <li class="slide-{{ $.Scratch.Get "id" }}" style="background-image:url({{ $absoluteUrl }});"></li>
             {{- end }} 
         {{- end }}
     </ol>
@@ -114,7 +114,7 @@ sliderJQuery(function( $ ) {
         $.global[{{ $.Scratch.Get "id" }}].item = 0;
         $.global[{{ $.Scratch.Get "id" }}].total = slideCount;
 
-        $('.slide').css('width', slideWindowWidth + 'px');
+        $('.slide-{{ $.Scratch.Get "id" }}').css('width', slideWindowWidth + 'px');
         $('#slides-list-{{ $.Scratch.Get "id" }}').css('width', totalSlidesWidth + 'px');
 
         $('#left-{{ $.Scratch.Get "id" }}').click(function () {
