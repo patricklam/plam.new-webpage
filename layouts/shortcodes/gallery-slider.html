@@ -5,16 +5,14 @@
 {{ $.Scratch.Add "arrow-left" (.Get "arrow-left" | default "fa-chevron-left") }}
 {{ $.Scratch.Add "arrow-right" (.Get "arrow-right" | default "fa-chevron-right") }}
 
-{{ $.Scratch.Add "id" (.Get "id" | default "") }}
-
-{{ if ne (.Get "no-fa") "true" }}
+{{ $.Scratch.Add "id" (.Get "id" | default "") }}{{ if ne (.Get "no-fa") "true" }}
     <!-- FontAwesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 {{end}}
 
 {{ if ne (.Get "no-jquery") "true" }}
     <!-- JQuery -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
 {{end}}
 
 
