@@ -1,17 +1,64 @@
 ---
 layout:     post
 
-title:      "December: Christmas in NZ, 2.5 trips, a Great month"
-date:       2021-01-01
+title:      "2020"
+date:       2021-01-04
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
-published:  true
+published:  false
 image:      "/img/20210101-december/20201222_003709064-conical-hill-small.jpg"
 showtoc:    true
-summary:    "There's a lot more concluding to do in the year in review post that I'll do next. Let's focus on December. I'm very fortunate to have been able to see more of the South Island this month, including basically all of the highlights of Fiordland now. (Looking at the Dusky Track which is definitely not type 1 fun.) Also around Dunedin, which doesn't have high mountains, but does have a few rocks to climb, coastal scenery, and birds."
 
 ---
+
+img should be Wellington picture.
+
+
+# Personal
+
+# Professional
+
+Control of attention is definitely not one of the problems that I have. I guess that, thinking about my research output, it's really not been about solving difficult problems. My contribution tends to be more on excellent execution and exposition. About program verification in general, I think that the hardest problem isn't actually verifying the software, but knowing what the invariants and postconditions should be. There has been a bunch of work on program repair in the past 10 years which basically infers what the program should do (sometimes based on tests, sometimes not). Most recently I've been working on analyzing and improving test suites.
+
+teaching/advising/mentoring
+
+Hey, I wrote a [2019 retrospective](/post/20200101-2019-retrospective/) last year. Link below to [monthly retrospectives](#monthly-retrospectives).
+
+# Monthly retrospectives
+
+* [January](/post/20200131-first-month-in-wellington)
+* [February](/post/20200309-second-month-in-wellington)
+* [March](/post/20200401-third-month-in-wellington)
+* [April](/post/20200501-april)
+* [May](/post/20200603-may)
+* [June](/post/20200704-june)
+* [July](/post/20200731-july)
+* [August](/post/20200831-august-back-to-level-2)
+* [September](/post/20201002-september)
+* [October](/post/20201102-october)
+* [November](/post/20201203-november)
+* [December](/post/20210101-december)
+
+
+
+# More thoughts
+
+
+## Thoughts about NZ society
+
+About New Zealand: Putting aside COVID (at which it has been doing really great), it has all of the problems of normal Western countries. Some less, some more. House prices are out of control. Pedestrian infrastructure sucks. There's a better electoral system. But MP has said that she feels less culture shock than in Ontario... people work less hard here; or, another way of putting it, people are better at work/life balance. Like, stores aren't open after 6. Not even at the train station. (Well, there aren't really trains, but that's another story). The nature is nice, but Canada has better nature. It's just more accessible in NZ. Saguenay and the Rockies and northern Quebec are epic really.
+
+20200820-racism
+
+# Hobbies
+
+
+
+
+
+
+
 
 This post will just be about December. I'll post soon about the whole year as well. Still grateful to be here.
 
