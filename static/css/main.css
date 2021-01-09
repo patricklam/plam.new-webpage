@@ -1,6 +1,26 @@
 a {
-    color: #017698;
+    color: #015668;
 }
+.post-container a {
+    color: #015668;
+}
+.sidebar-container h5 {
+    color: #444 !important;
+}
+.sidebar-container h5 a {
+    color: #444 !important;
+}
+.sidebar-container .tags a {
+    color: #444 !important;
+}
+.sidebar-container a {
+    color: #444 !important;
+}
+
+.text-muted {
+    color: #666;
+}
+
 body {
     font-family:-apple-system,"Noto Sans","Helvetica Neue",Arial,sans-serif;
 }
