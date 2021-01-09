@@ -154,8 +154,6 @@ goes up and down and that's not as bad. But climbing out of the canyon
 on day 3 was painful for my feet.  Lucas also made a new friend on
 this trip.
 
-Grand Canyon
-
 I did have one more trip planned to the Canadian Rockies in September
 but the weather was bad and I cancelled the ticket for a travel credit
 (minus $200), which I'd never done before. Good to know it works.

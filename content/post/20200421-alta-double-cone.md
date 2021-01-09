@@ -9,6 +9,7 @@ categories: ["travel"]
 published:  true
 showtoc:    true
 image:      "/img/20200311_201921_pink_sky_banner.jpg"
+summary:    "On our previous trip to the South Island we stayed around Wanaka cragging and hiking. Although the Darrens were still washed out during our visit, The Remarkables feature some multipitch climbing. In particular, our borrowed Queenstown guidebook listed a dozen climbs above Lake Alta (aka Dimrill Dale). We’d go to Lake Alta and then up to Double Cone and find a moderate climb. To Lake Alta Alpine starts are well advised but difficult, especially after riverboarding the previous day, having dinner in Queenstown with Waterloo students on exchange, and getting back to our Frankton airbnb at 9pm."
 
 ---
 
