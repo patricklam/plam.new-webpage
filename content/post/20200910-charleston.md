@@ -47,10 +47,10 @@ expectations; I appreciated the great views approaching the South
 Island.  There's signage about birds one might see, but mostly it's
 seagulls.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200910-charleston/outbound-1" id="outbound-1" >}}
 <figcaption style="text-align:center">More prescriptive signs; Ward Island</figcaption>
-</div>
+</figure>
 
 
 The <a href="https://nzhistory.govt.nz/culture/wahine-disaster">Wahine
@@ -108,10 +108,10 @@ over to the Usher's Rock face once it got more sun and climbed
 3 routes on the face. Looked at White Punks on Chalk on toprope but
 the swing looked gnarly.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200910-charleston/action-1" id="action-1" >}}
 <figcaption style="text-align:center">Morning at Charleston Motor Camp (📷 Elliott O'Brien); coastline; dolphins; Elliott topping out; Usher's Rock</figcaption>
-</div>
+</figure>
 
 Looking at it now, the route names do suggest dolphins ("Dolphin Spotting",
 "Dunked again", etc). And we did indeed see dolphins as promised!
@@ -127,19 +127,19 @@ me. Glad to get the onsight; at the top I had a little lie-down before
 bringing Elliott up. We then rapped down again and Elliott onsighted
 Racing in the Streets.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200910-charleston/action-2" id="action-2" >}}
 <figcaption style="text-align:center">Wild Horses in the Sun (📷 Elliott); me looking at Sharks Breakfast (up and out of frame); Elliott preparing to climb</figcaption>
-</div>
+</figure>
 
 Golden Hour having definitely arrived, we took pictures and headed
 back to Charleston Motor Camp, in preparation for the trip back
 tomorrow.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200910-charleston/action-3" id="action-3" >}}
 <figcaption style="text-align:center">Elliott after climbing Racing in the Streets; another party chilling on Sunset Rib; more sunset (📷 Elliott)</figcaption>
-</div>
+</figure>
 
 # Back to Wellington, June 1 (<a href="https://gallery.patricklam.ca/index.php?/category/1224">gallery</a>)
 
@@ -159,10 +159,10 @@ food. Also stopped at Hope Saddle and in Havelock for lunch (grilled
 mussels, looked better than they tasted). (That is, they were not bad, but I wouldn't write
 home about them either.)
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200910-charleston/inbound" id="inbound" >}}
 <figcaption style="text-align:center">Rivers Cafe; Hope Saddle; Havelock</figcaption>
-</div>
+</figure>
 
 The travel day was once again leaving just around sunrise and back
 home after sunset.  A lot of travel, but it was good to see that part

@@ -35,10 +35,10 @@ to Wellington but the runny nose was a bit worrisome in these days of pandemic, 
 a few days later and they cleared me based on symptoms, although they said I could
 get a test for my peace of mind if I wanted. I guess I actually got a cold this year.
 
-<div style="margin:auto; width: 500px">
-<img src="/img/20201002-september/judo-christchurch.jpg">
-<p style="text-align:center">Christchurch judo training camp, September 2020</p>
-</div>
+<figure>
+{{< gallery-slider dir="/img/20201002-september/judo" id="judo" >}}
+<figcaption>Christchurch judo training camp, September 2020</figcaption>
+</figure>
 
 The University of Waterloo has officially declared that Winter 2021 will be
 mostly-remote, i.e. like Fall 2020 was. So we'll be staying in New Zealand for a while.
@@ -89,9 +89,10 @@ Definitely warmer on most days, though I measured 13.6°C one morning in early S
 * Sep: $188
 
 ## Wellington
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20201002-september/wellington" id="1" >}}
-</div>
+<figcaption>Wellington views, including Sylvester</figcaption>
+</figure>
 
 # Professional
 
@@ -165,9 +166,9 @@ Total distance walked definitely lower than previous months due to no long walks
 * <a href="https://climbnz.org.nz/nz/si/canterbury/port-hills/wunderbar-wall">Wunderbar Wall</a>, scenic moderate climbing in Lyttleton near Christchurch before flying back to Wellington
 * Sent shoes to be resoled.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20201002-september/climbing" id="wunderbar" >}}
-</div>
+</figure>
 
 ## Trips
 
@@ -181,10 +182,10 @@ Total distance walked definitely lower than previous months due to no long walks
 Longer trip report to come. Posted a selection of phone pictures on Facebook, but just transferred all
 camera photos onto computers yesterday. Need to get the Rakiura ones processed first.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20201002-september/chc" id="chc" >}}
-<p style="text-align:center">Christchurch</p>
-</div>
+<figcaption>Christchurch</figcaption>
+</figure>
 
 * Avon Trail
 * Christchurch judo camp: yay, lightweight people to fight
@@ -197,20 +198,20 @@ camera photos onto computers yesterday. Need to get the Rakiura ones processed f
 * Quake City
 * Climbing at Wunderbar Wall
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20201002-september/ski-and-boat" id="ski" >}}
-<p style="text-align:center">Mount Hutt and Albatross Encounters (also dolphins)</p>
-</div>
+<figcaption>Mount Hutt and Albatross Encounters (also dolphins)</figcaption>
+</figure>
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20201002-september/fyffe" id="fyffe" >}}
-<p style="text-align:center">Windy Mount Fyffe, plus a picture from Kaikoura Trail</p>
-</div>
+<figcaption>Windy Mount Fyffe, plus a picture from Kaikoura Trail</figcaption>
+<figure>
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20201002-september/other-canterbury" id="other-canterbury" >}}
 <p style="text-align:center">Kaikoura Peninsula Walk, Culverden snow, Mount Grey</p>
-</div>
+</figure>
 
 
 ## Travel planning
