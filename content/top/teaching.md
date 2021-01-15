@@ -1,6 +1,8 @@
 # Teaching
 
-I am not teaching in calendar 2020.
+I am teaching the following two courses in Winter 2021:
+* ECE459: Programming for Performance (now in Rust!) [<a href="https://github.com/jzarnett/ece459">github</a>]
+* ECE 750-T5: Static Analysis for Software Engineering [webpage](/sase-2021)
 
 Here's some of the courses that I've taught in the past.
 
