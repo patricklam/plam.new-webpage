@@ -34,9 +34,9 @@ positivity rate (low in Ontario).  Canada is doing way better than
 France now. I'm just concerned that it might get out of control again
 like Victoria state did.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200831-august/wellington" id="1" >}}
-</div>
+</figure>
 
 It's felt warmer here for the last few days and I think the heating bills
 are generally going down, though some days I leave something on and burn all
@@ -160,15 +160,15 @@ too.
 
 We did see lots of birbs though.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200831-august/birbs" id="2" >}}
-</div>
+</figure>
 
 Other Stewart Island pictures:
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200831-august/rakiura" id="3" >}}
-</div>
+</figure>
 
 
 ## Travel planning

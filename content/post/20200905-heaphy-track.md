@@ -65,10 +65,10 @@ street in Nelson.
 Continuing a trend for this year, we had a room reserved for July 9 in
 Nelson that we couldn't use. Obviously we should not reserve in advance.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/1" id="1" >}}
 <figcaption style="text-align:center">Wellington and Nelson</figcaption>
-</div>
+</figure>
 
 
 # July 5: Takaka (<a href="https://gallery.patricklam.ca/index.php?/category/1238">gallery</a>)
@@ -78,10 +78,10 @@ Our pilot called us in the morning and said that the weather was
 Nelson and back to Takaka (2h each way) instead of flying us. I guess
 this wouldn't be the day to walk to the Nelson airport.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/takaka" id="takaka" >}}
 <figcaption style="text-align:center">Takaka tramway; what you can't do (parts I and II)</figcaption>
-</div>
+</figure>
 
 People told us Takaka is kind of a hippie town ("vibrant and bare-foot
 culture"). For a hippie town, it also has a bunch of rules: perhaps
@@ -99,10 +99,10 @@ photographing pūkeko and shelducks along the way. There would be a few more opt
 climbing gear (not so useful in the rain) or a car to reach the Te Waikoropupū Springs.
 Dinner at O'Sha, a relatively new Thai restaurant, wasn't bad.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/takaka-birds-and-rocks" id="tbr" >}}
 <figcaption style="text-align:center">Labyrinth rocks; pūkeko; ducks; paradise shelduck</figcaption>
-</div>
+</figure>
 
 # July 6: Heaphy Day 1 (<a href="https://gallery.patricklam.ca/index.php?/category/1237">gallery</a>)
 
@@ -121,10 +121,10 @@ strange place to stay these days. This hut is not that far from Takaka, is
 about the same price as where we stayed, and doesn't have WiFi. I'm
 not sure why one would stay there.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/heaphy-1" id="heaphy-1" >}}
 <figcaption style="text-align:center">Rainbow on the road; Brown Hut; double rainbow; ridgeline; Perry&nbsp;Saddle Hut</figcaption>
-</div>
+</figure>
 
 It barely rained on us, and we got occasional blue sky, but we did see
 6 rainbows (including 1 double rainbow). We took a brief detour to
@@ -133,8 +133,10 @@ at the Perry Saddle Hut 5h40 after leaving the trailhead, including a
 20 minute lunch break (bagel sandwiches, prepared last night by MP) and the 10 minute detour. Trail conditions were
 mostly civilized except for a tree that looked like a bit of a pain to throw a bike across.
 
+<figure>
 <img src="/img/20200905-heaphy-track/20200706_1310_mp_climbing_over_tree.png" style="width:300px">
 <figcaption style="text-align:center">Over the tree!</figcaption>
+</figure>
 
 At the hut there was Stephen, an American who was still in New Zealand and
 mountain biking the track. His usual Antarctica gig wasn't happening this year.
@@ -173,10 +175,10 @@ Goulard Downs (and later at Heaphy Hut).
 * Birds sighted: weka (noisy), blue duck/whio (not blue), no takahe.
 * Snails: Nope.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/heaphy-2" id="heaphy-2" >}}
 <figcaption style="text-align:center">Tarn; blue duck/whio; wet weka; bubbles and waterfalls; boulders; view of the Tasman Sea</figcaption>
-</div>
+</figure>
 
 The caves go under the trail. So you can walk on the trail as well as
 under it.  We walked straight past the Saxon Hut being cold and wet,
@@ -234,10 +236,10 @@ Heaphy Hut. There were quite a few that hadn't left the nest yet and
 were wanting to be fed. Not just that, but there was also a kereru (NZ
 pigeon) in the tree behind us.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/heaphy-3" id="heaphy-3" >}}
 <figcaption style="text-align:center">Curious tomtit; clearing skies; fallen nest; kereru; pied shag; Heaphy Hut</figcaption>
-</div>
+</figure>
 
 Apart from that, the hiking was not wet and fairly easy (downhill). The Heaphy Hut
 is a bit back from the shoreline, but it's easy to go out to the beach from the hut.
@@ -273,13 +275,13 @@ The flight had to be early enough for the plane to proceed to a Wellington segme
 (not including us). So we needed to be at the end of the track by 11:30. With a 5h
 advertised walking time, we figured that we should aim to leave for 6:30.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/heaphy-4" id="heaphy-4" >}}
 <figcaption style="text-align:center">Dawn on the Heaphy Track; plam; MP; us at the end of the track!</figcaption>
-</div>
+</figure>
 
 With that departure time, we did hear wild kiwi while walking. We didn't really see
-any, except that MP saw an unidentified brown flash, which probably wasn't a weka.
+any, except that MP saw an unidentified brown flash, which also probably wasn't a weka.
 Also something that jumped in a mammal-like way.
 
 The sunrise and changing colours on the beach were spectacular, along
@@ -316,10 +318,10 @@ packs finished the hike at around 5.5kg each; they were around 8-9kg
 at the start. I'll leave it as an exercise for the reader to sum the
 weights of the food in the last picture (on the blanket).
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/food" id="f" >}}
 <figcaption style="text-align:center">Pre-top-up at home; lychee drink; grocery store freeze-dried food; lunch on Day 1; last day; leftovers.</figcaption>
-</div>
+</figure>
 
 
 We flew back over the top of the Southern Alps and back to Nelson in
@@ -330,10 +332,10 @@ sinking an ice axe. The Twins were the most prominent peaks we saw;
 maybe some day we'll climb them. It was a great flight for photos and
 the pilot also brought cameras to take promo shots.
 
-<div style="margin:auto; width: 500px">
+<figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/flight" id="flight" >}}
 <figcaption style="text-align:center">Over the Southern Alps</figcaption>
-</div>
+</figure>
 
 After landing in Nelson, we picked up our rental car and drove back to the
 hotel we'd stayed in, where we picked up some food that we'd forgotten.
