@@ -14,6 +14,7 @@ showtoc:    false
 
 In which Patrick Lam pretends to be a restaurant reviewer.
 
+* Afghan: Chopan Kabob has generous and tasty servings.
 * Asian Fusion: Have only been to Bhima's Warung once, I think. Was good.
 * Bahn Mi: Givral Deli near Kitchener Market has excellent banh mi with crispy bread and the right fillings.
 * Dim Sum: had one (of one) good experience at Sam's Chinese Kitchen on Victoria. We prefer carts, but they're rare in Ontario. Nevertheless, it was good, had as many Asian-looking patrons as one might hope for, and has much less of a line than Cameron (which is fine, but popular. And who wants to wait in line?).
