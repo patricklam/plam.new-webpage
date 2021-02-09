@@ -2,7 +2,7 @@
 layout:     post
 
 title:      "2020"
-date:       2021-01-04
+date:       2021-01-27
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
@@ -15,17 +15,12 @@ showtoc:    true
 img should be Wellington picture.
 
 
-# Personal
+I split this post into the [travel retrospective](/post/20210106-travel) and the rest of it.
+Now I have some time to write the rest of it.
 
-# Professional
+# Related Work
 
-Control of attention is definitely not one of the problems that I have. I guess that, thinking about my research output, it's really not been about solving difficult problems. My contribution tends to be more on excellent execution and exposition. About program verification in general, I think that the hardest problem isn't actually verifying the software, but knowing what the invariants and postconditions should be. There has been a bunch of work on program repair in the past 10 years which basically infers what the program should do (sometimes based on tests, sometimes not). Most recently I've been working on analyzing and improving test suites.
-
-teaching/advising/mentoring
-
-Hey, I wrote a [2019 retrospective](/post/20200101-2019-retrospective/) last year. Link below to [monthly retrospectives](#monthly-retrospectives).
-
-# Monthly retrospectives
+I wrote a [2019 retrospective](/post/20200101-2019-retrospective/) last year. Link below to [monthly retrospectives](#monthly-retrospectives).
 
 * [January](/post/20200131-first-month-in-wellington)
 * [February](/post/20200309-second-month-in-wellington)
@@ -40,296 +35,74 @@ Hey, I wrote a [2019 retrospective](/post/20200101-2019-retrospective/) last yea
 * [November](/post/20201203-november)
 * [December](/post/20210101-december)
 
+# Professional
 
+The thing about writing papers is that there is no upper bound. So, I published 3 papers last year. I would have liked to publish more papers. Could I have? Hard to imagine given the conditions. In principle I should have less time to write papers in 2021 since I have teaching (emergency remote teaching at that). On the other hand there are definitely more projects that made progress last year and that will pay off sometime. Also my lack of child care responsibilities objectively makes it easier for me to have time for research.
 
-# More thoughts
+I was corresponding with a friend who was talking about his recent adult ADHD diagnosis (really, a surprise to 0 people who know him). Control of attention is definitely not one of the problems that I have. I guess that, thinking about my research output, it's really not been about solving difficult problems. My contribution tends to be more on execution and exposition. Grants are, in particular, challenging for me.
 
+The most significant professional service this year was being on the OOPSLA Review Committee, with about 20 papers to review and discuss. I wonder whether the lack of in-person meeting means more or less time spent on discussions. It means less time spent on travel for sure (not that this would have been possible this year).
+
+## Teaching and mentoring
+
+In 2020 I did a bit of prep for teaching in 2021, with some trepidation about how online courses would go. My general feeling about lectures is that it's a social event which students are used to experiencing and can serve as an advertisement for the material. Students actually learn the material by doing homework on their own time. Yet we should still do our best to present engaging lectures.
+
+I've been talking to my grad students weekly or more often despite the time and space difference. I think that's been working out as well as possible given that there's a pandemic. It's been tough for some of them as well.
+
+I've also been doing some Long-Term Mentoring with PLMW, where I've been matched up with two final-year grad students and a second-year grad student from various institutions, and chatting about monthly. I hope that my advice to them is useful.
+
+## Research
+
+Projects on the front burner:
+* test refactoring
+* generating sibling tests
+* analyzing code dependencies
+plus new masters' students projects, as yet undefined.
+
+Projects on the back burner (no personnel):
+* const static analysis
+* TrueType analysis
+* climbing-related research
+
+# Life goals
+
+I think it's important to periodically assess whether one's life is currently meaningful. Reading [Overload](/post/20210115-overwork)
+and interacting closely with people here in Wellington gives me renewed appreciation for my job at Waterloo. As I've said before,
+it is, in the end, a job. We do the job because it's rewarding, both in terms of pay and because we're social creatures who
+respond to peer pressure to some extent. In particular I appreciate Waterloo's students and the wide latitude I have in doing
+my job, i.e. the lack of micromanagement.
+
+I don't think it's ever been a secret that I don't find Waterloo the most exciting place to live. Sure, it's
+"surprisingly non-crappy". And the LRT and recent bike infrastructure are steps forward that, for instance, Wellington
+(not that much bigger than Waterloo, but feels tons bigger) could sorely use. Sadly, though, Ontario is topographically lacking.
+At least there are climbable rocks that are reasonably close, and in fact closer than Wellington's closest rocks.
+In normal times, at least, I could get out of town fairly regularly. So I guess it's the place to stay for the next while.
+
+I sometimes try to think about places in Canada which would be better than Waterloo, say for retirement.
+Montreal is great in many ways, but the health care system is not one of them. Ontario is better. Quebec City is much
+cheaper. Might be interesting. People are trying out the Maritimes this year, I heard. And there's Vancouver/Squamish,
+but that's super expensive.
+
+It's hard to move to New Zealand as a retiree. Taiwan might be easier.
 
 ## Thoughts about NZ society
 
 About New Zealand: Putting aside COVID (at which it has been doing really great), it has all of the problems of normal Western countries. Some less, some more. House prices are out of control. Pedestrian infrastructure sucks. There's a better electoral system. But MP has said that she feels less culture shock than in Ontario... people work less hard here; or, another way of putting it, people are better at work/life balance. Like, stores aren't open after 6. Not even at the train station. (Well, there aren't really trains, but that's another story). The nature is nice, but Canada has better nature. It's just more accessible in NZ. Saguenay and the Rockies and northern Quebec are epic really.
 
-20200820-racism
+I wrote a separate post about [racism](/post/20200820-racism). That was on the NZ news today with respect to talk radio hosts saying outrageous things about Maori and Maori culture. But it gets backlash at least.
 
 # Hobbies
 
+Somehow I did not pick up any new hobbies in 2020. So it was just the same old hobbies. Well, we looked at more birds and
+took quite a few pictures of them.
 
+(bird pictures)
 
+## Judo
 
+I've been doing judo more intensively this year than in the past few years. Why? Yeah, good question. I'm good at it; not pro-level, but also not a n00b. Picked up a bunch of domestic medals this year. New grading syllabus came out, and I've been slowly preparing katas for a 5th dan grading. I feel like I'm very lucky to be able to practice these days; so many people can't.
 
+## Climbing
 
-
-
-This post will just be about December. I'll post soon about the whole year as well. Still grateful to be here.
-
-<div style="margin:auto; width:375px">
-{{< gallery-slider dir="/img/20210101-december/xmas-trees" id="xmas-trees" height="500px" width="375px">}}
-<figcaption style="text-align:center">Christmas trees in Wellington, Queenstown Airport, Queenstown, and Wellington</figcaption>
-</div>
-
-# More NZ
-
-I was on the South Island for more than half the month. On December 1 I was in the middle of the
-<a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/kepler-track/">Kepler Track</a>. Then some intense days of work (plus Christmas parties) and two more Great Walks just up to Christmas Eve.
-
-<div style="margin:auto; width:500px">
-{{< gallery-slider dir="/img/20210101-december/03-wlg" id="03-wlg" >}}
-<figcaption style="text-align:center">from Mount Kaukau; tuatara at Zealandia; Wellington Closed; Kaukau again; Wellington from Kaukau; Pohutukawa from our window</figcaption>
-</div>
-
-We then figured out that everyone was leaving town between Christmas and New Year's so we got cheap plane tickets to Dunedin for a less Great but still great trip, coming back on New Year's.
-
-<div style="margin:auto; width:500px">
-{{< gallery-slider dir="/img/20210101-december/25-dud" id="25-dud" >}}
-<figcaption style="text-align:center">Dunedin Railway Station; no farmers; pastoral; red-billed gulls at Royal Albatross Centre; more gulls; penguin beach at night; blue-eyed penguins; Otago skinks; Mapoutahi; baby fur seals redux</figcaption>
-</div>
-
-No changes in my situation in the past month.
-
-Pictures: I posted <a href="https://gallery.patricklam.ca/index.php?/category/1240">Rakiura</a> pictures. Currently behind by:
-* [September] Christchurch/Kaikoura&mdash;thousands of albatross pics
-* [November] around Auckland / Bay of Islands
-* [November/December] Kepler
-* [December] Routeburn/Milford
-* [December] Dunedin climbing, Silverpeaks
-
-Other events this month:
-* Christmas parties/lunches: 5
-* Judo tournament: Wellington Closed.
-
-## NZ and COVID-19
-
-NZ really seems to go on summer vacation around Christmas, so there really hasn't been much local news at all.
-It's similar to August in Canada. There hasn't been a lot of news about anything, including
-local COVID-19 news. No community transmission since November 18. There is a <a href="https://www.reddit.com/r/newzealand/comments/kmrfp9/hd_version_of_the_ashley_bloomfield_songvideo/">music video</a> with the Director-General of Health, Dr. Ashley Bloomfield. Despite the video, scanning into venues remains rare. The NZ Covid app now has Bluetooth proximity support though that has not been tested for real yet here. People do wear masks on airplanes as required.
-
-There are semi-regular press releases (eg <a href="https://www.health.govt.nz/news-media/media-releases/7-cases-covid-19-managed-isolation-0">23 Dec</a>) with cases found at the
-border. Most cases are at day 3 but a couple take longer to manifest, like the first one in that previous link (9 days in). There was an announcement of <a href="https://covid19.govt.nz/updates-and-resources/latest-updates/new-zealands-plan-to-manage-covid-19-over-summer/">plans</a>
-for possible outbreak types in the summer: small, medium, and large. 
-
-There was an announcement of a travel bubble with the Cook Islands ("a
-self-governing island country in free association with New Zealand")
-and Australia in the next few months, pending lack of community
-transmission. Australia is doing pretty well but isn't quite there
-yet: 8 locally acquired in the last 24 hours (Victoria and New South Wales).
-
-## Canada and COVID-19
-
-Last month I'd written that the vaccine was coming. It's here now,
-though not arriving in New Zealand until March or so. Ontario
-especially has been doing a really poor job of distributing it: around Christmas they were behind BC and Quebec in absolute numbers. The
-provincial response hasn't been super effective in general and this
-just illustrates that.
-
-September's still up in the air. Initial deployment certainly hasn't given
-more reason to hope that Ontario is going to get this under control soon.
-I ran into <a href="https://covidstrategicchoices.ca/">Covid Strategic Choices</a>
-today. That would be, I think, a better stategy, especially with the apparently
-more-transmissible B117 variant.
-
-I would really like to have the vaccine before going back to Canada,
-but I'm a bit worried that the timing might not line up well. Which is
-more of an issue if we have to transfer through the US especially. We'll see.
-
-## Weather
-
-We arrived in Dunedin in the rain on December 25 and left in the rain on January 1. Fortunately, between those days,
-we got pretty good weather: good enough for rock climbing, though only once in a T-shirt and sometimes in long underwear.
-It is certainly not consistently hot in Dunedin. 
-
-South of Auckland it seems to rarely hit 25°C; my father says that,
-based on my reports, it doesn't really sound like summer (but it's
-also never really winter). This evening at 8PM in Wellington it is
-18°C. People wear shorts and T-shirts everywhere in NZ, though I
-don't.
-
-## A list of new things
-
-* Camping stove (sigh), purchased at gear store in Queenstown. Dunedin Mountain Warehouse wasn't allowed carry gas canisters, the
-staff told me.
-* USB chargers (a portable one and a larger one, to replace a flaky one; it wasn't the cable that was flaky!)
-* Kathmandu <a href="https://www.kathmandu.co.nz/jewellery-kit.html">jewellery kit</a> to store charging technology.
-
-# Professional
-
-* Gave <a href="https://docs.google.com/presentation/d/1rb5fknIoVJnd2nGqAwrwdowXvv6krhLwumSEqK0Io8k/">talk about Waterloo's Software Engineering</a> program.
-* Inspired by the talk, started writing a 20-year-SE-retrospective paper with other previous SE directors.
-* TSE re-review (revisions).
-* Unsuccessfully tried to hire undergrad RA.
-* Wrote another reference letter and sent a bunch of copies of them.
-* Some thinking about NSERC Alliance though no writing yet.
-
-Bringing back the list of things to write up:
-
-* Photos: still in progress
-* ICSME (test your siblings) blurb
-* August trip writeup
-* September trip writeup
-* Travel philosophy (been in final-drafts form since before the pandemic)
-* Greece recommendations (mostly drafted)
-* November trip writeup
-* November-December trip writeup
-* December trips writeup
-
-At least I wrote up <a href="/post/20201212-se-student-support/">SE student support</a>.
-
-Days with work: 12/31. In a normal year I'd expect to Work until Friday, December 18, which is 14 days,
-with the rest of the month being just light email checking. Our Dean encouraged us to take time off during the holidays,
-which I did.
-
-## Ongoing (my grad students)
-
-Talked to my students again on 12 days (same as November).
-
-## Collegiality
-
-Did journal paper review. Still need to review an NSERC Discovery Grant application. Served as MASc thesis reader. Filled out PEng referee form.
-
-## Teaching
-
-Finished my contribution to ECE 459 lecture notes. Should probably do some recording. Perhaps more urgently,
-need to pick papers for grad course next week.
-
-# Travels
-
-This month, South Island plus some Wellington destinations.
-
-* 🚶 Walking distance: 215.8km (record for 2019? hard to go up from here!)
-* 🚲 Biking distance: 21km (away from bike half the month)
-* 🚗 Driving distance: drove 538km, driven 162km
-* 🚌 Bus distance: 494km (around Te Anau)
-* ⛴ Boat distance: 106km (Doubtful Sound plus start of Milford)
-* 🛩 Plane distance: 2540km, ZQN-WLG, WLG-ZQN round trip, WLG-DUD.
-* 🚁 Helicopter distance: 11.8km from the Boatshed to Milford Helicopters
-* Aeroplan points earned in 2020: 0
-
-## Walks
-* day 4 of <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/kepler-track/">Kepler Track</a> back out to Control Gate.
-* <a href="https://wellington.govt.nz/recreation/outdoors/walks-and-walkways/beyond-the-city/khandallah-park-loop">Mount Kaukau summit track</a>, the last of the <a
-href="https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/top-20-welly-walks">Top
-20 Welly Walks</a>
-* <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/milford-track/">Milford Track</a> with bonus heli evac due to projected excessive rain
-* <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/routeburn-track/">Routeburn Track</a> from The Divide to the Routeburn Shelter
-* <a href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/silver-peaks-scenic-reserve/things-to-do/silver-peaks-routes/">Silver Peaks Track</a> loop including Jubilee Hut and ABC Cave.
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/29-silverpeaks" id="29-silverpeaksn" >}}
-<figcaption style="text-align:center">Silverpeaks: Lots of ridge views; Jubilee hut; ABC cave; mind the gap</figcaption>
-</div>
-
-
-That is 5 Great Walks now, which is half of the full set. I hope 2021 brings a few more.
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/23-zqn" id="23-zqn" >}}
-<figcaption style="text-align:center">Queenstown: Grebes; mallards; Fergburger (deserted); Fergburger (busy); grebe</figcaption>
-</div>
-
-## Other sports
-Small regional judo competition: Wellington Closed. Won senior men's -66 (pool of 2) and finished 2nd in senior open.
-
-Managed to get three half-days of climbing at Mapoutahi. The climbs here in the sub-20 grades are not super strenuous but knowing the beta helps a lot. I managed to unlock beta on all of the routes that I tried but didn't go for the redpoint on any of them. I did do clean TR runs.
-
-## Trips
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/01-kepler" id="01-kepler" >}}
-<figcaption style="text-align:center">Last day of the Kepler Track on the Waiau and past Rainbow Reach; Control Gates (beginning/end); double rainbow driving back to Queenstown</figcaption>
-</div>
-
-* Finishing the Kepler Track (to Dec 3): talked about that last month.
-* Milford and Routeburn: did some Great Walks with almost no last-minute changes (just a heli ride). Went to Queenstown the day before, got a <a href="https://www.tracknet.net/">TrackNet</a> bus to Te Anau. Then started Milford the next day and out four days later. Rest day in Te Anau (laundry and re-provisioning!) and then on the Routeburn from The Divide, which is closer to Te Anau. Left for early pickup at Routeburn Shelter and avoided the rain. Flew back to Queenstown the next day.
-* Dunedin: some short day walks, <a href="https://albatross.org.nz/">Royal Albatross Centre</a> (albatrosses and penguins), <a href="https://orokonui.nz/">Orokonui Ecosanctuary</a>, climbing at Mapoutahi, Silverpeaks Track overnight at Jubilee Hut ("sweet as").
-
-## Great Walks
-
-I think I won't rank them. This is not an ordered list. Instead I'll write descriptive comments.
-
-* Routeburn (December): Routeburn Falls hut is the best we've stayed at. Day 2 and Conical Hill have great scenery.
-* Milford (December): Best overall quality. Mackinnon Pass is impressive, as are Sutherland Falls.
-* Kepler (November/December): The day 2 traverse with the keas was the best. Days 3 and 4 could be combined.
-* Heaphy (July): Long but relatively easy. Fourth day on the beach super-scenic even if we were rushing to catch the plane. Interesting to see mountain bikes.
-* Rakiura (August): First day to Port William the best. Also Mason Bay. Day 2 is swampy.
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/great" id="great" >}}
-<figcaption style="text-align:center">Milford, Heaphy, Rakiura, Routeburn, Kepler</figcaption>
-</div>
-
-### More Milford
-"The greatest walk in the world".
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/16-milford" id="16-milford" >}}
-<figcaption style="text-align:center">Days 1 and 2: Helicopter bringing stuff; new Mintaro hut construction; to Glade Wharf; baby weka</figcaption>
-</div>
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/17-milford-mackinnon-pass" id="17-milford-mackinnon-pass" >}}
-<figcaption style="text-align:center">Day 3: Mackinnon memorial; aretes and cirques; spiderweb en route to Sutherland Falls; the best outhouse (windy); a glacial valley</figcaption>
-</div>
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/19-out-of-milford" id="19-out-of-milford" >}}
-<figcaption style="text-align:center">Day 4: out of Milford</figcaption>
-</div>
-<div style="margin:auto; width: 375px">
-{{< gallery-slider dir="/img/20210101-december/18-milford-waterfalls" id="18-milford-waterfalls" height="500px" width="375px">}}
-<figcaption style="text-align:center">Waterfalls of Milford</figcaption>
-</div>
-
-### Routeburn too
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/21-routeburn" id="21-routeburn" >}}
-<figcaption style="text-align:center">Sheep; moss; mountains; Lake Mackenzie; Key summit in the rain; Lake Mackenzie Hut</figcaption>
-</div>
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/22-alpine-routeburn" id="22-alpine-routeburn">}}
-<figcaption style="text-align:center">View of Routeburn Valley; flowers; Routeburn Falls Hut; Routeburn Falls; Stop! Think!; Conical Hill; Routeburn Falls Hut</figcaption>
-</div>
-
-## Travel planning
-
-Nothing specific yet. Glad we did a last-minute Dunedin trip.
-
-## Restaurants
-
-* Fergburger, Queenstown: no lines on Dec 2. (It had lines just before Christmas!) Excellent burger.
-* Restaurant 88, Wellington: Haven't had Ga Con Chien before. Liked it.
-* Lodge Bar, Queenstown: Had a game pie, which was actually a NZ pie (not quite a hand pie). Tasty.
-* Dost Turkish Cafe, Dunedin: Iskender with spicy sauce was indeed spicy.
-* Bao Now, Te Anau, yet again.
-* not a restaurant, but I got a good loaf at Harvey St Merchant in Waitati. Was good when I remembered I could have it with margarine. Cheese would have been even better.
-
-## Birds
-
-<div style="margin:auto; width: 500px">
-{{< gallery-slider dir="/img/20210101-december/keas-and-takahe" id="keas-and-takahe" >}}
-<figcaption style="text-align:center">Keas on Milford and Routeburn; takahe at Zealandia and Orokorui</figcaption>
-</div>
-
-* retroactively spotted a grey duck in Christchurch photos in September (probably a hybrid)
-* keas (Routeburn, Milford)
-* probable rock wren on Routeburn
-* little blue penguins
-* yellow-eyed penguins
-* royal albatrosses
-* royal spoonbills
-* crested grebe at Queenstown (told DOC they were nesting on the water taxi)
-* takahe, kaka at Orokonui
-* chaffinch
-* South Island robin
-* fantail
-* bellbird making tui calls
-* tui making bellbird calls
-
-# Conclusion
-
-There's a lot more concluding to do in the year in review post that I'll do next. Let's focus on December. I'm very fortunate to
-have been able to see more of the South Island this month, including basically all of the highlights of Fiordland now. (Looking
-at the Dusky Track which is definitely not type 1 fun.) Also around Dunedin, which doesn't have high mountains, but does have
-a few rocks to climb, coastal scenery, and birds.
-
-I didn't set any December goals having seen what was coming up. For January, I have some trepidation about online courses.
-I think aiming to have the NSERC Alliance ready to go is a good bet also. And taking care of the backlog of photos.
-
+## Hiking
 
