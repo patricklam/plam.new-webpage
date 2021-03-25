@@ -11,8 +11,8 @@ published:  true
 Historically I’ve done work on various verification-related topics, and would be happy to revisit these areas. My current students aren’t working in these areas but I’d be willing to take on new ones who would work on them.
 
 ## Verification-adjacent
-* I participated in a project where we generated test cases that would exhaustively test the behaviour of an RMA implementation according to the specification [OOPSLA 2016]; although I haven’t thought about it in too much detail, I do know that GPUs have to worry about some sort of memory consistency/manual cache management. I think there is interesting work to be done here, with proper language extensions plus static analyses.
-* I also participated in a project where we model checked C concurrent code, using SAT solver technology to observe executions and generate new behaviours, until exploring all reachable behaviours. [OOPSLA 2015]
+* I participated in a project where we generated test cases that would exhaustively test the behaviour of an RMA implementation according to the specification [[OOPSLA 2016](/papers/16.oopsla.rma-alloy.pdf)]; although I haven’t thought about it in too much detail, I do know that GPUs have to worry about some sort of memory consistency/manual cache management. I think there is interesting work to be done here, with proper language extensions plus static analyses.
+* I also participated in a project where we model checked C concurrent code, using SAT solver technology to observe executions and generate new behaviours, until exploring all reachable behaviours. [[OOPSLA 2015](/papers/15.oopsla.satcheck.pdf)]
 
 ## Static analysis
 * With my now-graduated PhD student Jon Eyolfson, we developed a static analysis to verify that C++ class implementations respected “const” annotations, even in the presence of internal changes like caches (not publicly visible). We didn’t yet manage to publish this work but we have published empirical studies on the use of const in C++ codebases.
