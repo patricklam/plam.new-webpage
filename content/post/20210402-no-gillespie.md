@@ -18,6 +18,8 @@ summary:    "The planned logistics for the Gillespie trip were simple: rent a ca
 .meta { color: black; }
 </style>
 
+Full gallery: [https://gallery.patricklam.ca/index.php?/category/1300](https://gallery.patricklam.ca/index.php?/category/1300)
+
 So, we meant to do the [Gillespie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) including Crucible Lake. Instead, we did:
 * [Blue Pools Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/blue-pools-track/)
 * [Brewster Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/brewster-track/)
