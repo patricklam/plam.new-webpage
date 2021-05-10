@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["canada"]
 categories: ["travel", "books"]
 published:  true
-image:      "/img/20210509-ice-walker-review/20190629_212236542_sunset.jpg"
+image:      "/img/20210509-ice-walker-review/20190629_212236542_sunset.webp"
 showtoc:    false
 summary:    "Canadian content! This short work of creative nonfiction follows a bear, Nanu, as she raises
 her cubs near Churchill Falls (Manitoba) in contemporary times."
