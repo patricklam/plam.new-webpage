@@ -8,9 +8,16 @@ tags:       []
 categories: ["travel"]
 published:  true
 image:      "/img/20200910-charleston/0169_winking_plam_pano.jpg"
+summary:    "The plan, then, was to get in some climbing on granite in Charleston for the Queen's Birthday long weekend. Side note: In Canada [except Quebec], Victoria Day is the Queen's Birthday (unofficial start to summer), scheduled for the last Monday preceding May 25, while in NZ, it's the first Monday in June. Close but not quite, and the weather is different. Kind of like many things in NZ. It's a different country."
 showtoc:    true
 
 ---
+
+<style>
+.post-heading h1  { color: brown; }
+.meta { color: white; }
+</style>
+
 
 May 2020, in New Zealand:
 
@@ -31,7 +38,8 @@ for the Queen's Birthday long weekend. Side note: In Canada [except
 Quebec], Victoria Day is the Queen's Birthday (unofficial start to
 summer), scheduled for the last Monday preceding May 25, while in NZ,
 it's the first Monday in June. Close but not quite, and the weather is
-different. Kind of like many things in NZ. It's a different country.
+different. Kind of like many things in NZ. It's a different country,
+and the [holidays](/post/20210515-holidays/) are different.
 
 # Outbound Travel Day, May 30 (<a href="https://gallery.patricklam.ca/index.php?/category/1225">gallery</a>)
 
