@@ -88,7 +88,7 @@ on the website, like the self-isolation period, which I then pushed
 back on. MP had also called Healthline once before with a cold while we were on
 the South Island, and that had taken out a [previous talk](https://github.com/patricklam/soot-spg) I was supposed to give too.)
 
-MP had a concern about taking out the Health Minister and his staff. That would be bad (his vaccination was in the news as part of the vaccine PR effort, but presumably not his staff). The guidance, though, was pretty clear that contacts-of-contacts didn't have to do anything.
+MP had a concern about taking out the Health Minister and his staff, who visited her office (she shook the Health Minister's hand, and they all were in the same space for a while). That would be bad. His vaccination was in the news as part of the vaccine PR effort, but presumably not his staff. The guidance from said government, though, was pretty clear: contacts-of-contacts didn't have to do anything.
 
 The other observation that MP made about the [locations of interest](https://www.rnz.co.nz/news/national/445348/wellington-covid-19-visitor-locations-of-interest-include-te-papa-central-city-bar-and-pharmacy) was that the Australian traveller appeared to have quite a good weekend in Wellington, seeing all the things, including the Weta Workshop and the [Surrealist Art](https://www.tepapa.govt.nz/visit/exhibitions/toi-art/surrealist-art-masterpieces-museum-boijmans-van-beuningen) exhibition. At least he'd received 1 dose of AstraZeneca; even though it was the delta variant, I think that helped us dodge the bullet.
 
