@@ -163,3 +163,10 @@ The weather was again kind of crappy, but not too crappy, and we celebrated late
 {{< gallery-slider dir="/img/20210625-self-isolation/mrgos" id="mrgos">}}
 <figcaption style="text-align:center">Pork fried rice at Mr. Go's, one of our favourite eateries in Wellington.</figcaption>
 </figure>
+
+PS [June 28]: Well, no community transmission detected yet so we're in pretty good shape, but the government extended Level 2 until the end of Tuesday, so maybe I'll wait for Wednesday for the haircut. On the other hand, I got to answer "yes" to COVID testing on the [FluTracking](https://www.flutracking.net) survey.
+
+<figure>
+{{< gallery-slider dir="/img/20210625-self-isolation/bonus-flutracking" id="ft">}}
+<figcaption style="text-align:center">Yes, I did get a COVID-19 swab test this past week.</figcaption>
+</figure>
