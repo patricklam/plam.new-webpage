@@ -21,7 +21,7 @@ summary:    "I suspected that the Mount French route would be slightly marginal 
 Strangely enough, I am posting this on Quebec's Fête Nationale (June 24) and one month
 after the hike itself.
 
-# Monday, May 24: Mount French ⚜
+# Monday, May 24: Mount French ⚜ [(gallery)](https://gallery.patricklam.ca/index.php?/category/1336)
 
 I suspected that the Mount French route would be slightly marginal for
 daylight, since it was posted at 6-7 hours and sunset is currently at
@@ -138,7 +138,7 @@ but indicated that it was possible to call out the attendant for a
 modest $30 additional fee. We spotted him still inside the building and got
 him to turn on the gas pump.
 
-Unfortunately, this rather old pump had bad UI design. I was noticing
+Unfortunately, this rather old pump had bad UI design. I was sitting inside the car with my wet shoes and noticing
 that the dollar amount on the diesel side was going up. The attendant
 then asked "Did you mean to put diesel in your car?" Well, at least he
 didn't make us pay the call-out charge, just the actively-harmful diesel 
