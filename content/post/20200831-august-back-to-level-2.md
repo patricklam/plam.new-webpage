@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
 published:  true
-image:      "/img/20200831-august/20200808_173120_waterloo_peak_and_friends_header.jpg"
+image:      "/img/20200831-august/20200808_173120_waterloo_peak_and_friends_header.webp"
 showtoc:    true
 
 ---
