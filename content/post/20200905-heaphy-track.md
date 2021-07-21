@@ -119,7 +119,8 @@ us up for the 1-hour drive at 9am.
 The Brown Hut, 10 minutes from the trailhead, would be kind of a
 strange place to stay these days. This hut is not that far from Takaka, is
 about the same price as where we stayed, and doesn't have WiFi. I'm
-not sure why one would stay there.
+not sure why one would stay there in modern times (maybe historically,
+when it was harder to get out there and there were less conveniences in town).
 
 <figure>
 {{< gallery-slider dir="/img/20200905-heaphy-track/heaphy-1" id="heaphy-1" >}}
