@@ -162,12 +162,19 @@ We did see lots of birbs though.
 
 <figure>
 {{< gallery-slider dir="/img/20200831-august/birbs" id="2" >}}
+<figcaption style="text-align:center">Stewart Island robin; black oystercatchers; kakariki (red-crowned); MP and weka.</figcaption>
 </figure>
 
 Other Stewart Island pictures:
 
 <figure>
 {{< gallery-slider dir="/img/20200831-august/rakiura" id="3" >}}
+<figcaption style="text-align:center">Stewart Island or is it Newfoundland; flying to Stewart Island; on the beach; abandoned machinery on Rakiura track; back at a crowded airport in Wellington.</figcaption>
+</figure>
+
+<figure>
+{{< gallery-slider dir="/img/20200831-august/rakiura-vert" id="4" >}}
+<figcaption style="text-align:center">Kayaking on Milford Sound; Mirror Lake en route to Milford Sound; Castledowns climbing.</figcaption>
 </figure>
 
 
