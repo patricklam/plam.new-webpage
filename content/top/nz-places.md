@@ -1,7 +1,7 @@
 ---
-layout:     post-nopag
+layout:     post
 
-type:       post-nopag
+type:       post
 date:       2021-07-29
 title:      "Places I've been in Aotearoa New Zealand"
 author:     "Patrick Lam"
@@ -17,6 +17,7 @@ showtoc:    true
 <style>
 .post-heading h1  { color: #17202A; }
 .meta { color: #17202A; }
+.pager { display:none; }
 </style>
 
 _Last updated: July 2021_
