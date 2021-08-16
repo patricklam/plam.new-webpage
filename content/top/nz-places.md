@@ -105,7 +105,7 @@ Let's continue moving north.
 
 ## Egmont National Park
 * [Taranaki Summit Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/mount-taranaki-summit-track/) (March 2020, [writeup](/post/20200414-taranaki/), [pics](https://gallery.patricklam.ca/index.php?/category/1216)): summitted less than a week before lockdown!
-* [Pouakai Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/pouakai-circuit/) (June 2020): better place to get a picture of Mount Taranaki; first nice day after lockdown, hut is 2 hours from road end and was thus packed to 2× capacity. We asked the DOC staff at the Dawson Falls visitor centre and he said he didn't think the hut would be super crowded. It was. We should've hustled more to get to the hut.
+* [Pouakai Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/pouakai-circuit/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1361)): better place to get a picture of Mount Taranaki; first nice day after lockdown, hut is 2 hours from road end and was thus packed to 2× capacity. We asked the DOC staff at the Dawson Falls visitor centre and he said he didn't think the hut would be super crowded. It was. We should've hustled more to get to the hut.
 * [Kapuni Loop Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/dawson-falls-walking-tracks/): day before the Pouakai Circuit, short, rainy when we were there, some old engineering works.
 
 ## Tongariro National Park
@@ -118,6 +118,8 @@ Let's continue moving north.
 * [Mount Tarawera](https://www.kaitiaki.co.nz/guided-tours/) (July 2021): must be guided by Kaitiaki Adventures; extremely high reward-to-effort ratio; could also take a helicopter but I think that's less rewarding.
 * [Blue Spring&mdash;Te Waihou Walkway](https://www.waikatonz.com/experiences/walking-hiking-trails/blue-spring-te-waihou-walkway/) (July 2021): pretty easy, scenic, between Tauranga and Rotorua. Seems to get all of the people out for a Sunday walk from Tauranga, busy.
 * [Rotorua redwoods walk](https://redwoods.co.nz/walk/) (February 2020): walking in the forest, good day activity, though no elevation gain (unless you pay for the tree walk and climb into the canopy; I didn't).
+* [Whakarewarewa Living Maori Village](https://whakarewarewa.com/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1369)): went pre-COVID; good walking tour and cultural show. The village really is built on potential sinkholes and bubbling lava, like Beppu.
+* [Railcruising](https://railcruising.com/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1371)): I appreciate this use of disused rail infrastructure and it's kind of fun to ride around in one's own rail car, but it really is sort of a passive activity. Then again if you're driving a train and you're being active, something's wrong. The big brother to this is [Forgotten World Adventures](https://www.forgottenworldadventures.co.nz/), which is way longer and way more expensive.
 
 ## Greater Auckland
 * [Te Henga Walkway](https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/muriwai-and-te-henga-area/tracks/te-henga-walkway/), from Muriwai Beach to Bethells Beach (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1310)): kauri, beach scenery.
@@ -222,7 +224,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * [Charleston](https://climbnz.org.nz/nz/si/westland/charleston) (May 2020, [writeup](post/20200910-charleston/), [pics](https://gallery.patricklam.ca/index.php?/category/1223)): Queen’s Birthday weekend, kind of far from Wellington, secure trad climbing.
 * [Titahi Bay](https://climbnz.org.nz/nz/ni/wellington/titahi-bay) (June 2020): more single-pitch trad close to Wellington.
 * [Turakirae Head](https://climbnz.org.nz/nz/ni/wellington/turakirae-head) (July 2021): sandbagged bouldering close to Wellington
-* [Wharapapa](https://climbnz.org.nz/nz/ni/waikato/wharepapa) (February 2020, July 2021): sharp, accessible rock, though gotta dodge the poop. Got to Froggatt’s Edge, Sheridan Hills. Also some quite long single-pitch routes.
+* [Wharapapa](https://climbnz.org.nz/nz/ni/waikato/wharepapa) (February 2020, July 2021): sharp, accessible rock, though gotta dodge the poop. Got to [Froggatt’s Edge](https://gallery.patricklam.ca/index.php?/category/1371), [Sheridan Hills](https://gallery.patricklam.ca/index.php?/category/1370). Also some quite long single-pitch routes.
 * [Ruapehu/Tukino](https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu) (February 2020, May 2020): [Mangatoetoenui Gorge](https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/tukino/mangatoetoenui-gorge) aka far side of Ruapehu with nontrivial approach; [Whakapapa Gorge](https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whakapapa) near the ski hill with much easier though nonzero approach; [some words](/post/20200603-may/#ruapehu).
 
 ## Judo Tournaments
