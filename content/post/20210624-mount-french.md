@@ -30,7 +30,7 @@ forecast was excellent and there were only a couple of fluffy white
 clouds in the sky.
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/one-lane-bridge" id="one-lane-bridge">}}
+{{< gallery-slider dir="/img/20210624-mount-french/one-lane-bridge">}}
 <figcaption style="text-align:center">Extra-narrow one-lane bridge near Mount French.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ off at 10:10, leaving us 7 hours and 5 minutes until sunset. Posted
 time to summit was 4 hours.
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/4-hrs" id="4-hrs">}}
+{{< gallery-slider dir="/img/20210624-mount-french/4-hrs">}}
 <figcaption style="text-align:center">Summit, 4 hours.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ surprised to find that I actually could have once we ascended from the
 valley floor. The cell towers on Mount French help with that.
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/selected-fungi" id="fungi">}}
+{{< gallery-slider dir="/img/20210624-mount-french/selected-fungi">}}
 <figcaption style="text-align:center">Selected fungi; <a href="https://gallery.patricklam.ca/index.php?/category/1337">all the shrooms</a>.</figcaption>
 </figure>
 
@@ -83,14 +83,14 @@ hours), we got to a place with some mysterious construction, some
 towers, and looked like the summit. Beautiful views, well worth it on that day, and in good time to beat sunset.
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/ascending-past-treeline" id="atl">}}
+{{< gallery-slider dir="/img/20210624-mount-french/ascending-past-treeline">}}
 <figcaption style="text-align:center">Ascending past treeline.</figcaption>
 </figure>
 
 ## Missing the summit
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/not-on-summit" id="nos">}}
+{{< gallery-slider dir="/img/20210624-mount-french/not-on-summit">}}
 <figcaption style="text-align:center">Weird construction not on the summit.</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ of descent.  Without GPS, we would just have called it a summit, but
 now I have to say that we probably didn't summit. Instead, we saw these weird constructions on the not-summit.
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/me" id="me">}}
+{{< gallery-slider dir="/img/20210624-mount-french/me">}}
 <figcaption style="text-align:center">Me, likely not on the summit.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Wednesday evening; there was a good moonrise which is beyond my ability to photo
 We got more views of snow on mountains as we drove through the pass during golden hour.
 
 <figure>
-{{< gallery-slider dir="/img/20210624-mount-french/drive" id="drive">}}
+{{< gallery-slider dir="/img/20210624-mount-french/drive">}}
 <figcaption style="text-align:center">Golden hour and moonrise on the road.</figcaption>
 </figure>
 
