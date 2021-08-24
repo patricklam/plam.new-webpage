@@ -99,6 +99,7 @@ We did the [top 20 Welly walks](https://wellington.govt.nz/recreation/outdoors/w
 ### Other Wellington walks
 
 * [Polhill Reserve Loop](https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/across-the-city/polhill-reserve-loop) (April 2020): another lockdown destination near us with mountain biking as well, connected to the [Waimapihi Reserve Trail](https://tracksnz.com/tracks/2869-waimapihi-reserve)
+* [Ridgeline Track at Te Ahumairangi](https://wellington.govt.nz/recreation/outdoors/walks-and-walkways/across-the-city/te-ahumairangi-hill-loop) (August 2021): lockdown took us to this walk; the ridgeline itself is quite short and sometimes has views, but involves some elevation gain to get up there. 
 * [Colonial Knob Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/colonial-knob-scenic-reserve/things-to-do/colonial-knob-walk/): on the to-do list...
 
 Let's continue moving north.

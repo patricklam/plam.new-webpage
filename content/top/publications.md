@@ -1,3 +1,21 @@
+---
+layout:     post
+
+type:       post
+date:       2020-01-01
+title:      "Patrick Lam's Research Publications"
+author:     "Patrick Lam"
+published:  true
+url:        /publications/
+showtoc:    false
+
+---
+
+<style>
+.pager { display:none; }
+.intro-header .post-heading .meta { display:none; }
+</style>
+
 # Refereed Publications
 
 <ul>
