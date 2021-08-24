@@ -1,3 +1,4 @@
+{{ $.Scratch.Add "gallery" (index .Site.Params "gallery_prefix") }}
 {{ $.Scratch.Add "width" (.Get "width" | default "100%") }}
 {{ $.Scratch.Add "height" (.Get "height" | default "300px") }}
 {{ $.Scratch.Add "auto-slide" (.Get "auto-slide" | default "0") }}
@@ -5,7 +6,8 @@
 {{ $.Scratch.Add "arrow-left" (.Get "arrow-left" | default "fa-chevron-left") }}
 {{ $.Scratch.Add "arrow-right" (.Get "arrow-right" | default "fa-chevron-right") }}
 
-{{ $.Scratch.Add "id" (.Get "id" | default "") }}{{ if ne (.Get "no-fa") "true" }}
+{{ $.Scratch.Add "id" (.Get "id" | default ( path.Base ($.Get "dir") ) ) }}
+{{ if ne (.Get "no-fa") "true" }}
     <!-- FontAwesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 {{end}}
@@ -26,7 +28,21 @@
     display:inline-block;
 };
 </style>
-    
+
+{{ $csvPath := (print "/static" ($.Get "dir") ".csv") }}
+{{ $csvFile := path.Base $csvPath }}
+{{ $containingDir := print (path.Dir (print "/static" ($.Get "dir"))) }}
+{{ $galleryLinks := false }}
+{{ if (where (readDir $containingDir) "Name" $csvFile) }}
+  {{ $galleryLinks = true }}
+{{ end }}
+
+{{ $links := newScratch }}
+{{ $links.Add "img" dict }}
+{{ range $i, $r := getCSV "," $csvPath }}
+  {{ $links.SetInMap "img" (index $r 0) (index $r 1) }}
+{{ end }}
+
 <!-- Gallery -->
 <div id="slide-{{ $.Scratch.Get "id" }}" class="carousel slide" data-ride="carousel">
   {{- with (.Get "dir") -}} 
@@ -42,11 +58,11 @@
       <div class="carousel-inner">
         {{- range first 1 $files -}} 
           {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-          <div class="item active"><img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}"></div>
+          <div class="item active">{{ if $galleryLinks }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if $galleryLinks }}</a>{{ end }}</div>
         {{- end }} 
         {{- range after 1 $files -}} 
           {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-          <div class="item"><img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}"></div>
+          <div class="item">{{ if $galleryLinks }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if $galleryLinks }}</a>{{ end }}</div>
         {{- end }} 
       </div>
     {{ if gt (len $files) 1 }}

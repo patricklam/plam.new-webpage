@@ -7,6 +7,7 @@ googleAnalytics = "UA-44519764-2"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = false
+ignoreErrors = [ "error-remote-getCSV" ]
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
@@ -22,6 +23,7 @@ home = ["HTML", "RSS", "Algolia"]
   image_404 = "img/404-bg.jpg"
   title_404 = "Not Found :("
   omit_categories = true
+  gallery_prefix = "https://gallery.patricklam.ca/picture.php"
 
   # leancloud storage for page view counter
   page_view_conter = false 
