@@ -14,8 +14,8 @@ summary:    "I suspected that the Mount French route would be slightly marginal 
 ---
 
 <style>
-.post-heading h1  { color: white; }
-.meta { color: white; }
+.post-heading h1  { color: #9011cf; }
+.meta { color: #9011cf; }
 </style>
 
 Strangely enough, I am posting this on Quebec's Fête Nationale (June 24) and one month
