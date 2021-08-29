@@ -58,11 +58,11 @@
       <div class="carousel-inner">
         {{- range first 1 $files -}} 
           {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-          <div class="item active">{{ if $galleryLinks }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if $galleryLinks }}</a>{{ end }}</div>
+          <div class="item active">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}</a>{{ end }}</div>
         {{- end }} 
         {{- range after 1 $files -}} 
           {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-          <div class="item">{{ if $galleryLinks }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if $galleryLinks }}</a>{{ end }}</div>
+          <div class="item">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}</a>{{ end }}</div>
         {{- end }} 
       </div>
     {{ if gt (len $files) 1 }}

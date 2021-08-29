@@ -4,7 +4,7 @@ layout:     post
 title:      "My Photo Workflow, and Adventures in Hugo Development"
 date:       2021-08-24
 author:     "Patrick Lam"
-tags:       ["tech"]
+tags:       ["tech", "meta"]
 categories: ["development"]
 published:  true
 image:      "/img/20210624-mount-french/20210524_012101801_more_mountains.PANO.webp"
@@ -51,7 +51,7 @@ Using default-accept rather than default-deny for photo selection
 means that I end up with more pictures of lower quality, but I like to tell
 myself that they tell a story, rather than being highlights. I try to not have
 more than 30 pictures per gallery album, though sometimes I don't meet
-that goal. Sliders are default-accept and usually no more than 8 files.
+that goal. Sliders are default-accept and usually no more than 8 pictures.
 
 # The problem
 
@@ -81,7 +81,7 @@ Modify the gallery-slider to automatically insert hyperlinks based on the lookup
 # Approach
 
 Conceptually: It's not hard! Read in the lookup file as a map (exists as a type in [Golang](https://golang.org/) which underlies Hugo), then do a map lookup when writing out the ```<img>``` link for an image (key is the image filename), 
-and wrap an ```<a>/</a>``` tag pair with the looked-up value around the ```<img>```.
+and wrap an ```<a></a>``` tag pair with the looked-up value around the ```<img>```.
 
 ## Data source
 
@@ -113,6 +113,8 @@ object like this.
 I also had a bit of problem-between-chair-and-keyboard where the map didn't seem to be working, but actually the filename
 in the lookup file did not match the filename in the directory, because I'd migrated from jpeg to webp in my image directories.
 
+[Edited to add:] I also added functionality to omit links where no gallery image exists. Finding "isset" is not obvious: there's no reference information for the type "dictionary". This [random page](https://bwaycer.github.io/hugo_tutorial.hugo/templates/functions/) points me in the right direction, but the main Hugo documentation doesn't? Grr.
+
 ### Filename
 
 Required some futzing, but nothing notable. Hardcoded it first and then worked out how to get the right filename there. There was good reference documentation on the ```path``` object, e.g. [```path.Base```](https://gohugo.io/functions/path.base/). Here's part of the filename code.
@@ -125,7 +127,7 @@ I could use ```($.Get "dir")``` as the id to disambiguate multiple sliders so th
 
 ## Inserting the tag
 
-Easy as. I just added the ```<a>``` tag with the needed lookups: first the common prefix (i.e. ```https://gallery.patricklam.ca/```), then the image-specific suffix. All conditional on existence of the lookup file.
+Easy as (NZ slang). I just added the ```<a>``` tag with the needed lookups: first the common prefix (i.e. ```https://gallery.patricklam.ca/```), then the image-specific suffix. All conditional on existence of the lookup file.
 
     <div class="item active">{{ if $galleryLinks }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if $galleryLinks }}</a>{{ end }}</div>
 
