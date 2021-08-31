@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+
+h1 {
+  font-weight: 400;
+  height: 5%; }
+
+.reveal h1 {
+  margin-bottom: 60px;
+  font-size: 60px; }
+
+.reveal p {
+  text-align: left; }
+
+#canvas {
+  height: 480px;
+  margin: 0 auto;
+  text-align: left;
+  width: 640px; }
+
+#code {
+  font-family: Consolas, Monaco, "Lucida Console", monospace;
+  height: 4em;
+  margin: 10px;
+  padding: 0;
+  width: 90%; }
+
+table {
+  border-collapse: collapse;
+  width: 100%; }
+
+table td.marks {
+  border: 0.5px dashed #eee;
+  padding-right: 1em;
+  text-align: right; }
+
+table td.attrition {
+  border: 0.5px dashed #eee;
+  border-right: 10em;
+  text-align: right; }
+
+table td.degrees {
+  border: 0.5px dashed #eee;
+  padding-right: 0;
+  text-align: right;
+  font-size: 50%; }

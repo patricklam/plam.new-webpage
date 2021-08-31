@@ -4,32 +4,25 @@
  * of external markdown documents.
  */
 (function( root, factory ) {
-	if( typeof exports === 'object' ) {
+	if (typeof define === 'function' && define.amd) {
+		root.marked = require( './marked' );
+		root.RevealMarkdown = factory( root.marked );
+		root.RevealMarkdown.initialize();
+	} else if( typeof exports === 'object' ) {
 		module.exports = factory( require( './marked' ) );
-	}
-	else {
+	} else {
 		// Browser globals (root is window)
 		root.RevealMarkdown = factory( root.marked );
 		root.RevealMarkdown.initialize();
 	}
 }( this, function( marked ) {
 
-	if( typeof marked === 'undefined' ) {
-		throw 'The reveal.js Markdown plugin requires marked to be loaded';
-	}
+	var DEFAULT_SLIDE_SEPARATOR = '^\r?\n---\r?\n$',
+		DEFAULT_NOTES_SEPARATOR = 'notes?:',
+		DEFAULT_ELEMENT_ATTRIBUTES_SEPARATOR = '\\\.element\\\s*?(.+?)$',
+		DEFAULT_SLIDE_ATTRIBUTES_SEPARATOR = '\\\.slide:\\\s*?(\\\S.+?)$';
 
-	if( typeof hljs !== 'undefined' ) {
-		marked.setOptions({
-			highlight: function( lang, code ) {
-				return hljs.highlightAuto( lang, code ).value;
-			}
-		});
-	}
-
-	var DEFAULT_SLIDE_SEPARATOR = '^\n---\n$',
-		DEFAULT_NOTES_SEPARATOR = 'note:',
-		DEFAULT_ELEMENT_ATTRIBUTES_SEPARATOR = '{\\\.\s*?([^}]+?)}',
-		DEFAULT_SLIDE_ATTRIBUTES_SEPARATOR = '^.*?<!--\\\sslide-attributes:\\\s(.*?)-->';
+	var SCRIPT_END_PLACEHOLDER = '__SCRIPT_END__';
 
 
 	/**
@@ -38,10 +31,14 @@
 	 */
 	function getMarkdownFromSlide( section ) {
 
-		var template = section.querySelector( 'script' );
+		// look for a <script> or <textarea data-template> wrapper
+		var template = section.querySelector( '[data-template]' ) || section.querySelector( 'script' );
 
 		// strip leading whitespace so it isn't evaluated as code
 		var text = ( template || section ).textContent;
+
+		// restore script end tags
+		text = text.replace( new RegExp( SCRIPT_END_PLACEHOLDER, 'g' ), '</script>' );
 
 		var leadingWs = text.match( /^\n?(\s*)/ )[1].length,
 			leadingTabs = text.match( /^\n?(\t*)/ )[1].length;
@@ -50,7 +47,7 @@
 			text = text.replace( new RegExp('\\n?\\t{' + leadingTabs + '}','g'), '\n' );
 		}
 		else if( leadingWs > 1 ) {
-			text = text.replace( new RegExp('\\n? {' + leadingWs + '}','g'), '\n' );
+			text = text.replace( new RegExp('\\n? {' + leadingWs + '}', 'g'), '\n' );
 		}
 
 		return text;
@@ -73,10 +70,10 @@
 				value = attributes[i].value;
 
 			// disregard attributes that are used for markdown loading/parsing
-			if( /data\-(markdown|separator|vertical|notes|attributes)/gi.test( name ) ) continue;
+			if( /data\-(markdown|separator|vertical|notes)/gi.test( name ) ) continue;
 
 			if( value ) {
-				result.push( name + '=' + value );
+				result.push( name + '="' + value + '"' );
 			}
 			else {
 				result.push( name );
@@ -97,7 +94,6 @@
 		options.separator = options.separator || DEFAULT_SLIDE_SEPARATOR;
 		options.notesSeparator = options.notesSeparator || DEFAULT_NOTES_SEPARATOR;
 		options.attributes = options.attributes || '';
-		options.slideAttributesSeparator = options.slideAttributesSeparator || DEFAULT_SLIDE_ATTRIBUTES_SEPARATOR;
 
 		return options;
 
@@ -113,8 +109,12 @@
 		var notesMatch = content.split( new RegExp( options.notesSeparator, 'mgi' ) );
 
 		if( notesMatch.length === 2 ) {
-			content = notesMatch[0] + '<aside class="notes" data-markdown>' + notesMatch[1].trim() + '</aside>';
+			content = notesMatch[0] + '<aside class="notes">' + marked(notesMatch[1].trim()) + '</aside>';
 		}
+
+		// prevent script end tags in the content from interfering
+		// with parsing
+		content = content.replace( /<\/script>/g, SCRIPT_END_PLACEHOLDER );
 
 		return '<script type="text/template">' + content + '</script>';
 
@@ -129,17 +129,14 @@
 		options = getSlidifyOptions( options );
 
 		var separatorRegex = new RegExp( options.separator + ( options.verticalSeparator ? '|' + options.verticalSeparator : '' ), 'mg' ),
-			horizontalSeparatorRegex = new RegExp( options.separator ),
-			slideAttributesSeparatorRegex = new RegExp( options.slideAttributesSeparator, 'm' );
+			horizontalSeparatorRegex = new RegExp( options.separator );
 
 		var matches,
 			lastIndex = 0,
 			isHorizontal,
 			wasHorizontal = true,
 			content,
-			sectionStack = [],
-			matchAttributes,
-			slideAttributes = "";
+			sectionStack = [];
 
 		// iterate until all blocks between separators are stacked up
 		while( matches = separatorRegex.exec( markdown ) ) {
@@ -178,35 +175,19 @@
 		for( var i = 0, len = sectionStack.length; i < len; i++ ) {
 			// vertical
 			if( sectionStack[i] instanceof Array ) {
-				// The 'data-xxx' attributes of the first child must be set on the wrapping parent section to be effective
-				// Mainly for data-transition (otherwise, it is ignored for the first vertical slide)
-				firstChild = sectionStack[i][0];
-				matchAttributes = slideAttributesSeparatorRegex.exec( firstChild );
-				slideAttributes = matchAttributes ? matchAttributes[1] : "";
-				dataAttributes = "";
-				if( slideAttributes != "" ) {
-					// http://stackoverflow.com/questions/18025762/javascript-regex-replace-all-word-characters-except-word-characters-between-ch
-					// Keep only data-attributes for the parent slide section.
-					dataAttributes = slideAttributes.replace( /(data-\S+=\"[^\"]+?\")|\w|[\"=]/g, function(a, b) { return b || ''; });
-				}
-				markdownSections += '<section '+ options.attributes + ' ' + dataAttributes + '>';
+				markdownSections += '<section '+ options.attributes +'>';
 
 				sectionStack[i].forEach( function( child ) {
-					matchAttributes = slideAttributesSeparatorRegex.exec( child );
-					slideAttributes = matchAttributes ? matchAttributes[1] : "";
-					child = matchAttributes ? child.replace( slideAttributesSeparatorRegex,"" ) : child
-					markdownSections += '<section ' + slideAttributes + ' data-markdown>' +  createMarkdownSlide( child, options ) + '</section>';
+					markdownSections += '<section data-markdown>' + createMarkdownSlide( child, options ) + '</section>';
 				} );
 
 				markdownSections += '</section>';
 			}
 			else {
-				matchAttributes = slideAttributesSeparatorRegex.exec( sectionStack[i] );
-				slideAttributes = matchAttributes ? matchAttributes[1] : "";
-				content = matchAttributes ? sectionStack[i].replace( slideAttributesSeparatorRegex,"" ) : sectionStack[i]
-				markdownSections += '<section '+ options.attributes + ' ' + slideAttributes +' data-markdown>' + createMarkdownSlide( content, options ) + '</section>';
+				markdownSections += '<section '+ options.attributes +' data-markdown>' + createMarkdownSlide( sectionStack[i], options ) + '</section>';
 			}
 		}
+
 		return markdownSections;
 
 	}
@@ -239,13 +220,14 @@
 
 				xhr.onreadystatechange = function() {
 					if( xhr.readyState === 4 ) {
-						if ( xhr.status >= 200 && xhr.status < 300 ) {
+						// file protocol yields status code 0 (useful for local debug, mobile applications etc.)
+						if ( ( xhr.status >= 200 && xhr.status < 300 ) || xhr.status === 0 ) {
+
 							section.outerHTML = slidify( xhr.responseText, {
 								separator: section.getAttribute( 'data-separator' ),
-								verticalSeparator: section.getAttribute( 'data-vertical' ),
-								notesSeparator: section.getAttribute( 'data-notes' ),
-								attributes: getForwardedAttributes( section ),
-								slideAttributesSeparator: section.getAttribute( 'data-attributes' ),
+								verticalSeparator: section.getAttribute( 'data-separator-vertical' ),
+								notesSeparator: section.getAttribute( 'data-separator-notes' ),
+								attributes: getForwardedAttributes( section )
 							});
 
 						}
@@ -271,30 +253,18 @@
 				}
 
 			}
-			else if( section.getAttribute( 'data-separator' ) || section.getAttribute( 'data-vertical' ) || section.getAttribute( 'data-notes' ) ) {
+			else if( section.getAttribute( 'data-separator' ) || section.getAttribute( 'data-separator-vertical' ) || section.getAttribute( 'data-separator-notes' ) ) {
 
 				section.outerHTML = slidify( getMarkdownFromSlide( section ), {
 					separator: section.getAttribute( 'data-separator' ),
-					verticalSeparator: section.getAttribute( 'data-vertical' ),
-					notesSeparator: section.getAttribute( 'data-notes' ),
-					attributes: getForwardedAttributes( section ),
-					slideAttributesSeparator: section.getAttribute( 'data-attributes' ),
+					verticalSeparator: section.getAttribute( 'data-separator-vertical' ),
+					notesSeparator: section.getAttribute( 'data-separator-notes' ),
+					attributes: getForwardedAttributes( section )
 				});
 
 			}
 			else {
-				var content = getMarkdownFromSlide( section );
-				var slideAttributesSeparatorRegex = new RegExp( section.getAttribute( 'data-attributes' )  || DEFAULT_SLIDE_ATTRIBUTES_SEPARATOR, 'm' );
-				var matchAttributes = slideAttributesSeparatorRegex.exec( content );
-				if ( matchAttributes ) {
-				  var slideAttributes = matchAttributes[1];
-				  content = content.replace( slideAttributesSeparatorRegex,"" );
-					var slideAttributesRegex = new RegExp( "([^\"= ]+?)=\"([^\"=]+?)\"", 'mg' );
-					while( matchesAttributes = slideAttributesRegex.exec( slideAttributes ) ) {
-						section.setAttribute( matchesAttributes[1], matchesAttributes[2] );
-					}
-				}
-				section.innerHTML = createMarkdownSlide( content );
+				section.innerHTML = createMarkdownSlide( getMarkdownFromSlide( section ) );
 			}
 		}
 
@@ -319,40 +289,51 @@
 			var classes = matches[1];
 			nodeValue = nodeValue.substring( 0, matches.index ) + nodeValue.substring( mardownClassesInElementsRegex.lastIndex );
 			node.nodeValue = nodeValue;
-
 			while( matchesClass = mardownClassRegex.exec( classes ) ) {
 				elementTarget.setAttribute( matchesClass[1], matchesClass[2] );
 			}
+			return true;
 		}
-
+		return false;
 	}
 
 	/**
 	 * Add attributes to the parent element of a text node,
 	 * or the element of an attribute node.
 	 */
-	function addAttributes( element, separator ) {
+	function addAttributes( section, element, previousElement, separatorElementAttributes, separatorSectionAttributes ) {
 
-		if( element.childNodes.length > 0 ) {
+		if ( element != null && element.childNodes != undefined && element.childNodes.length > 0 ) {
+			previousParentElement = element;
 			for( var i = 0; i < element.childNodes.length; i++ ) {
-				addAttributes( element.childNodes[i], separator );
+				childElement = element.childNodes[i];
+				if ( i > 0 ) {
+					j = i - 1;
+					while ( j >= 0 ) {
+						aPreviousChildElement = element.childNodes[j];
+						if ( typeof aPreviousChildElement.setAttribute == 'function' && aPreviousChildElement.tagName != "BR" ) {
+							previousParentElement = aPreviousChildElement;
+							break;
+						}
+						j = j - 1;
+					}
+				}
+				parentSection = section;
+				if( childElement.nodeName ==  "section" ) {
+					parentSection = childElement ;
+					previousParentElement = childElement ;
+				}
+				if ( typeof childElement.setAttribute == 'function' || childElement.nodeType == Node.COMMENT_NODE ) {
+					addAttributes( parentSection, childElement, previousParentElement, separatorElementAttributes, separatorSectionAttributes );
+				}
 			}
 		}
 
-		var nodeValue;
-		var elementTarget;
-
-		// From http://stackoverflow.com/questions/9178174/find-all-text-nodes
-		if( element.nodeType == Node.TEXT_NODE && /\S/.test(element.nodeValue) ) {
-			addAttributeInElement( element, element.parentNode, separator );
-		}
-		if( element.nodeType == Node.ELEMENT_NODE && element.attributes.length > 0 ) {
-			for( var j = 0; j < element.attributes.length; j++ ){
-				var attr = element.attributes[j];
-				addAttributeInElement( attr, element, separator );
+		if ( element.nodeType == Node.COMMENT_NODE ) {
+			if ( addAttributeInElement( element, previousElement, separatorElementAttributes ) == false ) {
+				addAttributeInElement( element, section, separatorSectionAttributes );
 			}
 		}
-
 	}
 
 	/**
@@ -376,9 +357,12 @@
 				var markdown = getMarkdownFromSlide( section );
 
 				section.innerHTML = marked( markdown );
-				addAttributes( 	section, section.getAttribute( 'data-element-attributes' ) ||
+				addAttributes( 	section, section, null, section.getAttribute( 'data-element-attributes' ) ||
 								section.parentNode.getAttribute( 'data-element-attributes' ) ||
-								DEFAULT_ELEMENT_ATTRIBUTES_SEPARATOR );
+								DEFAULT_ELEMENT_ATTRIBUTES_SEPARATOR,
+								section.getAttribute( 'data-attributes' ) ||
+								section.parentNode.getAttribute( 'data-attributes' ) ||
+								DEFAULT_SLIDE_ATTRIBUTES_SEPARATOR);
 
 				// If there were notes, we need to re-add them after
 				// having overwritten the section's HTML
@@ -396,6 +380,24 @@
 	return {
 
 		initialize: function() {
+			if( typeof marked === 'undefined' ) {
+				throw 'The reveal.js Markdown plugin requires marked to be loaded';
+			}
+
+			if( typeof hljs !== 'undefined' ) {
+				marked.setOptions({
+					highlight: function( code, lang ) {
+						return hljs.highlightAuto( code, [lang] ).value;
+					}
+				});
+			}
+
+			var options = Reveal.getConfig().markdown;
+
+			if ( options ) {
+				marked.setOptions( options );
+			}
+
 			processSlides();
 			convertSlides();
 		},
