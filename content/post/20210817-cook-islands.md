@@ -279,7 +279,7 @@ tour. But we saw lots of fish while snorkelling. We could have brought the snork
 
 And here are some land and sea pictures.
 <figure>
-{{< gallery-slider dir="/img/20210817-cook-islands/aitutaki" id="ait">}}
+{{< gallery-slider dir="/img/20210817-cook-islands/aitutaki">}}
 <figcaption style="text-align:center">Giant trevalley; crabs; me on beach; MP and hermit crab; giant clam shell; blue water and ominous clouds.</figcaption>
 </figure>
 
