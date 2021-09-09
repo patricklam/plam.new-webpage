@@ -7,7 +7,7 @@ title:      "Places I've been in Aotearoa New Zealand"
 author:     "Patrick Lam"
 published:  true
 url:        /nz-places/
-tags:       ["hiking"]
+tags:       ["hiking", "aotearoa"]
 categories: ["travel"]
 image:      "/img/nz-places/01173_pass_banner.webp"
 showtoc:    true
