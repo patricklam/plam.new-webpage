@@ -9,7 +9,7 @@ categories: ["travel", "books"]
 published:  true
 image:      "/img/20210905-emerald-hours/IMG_20200101_133541.webp"
 showtoc:    true
-summary:    ""
+summary:    "Alys Lowth and her party toured New Zealand in the early 1900s and took a surprising amount of public transit. Here, I compare public transit in NZ in 1905 and today. Also: things that are the same (geology), and things that are different (not as much as one would think!)."
 
 ---
 
@@ -66,7 +66,7 @@ and my knowledge of the transit system.
 | Auckland Ferry Terminal - Bayswater | 2 | 20min | 12min |
 | Britomart - Onehunga | 12 | 30min | 22min |
 | Auckland - Rotorua train | 227 | 7h30 | N/A (4h13 until cancelled) |
-| Rotorua - Frankton Jct - Te&nbsp;Aroha | 160 | 0830 - early afternoon | N/A |
+| Rotorua - Frankton Jct - Te&nbsp;Aroha | 160 | 0830 &ndash; early afternoon | N/A |
 | Frankton Jct - Taumarunui | 158 | unknown | 3h to National Park |
 | Auckland - Wellington train |643 | 20h in 1909 | 11h14 |
 | Taumaranui - Pipiriki | 145 | 1 day, ie 6am&ndash;5pm (steamer) | 5 days (canoe Great&nbsp;Walk) |
@@ -282,5 +282,9 @@ Hmm, my spouse isn't thrilled with the style here. I can say that the prices of 
 > "The great majority of the colonials begin the day with an early cup of tea, have it again for breakfast, again at eleven, again at luncheon (which is generally dinner), again at 4 p.m., again at dinner, (which is generally “high” tea), and very often end up with a last cup just before going to bed!"
 
 I think people have a lot of coffee now. I'm told that flat whites are uniformly high quality. Of course I have no pictures of them.
+
+> "But the manager explained that labour is too costly out here for manufacturers to compete against imported goods."
+
+1906 or 2021?
 
 Next up: Across the Cook Strait and onto the South Island (where adventure lives).
