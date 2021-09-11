@@ -72,7 +72,7 @@ and my knowledge of the transit system.
 | Taumaranui - Pipiriki | 145 | 1 day, ie 6am&ndash;5pm (steamer) | 5 days (canoe Great&nbsp;Walk) |
 | Pipiriki - Whanganui | 77 | late morning&ndash;early afternoon | 3 hours (mail bus) | 
 | Whanganui - New Plymouth | 193 | afternoon | N/A |
-| New Plymouth - Wellington | 388 | 12h | N/A (7h15 until cancelled) |
+| New Plymouth - Wellington | 388 | 12h | N/A (6h30 until cancelled in 1975) |
 
 # Getting to NZ & initial impressions
 
@@ -195,7 +195,7 @@ tried](https://www.nzherald.co.nz/whanganui-chronicle/news/whanganui-riverboat-t
 in 2010 from Whakahoro to Pipiriki), but there is a bookable [mail
 bus](https://whanganuitours.co.nz/mail-run/) that takes 3 hours (or 1.5-2 hours in your own car).
 
-# Whanganui to Wellington
+# Whanganui to Wellington with a side-trip
 
 From Whanganui it was a side-trip up to New Plymouth to see Taranaki and back to Wellington, all by train.
 
@@ -221,8 +221,8 @@ but declined due to lack of schedule flexibility. Her loss!
 <figcaption style="text-align:center">The famous picture of Mount Taranaki. 📷 Marie-Pascale Desjardins.</figcaption>
 </figure>
 
-New Plymouth to Wellington was 12 hours of train travel along the coast. I've driven that distance, though 
-inland around Taranaki and not on the Surf Highway ([SH45](https://en.wikipedia.org/wiki/State_Highway_45_(New_Zealand))).
+New Plymouth to Wellington was 12 hours of train travel around the mountain and then along the coast. I've driven that distance in
+4 hours, which is faster than the train's 6.5 hours in 1975, but less comfortable.
 
 About halfway, near Bulls, one can either continue along the Kāpiti
 Coast, or one can go through Palmerston North and then through the
@@ -286,5 +286,7 @@ I think people have a lot of coffee now. I'm told that flat whites are uniformly
 > "But the manager explained that labour is too costly out here for manufacturers to compete against imported goods."
 
 1906 or 2021?
+
+Edited to add: [another discussion of NZ trains by Anthonie Tonnon](https://www.anthonietonnon.com/talk/2019/1/22/rail-land-dunedins-forgotten-railway-system-and-small-city-urbanism-in-aotearoa)
 
 Next up: Across the Cook Strait and onto the South Island (where adventure lives).
