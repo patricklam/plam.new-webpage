@@ -413,7 +413,8 @@ Wellington. Maybe a bit hard to get to, since you have to either take a boat or 
 
 Wild and wet. Fortunately I haven't really been rained on. Really no one lives here.
 Contains the less-accessible Southern Alps. Enjoyed my trip to Charleston and over the Alps
-to Punakaiki. Lots of nature and terrain. Will report back after Paparoa.
+to Punakaiki. Lots of nature and terrain. Paparoa's great. Glacier Country has worthy views
+even if one isn't a fan of taking helicopters onto glaciers (I prefer to walk onto them).
 
 ### Canterbury
 
