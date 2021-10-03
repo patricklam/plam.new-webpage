@@ -3,7 +3,6 @@ title = "Patrick Lam"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 disqusShortname = ""
-googleAnalytics = "UA-44519764-2"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = false
@@ -24,6 +23,7 @@ home = ["HTML", "RSS", "Algolia"]
   title_404 = "Not Found :("
   omit_categories = true
   gallery_prefix = "https://gallery.patricklam.ca/picture.php"
+  google_analytics_id = "UA-44519764-2"
 
   # leancloud storage for page view counter
   page_view_conter = false 
@@ -31,10 +31,10 @@ home = ["HTML", "RSS", "Algolia"]
   leancloud_app_key = ""
 
   # algolia site search
-  algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_search = false
+  algolia_appId = "S29VKZ17AA"
+  algolia_indexName = "dev_patricklam"
+  algolia_apiKey = "3b61dbd61113ab58c305a21cabb29fd8"
 
   # Sidebar settings
   sidebar_about_description = "Associate Professor of Electrical and Computer Engineering at the University of Waterloo; patrick.lam@uwaterloo.ca"
