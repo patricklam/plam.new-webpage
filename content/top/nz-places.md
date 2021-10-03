@@ -26,7 +26,7 @@ I thought I'd put together a list of the (many!) places I've been to in Aotearoa
 
 # Great Walks
 
-We've so far done 7 of the Great Walks with two more booked.
+We've so far done 9 of the Great Walks.
 
 * [Tongariro Northern Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/tongariro-northern-circuit/) (February 2021): volcanic leftovers, maybe our favourite scenery of the Great Walks, easiest (cheapest, closest) access from Wellington of any Great Walk.
 * [Heaphy](https://www.doc.govt.nz/heaphytrack) (July 2020, [post](/post/20200905-heaphy-track/), [pics](https://gallery.patricklam.ca/index.php?/category/1227)): Long but relatively easy. Rainbows, one wet day, excellent last day, lots of birds even if we didn’t see takahe (sniff). Fourth day on the beach super-scenic even if we were rushing to catch the plane. Interesting to see mountain bikes.
@@ -36,7 +36,7 @@ We've so far done 7 of the Great Walks with two more booked.
 * [Paparoa](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park/things-to-do/tracks/paparoa-track/) (September 2021): exquisitely formed track, not boring to walk on like a sidewalk, but also no puddles. Whio sighting walking to Ces Clarke (super flash hut), then great views near the tops to Moonlight Tops and on to Pororari (long day). Eventually, impressive limestone walls near the Punakaiki walkers' exit. Varied scenery. Used car relocation service, which required a bit of thought (where to get keybox? where was the car?), but managed OK.
 * [Hump Ridge](https://www.humpridgetrack.co.nz/) (January 2021): soon to be a Great Walk even if not yet. Excellent views, swimming with Hector’s dolphins, well-appointed lodges, muddy when we went (no pig cull last year due to COVID)
 * [Rakiura](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park/things-to-do/rakiura-track/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1240)): First day to Port William the best of the three. Otherwise perhaps our least-favourite Great Walk even without the [bedbugs](https://www.stuff.co.nz/travel/travel-troubles/124902839/doc-hut-with-the-toughest-bed-bugs-known-to-mankind-to-close-for-refit) last summer (we were there before that problem). Not as many birds as we hoped for, though we did see kakariki on Ulva Island. Also Mason Bay was great, though not quite on this Great Walk. Day 2 is swampy.
-* [Abel Tasman Coast](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/) (trip COVIDed): easy to get in and out even if not cheap, via [Golden Bay Air](https://goldenbayair.co.nz/).
+* [Abel Tasman Coastal Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/) (September 2020): harder than it seems! First-class track all the way and many views of beaches, though not so much beach walking. Easy to get in and out even if not cheap, via [Golden Bay Air](https://goldenbayair.co.nz/). Most people don't seem to do it end-to-end, and there are water taxis to facilitate partial trips. One can also have super tasty food at the [Awaroa Lodge](https://www.awaroalodge.co.nz/).
 
 Remaining: Lake Waikaremoana, Whanganui Journey
 
@@ -46,7 +46,7 @@ This closely tracks the Great Walks list but not exactly.
 
 * [Tongariro](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/) (February 2020): alien volcanic scenery, been here for the hikes and the climbing (but not the skiing). The [Round the Mountain Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/round-the-mountain-track/) is on our radar.
 * [Egmont](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/) (March 2020, [summit pics](https://gallery.patricklam.ca/index.php?/category/1216), [Pouakai pics](https://gallery.patricklam.ca/index.php?/category/1361)): we climbed the mountain and did the Pouakai Circuit (getting a great picture of the mountain). Maybe we'll do the confusingly-named [Around the Mountain Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/around-the-mountain-circuit/) one of these days.
-* [Abel Tasman](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/?tab-id=50578) (September 2021, or whenever COVID allows)
+* [Abel Tasman](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/?tab-id=50578) (September 2021): golden beaches on the Abel Tasman Coastal Walk.
 * [Kahurangi](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/kahurangi-national-park/) (July 2020): contains the Heaphy Track, which also has takahe in the wild.
 * [Arthur's Pass](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1231)): been here a couple of times, Avalanche Peak is worthwhile. The NZAC Lodge is good to stay at if you're a member. Looking at some moderate mountaineering objectives.
 * [Paparoa](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park/) (May 2021, [writeup](/post/20210620-to-west-coast/; September 2021) [pics](https://gallery.patricklam.ca/index.php?/category/1335)): we went to the famous Punakaiki Pancake Rocks as well as the Truman Track (starfish); and back for the Paparoa Great Walk.
@@ -372,7 +372,7 @@ around Taranaki and the boundary with farmland is a quite striking green circle
 from above. I think it's not really the best for skiing but maybe OK for learning.
 Climbing is OK around Ruapehu as well. New Plymouth is surprisingly urban (though tiny).
 
-### Gisborne & Hawkes's Bay
+### Gisborne & Hawke's Bay
 
 Haven't been here yet. I hear it's pretty remote. I'd like to go sometime, and
 Lake Waikaremoana is here as well.
@@ -404,8 +404,8 @@ here but the lack of jobs is an issue.
 
 There are no cities here. Kaikoura is really pretty with the mountains
 and the seas close by. Also lots of wildlife. Good hikes. The other
-experiences I've had are with the Heaphy Track and trips to Charleston
-and Pohara.  Worth visiting but doesn't have anything really
+experiences I've had are with the Heaphy Track, trips to Charleston
+and Pohara, and the Abel Tasman. Worth visiting but doesn't have anything really
 famous. Sounds like a reason to go there more. Better climbing than
 Wellington. Maybe a bit hard to get to, since you have to either take a boat or a plane.
 
