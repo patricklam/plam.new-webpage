@@ -142,7 +142,7 @@ Getting from Auckland to Wellington in 1906 was actually somewhat
 difficult: the [first train
 journey](https://nzhistory.govt.nz/first-direct-train-trip-between-wellington-and-auckland)
 was in August 1908, though the track wasn't actually quite finished
-yet. Regular services started in November 1908 shortly after the last
+yet. (See also video [The Silver Spike](https://www.youtube.com/watch?v=eYuh0dcphtc)). Regular services started in November 1908 shortly after the last
 spike was driven. Express train took 18 hours. Now 11h15, which has been fairly constant since 1968;
 someone documented the [history of the main trunk line](https://nzhistory.govt.nz/culture/main-trunk-line/rise-and-fall).
 
