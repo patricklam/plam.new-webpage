@@ -221,7 +221,7 @@ at 651.
 
 They crossed Arthur's Pass overland. Cars still do that today on SH73,
 with a paravalanche these days entering the pass itself (I'm sure that didn't exist in
-1905!). But since 1923, trains have taken the 8.5km [Otira
+1905! &mdash; just learned that it was built in the 1990s and provided [shelter to a truck driver](https://www.nzherald.co.nz/nz/truck-driver-escapes-large-otira-gorge-rockfall-in-arthurs-pass/GHVS6FVEVHQ3CQMGMYJDYBPZAE/).). But since 1923, trains have taken the 8.5km [Otira
 Tunnel](https://nzhistory.govt.nz/page/otira-rail-tunnel-opened). People
 say things take a long time now, but that tunnel was under
 construction from 1908 through 1918.
