@@ -54,8 +54,9 @@ This closely tracks the Great Walks list but not exactly.
 * [Fiordland](https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/) (November 2020): lots of Great Walks here and not so many other accessible hikes, although I'm kind of looking at the [Dusky Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/dusky-track/) which is probably hard. Some climbing, likely hard too.
 * [Rakiura](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1240)): the third NZ island, where you'll also find Oban and the South Sea Hotel.
 * [Westland Tai Poutini](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/) (September 2021): Lake Matheson is impressive on a good day, at least as scenic as a view in the Canadian Rockies. Only saw a small part of the toe of Franz Josef Glacier due to cloud cover. There are a few other walks we'd enjoy in this park, I'm sure, e.g. [Alex Knob](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/alex-knob-track/), [Welcome Flats](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/copland-track-to-welcome-flat-hut/) (or even further with mountaineering gear), [Mount Fox Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/mount-fox-route/), perhaps [Roberts Point](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/roberts-point-track/). We also walked to Lake Gault but it wasn't a great day for it.
+* [Aoraki / Mount Cook](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/) (October 2021): We saw the mountain from Fox Glacier (Lake Matheson) and then went to Mount Cook Village in October. It's a tiny village, kind of like Lake Louise. The Hooker Valley and Red Tarns tracks are spectacular. We aren't quite sure when the best photo time for Hooker Valley is, but we went around sunrise and it was too early for October, because the sun was behind the mountains. The first 4 parties we encountered on our way back all had fancier cameras than I did (and it's not like I just have a point and shoot anymore).
 
-Haven't visited yet: [Whanganui](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/?tab-id=50578), [Nelson Lakes](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/?tab-id=50578) (set foot into the park briefly on way to Charleston), [Aoraki / Mount Cook](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/) (we saw the mountain but haven't managed to go into the park yet).
+Haven't visited yet: [Whanganui](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/?tab-id=50578), [Nelson Lakes](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/?tab-id=50578) (set foot into the park briefly on way to Charleston), 
 
 # North Island Lesser Walks
 Well, if they're not Great Walks, then they're Lesser Walks, right?
@@ -259,11 +260,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 |PPQ  |  Kapiti Coast (Paraparaumu) (walked to from airbnb) (flew Jul 2021) | 
 |GBZ  |  Great Barrier Aerodrome (walked from) (Jul 2021) |
 |MFN  |  Milford Sound (Dec 2020) |
-|HKK     Hokitika (Sep 2021) |
-
-Booked:
-|IATA code | Airport |
-| --- | --- |
+|HKK  |  Hokitika (Sep 2021) |
 |KTF  |  Takaka (Sep 2021) |
 
 Flown to 4/12 North Island Air NZ stations and 6/8 South Island stations (need Blenheim, Timaru).
