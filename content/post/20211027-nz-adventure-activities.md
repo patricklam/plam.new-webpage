@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Answers to NZ Government consultations on Adventure Activities."
+title:      "Answers to NZ Government consultations on Adventure Activities"
 date:       2021-10-27
 author:     "Patrick Lam"
 tags:       ["advocacy"]

@@ -87,7 +87,7 @@ been great in running this course. As I finish this post, reading week is almost
 
 # What's going on in the world
 
-Hmm, I haven't followed other places that closely, except for Canada. The rest of the world is just a bunch of headlines to me. Judo and judo competitions seem to be coming back in Canada, and my club didn't close because of COVID, though I'm told it was a close thing.
+Hmm, I haven't followed other places that closely, except for Canada. The rest of the world is just a bunch of headlines to me. Judo and judo competitions seem to be coming back in Canada, and [my club](http://clubdejudo-torii.com/) didn't close because of COVID, though I'm told it was a close thing.
 
 From here, it looks to me like Nova Scotia, Newfoundland, and PEI are still doing quite well, New Brunswick was exploding last time I looked (on the Canadian scale), Quebec and Ontario are doing OK, and Saskatchewan and Alberta are doing worst. I was thinking that Quebec had 30% more COVID than Ontario but today's stats from the [CTV tracker](https://www.ctvnews.ca/health/coronavirus/covid-19-in-the-u-s-how-do-canada-s-provinces-rank-against-american-states-1.5051033) shows that Quebec has more than 2 times more COVID than Ontario per capita, yikes. Ontario is dropping faster than Quebec. I'll be figuring out where to spend December in part based on how much COVID there is.
 
@@ -255,7 +255,7 @@ much drama.
 
 
 Should plan my trip back to Canada for mid-to-late November. Kind of
-dreaming of NZ borders open by Chrismas, but that's really unlikely
+dreaming of NZ borders open by Christmas, but that's really unlikely
 (and I don't think they should! They would surely get an exit wave). Just noticed
 that Air NZ has some cheap fares AKL-LAX on certain days, which is weird.
 
