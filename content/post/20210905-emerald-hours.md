@@ -5,7 +5,7 @@ title:      "Review: Emerald Hours in New Zealand Part I, North Island (but real
 date:       2021-09-05
 author:     "Patrick Lam"
 tags:       ["aotearoa"]
-categories: ["travel", "books"]
+categories: ["travel", "transport", "books"]
 published:  true
 image:      "/img/20210905-emerald-hours/IMG_20200101_133541.webp"
 showtoc:    true

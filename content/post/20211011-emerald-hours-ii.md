@@ -5,7 +5,7 @@ title:      "Review: Emerald Hours in New Zealand Part II, getting around the So
 date:       2021-10-10
 author:     "Patrick Lam"
 tags:       ["aotearoa"]
-categories: ["travel", "books"]
+categories: ["travel", "transport", "books"]
 published:  true
 image:      "/img/20211011-emerald-hours-ii/20201217_194630745_mountain_range-PANO.webp"
 showtoc:    true
