@@ -57,18 +57,18 @@ waiting on hold with Air New Zealand for 30 minutes, the agent said
 that they could actually check me in for WLG-AKL and then AKL-LAX
 separately. I hope that's true.  The testing lab will guarantee 24
 hour turnaround for an extra $75 on top of its regular $250 fee for
-travel COVID tests, said the nice test centre manager who was
+travel COVID tests, per the nice test centre manager who was
 proposing solutions that might work.
 
 <figure>
 {{< gallery-slider dir="/img/20211127-pre-departure/community-covid-test" >}}
-<figcaption style="text-align:center">Free, but not acceptable for travel.</figcaption>
+<figcaption style="text-align:center">NZ community testing: Free, but not acceptable for travel.</figcaption>
 </figure>
 
 
 There's an extra complication of leaving on a Monday and test centres
 being not as open on Sundays; I would have preferred a Sunday AM time, but
-I can only get Sunday at 5pm.
+I can only get Sunday at 5pm. Still need express testing in any case though.
 
 The alternative is to get tested in California. While community
 testing in the US is free and works for crossing the Canadian border,
@@ -91,7 +91,7 @@ How things are needlessly complicated:
 * Canada has a more restrictive testing regime than the US, in terms of timing and which tests are accepted;
 * California doesn't have suitable rapid tests available for free.
 
-I hope these things change soon. Otherwise you're currently looking at a minimum of $250 for a travel test,
+I hope these things change soon. Otherwise you're currently looking at a minimum of $250 for a travel test in NZ,
 not including rental car cost to get a test in California. If you're willing to spend arbitrary amounts of money, then I guess it's fine.
 
 <figure>
