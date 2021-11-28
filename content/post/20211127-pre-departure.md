@@ -98,3 +98,5 @@ not including rental car cost to get a test in California. If you're willing to 
 {{< gallery-slider dir="/img/20211127-pre-departure/planes" >}}
 <figcaption style="text-align:center">Airlines I'll be taking back to Canada: Air New Zealand, then Air Canada.</figcaption>
 </figure>
+
+*Postscript*: Wellington SCL returned test results at 8am from yesterday's 5pm collection, so I didn't even have to do anything special. I changed my WLG-AKL flight from 10:45 to 1:10 at check-in. Now I just have to not miss the plane.
