@@ -18,6 +18,8 @@ summary:    "Argh! How to get the necessary COVID tests to enter the US and Cana
 .meta { color: white; }
 </style>
 
+<i>Update 3 December 2021:</i> It looks like the US now requires everyone to get a test at most 1 day prior to departure. My timings would still have worked. But basically in NZ you now must pay for rapid PCR processing, I think.
+
 The easiest routing to get from New Zealand to Canada is currently Air
 New Zealand from Auckland to Los Angeles (LAX), and then Air Canada
 from Los Angeles to Canada (Montreal for me). There are currently only
