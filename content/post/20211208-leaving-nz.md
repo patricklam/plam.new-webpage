@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Leaving Aotearoa Part I: WLG to AKL onto NZ6"
+title:      "Leaving Aotearoa Part I: WLG to AKL and on to NZ6"
 date:       2021-12-07
 author:     "Patrick Lam"
 tags:       ["canada", "nz", "covid"]
@@ -9,7 +9,7 @@ categories: ["travel"]
 published:  true
 image:      "/img/20211208-leaving-nz/PXL_20211129_044617281.webp"
 showtoc:    true
-summary:    "Ma te wa&mdash; see you later, New Zealand. First half of my trip from Wellington to Montreal, covering travel from Wellington to Auckland and onto the plane to Los Angeles."
+summary:    "Ma te wa&mdash;see you later, New Zealand. First half of my trip from Wellington to Montreal, covering travel from Wellington to Auckland and onto the plane to Los Angeles."
 
 ---
 
@@ -74,8 +74,8 @@ croissants are not sufficiently flaky; they almost never are in
 NZ). Then I got back to the airport, went through domestic security
 (they inspected my nose-hair trimmer), visited the Koru Lounge, and
 went back through security at the international gates where WLG-AKL
-was operating from (no international flights for now). As usual,
-security lines were super efficient.
+was operating from (no international flights for now). 
+Security lines were super efficient as always in NZ.
 
 <figure>
 {{< gallery-slider dir="/img/20211208-leaving-nz/wlg">}}
