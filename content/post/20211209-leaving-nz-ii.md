@@ -9,7 +9,7 @@ categories: ["travel"]
 published:  true
 image:      "/img/20211209-leaving-nz-part-ii/PXL_20211201_135610024.webp"
 showtoc:    true
-summary:    "Ma te wa&mdash; see you later, New Zealand. Trip report for my flights to Montreal."
+summary:    "Part II: from Auckland to Montreal (and Kitchener). Plus, how did we get here? Looking back at 2019."
 
 ---
 
@@ -22,37 +22,41 @@ summary:    "Ma te wa&mdash; see you later, New Zealand. Trip report for my flig
 
 # AKL-LAX
 
-How had I checked 60kg of luggage? Checked baggage allowance in
+How had I checked 60kg of luggage? Air New Zealand's checked baggage allowance in
 Economy is 1 bag, plus 1 for Star Alliance Gold (AC E50k in my case). But I'd also bid $350
 for an upgrade to Premium Economy (aka PY), which came through a couple of
 days before the flight. The $1000+$350 flight was still cheaper than
 some fares I'd seen at $1500, though I had also seen $800 fares but
 missed them for my dates. Air New Zealand oneUp bid upgrades give the
 upgraded class's baggage allowance if they clear before the flight;
-this allowance was 2. Yay! I could bring more stuff back to Canada.
+this allowance was 2. Yay! I could bring more stuff (almost all of my stuff) back to Canada.
 
 Some people really like compression socks for flights. I had
 compression socks. I hadn't used them in 2 years, because 1hr flights
 don't require compression socks. After boarding, I thought I would put
-on the compression socks. Then, I had a moment (well, more like 15
-minutes?) due to the diameter of my calf plus that of the compression
+on the compression socks. Then, I had a moment (uh, 15
+minutes) due to the diameter of my calf plus that of the compression
 sock exceeding the diameter of my jeans. Yikes. I guess this is a
-problem that's solvable with scissors.
+problem that's solvable with scissors, but then I wouldn't have socks.
 
 I don't do extended reviews of flights, but I'll do a capsule review.
-Air Canada's PY has seats similar to domestic AC Business and food closer
-to Economy; the main meal is better than Y but served with Economy wine. Air
-New Zealand's PY seats are also similar to AC domestic Business,
-feeling slightly less comfortable than I remembered AC's, but more
-comfortable than Economy for sure. The meals are much better than
-Economy and not quite as fancy as AC Business, with a full breakfast
-(rather than a slice of banana bread) and the good wine for dinner.
+Air Canada's PY has seats similar to domestic AC Business and food
+closer to Economy; the main meal is better than Y but served with
+Economy wine. Air New Zealand's PY seats are also similar to AC
+domestic Business, feeling slightly less comfortable than I remembered
+on AC, but more comfortable than Economy for sure. The meals are much
+better than Economy and not quite as fancy as AC Business, with the
+good wine for dinner and a full breakfast (rather than a slice of
+banana bread).
 
 Also, a 12 hour overnight flight is actually quite good for sleeping.
-I feel like the trans-Atlantic flights from the East Coast of North America
-are too short for a good night's sleep. I felt much more rested on this flight.
-The noise-cancelling earbuds are good. The P2 mask isn't super comfortable but 
-I wore a cloth mask most of the time and switched to the P2 mask just before deboarding.
+I feel like the trans-Atlantic flights from the East Coast of North
+America are too short for a good night's sleep (Toronto to Paris is
+7h15).  I felt much more rested after this flight.  My
+noise-cancelling earbuds are good. The P2 mask isn't super comfortable
+but I wore a cloth mask most of the time (the flight was coming from
+mostly COVID-free NZ after all) and switched to the P2 mask
+just before deboarding.
 
 <figure>
 {{< gallery-slider dir="/img/20211209-leaving-nz-part-ii/akl-lax">}}
@@ -64,9 +68,9 @@ I wore a cloth mask most of the time and switched to the P2 mask just before deb
 Landing at LAX felt a bit like rejoining the rest of the world,
 starting with the Emirates liveries I could spot on planes. Seeing
 planes other than Air New Zealand and Jetstar plus regionals has been
-rare.
+rare for the past two years.
 
-Thanks to Global Entry, I got to the baggage claim in 20 minutes
+Thanks to Global Entry, I got to baggage claim in 20 minutes
 without speaking to anyone. I just used the customs declaration
 machine, scanned my passport, and showed my receipt to the US Customs
 and Border Protection officer. I was one of the first
@@ -84,14 +88,15 @@ but all together it was another 18 minutes until I was at the car.
 
 With the car, I could drive to Irvine for dinner with
 Brian. Fortunately, I didn't need to drive to Panorama City for a
-COVID test, having planned out things correctly. It was miles upon
+COVID test, having [planned out things correctly](/post/20211127-pre-departure/). It was miles upon
 miles of LA-area highways, pretty dysfunctional. I guess that in a
 normal place, one wouldn't think that Irvine is quickly reachable from
 LAX. Maybe it isn't really reachable. We do things because we can
-(barely). That's induced demand.
+(even if it sucks). Induced demand at work. Like, if the way to go there was by train,
+and the train schedules don't allow, then one just wouldn't go. Which is probably a plus.
 
 First food in the US was a gyro pita, eaten outdoors, at Luna Grill. I
-guess that I am writing home about it, but would I? Probably not. It
+guess that I am literally writing home about it, but would I? Probably not. It
 was pretty good.
 
 Back to check in at my motel (not as nice as a NZ hotel and slightly
@@ -105,13 +110,15 @@ destination during a pandemic (what is?), but pretty safe.
 
 # The morning after
 
-Next morning I went to get gas (C$27, cheaper than in NZ?), picked up
-a rapid antigen test (hard to get in some parts of Canada), and
+Next morning I went to get gas (see table below), picked up
+a rapid antigen test at the pharmacy (hard to get in some parts of Canada), and
 proceeded to the airport. Returning the car was much faster (8 minutes
 and the shuttle left instantly) and I got to the airport in 16
 minutes, with time for a quick stop at the Air Canada Maple Leaf
 Lounge, where I ate food without a mask in a place potentially with
 COVID. Eeps.
+
+<figure>
 
 | where | raw | arr |
 |---|---|---|
@@ -120,7 +127,8 @@ COVID. Eeps.
 | Montreal | C$1.46/L | US$1.14/L |
 | Waterloo | C$1.32/L | US$1.03/L |
 
-Prices and conversions as of December 10. Sure, USD hegemony, why not.
+<figcaption style="text-align:center">Prices and conversions as of December 10. Sure, USD hegemony, why not.</figcaption>
+</figure>
 
 While checking in, I saw two parties who had to reschedule their flights due to
 having expired COVID tests. It was really Someone Else's Problem so
@@ -140,12 +148,14 @@ machines, waited 20 minutes for my luggage, and got another test on
 arrival. There was some confusion because I'd used the NEXUS machines
 and hence Canadian customs hadn't put any stickers on my passport, but
 they figured it out. This was just before Omicron and having to wait
-until test results came back (still not sure how that's
+until test results come back (still not sure how that's
 implemented). My test came back negative around 19 hours later.
 
 The test people referred me to the Public Health staffer to double-check
 my vaccination record. But I had to wait while a French-from-France immigrant
 was complaining about not being able to leave the country without vaccines.
+There was a race issue as well, since it was a white French woman ranting to the
+black Public Health public servant.
 I couldn't help pointing out that her rights to not be vaccinated were subject
 to reasonable limits.
 
@@ -153,12 +163,14 @@ to reasonable limits.
 parents' house (which would not be a suitable place to quarantine,
 since my parents are over 65). My parents' place also isn't a great place to sleep,
 but that's another discussion. Getting there at 7:45PM is completely 
-reasonable. And that's how I got back to Canada.
+reasonable. 
 
 <figure>
 {{< gallery-slider dir="/img/20211209-leaving-nz-part-ii/yul">}}
 <figcaption style="text-align:center">KLM, Air Algérie, Air Canada; AC at the gate; 13 international arrivals; 30 minutes is an overestimate; my luggage, now in Montreal.</figcaption>
 </figure>
+
+And that's how I got back to Canada.
 
 # Postscript: To Kitchener
 
@@ -212,4 +224,9 @@ plane back to Toronto, picked up the luggage, and flown out. This was almost two
 ago and I'd completely forgotten the logistics! I thought we still had luggage in Toronto,
 but nope. 
 
-I still don't know where all my stuff is, though.
+I still don't know where all my stuff is, though. My summer bike, in particular, is an open question.
+
+<figure>
+{{< gallery-slider dir="/img/20211209-leaving-nz-part-ii/bicycle">}}
+<figcaption style="text-align:center">Have you seen my summer bicycle? (Picture November 11, 2019.) I forget where I put it!</figcaption>
+</figure>
