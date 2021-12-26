@@ -43,6 +43,15 @@ without a car; Kitchener and Wellington are both fine actually. Let's
 investigate further. This is all dependent on my travel patterns
 and, of course, the current state of the pandemic.
 
+Is Downtown Kitchener a [15-minute
+city](https://en.wikipedia.org/wiki/15-minute_city)? Wikipedia says
+one needs "living, working, commerce, healthcare, education, and
+entertainment". Pretty much; see below. 
+
+One thing about the 15-minute city is that specialized interests are,
+well, specialized, so they might not be met in the 15 minutes. Because
+KW is smaller, the specialized interests that are present aren't going
+to be too far (but of course there might be some that are missing).
 
 # Introduction: Kitchener
 
@@ -63,7 +72,6 @@ once.
 
 I've driven my car, taken the LRT, walked, and biked around. I've also
 combined the LRT and bike on a trip, which is much easier than on a bus.
-
 
 Downtown Kitchener (DTK) is compact. I was filling out a citizen engagement
 survey about what to do with the Charles Transit Terminal and I couldn't
@@ -98,6 +106,11 @@ I succeeded, but it wasn't much fun.
 
 There sure are a lot of cannabis stores in Downtown Kitchener now.
 
+As for the other parts of the 15-minute city: you can't get fancy clothing in downtown Kitchener; 
+there are high schools and the hospital not far away, as well as lots of doctors on Frederick St.
+One could complain about a lack of a stadium; the Aud is 19 minutes from the Kitchener Market,
+but the walk is not engaging.
+
 # Work
 
 The University of Waterloo is, of course, farther from downtown Kitchener than my place in Waterloo.
@@ -117,21 +130,14 @@ planning to work there again.
 <figcaption style="text-align:center">Proper bike infrastructure on University Avenue (though not on my commute).</figcaption>
 </figure>
 
-# Car
-
-I've used my car twice while I'm here. Once, because I needed it to put the winter tires on.
-The other time to carry some heavier e-waste out to Thrift on Kent. Generally not needed day-to-day.
-
-I would need it to get out of town, though. Definitely for Conservation Halton areas and also for the Beaver Valley.
-There's no real option there. Toronto is pretty reachable by transit and usually better, but I wonder about the
-COVID risk (even with an N95) versus the car crash risk. Not clear. As always, depends on the amount of community transmission.
-
 # LRT
 
 The rides that I've taken haven't been that long. The end of the line, at Fairway Station, to the University of Waterloo,
 almost at the other end, is longer than it needs to be, at 34 minutes. (The 15km/h segment on Mill is somewhat infuriating). 
 But usually one would ride half that. As I wrote above, taking a bike on the LRT is convenient. I did that to get to MEC
 from the University, after having biked to the University.
+
+The LRT is just across the street from the Kaufman Lofts. It's about a 10-minute walk from my place, unfortunately.
 
 # Bike infrastructure
 
@@ -154,3 +160,20 @@ I'm not sure about the suburbs. I don't usually go there that often.
 <figcaption style="text-align:center">Crayon the chicken; I did not miss this.</figcaption>
 </figure>
 
+# Car
+
+I've used my car twice while I'm here. Once, because I needed it to put the winter tires on.
+The other time to carry some heavier e-waste out to Thrift on Kent. Generally not needed day-to-day.
+
+I would need it to get out of town, though. Definitely for Conservation Halton areas and also for the Beaver Valley.
+There's no real option there. Toronto is pretty reachable by transit and usually better, but I wonder about the
+COVID risk (even with an N95) versus the car crash risk. Not clear. As always, depends on the amount of community transmission.
+
+# Getting out of town
+
+Two years ago to the day, I wrote about [travel options from Waterloo](/post/20191226-travel-from-waterloo). 
+The Kitchener line is 20 minutes faster to get to Union Station now due to Metrolinx track upgrades particularly near Guelph,
+and competitive with the old VIA Rail time: 1h40.
+
+For the purpose of this post, though, we can note that the current VIA Rail station is close to downtown Kitchener; even more so for
+the future King/Victoria train connection. That is basically out the door from the Kaufman Lofts.
