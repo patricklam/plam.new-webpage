@@ -124,23 +124,36 @@ non-Québec-plated cars).
 The highway is sort of close to Outremont, but takes surprisingly long
 to get to. 
 
+## Ground Transport
+
+My main complaint about Kitchener/Waterloo is the lack of
+mountains. Montreal doesn't actually do that much better.  It's more
+urban, but I'm not so sure about access to nature.  When there's no
+pandemic, Adirondack Loj is 2.5 hours away, which is not terrible. Those
+mountains are small but numerous and reasonably scenic.
+
+Where else can you go? People drive to the Eastern Townships and the Laurentians,
+which both have some extremely modest topography. I think it's actually pretty feasible to bike
+to the Laurentians on good infrastructure; I've done it before there was good infrastructure.
+It's about 100km. There isn't good public transit; I think there's a daily bus to
+the Eastern Townships. The climbing is, really, not that close.
+
 <figure>
 {{< gallery-slider dir="/img/20211226-urban-living-part-ii-montreal/repentigny">}}
 <figcaption style="text-align:center">Tournoi Répentigny, a pain to get to.</figcaption>
 </figure>
 
+## Air/Train
+
 There are also the connections you would expect to see in a major
-city. The airport is 23min away by car, 1h away by transit; the train
-station is 30 minutes away, and you could go anywhere from Vancouver
-to Halifax by train, if you had the time and money.
+city. The airport is 23min away by car, 1h away by transit.
 
-My main complaint about Kitchener/Waterloo is the lack of
-mountains. Montreal doesn't actually do that much better.  It's more
-urban, but I'm not so sure about access to nature.  When there's no
-pandemic, Adirondack Loj is 2.5 hours away, which is not terrible. The
-hills in southern Quebec are small, and the climbing not that close.
+The train station is 30 minutes away. There's a fairly developed
+commuter network; the REM is coming; and you could go anywhere from
+Vancouver to Halifax by train, if you had the time and money. Ottawa
+and Toronto aren't too far.
 
-And even once one is at the airport, getting to mountains is not
+Even once one is at the airport, getting to mountains is not
 quick.  It's 5 hours flying time to Calgary, 4 back. Canada's big. OK,
 so the Torngats are closer, but they are super remote, and I wouldn't just
 hop out there.

@@ -81,6 +81,7 @@ really come up with amenities that are totally missing.
 
 # Daily amenities
 
+* *Bagels:* Used to be Rise and Shine bagels 5 (NY-style) minutes from my place, but the guy retired. There aren't any easy good options anymore.
 * *Groceries:* The [Kitchener Market](https://www.kitchenermarket.ca/en/index.aspx) is an important
 source of groceries for me. But it's only open on Saturdays, so needs some planning. (Normally
 I go to the Sobey's 200m from my place in Waterloo.) Recently, [Marché Leo's](https://www.marcheleos.com/)
@@ -177,3 +178,7 @@ and competitive with the old VIA Rail time: 1h40.
 
 For the purpose of this post, though, we can note that the current VIA Rail station is close to downtown Kitchener; even more so for
 the future King/Victoria train connection. That is basically out the door from the Kaufman Lofts.
+
+Where can you go? There's the Beaver Valley and, a bit further, Lion's Head, at about 2-3 hours' drive.
+Toronto is 1-2 hours away, and then there is Algonquin Park a few more hours after that. To the west there's
+London and farmlands. And to the south there's Niagara.
