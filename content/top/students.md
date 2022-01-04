@@ -3,10 +3,8 @@ I'm always looking for excellent, motivated students who are interested in progr
 # Current Students
 
 * Sruthi Venkatanarayanan (MMath, Fall 2020 -)
-* Matt D'Souza (co-supervised with Gregor Richards) (MMath, Fall 2020 -)
-* Ali Iman (MASc, Winter 2019 -)
 * Laurian Angelescu (MASc, Fall 2019 -)
-* David (Qian) Liang (MASc, Fall 2019 -)
+* Moh Shirzad Robati (MASc, Fall 2021 -)
 
 # Past Students
 
@@ -21,3 +19,5 @@ I'm always looking for excellent, motivated students who are interested in progr
 * Jun Zhao (MASc 2018)
 * Zeming Liu (MMath 2018)
 * <a href="https://eyl.io">Jon Eyolfson</a> (PhD 2018)
+* Ali Iman (MASc, Spring 2021)
+* Qian Liang (MASc, Spring 2021)

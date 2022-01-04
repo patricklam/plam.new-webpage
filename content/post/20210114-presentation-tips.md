@@ -12,17 +12,20 @@ showtoc:    false
 
 ---
 
-In which I share my opinions about what makes for a good paper presentation for a graduate seminar course, [ECE 750-T5](/sase-2021).
+*Updated January 3, 2022 for Winter 2022 offering of SASE.*
+
+In which I share my opinions about what makes for a good paper presentation for a graduate seminar course, say [ECE 750-T5](/sase-2022).
 
 
 # Logistics
-We'll aim for talks of about 30 minutes. During the synchronous meeting time we will start with the presenter's evaluation and talk about
+We'll aim for talks of about 30 minutes. During the discussion period (Wednesdays), the presenter will kick off the discussion by summarizing their evaluation, and we'll talk about
 the strengths and weaknesses of each paper and how it can inspire your future work (whether academic or industrial).
 
-Please upload your talks 24 hours before the scheduled class time (whenever that ends up being) and share the URL with the class.
+Please upload your talks by Tuesday 4pm Eastern and share the URL with the class.
 
 I am going to give you e-mail feedback on content and on presentation style (i.e. how well
-you spoke and how good your slides are) soon after you record it.
+you spoke and how good your slides are) soon after you record it; if we have in-person meetings
+I can provide this feedback in person on Tuesdays, as well as by e-mail.
 
 # The talk itself
 
@@ -36,14 +39,18 @@ I'm looking for three main parts to these presentations:
 
 ## Your Summary
 
-This part should account for most of your presentation (about 25 minutes).
-People generally lift figures from the paper if they help you make your point, but if they are unsuitable you may have to re-draft them.
+This part should account for most of your presentation (about 25
+minutes). Explain the technique, primarily using examples.  Try to
+avoid an info-dump.  You can re-use figures from the paper if they
+help you make your point. If they are unsuitable, you may have to
+re-draft them.
+
 If the paper has a talk posted you can refer to that for inspiration. However, you should be able to go into more detail than in the
 paper's official presentation, because you have more time than the authors did, and because your audience is somewhat heterogeneous
-and isn't assumed to know about particular topics in programming languages. e.g. for the week 2 Rust paper I would give examples
-of what context-sensitivity means. (I see the actual conference presentation more as an ad for actually reading the paper, perhaps
-with some intuition as to the key idea. This isn't that.) Try to avoid an info-dump,
-but do explain the technique (primarily using examples).
+and isn't assumed to know about particular topics in programming languages. e.g. I would give examples
+of what context-sensitivity means if it comes up in my paper. 
+(I see the actual conference presentation more as an ad for actually reading the paper, perhaps
+with some intuition as to the key idea. This isn't that.) 
 
 Include some discussion of the importance of the paper.
 
@@ -63,7 +70,7 @@ build on?
 
 # Example
 
-I recorded this talk this summer. It's an essay rather than a paper, and it's not a class presentation, so you can't
+I recorded this talk in summer 2020. It's an essay rather than a paper, and it's not a class presentation, so you can't
 exactly copy the form. But I recommend this sort of presentation style.
 [Onward! 2020](https://www.youtube.com/watch?v=Pr4q0J1x7iI)
 
