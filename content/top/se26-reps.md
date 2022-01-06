@@ -51,6 +51,3 @@ Discord: Sissy He#7776
 
 ## Hargun Mujral
 
-Vote Hargun Mujral to make SE great again ;)
-
-<figure><div class="carousel-inner"><img src="/img/se26-reps/hargun-mujral/hargun.png" width="200" align="left"></div></figure>
