@@ -11,6 +11,7 @@ url:        /se26-reps/
 
 Academic Rep: 
 * Sissy He
+* Hargun Mujral
 
 MathSoc Rep: 
 * Sissy He
@@ -46,4 +47,10 @@ Ins: sissyhe31
 Discord: Sissy He#7776
 ```
 
-<img src="/img/se26-reps/sissy-he/goose.png" width="200" align="left">
+<figure><div class="carousel-inner"><img src="/img/se26-reps/sissy-he/goose.webp" width="200" style="display:block" align="left"></div></figure>
+
+## Hargun Mujral
+
+Vote Hargun Mujral to make SE great again ;)
+
+<figure><div class="carousel-inner"><img src="/img/se26-reps/hargun-mujral/hargun.png" width="200" align="left"></div></figure>
