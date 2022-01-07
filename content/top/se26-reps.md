@@ -51,3 +51,6 @@ Discord: Sissy He#7776
 
 ## Hargun Mujral
 
+Hey! You may know me as the guy on discord who talks too much. Or perhaps you know me as the 17 year old. Maybe I am a math nerd in your eyes. Or maybe, you know me as the OG Ali stan ;). However it may be, I hope you trust that I can make a good Academic and SESoc rep! So please vote me for both of these positions, and I will make sure your voice is heard. We will get through 1B together, in-person or if it must be, virtually :)
+
+<figure><div class="carousel-inner"><img src="/img/se26-reps/hargun-mujral/hargun.webp" width="400" style="display:block" align="left"></div></figure>
