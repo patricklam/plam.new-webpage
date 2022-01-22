@@ -3,7 +3,7 @@ layout:     post
 
 title:      "Class Rep Nominations, SE26, 1B, Winter 2022"
 author:     "Patrick Lam"
-published:  true
+published:  false
 url:        /se26-reps/
 ---
 
@@ -20,6 +20,7 @@ SESoc Rep (3)
 * [Chris Abey](#chris-abey)
 * [Brandon Gartner](#brandon-gartner)
 * [Olivia Honsinger](#olivia-honsinger)
+* [Hargun Mujral](#hargun-mujral)
 * [Kristof Sochan](#kristof-sochan)
 * [Tina Wang](#tina-wang)
 
@@ -27,21 +28,21 @@ WiSE Rep (1)
 * [Tina Wang](#tina-wang)
 * [Vaishnavi Ratnasabapathy](#vaishnavi-ratnasabapathy)
 
-MathSoc Rep (1) 
+MathSoc Rep (1); acclaimed
 * [Sissy He](#sissy-he)
 
-EngSoc Rep (2)
+EngSoc Rep (2); acclaimed
 * [Avril Chen](#avril-chen)
 * [Madison Mussari](#madison-mussari)
 
-WEEF Rep (1)
+WEEF Rep (1); acclaimed
 * [Madison Mussari](#madison-mussari)
 
 Athletic Rep (1)
 * [Chris Abey](#chris-abey)
 * [Tanmay Pilla](#tanmay-pilla)
 
-Yearbook Rep (unlimited)
+Yearbook Rep (unlimited); acclaimed
 * [Avril Chen](#avril-chen)
 * [Vaishnavi Ratnasabapathy](#vaishnavi-ratnasabapathy)
 
