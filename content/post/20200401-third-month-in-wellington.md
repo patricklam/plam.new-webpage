@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
 published:  true
-image:      "/img/20200401-third-month/04417_setting_out_from_hut_v1.jpg"
+image:      "/img/20200401-third-month/04417_setting_out_from_hut_v1.webp"
 
 ---
 
