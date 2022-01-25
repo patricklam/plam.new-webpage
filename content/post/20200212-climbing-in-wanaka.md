@@ -8,7 +8,7 @@ tags:       []
 categories: ["travel"]
 published:  true
 showtoc:    false
-image:      "/img/20200205_071540_lake_wanaka_pano.vr.jpg"
+image:      "/img/20200212-wanaka/20200205_071540_lake_wanaka_pano.vr.webp"
 
 ---
 
@@ -18,14 +18,18 @@ MP and I joined a NZAC Wellington club trip which was planned in two parts: Wana
 
 We spent almost 0 time in Queenstown, driving directly to the Pak'N'Save grocery store just outside the airport and then to Wanaka over the <a href="https://www.newzealand.com/au/feature/the-crown-range/">Crown Range</a> (highest main road in New Zealand!). On the way back we stopped at the "The Argonath on the Anduin River" (Lord of the Rings) and also apparently the birthplace of bungy jumping.
 
-Somehow we ate $120 of groceries between the two of us over 5 days. I'm not sure how that happened when we had a lot of ramen (augmented with real food) for dinner.
-
 <figure>
-<img src="/img/20200212-wanaka/20200201_205702_pak_n_save.jpg" alt="Did we save at Pak N Save?">
-<img src="/img/20200212-wanaka/20200201_210828_glendhu_bay.jpg" alt="View at Glendhu Bay Motor Camp">
-<figcaption style="text-align:center">Life at Glendhu Bay Motor Camp</figcaption>
+{{< gallery-slider dir="/img/20200212-wanaka/groceries">}}
+<figcaption style="text-align:center">Food.</figcaption>
 </figure>
 
+Somehow we ate $120 of groceries between the two of us over 5 days. I'm not sure how that happened when we had a lot of ramen (augmented with real food) for dinner.
+
+
+<figure>
+{{< gallery-slider dir="/img/20200212-wanaka/glendhu-bay">}}
+<figcaption style="text-align:center">Life at Glendhu Bay Motor Camp</figcaption>
+</figure>
 
 # Walking (tramping): Roy's Peak (<a href="https://gallery.patricklam.ca/index.php?/category/1212">gallery</a>)
 
@@ -39,19 +43,19 @@ We got to the Instagram spot at 7:00, in time for sunrise, and then to the summi
 
 <table>
 <tr>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8389/category/1212"><img alt="Sheep at night" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02228_coming_along_trail_at_sunrise-2s.JPG"></a></td>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8408/category/1212"><img alt="The Instagram Shot" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02262_ig_shot_two-2s.JPG"></a></td>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8404/category/1212"><img alt="Lake Wanaka" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02248_lake_wanaka_paddies-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14366/category/1402"><img alt="Sheep at night" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02228_coming_along_trail_at_sunrise-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14385/category/1402"><img alt="The Instagram Shot" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02262_ig_shot_two-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14381/category/1402"><img alt="Lake Wanaka" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02248_lake_wanaka_paddies-2s.JPG"></a></td>
 </tr>
 <tr>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8403/category/1212"><img alt="Lake Wanaka, Clouds and Islands" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02243_lake_wanaka_islands_and_clouds-2s.JPG"></a></td>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8453/category/1212"><img alt="Photographer at dawn" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/20200205_071302_photographer_at_dawn-2s.jpg"></a></td>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8422/category/1212"><img alt="Switchbacks" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02327_switchbacks_above_lake_wanaka-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14380/category/1402"><img alt="Lake Wanaka, Clouds and Islands" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02243_lake_wanaka_islands_and_clouds-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14430/category/1402"><img alt="Photographer at dawn" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/20200205_071302_photographer_at_dawn-2s.jpg"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14399/category/1402"><img alt="Switchbacks" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02327_switchbacks_above_lake_wanaka-2s.JPG"></a></td>
 </tr>
 <tr>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8416/category/1212"><img alt="MP and plam" src="https://gallery.patricklam.ca/_data/i/galleries/200205-roys-peak/02312_mp_and_plam-2s.JPG"></a></td>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8431/category/1212"><img alt="Ridgeline" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02364_ridges-2s.JPG"></a></td>
- <td><a href="https://gallery.patricklam.ca/picture.php?/8439/category/1212"><img alt="That Wanaka Tree" src="https://gallery.patricklam.ca/i.php?/galleries/200205-roys-peak/02405_that_wanaka_tree-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14393/category/1402"><img alt="MP and plam" src="https://gallery.patricklam.ca/_data/i/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02312_mp_and_plam-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14408/category/1402"><img alt="Ridgeline" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02364_ridges-2s.JPG"></a></td>
+ <td><a href="https://gallery.patricklam.ca/picture.php?/14354/category/1404"><img alt="That Wanaka Tree" src="https://gallery.patricklam.ca/i.php?/galleries/2002-queenstown-wanaka-with-nzac-wlg/200205-roys-peak/02405_that_wanaka_tree-2s.JPG"></a></td>
 </tr>
 </table>
 
@@ -94,7 +98,7 @@ routes before the torrential rain (50mm) came in on February 4, which
 was a good day for a rest day anyway.
 
 <figure>
-<img src="/img/20200212-wanaka/00252_climber_at_the_cutting.JPG" alt="Climber at The Cutting">
+{{< gallery-slider dir="/img/20200212-wanaka/cutting">}}
 <figcaption style="text-align:center">Yes, we're at the right place! Climber at The Cutting.</figcaption>
 </figure>
 
@@ -114,9 +118,8 @@ Side (not actually that far).
 
 
 <figure>
-<img src="/img/20200212-wanaka/20200201_181328_slabby.jpg" alt="Thin crack">
-<img src="/img/20200212-wanaka/20200203_104407_riverside_beginners_slab.jpg" alt="another 15 warmup">
-<figcaption style="text-align:center">Slabs galore</figcaption>
+{{< gallery-slider dir="/img/20200212-wanaka/slabs">}}
+<figcaption style="text-align:center">Slabs galore: a 15 warmup and a thin crack.</figcaption>
 </figure>
 
 Climbing volume:
@@ -138,11 +141,7 @@ track</a>. This is a short walk and probably not worth it, but there
 were so many bunnies (and one cat).
 
 <figure>
-<img src="/img/20200212-wanaka/000310_black_cat.JPG" alt="Black cat">
-<img src="/img/20200212-wanaka/00263_two_ducks.JPG" alt="Two ducks">
-<img src="/img/20200212-wanaka/02083_two_other_ducks.JPG" alt="Two other ducks">
-<img src="/img/20200212-wanaka/00331_so_many_bunnies.JPG" alt="So Many Bunnies">
-<img src="/img/20200212-wanaka/02116_rain_across_the_lake.JPG" alt="Some rain">
+{{< gallery-slider dir="/img/20200212-wanaka/animals">}}
 <figcaption style="text-align:center">Animals, and rain.</figcaption>
 </figure>
 
