@@ -9,7 +9,7 @@ categories: ["travel"]
 published:  true
 image:      "/img/20180209-bagotville/20180208_115219851_tarmac_at_yul.webp"
 showtoc:    true
-summary:    "Getting lucky with IRROPS enroute to Bagotville"
+summary:    "Getting lucky with IRROPS enroute to Bagotville."
 
 ---
 
