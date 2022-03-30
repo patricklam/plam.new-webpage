@@ -47,7 +47,7 @@
 
     <title>{{ if .Title }}{{ .Title }}-{{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}</title>
 
-    <link rel="canonical" href="{{ .URL | relURL }}">
+    <link rel="canonical" href="{{ .Permalink | relURL }}">
 
     {{ if and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments) }}
     <link rel="stylesheet" href="{{ "css/iDisqus.min.css" | relURL }}"/>
