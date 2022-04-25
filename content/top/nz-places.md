@@ -131,7 +131,8 @@ Let's continue moving north.
 * [Aotea Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/great-barrier-island-aotea/things-to-do/tracks/aotea-track/) (July 2021): off the grid, mostly easy but can add segments to make it harder (e.g. Kiwiriki Track), black petrels, surprisingly much topography for a small island.
 
 ## Northland
-* [Cape Brett Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/cape-brett-and-whangamumu-area/things-to-do/cape-brett-track/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1297)):     Harder than it looks! 15km would normally be 4hr but it took us 7 hours. You wouldn't think gulls are impressive but there were baby gulls here which look quite different from the adults.
+* [Cape Brett Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/cape-brett-and-whangamumu-area/things-to-do/cape-brett-track/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1297)): Harder than it looks! 15km would normally be 4hr but it took us 7 hours. You wouldn't think gulls are impressive but there were baby gulls here which look quite different from the adults.
+* [Te Paki Coastal Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/things-to-do/tracks/te-paki-coastal-track/) (April 2022): Spectacular walk (47km) at the tip of the North Island with surprisingly diverse scenery: of course coastline (and lots of beach walking, though fortunately the sand is firm), but also sand dunes and forests. Also a bit harder than it looks. The Cape Maria Van Diemen side trip (4.6km) was perhaps unnecessary, with more sand walking and, for us, bushwhacking (not required if you find the track). Transport by Johanna of Real Far North Tours. Not many people except at Cape Reinga: only two brothers were walking with us, plus the 5 Te Aroroa walkers who we crossed on the beach, hours from the end of their walk. We skipped Pandora on day 1 (totally doable unless you got a super late start on that day). Lots of shorebirds, including tons of pied stilts. Not so many birds at Twilight, but there was a mouse that came into our tent while we were taking it down. There was talk about Archibald the possum in the logbook at Twilight.
 
 # South Island Lesser Walks
 
@@ -200,7 +201,7 @@ NZ has commuter trains and tourist trains but no real passenger trains anymore, 
 
 Also,
 * all but one Wellington commuter train line (Johnsonville missing)
-* Onehunga Line in Auckland
+* Onehunga and Eastern Lines in Auckland
 
 ## Nature Reserves / Sanctuaries
 
@@ -265,8 +266,9 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 |HKK  |  Hokitika (Sep 2021) |
 |KTF  |  Takaka (Sep 2021) |
 |TIU  |  Timaru (Nov 2021) |
+|KKE  |  Bay of Islands / Kerikeri (Apr 2022)
 
-Flown to 4/12 North Island Air NZ stations and 7/8 South Island stations (need Blenheim).
+Flown to 5/12 North Island Air NZ stations and 7/8 South Island stations (need Blenheim).
 
 ## Travel fiasco
 
@@ -277,8 +279,12 @@ Flown to 4/12 North Island Air NZ stations and 7/8 South Island stations (need B
 ## North Island
 
 ### Northland to Auckland
-* [Ruapekapeka Pa](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/ruapekapeka-pa/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1294)): not a castle but had similar purpose.
+* [Cape Reinga](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/cape-reinga-te-rerenga-wairua/?tab-id=50578). The Cape really is far from everything, really, but it is well worth the trip if the trip includes 3 days of hiking.
 * [Waitangi Treaty Grounds](https://www.waitangi.org.nz/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1294)): where Te Tiriti o Waitangi was drafted and first signed.
+* [Tane Mahuta](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipoua-forest/things-to-do/tane-mahuta-walk/) (April 2022): short walk, huge trees.
+* [Manea Footprints of Kupe](https://maneafootprints.co.nz/) (April 2022): custom sculptures relevant to Kupe's life, plus a movie-plus-actors experience summarizing his story. Hard work to be an actor in the show. For both the kauri and this, there was a group trip of Maori teens visiting at the same time as us.
+* [Bay of Islands Snorkelling](https://www.boisnorkelling.co.nz/) (April 2022): Tammy and Steve have been taking groups out to see the colourful fish in the Bay, with stops in caves and at Urapekapeka Island. Great change from our usual land-based activities.
+* [Ruapekapeka Pa](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/ruapekapeka-pa/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1294)): not a castle but had similar purpose.
 * [Muriwai Gannet Colony](https://www.aucklandcouncil.govt.nz/parks-recreation/get-outdoors/aklpaths/Pages/path-detail.aspx?ItemId=4) (November 2020, [pics]((https://gallery.patricklam.ca/index.php?/category/1294) )): so many gannets doing gannet things.
 * [Mangere Market](https://www.mangeremarkets.co.nz/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1294)): pretty legit market, I appreciated the food stalls. Per their website: "the showplace for New Zealand's multi cultural shopping experience".
 
@@ -358,6 +364,11 @@ and Cape Reinga (haven't been there yet). There's also the Bay of
 Islands and water-based activities which I don't know so much
 about. Also Ninety Mile Beach.
 
+Update 04/2022: Am just coming from a second trip to Northland. This time we
+flew into Kerikeri, visited unclimbable boulders ([Koutu](https://www.geotrips.org.nz/trip.html?id=306) and [Wairere](https://wairereboulders.co.nz/)),
+kauri (including [Tane Mahuta](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipoua-forest/things-to-do/tane-mahuta-walk/), the biggest known living kauri), [Manea Footprints of Kupe](https://maneafootprints.co.nz/), went
+snorkelling, and hiked Te Paki and Cape Reinga.
+
 ### Auckland
 
 It's a city, small on the world scale; downtown Auckland, MP says, is
@@ -365,6 +376,9 @@ somewhat reminiscent of Toronto.  I had good Chinese food in Albany
 when I was there once, and good yakitori downtown. But I haven't
 really been to Auckland much. May be the place to get the best food in
 NZ, maybe.
+
+On our way back from Auckland we spent 5 hours in Auckland and got out to the
+waterfront. Lots of restaurants.
 
 ### Waikato / Bay of Plenty
 
