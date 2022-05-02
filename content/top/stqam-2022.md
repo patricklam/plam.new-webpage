@@ -9,7 +9,7 @@ url:        /stqam-2022/
 
 # Course Information
 
-* [Course Outline](https://outline.uwaterloo.ca/view/nrvxsk​)
+* <a href="https://outline.uwaterloo.ca/view/nrvxsk">Course Outline</a>
 * [PDFs](https://git.uwaterloo.ca/stqam-1225/pdfs.git)
 * Discussion will be on Piazza; let me know if you have not been added.
 * Grades will be posted on LEARN.
