@@ -7,4 +7,9 @@ published:  true
 url:        /stqam-2022/
 ---
 
-<a href="/stqam-2022-outline">Course Outline</a>
+# Course Information
+
+* [Course Outline](https://outline.uwaterloo.ca/view/nrvxsk​)
+* [PDFs](https://git.uwaterloo.ca/stqam-1225/pdfs.git)
+* Discussion will be on Piazza; let me know if you have not been added.
+* Grades will be posted on LEARN.

@@ -85,7 +85,7 @@ def grade(A, P, Q1, Q2, F):
     if tests_above_fifty >= 2 and A > 50:
         return normal
     else:
-        return 49
+        return 47
 ```
 
 ## Project
