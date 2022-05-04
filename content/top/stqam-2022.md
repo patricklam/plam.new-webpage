@@ -10,6 +10,7 @@ url:        /stqam-2022/
 # Course Information
 
 * <a href="https://outline.uwaterloo.ca/view/nrvxsk">Course Outline</a>
+* [Lectures from Winter 2022 offering](https://www.youtube.com/playlist?list=PLUVKdrSzO0M44GPONj3eXbvK6RUNkwMZX)
 * [Detailed View of Grading Policy](/stqam-2022-grading)
 * [Project Description](/stqam-2022-projects)
 * [PDFs](https://git.uwaterloo.ca/stqam-1225/pdfs.git)
