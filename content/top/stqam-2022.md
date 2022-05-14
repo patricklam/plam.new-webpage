@@ -7,6 +7,12 @@ published:  true
 url:        /stqam-2022/
 ---
 
+<style>
+.pager {display:none; }
+.intro-header .post-heading .meta {display:none; }
+.sidebar-container { display:none; }
+</style>
+
 # Course Information
 
 * <a href="https://outline.uwaterloo.ca/view/nrvxsk">Course Outline</a>
