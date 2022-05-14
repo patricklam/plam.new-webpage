@@ -23,7 +23,7 @@ url:        /stqam-2022/
 |---|---|
 | May 3 | [A0 out](https://git.uwaterloo.ca/stqam-1225/pdfs/-/blob/master/uw-stqam-1225-a0.pdf) |
 | May 9 | A0 due |
-| May 10 | [A1 out] |
+| May 10 | [A1 out](https://git.uwaterloo.ca/stqam-1225/pdfs/-/blob/master/uw-stqam-1225-a1.pdf) |
 | June 3 | A1 due |
 | May 26 | [Fuzz out] |
 | June 10 | Fuzz due |
