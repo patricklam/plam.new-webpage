@@ -42,3 +42,6 @@ url:        /stqam-2022/
 | July 26 | Last class |
 | August 5 | Project due |
 
+# Video lecture from S22 offering
+
+* [W04: Fuzzing](https://youtu.be/b2_IufQiQ88)
