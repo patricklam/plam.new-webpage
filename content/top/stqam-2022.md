@@ -31,8 +31,8 @@ url:        /stqam-2022/
 | May 9 | A0 due |
 | May 10 | [A1 out](https://git.uwaterloo.ca/stqam-1225/pdfs/-/blob/master/uw-stqam-1225-a1.pdf) |
 | June 3 | A1 due |
-| May 26 | [Fuzz out] |
-| June 10 | Fuzz due |
+| May 26 | Fuzz out (see your handin repo, under the fb directory) |
+| June 13 | Fuzz due (was June 10) |
 | June 13 | Quiz 1 out |
 | June 14 | [A2 out] |
 | July 4  | A2 due (first workday after July 1 holiday) |
