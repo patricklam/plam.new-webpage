@@ -29,12 +29,16 @@ super fun.
 But first, because of the timing, I was able to wish my mom happy birthday. Surprise! 
 (I didn't tell them that I was coming.) She was happy to see me.
 
+# Veterans Open Nationals
+
 In veterans, we reproduced the podium from 2018, except that we got an
 additional bronze medallist.  Couldn't beat the gold medallist Arthur;
 he did the same throws on me as on the silver medallist Tim.  And I
 lost to Tim after 5 minutes of overtime. I had one win on the ground
 with a pin. I'd hoped that being able to train during the pandemic
 would have helped, but apparently it didn't.
+
+# Seniors
 
 What I really cared about was seniors, because only senior points
 count for Competitive Stream grading.  First round was against the
@@ -58,11 +62,22 @@ happening in the past too. Sometimes one can figure out the thing that
 works against an opponent. Unfortunately I wasn't the one doing the
 figuring in this match.
 
-Overall it was a good return to senior competition; my most recent
-senior Canadian circuit points before that were in 2016. This was
+# Conclusions
+
+People say it's inspirational that I'm still fighting at my age
+(yes, I'm 44 and fighting 16 year olds). I'm lucky in that I can make the
+time to train, in that I was in NZ during the pandemic, and that I have
+no significant injuries. In the end, competition
+is about evaluating your current skill level compared to your field, and one's
+goal&mdashmy goal&mdash;is to win, not just to participate.
+
+So, overall, I found that it was a good return to senior competition. My most recent
+senior Canadian circuit points before that were at the nationals in 2016, and
+I felt like I did better at this event than in 2016. It was
 about as well as I thought I could do. Obviously I'd like to do better,
 but also, it is the Nationals. Thanks to my coaches: Bianca (Québec
-provincial coach) and Cédric (club coach).
+provincial coach) and Cédric (club coach). Now I have to fight the Québec Open
+and possibly the Ontario Open (hope not).
 
 <figure>
 {{< gallery-slider dir="/img/20220606-may/nationals" >}}
@@ -70,7 +85,7 @@ provincial coach) and Cédric (club coach).
 </figure>
 
 
-### Bonus: Travel logistics
+# Bonus: Travel logistics
 
 Originally, weigh-in on Thursday was scheduled for 6:30pm, and I'd gotten a flight arriving at 4:30.
 Trudeau airport to tournament site could be done by taxi in 20 minutes if no traffic (but, Montreal at 4:30).
