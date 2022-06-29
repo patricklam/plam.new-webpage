@@ -36,7 +36,7 @@ url:        /stqam-2022/
 | June 13 | Quiz 1 out |
 | June 14 | [A2 out](https://git.uwaterloo.ca/stqam-1225/pdfs/-/blob/master/uw-stqam-1225-a2.pdf) |
 | July 4  | A2 due (first workday after July 1 holiday) |
-| July 5  | [A3 out] |
+| July 5  | [A3 out](https://git.uwaterloo.ca/stqam-1225/pdfs/-/blob/master/uw-stqam-1225-a3.pdf) |
 | July 5 | Quiz 2 out |
 | July 26 | A3 due |
 | July 26 | Last class |
