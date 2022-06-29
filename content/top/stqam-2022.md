@@ -44,7 +44,7 @@ url:        /stqam-2022/
 
 # SymEx Jupyter Notebook
 
-Referred to in one of the videos from W22. [SymEx.ipynb](/public/teaching/stqam-2022/SymEx.ipynb)
+Referred to in one of the videos from W22. [SymEx.ipynb](/teaching/stqam-2022/SymEx.ipynb)
 
 # Video lecture from S22 offering
 
