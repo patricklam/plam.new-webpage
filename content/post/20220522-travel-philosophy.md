@@ -152,6 +152,6 @@ David Hu
 * [https://www.facebook.com/davidhu91/posts/10163838483335377](https://www.facebook.com/davidhu91/posts/10163838483335377)
 * [https://www.facebook.com/davidhu91/posts/10162992700730377](https://www.facebook.com/davidhu91/posts/10162992700730377)
 
-On group travel: [https://www.outsideonline.com/2344441/misery-company](https://www.outsideonline.com/2344441/misery-company)
+On group travel: [https://www.outsideonline.com/2344441/misery-company](https://www.outsideonline.com/2344441/misery-company), by Danielle Sepulveres.
 
-
+Backcountry Magazine: [Make it count: How to get the most out of travel](https://backcountrymagazine.com/stories/make-it-count-how-to-get-the-most-out-of-travel/), by Tyler Cohen.
