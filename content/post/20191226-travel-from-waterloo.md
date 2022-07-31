@@ -13,7 +13,7 @@ image:      "/img/20191202_141929_trains_banner.jpg"
 
 # 2019 Travel options to/from Waterloo
 
-A lot has changed from the last time I wrote this in [2008](/posts/20080608-travel-from-waterloo/).
+A lot has changed from the last time I wrote this in [2008](/posts/20080806-travel-from-waterloo/).
 The options for getting to Toronto and Pearson are much better. I went to BUF a few times a while ago but
 now there aren't good Star Alliance options from BUF and they're not that much cheaper, so I haven't done
 it for a while.
