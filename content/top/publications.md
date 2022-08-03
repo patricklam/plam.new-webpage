@@ -19,6 +19,7 @@ showtoc:    false
 # Refereed Publications
 
 <ul>
+  <li>Sruthi Venkatanarayanan, Jens Dietrich, Craig Anslow, and Patrick Lam. VISSOFT 2022 NIER: <a href="/papers/22.vissoft.api-surface-usage.pdf">VizAPI: Visualizing Interactions between Java Libraries and Clients</a>. [<a href="/papers/22.vissoft.api-surface-usage.bib">bib</a>, <a href="https://zenodo.org/record/6951140">dataset</a>]
   <li>David Carter, Garrett Hutson, Patrick Lam, Nate Furman, and Jeff Rose. Journal of Outdoor Recreation and Tourism: <a href="/papers/20.jort.climbers-self-governance.pdf">The Self-Governance Challenges Facing Climbers, with Examples from Utah, Colorado, and Ontario (preprint)</a>. [<a href="/papers/20.jort.climbers-self-governance.bib">bib</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2213078020300475">publisher site</a>]</li>
   <li>Qian Liang and Patrick Lam. ICSME NIER 2020: <a href="/papers/20.icsme.nier.hierarchy-analysis.pdf">SiblingClassTestDetector: Finding Untested Sibling Functions</a>. [<a href="/papers/20.icsme.nier.hierarchy-analysis.bib">bib</a>, <a href="https://www.youtube.com/watch?v=r4KE5de5pl0">video</a>]</li>
   <li>Patrick Lam, Jens Dietrich, and David J. Pearce. Onward! Essays 2020: <a href="/papers/20.onward.semsemver.pdf">Putting the Semantics into Semantic Versioning</a>. [<a href="/papers/20.onward.semsemver.bib">bib</a>, <a href="https://youtu.be/Pr4q0J1x7iI">video</a>, <a href="https://arxiv.org/abs/2008.07069">arXiv</a>]</li>
