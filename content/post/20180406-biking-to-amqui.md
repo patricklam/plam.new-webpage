@@ -33,7 +33,8 @@ me off at Bramalea GO.
 <div style="text-align:center"><iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d92285.99539908401!2d-79.7130829!3d43.7118509!3m2!1i1024!2i768!4f13.1!4m13!3e1!4m5!1s0x882b3e80dcf14323%3A0x247b7605429f0516!2sBramalea%20GO%20Station%2C%20Bramelea%2C%20ON%20L6T%204L7!3m2!1d43.7018985!2d-79.69119979999999!4m5!1s0x882b399a70d68ff5%3A0x9b3406d10ad9cdf1!2sHotel%20Carlingview%20Toronto%20Airport%2C%20221%20Carlingview%20Dr%2C%20Etobicoke%2C%20ON%20M9W%205E8!3m2!1d43.684661299999995!2d-79.5930662!5e0!3m2!1sen!2snz!4v1579934586784!5m2!1sen!2snz" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div>
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6584/category/1150"><img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180405_153651_so_clean_off_go_bus_at_bramalea-me.jpg" alt="Bike"></a><figcaption style="text-align:center">Before the ride.</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/before-the-ride" >}}
+<figcaption style="text-align:center">Before the ride.</figcaption>
 </figure>
 
 <br />
@@ -56,7 +57,10 @@ me.
 
 * Avoided: first unrecoverable failure (no-bike-box).
 
-<figure><a href="https://gallery.patricklam.ca/picture.php?/6586/category/1150"><img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180405_174305_toronto_parking_is_never_free-me.jpg" alt="Sign: Parking is never free" /></a><figcaption style="text-align:center">As it should be.</figcaption></figure>
+<figure>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/parking-never-free" >}}
+<figcaption style="text-align:center">As it should [not] be.</figcaption>
+</figure>
 
 After dinner with Marco, I took the subway to Lawrence West and the 52
 back to the hotel. Since transit is slow, that took an hour from
@@ -73,15 +77,14 @@ outside, so I managed to remove the seatpost easily. Pedals, fork, and
 derailleur were easy. Fifteen minutes later I had a bike in a box. 
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6589/category/1150"><img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180405_223424_packed-me.jpg" alt="Packed bike" /></a><figcaption style="text-align:center">Successfully boxed bike.</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/packed-bike" >}}
+<figcaption style="text-align:center">Successfully boxed bike.</figcaption>
 </figure>
 
 # April 6: Toronto to Amqui via YUL, YBC, YYY
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6590/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_053157_good_uses_for_baggage_carts-me.jpg" alt="Bike at YYZ"/>
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/baggage-carts" >}}
 <figcaption style="text-align:center">Don't tape your bike box too early!</figcaption>
 </figure>
 
@@ -106,9 +109,7 @@ He had to leave the aircraft door open for the 35-minute stop in
 YBC. That's fine in June, but the -17 air in YBC was bracing.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6592/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_103836_ybc_minus_17-me.jpg" alt="YBC airport">
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/ybc" >}}
 <figcaption style="text-align:center">Brief stop at Baie-Comeau!</figcaption>
 </figure>
 
@@ -122,10 +123,8 @@ flies, and may be my shortest segment ever. It's 34 nautical miles
 the air), and has max altitude 4000'.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6594/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180406_110359527_flying_36_mile_segment_over_fleuve-me.jpg" alt="Fleuve St-Laurent">
-</a>
-<figcaption style="text-align:center">Flying over the Fleuve St Laurent</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/over-the-fleuve" >}}
+<figcaption style="text-align:center">Flying over the Fleuve St.-Laurent.</figcaption>
 </figure>
 
 After deplaning at YYY, I watched closely for signs of my bike box.  I
@@ -138,25 +137,17 @@ and set off.
 a bit of truing.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6598/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180406_115922_snow_bike-me.jpg" alt="Bike in snow">
-</a>
-<figcaption style="text-align:center">Assembled bike in Mont-Joli snow</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/snow-bike" >}}
+<figcaption style="text-align:center">Assembled bike in Mont-Joli snow.</figcaption>
 </figure>
 
 In any case, 15 minutes later I'd fixed my wheel and biked through
 downtown Mont-Joli (it is indeed a pretty town).
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6600/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180406_121905_mont_joli_train_station-xs.jpg" alt="Mt. Joli church">
-</a>
-<a href="https://gallery.patricklam.ca/picture.php?/6601/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_122420_mont_joli_church-xs.jpg" alt="Mt. Joli church">
-</a>
-<figcaption style="text-align:center">Train station and church in Mont-Joli</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/mont-joli" >}}
+<figcaption style="text-align:center">Train station and church in Mont-Joli.</figcaption>
 </figure>
-
 
 I thought it would be wise to check out the train station. The train
 ticket I'd originally purchased originated at Mont-Joli, but I decided
@@ -182,9 +173,7 @@ Seen along the way, in addition to cornices: epic churches in towns of
 avec-service gas stations; cantines.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6603/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_124219579_cornice-me.jpg" alt="Cornice!">
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/cornice" >}}
 <figcaption style="text-align:center">Cornice on the Route Verte!</figcaption>
 </figure>
 
@@ -197,18 +186,14 @@ poutine and a guedille crevette (like a lobster roll, but with shrimp
 and mango). Never had a guedille before.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6609/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_152836_arrived_at_gite-xs.jpg" alt="Gite Grand-P&egrave;re Nicole">
-</a>
-<a href="https://gallery.patricklam.ca/picture.php?/6610/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_153911022_poutine_and_guedille-xs.jpg" alt="Guedille and poutine">
-</a>
-<figcaption style="text-align:center">B&B and food</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/bnb-and-food" >}}
+<figcaption style="text-align:center">Gite Grand-P&egrave;re Nicole, and a guédille and poutine</figcaption>
 </figure>
 
 The total elevation gain was 753m. One climb early on felt hard on my
 crappy bike, but the stats suggest that it's only 119m over 2.8km.
 
+{{<table "table table-striped table-bordered">}}
 |   |   |
 |---|---|
 | Segment selected: 	   	   |14.8 km to 17.6 km|
@@ -218,7 +203,7 @@ crappy bike, but the stats suggest that it's only 119m over 2.8km.
 | Average grade: 		   |2.4%|
 | Climb score: 			   |6636|
 | Climb category: 		   |NC|
-|   |   |
+{{</table>}}
 
 La Paysanne was most but not all of my riding that day. I continued
 another 1.1km to the Gite with the food in a paper bag, checked in,
@@ -228,12 +213,7 @@ on) I locked my bike to a post outside the Arena, getting a ride back
 to the Gite.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6612/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180406_174256_bienvenue_amqui-me.jpg" alt="Bienvenue a Amqui">
-</a>
-<a href="https://gallery.patricklam.ca/picture.php?/6615/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180406_185213_local_paper-me.jpg" alt="Judokas de haut niveau">
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/amqui" >}}
 <figcaption style="text-align:center">Welcome to Amqui! "Haut niveau" is relative I guess.</figcaption>
 </figure>
 
@@ -244,10 +224,8 @@ to the Gite.
 I highly recommend breakfast at that B&B!
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6616/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180407_060908_val_brillant_sunrise-me.jpg" alt="Bienvenue a Amqui">
-</a>
-<figcaption style="text-align:center">Sunrise in Val-Brillant.</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/val-brillant" >}}
+<figcaption style="text-align:center">Sunrise in Val-Brillant</figcaption>
 </figure>
 
 ## Stealing my bike
@@ -292,9 +270,7 @@ building. Some guy was working in the welder's shop after hours and
 I talked him into cutting the lock for me. Hurrah!
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6617/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180408_151002_free_bike-me.jpg" alt="Free bike">
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/bnb-and-food" >}}
 <figcaption style="text-align:center">Freedom!</figcaption>
 </figure>
 
@@ -315,9 +291,7 @@ Montreal) and crossing the bridge to New Brunswick around sunset. Loads
 of time between bus arrival at 5pm and train departure at 11pm.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6635/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180408_195032_welcome_to_nb-me.jpg" alt="Welcome to New Brunswick / Bienvenue au Nouveau-Brunswick">
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/welcome-to-nb" >}}
 <figcaption style="text-align:center">Welcome to New Brunswick / Bienvenue au Nouveau-Brunswick</figcaption>
 </figure>
 
@@ -340,15 +314,9 @@ officially bilingual province and everyone I talked to switched
 languages effortlessly (like me and almost all young native Montrealers).
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6612/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180408_230637_luggage_includes_bike-2s.jpg" alt="Bike, check">
-</a>
-<a href="https://gallery.patricklam.ca/picture.php?/6615/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180408_210437_taps_bar-2s.jpg" alt="Tap's Bar">
-</a>
-<figcaption style="text-align:center">Bike loaded; Tap's Bar.</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/campbellton" >}}
+<figcaption style="text-align:center">Tap's Bar; Bike, check.</figcaption>
 </figure>
-
 
 On to the train. Via Rail's Ocean from Halifax to Montreal ran the
 same equipment as the Canadian from Toronto to Vancouver in my rides
@@ -358,19 +326,15 @@ Reversing my trip, the train didn't take that long to get back through
 Amqui and Mont-Joli before continuing to Montreal.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6643/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180408_231807483_voiture_lit-me.jpg" alt="Memories of the Canadian">
-</a>
-<figcaption style="text-align:center">zzz</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/on-the-train" >}}
+<figcaption style="text-align:center">zzz: Memories of the <a href="https://gallery.patricklam.ca/index.php?/category/1097">Canadian</a>.</figcaption>
 </figure>
 
 # April 9: to Montreal to Toronto to Waterloo
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6615/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180409_094833_montreal-me.jpg" alt="Montreal skyline">
-</a>
-<figcaption style="text-align:center">Montreal</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/montreal-and-toronto" >}}
+<figcaption style="text-align:center">Montreal and Toronto.</figcaption>
 </figure>
 
 After a good night's sleep, the Ocean passes through Quebec
@@ -380,12 +344,7 @@ Corridor train with a baggage car was painless and I arrived in
 Toronto Union Station at 4:15pm.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6657/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180409_162141976_HDR_toronto_union_station-me.jpg" alt="Toronto Union Station">
-</a>
-<a href="https://gallery.patricklam.ca/picture.php?/6658/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180409_163936_ok_now_i_have_a_bike_in_toronto-me.jpg" alt="Bike, not so clean anymore">
-</a>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/bike-in-toronto" >}}
 <figcaption style="text-align:center">Toronto Union Station with a less-clean bike</figcaption>
 </figure>
 
@@ -404,13 +363,8 @@ except for the part where there was a car parked in the bike line of
 course. Lots better than getting to YYZ.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6583/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180409_172113_car_in_bike_lane-me.jpg" alt="Parking fail">
-</a>
-<a href="https://gallery.patricklam.ca/picture.php?/6659/category/1150">
-<img src="https://gallery.patricklam.ca/i.php?/galleries/180409-amqui/20180409_174413_trail_biking_under_qew-me.jpg" alt="Trail under QEW">
-</a>
-<figcaption style="text-align:center">Parking fail and trail under QEW</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/to-bike-infrastructure" >}}
+<figcaption style="text-align:center">Toronto biking infrastructure: parking fail; the trail under the QEW.</figcaption>
 </figure>
 
 The route was Lakeshore
@@ -424,8 +378,6 @@ home.
 That was fun, but in 2019 I flew round-trip to YYY and got a ride in a car.
 
 <figure>
-<a href="https://gallery.patricklam.ca/picture.php?/6664/category/1150">
-<img src="https://gallery.patricklam.ca/_data/i/galleries/180409-amqui/20180409_202531_home-me.jpg" alt="Home sweet home">
-</a>
-<figcaption style="text-align:center">Home sweet home</figcaption>
+{{< gallery-slider dir="/img/20180406-biking-to-amqui/home-sweet-home" >}}
+<figcaption style="text-align:center">Home sweet home!</figcaption>
 </figure>
