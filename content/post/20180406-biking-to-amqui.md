@@ -8,8 +8,15 @@ tags:       ["transit"]
 categories: ["travel"]
 published:  true
 showtoc:    true
-
+image:      "/img/20180406-biking-to-amqui/20180408_192118_opening_hours.webp"
+summary:    "An epic trip from Waterloo, ON to Amqui, QC and back via Campbellton, NB, to referee in the judo provincial championships. Trains, bikes, planes, buses. We've got it all!"
 ---
+
+<style>
+.post-heading h1  { color: #eaa; text-shadow: 2px 2px 2px grey; }
+.meta { color: yellow; }
+</style>
+
 
 # Link to image gallery
 
