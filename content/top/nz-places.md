@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: April 2022_
+_Last updated: September 2022_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -103,7 +103,8 @@ We did the [top 20 Welly walks](https://wellington.govt.nz/recreation/outdoors/w
 
 * [Polhill Reserve Loop](https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/across-the-city/polhill-reserve-loop) (April 2020): another lockdown destination near us with mountain biking as well, connected to the [Waimapihi Reserve Trail](https://tracksnz.com/tracks/2869-waimapihi-reserve)
 * [Ridgeline Track at Te Ahumairangi](https://wellington.govt.nz/recreation/outdoors/walks-and-walkways/across-the-city/te-ahumairangi-hill-loop) (August 2021): lockdown took us to this walk; the ridgeline itself is quite short and sometimes has views, but involves some elevation gain to get up there. 
-* [Colonial Knob Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/colonial-knob-scenic-reserve/things-to-do/colonial-knob-walk/): on the to-do list...
+* [Colonial Knob Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/colonial-knob-scenic-reserve/things-to-do/colonial-knob-walk/): nice that it's train-accessible; now on the list is walking from there to Mount Kaukau.
+* [Butterfly Creek Picnic Area and Main Ridge](https://tramper.nz/6192/butterfly-creek/): the main ridge part is definitely much more wild than the creek part. You can take the bus or the ferry. We missed the last ferry.
 
 Let's continue moving north.
 
@@ -115,6 +116,11 @@ Let's continue moving north.
 ## Tongariro National Park
 
 * [Tongariro Alpine Crossing](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/tongariro-alpine-crossing/): very few tourists while NZ's borders are closed; was quite busy when we went (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1411)). I’d recommend the Circuit if at all possible.
+
+## Hawke's Bay / Napier
+* [Ahuriri Estuary Walking Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/hawkes-bay/places/napier-area/things-to-do/ahuriri-estuary-walking-track/): we saw spoonbills and herons, as well as some other birds, but not 70 species!
+* [Te Mata Park](https://www.tematapark.co.nz/): we climbed to the top of the peak and up and down around the park, which is decently scenic; got confused taking the blue track at one point and ended up on yellow.
+* [Bell Rock Loop Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/hawkes-bay/places/boundary-stream-area/things-to-do/boundary-stream-walks/): the bell-shaped rock and view are impressive; the wind was gale-force extreme and blowing me off my feet. 20 minutes of driving on gravel. We did not do the loop but walked back through the more-sheltered forest.
 
 ## Waikato / Bay of Plenty
 * [Mauao (Mount Maunganui) Summit Walk](https://www.bayofplentynz.com/experiences/outdoor-adventures/tracks-and-trails/tracks-and-trails-in-mount-maunganui/mauao-mount-maunganui-summit-walk/), Tauranga (July 2021): kind of like Mount Royal.
@@ -295,6 +301,10 @@ Flown to 5/12 North Island Air NZ stations and 7/8 South Island stations (need B
 * Tirau (July 2021): [corrugated iron sculptures](https://www.atlasobscura.com/articles/corrugated-iron-sculptures-new-zealand)
 * [Waitomo Glowworm Caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves) (February 2020): hmm, was this the last big tourist machine I went to? It's a big tourist machine, though probably the local economy benefits, and they hire Maori.
 
+### Napier
+
+* [National Aquarium of New Zealand](https://www.nationalaquarium.co.nz/): big sea turtle, penguins, kiwi...
+
 ### Wellington
 
 * [Wright's Hill Fortress](https://wrightshillfortress.org.nz/) (October 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1288)): fortified fortress from controlling vantage point for Wellington Harbour
@@ -400,8 +410,28 @@ Climbing is OK around Ruapehu as well. New Plymouth is surprisingly urban (thoug
 
 ### Gisborne & Hawke's Bay
 
-Haven't been here yet. I hear it's pretty remote. I'd like to go sometime, and
-Lake Waikaremoana is here as well.
+Napier is not that remote (4h from Wellington); Gisborne much
+more. I'd like to get to the end sometime, and Lake Waikaremoana is
+here as well. I would fly to Gisborne (7h drive from Wellington) for that.
+
+Around Napier there are some worthy day hikes. The closest overnight
+mountain hikes are in the Ruahines, which are between Wellington and
+Napier; so you wouldn't go to Napier to go to those hikes.
+
+We made it to the Saturday Napier farmer's market and the Sunday
+Hawke's Bay (Hastings) market, with a lot of vendor overlap. In
+September (very early spring), not so much farmers, but there are
+fancy products available. I liked the salmon cheese spread, which went
+well on the sourdough baguette.
+
+We stayed in Dannevirke on the Friday night. The Dannevirke [Fantasy
+Cave](https://fantasycave.org) is [on
+recess](https://www.stuff.co.nz/manawatu-standard/news/300485611/dannevirke-home-to-a-fantasy-cave-and-one-of-nzs-largest-ttara-trees)
+but working on a new building. Maybe we'll go one day. And the
+Waipukurau [Spring Day
+Market](https://www.eventfinda.co.nz/2022/central-hawkes-bay-spring-day-market/central-hawkes-bay)
+seemed to have even more people than the one in Napier. We should have
+stopped there.
 
 ### Wellington
 
