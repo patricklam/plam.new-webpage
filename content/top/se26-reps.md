@@ -7,28 +7,33 @@ published:  true
 url:        /se26-reps/
 ---
 
-# Candidates
+<style>
+ .intro-header { display: none; }
+ .sidebar-container { display: none; }
+</style>
 
-Academic Rep (3 positions available): 
+# Candidates for SE2026 2A Reps (Fall 2022)
+
+### Academic Rep (3 positions available): 
 * [Olivia Honsinger](#olivia-honsinger)
 * [Hargun Mujral](#hargun-mujral)
 
-SESoc Rep (3)
+### SESoc Rep (3)
 * [Olivia Honsinger](#olivia-honsinger)
 * [Hargun Mujral](#hargun-mujral)
 
-WiSE Rep (1)
+### WiSE Rep (1)
 * [Vaishnavi Ratnasabapathy](#vaishnavi-ratnasabapathy)
 
-MathSoc Rep (1); acclaimed
+### MathSoc Rep (1)
 
-EngSoc Rep (2); acclaimed
+### EngSoc Rep (2)
 
-WEEF Rep (1); acclaimed
+### WEEF Rep (1)
 
-Athletic Rep (1)
+### Athletic Rep (1)
 
-Yearbook Rep (unlimited)
+### Yearbook Rep (unlimited)
 * [Aadila Ali Sabry](#aadila-ali-sabra)
 
 
@@ -57,14 +62,14 @@ I hope to be able to serve you all again! :)
 
 Hey all, it's Hargun! I'm re-running for Academic and SESoc representative, so be sure to vote for me. I'll continue to address academic concerns to faculty (as I did in our 1B term), and don't ever hesitate to message me if there are issues this term that need to be dealt with at a class-wide level. Additionally, as SESoc rep, I will continue to run events between cohorts and promote connectivity in the student body. Shoot me a message if you have any questions and I'll be glad to answer!
 
-<figure><div class="carousel-inner"><img src="/img/se26-reps/hargun-mujral/cachedImage.webp" width="200" style="display:block" align="left"></div></figure>
+<figure><div class="carousel-inner"><img src="/img/se26-reps/hargun-mujral/cachedImage.webp" width="600" style="display:block" align="left"></div></figure>
 
 ## Vaishnavi Ratnasabapathy
 [[back to top]](#candidates)
 
 Hello everyone! We have finished a milestone of passing the first year and completing our first coop. I just want to say congratulations because that is a significant achievement! On to the rep elections, I have been the WiSE rep for 3 terms and would be honoured to do it for more. Now with everything in person and no restrictions, I can't wait to make lots of memories with the women in our cohort. Whether it is a board game night, grabbing food or going uptown, we will have a good time. What we do is up to you, so don't be afraid to reach out on discord. Give me the opportunity to give us memories! Have a good one. ❤️
 
-<figure><div class="carousel-inner"><img src="/img/se26-reps/vaishnavi-ratnasabathy/image.webp" width="200" style="display:block" align="left"></div></figure>
+<figure><div class="carousel-inner"><img src="/img/se26-reps/vaishnavi-ratnasabapathy/image.webp" width="200" style="display:block" align="left"></div></figure>
 
 ## Aadila Ali Sabry
 [[back to top]](#candidates)
