@@ -33,6 +33,7 @@ url:        /se26-reps/
 ### WEEF Rep (1)
 
 ### Athletic Rep (1)
+* [Jerome Jeby Philip](#jerome-jeby-philip)
 
 ### Yearbook Rep (unlimited)
 * [Aadila Ali Sabry](#aadila-ali-sabra)
@@ -56,6 +57,23 @@ I'm already familiar with how both positions work. In the context of an Academic
 As always, I'm here for anyone to talk to (and if that's not your thing, I'm more than happy to help point you in the right direction!) for various concerns — be it questions about how the universities policies and services, petitions, and other general knowledge. 
 
 I hope to be able to serve you all again! :)
+
+## Jerome Jeby Philip
+[[back to top]](#candidates)
+
+Hello! My name is Jerome and I would love to be your athletic rep for
+the Fall 2022 term. In our first year, we didn't have many
+opportunities to bond as a cohort through sports and physical
+activities because of COVID. Well there's nothing stopping us now
+because it's entirely in-person and I would like to organize
+events/competitions based on your collective interests for this term.
+
+A bit on my background. My favourite sport is soccer and I played
+competitively, both for my schools and community, for 10+ years. Also,
+I have some experience in running community soccer and basketball
+games, so I know that I can arrange events for our cohort that are
+both enjoyable and memorable. Please feel free to send any questions
+my way and thanks for hearing me out.
 
 
 ## Hargun Mujral
