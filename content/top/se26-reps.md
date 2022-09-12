@@ -17,6 +17,7 @@ url:        /se26-reps/
 ### Academic Rep (3 positions available): 
 * [Olivia Honsinger](#olivia-honsinger)
 * [Hargun Mujral](#hargun-mujral)
+* [Kristof Sochan](#kristof-sochan)
 
 ### SESoc Rep (3)
 * [Olivia Honsinger](#olivia-honsinger)
@@ -75,3 +76,25 @@ Hello everyone! We have finished a milestone of passing the first year and compl
 [[back to top]](#candidates)
 
 Hi. My name is Aadila. I've done some graphic design work in high school, and I'd like to learn some photography (on my phone! No fancy camera unfortunately). I'll try my best to make it to as many SE events this term and will brainstorm hard with my fellow yearbook representatives to make the yearbook as funny and memorable as I can.
+
+## Kristof Sochan
+[[back to top]](#candidates)
+
+Hello SE'26! My name is Kristof Sochan and I am your faithful 1B academic rep who is returning to continue to serve you for years to come.
+
+Last term was difficult and yet we persevered. We struggled with professors who didn't show up and tutorials that didn't exist. Our first co-op search and first work term this past summer was surely exciting, but not as exciting as the scheduling disasters that occurred in July and August. I greatly appreciated all your feedback and messages to send along to Victoria and Derek in our meeting to discuss these scheduling issues, and I hope all your issues were resolved before school began.
+
+Reflecting on how I served you as academic rep this past term, while I did offer my availability at any time of night, I was unfortunately only taken up by the offer on few occasions (mostly Will Erf's butt dials). If you recall:
+
+(No one tried to break down my door either, very disappointing)
+
+*My pledge to serve you remains and is stronger than ever.* One of the things I've found is we often let issues fester for a while before we set up a feedback form, but by then I know that these issues have gone on for far too long already. So, for this upcoming term something I'd like to try is more of *a continuously deployed catch all feedback form to solicit advice or help from your academic reps*. We will allow anonymous feedback, or, if you'd like an individual follow up for your issue, you can include your name/email. Basically I'm trying to CI/CD the academic rep pipeline.
+
+If you have any questions on how I can serve you, please reach out. Good luck in your 2A term!
+
+<figure><div class="carousel-inner"><img src="/img/se26-reps/kristof-sochan/kpsochan.webp" width="600" style="display:block" align="left"></div></figure>
+
+Kristof Sochan
+kpsochan@uwaterloo.ca
+(669) 253-0111
+
