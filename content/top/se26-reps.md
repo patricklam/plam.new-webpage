@@ -112,7 +112,8 @@ If you have any questions on how I can serve you, please reach out. Good luck in
 
 <figure><div class="carousel-inner"><img src="/img/se26-reps/kristof-sochan/kpsochan.webp" width="600" style="display:block" align="left"></div></figure>
 
+```
 Kristof Sochan
 kpsochan@uwaterloo.ca
 (669) 253-0111
-
+```
