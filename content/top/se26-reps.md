@@ -20,6 +20,7 @@ url:        /se26-reps/
 * [Kristof Sochan](#kristof-sochan)
 
 ### SESoc Rep (3)
+* [Will Erf](#will-erf)
 * [Olivia Honsinger](#olivia-honsinger)
 * [Hargun Mujral](#hargun-mujral)
 
@@ -41,6 +42,23 @@ url:        /se26-reps/
 
 
 # Statements
+
+## Will Erf
+[[back to top]](#candidates)
+
+Super excited to be running as your SESoc class rep! I <3 all things SE and really would love to be able to be the bridge between the cohort and all of the amazing things SESoc has to offer! Although I have not been an SESoc rep before, I am super involved around campus and would greatly appreciate the opportunity to apply my skillset to this role. In school, I am a part of WAT.ai and previously have been a part of Waterloo Rocketry. From both of these experiences, communication was absolutely crucial, and I know that as your SESoc rep I will make sure to keep information flowing to the cohort!
+
+I hope to utilize this position to further the quality of
+
+**1. resume critiques** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by pushing for a new resume critique **pipeline** \
+**2. interview practice** &nbsp;&nbsp;&nbsp;&nbsp; by increasing the availability of technical mock interviews \
+**3. cohort events** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for fun
+
+Thank you, love you \
+*p.s. for further questions regarding the campaign please contact me at s44bhati@uwaterloo.ca*
+
+<figure><div class="carousel-inner"><img src="/img/se26-reps/will-erf/will-erf.webp" width="200" style="display:block" align="left"></div></figure>
+
 
 ## Olivia Honsinger
 [[back to top]](#candidates)
