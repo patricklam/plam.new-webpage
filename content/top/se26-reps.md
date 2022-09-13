@@ -21,6 +21,7 @@ url:        /se26-reps/
 
 ### SESoc Rep (3)
 * [Will Erf](#will-erf)
+* [Brandon Gartner](#brandon-gartner)
 * [Olivia Honsinger](#olivia-honsinger)
 * [Hargun Mujral](#hargun-mujral)
 
@@ -30,8 +31,11 @@ url:        /se26-reps/
 ### MathSoc Rep (1)
 
 ### EngSoc Rep (2)
+* [Kushal Mujral](#kushal-mujral)
+* [Madison Mussari](#madison-mussari)
 
 ### WEEF Rep (1)
+* [Madison Mussari](#madison-mussari)
 
 ### Athletic Rep (1)
 * [Jerome Jeby Philip](#jerome-jeby-philip)
@@ -59,6 +63,19 @@ Thank you, love you \
 
 <figure><div class="carousel-inner"><img src="/img/se26-reps/will-erf/will-erf.webp" width="200" style="display:block" align="left"></div></figure>
 
+## Brandon Gartner
+[[back to top]](#candidates)
+
+Hey everyone, I'm Brandon, and I'm applying to be one of our SE Soc reps again this term.
+I've been involved with SE Soc the past two semesters, and while doing so, I organized the mentorship program for our year, and helped organize our 1B class dinner.
+This term, I mainly want to push for us to run a lot more in-person events for both our cohort and all the SE cohorts.
+If you have any questions at all, please feel free to reach out.
+Thanks for your time, and good luck in 2A!
+
+```
+email: bjgartner@uwaterloo.ca
+discord: Valcon#8276 
+```
 
 ## Olivia Honsinger
 [[back to top]](#candidates)
@@ -100,6 +117,38 @@ my way and thanks for hearing me out.
 Hey all, it's Hargun! I'm re-running for Academic and SESoc representative, so be sure to vote for me. I'll continue to address academic concerns to faculty (as I did in our 1B term), and don't ever hesitate to message me if there are issues this term that need to be dealt with at a class-wide level. Additionally, as SESoc rep, I will continue to run events between cohorts and promote connectivity in the student body. Shoot me a message if you have any questions and I'll be glad to answer!
 
 <figure><div class="carousel-inner"><img src="/img/se26-reps/hargun-mujral/cachedImage.webp" width="600" style="display:block" align="left"></div></figure>
+
+## Kushal Mujral
+[[back to top]](#candidates)
+
+Hey guys! I’m running for EngSoc rep this semester and am asking for your vote. I’ll be attending the EngSoc meetings, voting on motions that benefit our class and cohort, and will be updating you routinely on any outcomes and upcoming events. I’m always open to being contacted about any questions or further information, so please don’t hesitate to reach out.
+
+<figure><div class="carousel-inner"><img src="/img/se26-reps/kushal-mujral/kushal-mujral.webp" width="200" style="display:block" align="left"></div></figure>
+
+## Madison Mussari
+[[back to top]](#candidates)
+
+Hi everyone!
+
+My name is Madison Mussari, and I am running for the positions of  EngSoc and WEEF Rep! 
+
+These are two positions I held last term and would like to take on again in 2A. Due to my previous experience in these roles, I have existing connections with faculty and university personnel. I also would not have to undergo the required training/ orientation for these positions and could get right into making decisions to best support our cohort.
+
+Last term, I attended council meetings for EngSoc and voted on multiple matters to represent the interests of our class. Topics included:
+
+*    Allocating funds for events (such as O-week and EngDay)
+*    Working to improve students’ access to mental health resources on campus
+*    Getting sponsorships for various programming.
+
+Additionally, I coordinated with the WEEF team concerning getting extra support for our class last semester. Many students in the cohort appreciated the study sessions and office hours provided by the WEEF TAs, especially for subjects like ECE124 and ECE140. I was happy to give feedback to WEEF to allow these resources to be available for all students.
+
+Thank you for considering me, and good luck with the rest of the term!! :)
+
+Socials:
+```
+Email: mmussari@uwaterloo.ca
+Discord: MadisonM99
+```
 
 ## Vaishnavi Ratnasabapathy
 [[back to top]](#candidates)
