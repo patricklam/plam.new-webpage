@@ -3,7 +3,7 @@ layout:     post
 
 title:      "Class Rep Nominations, SE26, 2A, Fall 2022"
 author:     "Patrick Lam"
-published:  true
+published:  false
 url:        /se26-reps/
 ---
 
