@@ -390,7 +390,7 @@ I had fish and chips in Masterton. They weren't that good.
 
 <figure>
 {{< gallery-slider dir="/img/20221011-september/food" >}}
-<figcaption style="text-align:center">Delicious cupcakes; dumplings from Temple Basin Lodge; Mexican egg from The Forge; Egg Benedict donut from Smoking Barrel.</figcaption>
+<figcaption style="text-align:center">Delicious cupcakes; dumplings from Temple Basin Lodge; Mexican egg from The Forge; Egg&nbsp;Benedict donut from Smoking Barrel.</figcaption>
 </figure>
 
 ## Books
