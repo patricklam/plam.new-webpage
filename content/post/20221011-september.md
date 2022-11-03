@@ -70,7 +70,7 @@ went to Temple Basin for a New Zealand Alpine Club (Wellington Section) mountain
 No teaching this term, so just research and service. Students are actively working on three projects, of which
 two are, I hope, going to be submitted soon: one on Rust bug fix patterns, and one on mock objects.
 
-Talked to students on 12 days. One student getting COVID delayed progress on their project while they recovered. Worked on 18 days 
+Talked to students on 12 days. One student getting COVID (from a roommate!) delayed progress on their project while they recovered. Worked on 18 days 
 (nominally 21 work days in September); took a legit vacation for one week with not much work on that week.
 
 I submitted to the Compiler-Driven Performance Workshop, which used to be part of
