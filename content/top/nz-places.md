@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: September 2022_
+_Last updated: November 2022_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -143,7 +143,8 @@ Let's continue moving north.
 
 # South Island Lesser Walks
 
-## Kaikoura
+## Top of the South / Marlborough / Kaikoura
+* [Queen Charlotte Track](https://www.qctrack.co.nz/) (October 2022): Kind of like the Abel Tasman but not as scenic. It is 71km, so sometimes it feels like it's just going on and on. We camped along the way, which is not too hard when the boat carries your tent. [Cougar Line](https://www.cougarline.co.nz/) handles a lot of logistics!
 * [Mount Fyffe](https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/ka-whata-tu-o-rakihouia-clarence/things-to-do/tracks/mt-fyffe-and-the-seaward-kaikoura-range/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1277)): Spectacular views of both mountain ranges and the oceans. Gale+ force winds when we were there.
 * [Kaikoura (Cycle) Trail](https://kaikouracycling.co.nz/kaikoura-trail/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1281)): all the kinds of bicycling (road & mountain) on one trail
 * [Kaikoura Peninsula Walkway](https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/kaikoura-area/things-to-do/tracks/kaikoura-peninsula-walkway/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1281)): did part of this on the same day as the cycle trail but were time-limited by sunset and needing to drive out as well. New as of the earthquake, I think!
@@ -162,7 +163,7 @@ Mount Aspiring National Park has some pretty tough trips. We tried to do one of 
 
 ## Canterbury
 
-* [Banks Track](https://www.bankstrack.co.nz/) (October 2022 in full; July 2020 to Flea Bay, [pics](https://gallery.patricklam.ca/index.php?/category/1230)): epic coastal scenery; we did it in 2 days, which is slightly but not really tough. 31km, 700m elevation gain each day. Also lots of lambs in October. Accommodation is spectacular. Mid-winter terrain is actually a bit tricky with slippery leaves.
+* [Banks Track](https://www.bankstrack.co.nz/) (October 2022 in full [[trip report](/post/20221102-banks)]; July 2020 to Flea Bay, [pics](https://gallery.patricklam.ca/index.php?/category/1230)): epic coastal scenery; we did it in 2 days, which is slightly but not really tough. 31km, 700m elevation gain each day. Also lots of lambs in October. Accommodation is spectacular. Mid-winter terrain is actually a bit tricky with slippery leaves.
 * [Mt Grey/Maukatere](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/mount-grey-maukatere-conservation-area/things-to-do/mt-grey-maukatere-tracks/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1282)): good effort-to-reward ratio, we had snow on the top.
 * part of [Te Ara Ōtākaro Avon River Trail](https://ccc.govt.nz/parks-and-gardens/explore-parks/waterways/avon-river/te-ara-trail) in Christchurch (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1279)): flat and by a river, many black swans.
 * [Mount Somers Summit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/mount-somers-area/things-to-do/tracks/mount-somers-summit/) (April 2021): increasingly better weather for us, huge summit plateau, great views, random cow was mooing its head off? The entire loop has intriguing trad climbing on it, would like to go for 3 days and lug gear and rope. October 2021: OK, we came back and hiked to the Mount Somers Hut with gear. It's 3 hours pretty uphill to the hut and then a bit longer to the crag. Worth revisiting for a 3 day trip with a good weather window. Two days with bad weather on day 2 is kind of short, especially driving in on day 1.
@@ -252,6 +253,8 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * Canterbury Open (May 2021), 3rd
 * Waikato Bays Open (June 2021), 5th
 * Auckland International Open (July 2021), 3rd
+* South Islands (September 2022), 3rd
+* New Zealand National Championships (October 2022), 3rd
 
 ## Airports
 
@@ -322,6 +325,7 @@ Flown to 5/12 North Island Air NZ stations and 7/8 South Island stations (need B
 * [Serious Fun Riverboarding](https://www.riverboarding.co.nz/) (March 2020): pretty intense whitewater experience.
 
 ### Christchurch
+* [Christchurch Tram](https://www.christchurchattractions.nz/christchurch-tram/) (October 2022): Not transit. It does a 4km loop in 50 minutes with commentary along the way. I guess I'd do it once, but not really again. Now, if only there was actual rail transit in Christchurch again.
 * [Quake City](https://quakecity.co.nz/) (September 2020): learning about the Christchurch 2011 earthquake, a traumatic event. Lots of info.
 * [Mount Hutt](https://www.mthutt.co.nz/) skiing (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1278)): yep, skiing. No one skis off piste?
 
