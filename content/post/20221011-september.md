@@ -327,7 +327,7 @@ To do, all from 2021 (days):
 * [September/October] Abel Tasman Coast Track (4)
 * [October] Mt. Cook and Mt. Somers (3)
 * [October] Red Rocks
-* [November] Waikanae, eclipse
+* [November] Lunar eclipse
 * [November] Leaving NZ
 
 Even more pictures from 2022:
