@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: November 2022_
+_Last updated: December 2022_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -112,6 +112,7 @@ Let's continue moving north.
 * [Taranaki Summit Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/mount-taranaki-summit-track/) (March 2020, [writeup](/post/20200414-taranaki/), [pics](https://gallery.patricklam.ca/index.php?/category/1216)): summitted less than a week before lockdown!
 * [Pouakai Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/pouakai-circuit/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1361)): better place to get a picture of Mount Taranaki; first nice day after lockdown, hut is 2 hours from road end and was thus packed to 2× capacity. We asked the DOC staff at the Dawson Falls visitor centre and he said he didn't think the hut would be super crowded. It was. We should've hustled more to get to the hut.
 * [Kapuni Loop Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/dawson-falls-walking-tracks/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1364)): day before the Pouakai Circuit, short, rainy when we were there, some old engineering works.
+* [Ōpunake Loop Trail](https://www.opunakenz.co.nz/opunake-walkway): I think it's Council-owned and outside the park. Quarter-day walk with a number of interesting sights, including the Clifftop Gardens, mosaic benches, dams, and lookouts. Also we saw a minature pony.
 
 ## Tongariro National Park
 
@@ -214,15 +215,16 @@ Also,
 
 ## Nature Reserves / Sanctuaries
 
-* [Zealandia](https://www.visitzealandia.com) (all the time): shuttle is 50m from our place.
-* [Ulva Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/ulva-island-te-wharawhara/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1273)): saw a kakariki and other birds just pecking away at the ground.
-* [Sanctuary Mountain](https://www.sanctuarymountain.co.nz/home) (February 2020): a break from cragging at Wharepapa South.
 * [Otoruhanga Kiwi House](http://kiwihouse.org.nz/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1368)): there are a lot of inverted night/day kiwi houses in New Zealand but this is the first one we went to. We saw more active kiwi at Pūkaha though.
-* [Orokunui](https://orokonui.nz/) (December 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1382)): good Dunedin-based activity with takahē and Otago skinks.
+* [Sanctuary Mountain](https://www.sanctuarymountain.co.nz/home) (February 2020): a break from cragging at Wharepapa South.
+* [Rotokare Scenic Reserve]((https://www.rotokare.org.nz/) (November 2022): drive-in predator-free reserve with kiwi that one can camp in.
 * [Pūkaha/Mount Bruce](https://pukaha.org.nz/) (June 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1348)): has another kiwi house and the only captive kokako, Kahurangi (who says kokako), as well as the other species of kakariki (couldn't see the orange-fronted one though).
 * [Kapiti Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/kapiti-island-nature-reserve/) (January 2020): "friendly" weka and kaka.
 * [Matiu/Somes Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/matiu-somes-island/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1374)): small flocks of kakariki, easily accessible from Wellington by ferry and presumably kayak.
+* [Zealandia](https://www.visitzealandia.com) (all the time): shuttle is 50m from our place.
+* [Orokunui](https://orokonui.nz/) (December 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1382)): good Dunedin-based activity with takahē and Otago skinks.
 * [Te Anau Bird Sanctuary](https://gallery.patricklam.ca/index.php?/category/1319): Antipodes kakariki, takahē, morepork.
+* [Ulva Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/ulva-island-te-wharawhara/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1273)): saw a kakariki and other birds just pecking away at the ground.
 
 The Invercargill aviary also has the Antipodes (unicolor) kakariki as well as Zac the sulphur-crested cockatoo ("I'm a pretty bird"). Most of these sanctuaries have a predator-proof fence.
 
@@ -278,8 +280,9 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 |KTF  |  Takaka (Sep 2021) |
 |TIU  |  Timaru (Nov 2021) |
 |KKE  |  Bay of Islands / Kerikeri (Apr 2022)
+|NPL  |  New Plymouth (Nov 2022) |
 
-Flown to 5/12 North Island Air NZ stations and 7/8 South Island stations (need Blenheim).
+Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need Blenheim).
 
 ## Travel fiasco
 
