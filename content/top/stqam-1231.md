@@ -8,12 +8,11 @@ url:        /stqam-1231/
 ---
 
 <style>
-.pager {display:none; }
-.intro-header .post-heading .meta {display:none; }
-.sidebar-container { display:none; }
+ .intro-header { display: none; }
+ .sidebar-container { display: none; }
 </style>
 
-# Course Information
+# Course Information: ECE 453/CS 447/CS 647 Software Testing, Quality Assurance, and Maintenance, Winter 2023
 
 * <a href="https://outline.uwaterloo.ca/view/n5mt8m">Course Outline</a>
 * [Lectures from Winter 2022 offering](https://www.youtube.com/playlist?list=PLUVKdrSzO0M44GPONj3eXbvK6RUNkwMZX)
