@@ -4,7 +4,7 @@ layout:     post
 title:      "ECE 453/CS 447/CS 647 Software Testing, Quality Assurance, and Maintenance, Winter 2023: Grading Policy"
 author:     "Patrick Lam"
 published:  true
-url:        /stqam-1321-grading/
+url:        /stqam-1231-grading/
 ---
 
 <style>
