@@ -19,7 +19,7 @@ summary:    "A good (though detailed) read about the sad history of NZ passenger
 </style>
 
 Citation:
-* André Brett, with maps by Sam van der Weerden. _Can't Get There From Here: New Zealand Passenger Rail Since 1920_. Otago University Press, 2021.
+* André Brett (text) and Sam van der Weerden (maps). _Can't Get There From Here: New Zealand Passenger Rail Since 1920_. Otago University Press, 2021.
 
 Yesterday I was taking the plane from New Plymouth to Wellington. Google Maps says that this is 267km "as the kereru flies" (no crows in Aotearoa) or 361km by road. Door-to-door time was 3 hours with a shuttle on the New Plymouth side and transit on the Wellington side, so marginally faster than the 4.5 hours by car that Google Maps reports (and the 9 hours it took us on tourist time when we got a ride with in-laws).
 
@@ -28,11 +28,11 @@ Yesterday I was taking the plane from New Plymouth to Wellington. Google Maps sa
 <figcaption style="text-align:center">Not a train.</figcaption>
 </figure>
 
-As André Brett points out, cars are expensive, and New Zealand cities in the 1990s spent a high proportion of gross regional product on transport: 14&ndash;15.5% compared to a US average of 12.5% and Toronto 7.4%. In this case, we would have had to rent a car, and there are no rental cars. The InterCity bus was 7 hours and not daily; we probably didn't even have time for it. So, for us, Air New Zealand it was.
+As [André Brett](https://andrebrett.com/) points out, cars are expensive, and New Zealand cities in the 1990s spent a high proportion of gross regional product on transport: 14&ndash;15.5% compared to a US average of 12.5% and Toronto 7.4%. In this case, we would have had to rent a car, and there are no rental cars. The InterCity bus was 7 hours and not daily; we probably didn't even have time for it. So, for us, Air New Zealand it was.
 
 # History
 
-_Can't Get There From Here_ is about the sad history of passenger rail in New Zealand, but with the hope that we can build a better future informed by what has already existed. Pre-highways, there used to be a (geographically) extensive rail network, which the central government funded in service of the colonial project ("developmental"). Though it was extensive, passenger service to the periphery wasn't fast, and was often inconveniently timed. 
+[_Can't Get There From Here_](http://www.nationwidebooks.co.nz/product/cant-get-there-from-here-new-zealands-shrinking-railway-1920-2020-9781990048098) is about the sad history of passenger rail in New Zealand, but with the hope that we can build a better future informed by what has already existed. Pre-highways, there used to be a (geographically) extensive rail network, which the central government funded in service of the colonial project ("developmental"). Though it was extensive, passenger service to the periphery wasn't fast, and was often inconveniently timed. 
 
 <figure>
 {{< gallery-slider dir="/img/20230107-cant-get-there-from-here/steam" >}}
