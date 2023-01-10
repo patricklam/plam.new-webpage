@@ -3,6 +3,9 @@ layout:     post
 
 ---
 
+[HATRA presentation](https://docs.google.com/presentation/d/15Tl-X9b3GoDVRnfxQ8OWeDXCWjfIRF9-ICF7HG1enxA)
+
+
 # Professional
 
 I'm an Associate Professor of Electrical and Computer Engineering at the University of Waterloo.
