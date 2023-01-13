@@ -4,7 +4,7 @@ I'm always looking for excellent, motivated students who are interested in progr
 
 * Laurian Angelescu (MASc, Fall 2019 -)
 * Moh Shirzad Robati (MASc, Fall 2021 -)
-* Mohammad Mahdi Abdollahpour (MMath, Fall 2022 -)
+* <a href="https://mohammadmahdi.com">Mohammad Mahdi Abdollahpour</a> (MMath, Fall 2022 -)
 
 # Past Students
 
@@ -18,7 +18,7 @@ I'm always looking for excellent, motivated students who are interested in progr
 * <a href="https://www.stephenli.ca">Stephen Li</a> (MMath 2018)
 * Jun Zhao (MASc 2018)
 * Zeming Liu (MMath 2018)
-* <a href="https://eyl.io">Jon Eyolfson</a> (PhD 2018)
+* <a href="https://eyolfson.com">Jon Eyolfson</a> (PhD 2018)
 * Ali Iman (MASc, Spring 2021)
 * Qian Liang (MASc, Spring 2021)
 * Sruthi Venkatanarayanan (MMath, Fall 2022)
