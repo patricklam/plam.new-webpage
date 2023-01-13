@@ -48,23 +48,28 @@ All assignments, quizzes, and tests that are submitted online will be returned o
 
 I anticipate that the final exam will be in-person, and that quizzes will be in-class in-person, though there are no guarantees. If we go to online instruction again, then quizzes will be take home, open book, closed internet. Each online test will be time limited and must be completed within 3 days. That is, you can pick the best time to take the test, but once you start, you have to finish within the given time limit.
 
-You must pass at least the two written tests and pass the assignments to pass the course. The final grade is computed using the following formula:
+You must pass at least the two written tests and pass the assignments to pass the course. The undergraduate final grade is computed using the following formula; for the graduate final grade, the project is 20% and the final is 25%.
 
 ```
-def grade(A, P, Q1, Q2, F):
+def grade(A, Q1, Q2, F):
     """Final grade calculation.
 
-    A, P, Q1, Q2, F are grades for assignments, project, Quiz 1, Quiz 2,
+    A, Q1, Q2, F are grades for assignments, Quiz 1, Quiz 2,
     and the Final, respectively. Normalized to 100%.
     """
     tests_above_fifty = len(list(filter(lambda x: x >= 50, [Q1, Q2, F])))
 
-    normal = 0.35*A + 0.1*Q1 + 0.1*Q2 + 0.25*F + 0.2*P
+    normal = 0.35*A + 0.1*Q1 + 0.1*Q2 + 0.45*F
     if tests_above_fifty >= 2 and A > 50:
         return normal
     else:
         return 47
 ```
+
+
+Because there is still a pandemic going on, I reserve the right (at my sole discretion) to be more generous with grades than stated above. I may be lenient with those who declare their single allowed short-term absence at the same date as a quiz; we'll cross that bridge when we get there. Contact me.
+
+ECE 453/CS 447 students may opt into the CS 647 grading scheme upon consultation with the instructor.
 
 # COVID-19 Contingency Policy
 

@@ -17,10 +17,10 @@ url:        /stqam-1231/
 * <a href="https://outline.uwaterloo.ca/view/n5mt8m">Course Outline</a>
 * [Lectures from Winter 2022 offering](https://www.youtube.com/playlist?list=PLUVKdrSzO0M44GPONj3eXbvK6RUNkwMZX)
 * [Detailed View of Grading Policy](/stqam-1231-grading)
-* [Project Description](/stqam-1231-projects)
+* [Project Description (for CS 647)](/stqam-1231-projects)
 * [PDFs](https://git.uwaterloo.ca/stqam-1231/pdfs.git)
 * Discussion will be on Piazza; let me know if you have not been added.
-* Grades will be posted on LEARN.
+* Grades will be pushed back to your git repo.
 
 # Important Dates (may change, assignment descriptions are correct)
 
