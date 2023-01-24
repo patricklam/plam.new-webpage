@@ -160,7 +160,7 @@ Mount Aspiring National Park has some pretty tough trips. We tried to do one of 
 * [Aspiring Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/west-matukituki-track/) (March 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1222)): mostly flat though still significant distance, scenic Matukituki Valley views, NZAC hut looks super comfortable.
 * [Rob Roy Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1301)): was closed on our first visit, later fixed, and now open. Glacier views, easy. 
 * [Tiki trail](https://www.queenstownnz.co.nz/listing/tiki-trail/9099/) (March 2020): short walk up the hill in Queenstown, or you could take the cable car.
-* no [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)): better luck next time I guess!
+* [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (failed attempt March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)) (December 2022, [writeup]
 
 ## Canterbury
 
