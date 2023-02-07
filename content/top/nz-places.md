@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: December 2022_
+_Last updated: February 2023_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -113,6 +113,7 @@ Let's continue moving north.
 * [Pouakai Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/pouakai-circuit/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1361)): better place to get a picture of Mount Taranaki; first nice day after lockdown, hut is 2 hours from road end and was thus packed to 2× capacity. We asked the DOC staff at the Dawson Falls visitor centre and he said he didn't think the hut would be super crowded. It was. We should've hustled more to get to the hut.
 * [Kapuni Loop Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/dawson-falls-walking-tracks/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1364)): day before the Pouakai Circuit, short, rainy when we were there, some old engineering works.
 * [Ōpunake Loop Trail](https://www.opunakenz.co.nz/opunake-walkway): I think it's Council-owned and outside the park. Quarter-day walk with a number of interesting sights, including the Clifftop Gardens, mosaic benches, dams, and lookouts. Also we saw a minature pony.
+* [Around the Mountain Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/around-the-mountain-circuit/): Second try's the charm; got rained out the first time. We saw some flashes of beauty and a bunch of clouds and a lot of wind. The trail is a bit tough in parts, especially a deviation of the last part of trail to the Waiaia hut. The elevation gain is manageable.
 
 ## Tongariro National Park
 
@@ -124,10 +125,10 @@ Let's continue moving north.
 * [Bell Rock Loop Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/hawkes-bay/places/boundary-stream-area/things-to-do/boundary-stream-walks/): the bell-shaped rock and view are impressive; the wind was gale-force extreme and blowing me off my feet. 20 minutes of driving on gravel. We did not do the loop but walked back through the more-sheltered forest.
 
 ## Waikato / Bay of Plenty
-* [Mauao (Mount Maunganui) Summit Walk](https://www.bayofplentynz.com/experiences/outdoor-adventures/tracks-and-trails/tracks-and-trails-in-mount-maunganui/mauao-mount-maunganui-summit-walk/), Tauranga (July 2021): kind of like Mount Royal.
+* [Mauao (Mount Maunganui) Summit Walk](https://www.bayofplentynz.com/experiences/outdoor-adventures/tracks-and-trails/tracks-and-trails-in-mount-maunganui/mauao-mount-maunganui-summit-walk/), Tauranga (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1642)): kind of like Mount Royal in Montreal.
 * [Kaharoa Kokako Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/kaharoa-conservation-area/things-to-do/kaharoa-kokako-track/) (July 2021): maybe we heard kokako? Google Maps navigation got us there later than preferable.
-* [Mount Tarawera](https://www.kaitiaki.co.nz/guided-tours/) (July 2021): must be guided by Kaitiaki Adventures; extremely high reward-to-effort ratio; could also take a helicopter but I think that's less rewarding.
-* [Blue Spring&mdash;Te Waihou Walkway](https://www.waikatonz.com/experiences/walking-hiking-trails/blue-spring-te-waihou-walkway/) (July 2021): pretty easy, scenic, between Tauranga and Rotorua. Seems to get all of the people out for a Sunday walk from Tauranga, busy.
+* [Mount Tarawera](https://www.kaitiaki.co.nz/guided-tours/) (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1633)): must be guided by Kaitiaki Adventures; extremely high reward-to-effort ratio; could also take a helicopter but I think that's less rewarding.
+* [Blue Spring&mdash;Te Waihou Walkway](https://www.waikatonz.com/experiences/walking-hiking-trails/blue-spring-te-waihou-walkway/) (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1641)): pretty easy, scenic, between Tauranga and Rotorua. Seems to get all of the people out for a Sunday walk from Tauranga, busy.
 * [Rotorua redwoods walk](https://redwoods.co.nz/walk/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1369)): walking in the forest, good day activity, though no elevation gain (unless you pay for the tree walk and climb into the canopy; I didn't).
 * [Whakarewarewa Living Maori Village](https://whakarewarewa.com/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1369)): went pre-COVID; good walking tour and cultural show. The village really is built on potential sinkholes and bubbling lava, like Beppu.
 * [Railcruising](https://railcruising.com/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1371)): I appreciate this use of disused rail infrastructure and it's kind of fun to ride around in one's own rail car, but it really is sort of a passive activity. Then again if you're driving a train and you're being active, something's wrong. The big brother to this is [Forgotten World Adventures](https://www.forgottenworldadventures.co.nz/), which is way longer and way more expensive.
@@ -136,7 +137,7 @@ Let's continue moving north.
 * [Te Henga Walkway](https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/muriwai-and-te-henga-area/tracks/te-henga-walkway/), from Muriwai Beach to Bethells Beach (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1310)): kauri, beach scenery.
 * [Mangere Mountain](https://www.aucklandcouncil.govt.nz/parks-recreation/get-outdoors/aklpaths/Pages/path-detail.aspx?ItemId=398) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1311)): is a mountain like how Ontario's Blue Mountain is a mountain
 * [Firth of Thames bird blinds](https://www.doc.govt.nz/nature/native-animals/birds/birds-a-z/mirandas-migratory-birds/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1314)): lots of migratory birds, particularly godwits and red knots.
-* [Aotea Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/great-barrier-island-aotea/things-to-do/tracks/aotea-track/) (July 2021): off the grid, mostly easy but can add segments to make it harder (e.g. Kiwiriki Track), black petrels, surprisingly much topography for a small island.
+* [Aotea Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/great-barrier-island-aotea/things-to-do/tracks/aotea-track/) (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1606)): (literally) off the grid (in NZ: "no reticulated power"), mostly easy but can add segments to make it harder (e.g. Kiwiriki Track), black petrels, surprisingly much topography for a small island.
 
 ## Northland
 * [Cape Brett Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/cape-brett-and-whangamumu-area/things-to-do/cape-brett-track/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1297)): Harder than it looks! 15km would normally be 4hr but it took us 7 hours. You wouldn't think gulls are impressive but there were baby gulls here which look quite different from the adults.
@@ -150,26 +151,27 @@ Let's continue moving north.
 * [Kaikoura (Cycle) Trail](https://kaikouracycling.co.nz/kaikoura-trail/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1281)): all the kinds of bicycling (road & mountain) on one trail
 * [Kaikoura Peninsula Walkway](https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/kaikoura-area/things-to-do/tracks/kaikoura-peninsula-walkway/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1281)): did part of this on the same day as the cycle trail but were time-limited by sunset and needing to drive out as well. New as of the earthquake, I think!
 
-## Queenstown/Wanaka/Mount Aspiring National Park
+## Queenstown/Wānaka/Mount Aspiring National Park
 
 Mount Aspiring National Park has some pretty tough trips. We tried to do one of them and got rained out. Mostly we did the easy trips.
 
 * [Blue Pools Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/blue-pools-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1305)): easy, scenic, blue indeed.
 * [Brewster Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/brewster-track/) (March 2021, [pics to](https://gallery.patricklam.ca/index.php?/category/1304), [pics back from](https://gallery.patricklam.ca/index.php?/category/1307)): good hut, short and steep, glacier is much more walking.
-* [Roy's Peak](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/) (February 2020): was super popular pre-COVID, tons of people even for sunrise, great views of Lake Wanaka, surprisingly much elevation gain. We were slightly behind the vans of people coming for sunrise and ahead of more casual hikers.
+* [Roy's Peak](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1402)): was super popular pre-COVID, tons of people even for sunrise, great views of Lake Wānaka, surprisingly much elevation gain. We were slightly behind the vans of people coming for sunrise and ahead of more casual hikers.
 * [Aspiring Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/west-matukituki-track/) (March 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1222)): mostly flat though still significant distance, scenic Matukituki Valley views, NZAC hut looks super comfortable.
 * [Rob Roy Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1301)): was closed on our first visit, later fixed, and now open. Glacier views, easy. 
 * [Tiki trail](https://www.queenstownnz.co.nz/listing/tiki-trail/9099/) (March 2020): short walk up the hill in Queenstown, or you could take the cable car.
-* [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (failed attempt March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)) (December 2022, [writeup]
+* [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (failed attempt March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)) (December 2022, [writeup](/post/20230120-south-island-adventures/)): a level or two harder than a Great Walk; the average hiking experience level was far higher here!
+* [Mueller Hut Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/mueller-hut-route/) to [Mueller Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/huts/mueller-hut/) (December 2022): 1000m elevation gain but the first half is more "staircase" than route; not that hard. Extremely scenic and also popular. Average experience level much lower. We got excellent views of Aoraki Mount Cook and the sky; indeed, camping ($15) is a good way to see the sky.
 
 ## Canterbury
 
-* [Banks Track](https://www.bankstrack.co.nz/) (October 2022 in full [[trip report](/post/20221102-banks)]; July 2020 to Flea Bay, [pics](https://gallery.patricklam.ca/index.php?/category/1230)): epic coastal scenery; we did it in 2 days, which is slightly but not really tough. 31km, 700m elevation gain each day. Also lots of lambs in October. Accommodation is spectacular. Mid-winter terrain is actually a bit tricky with slippery leaves.
+* [Banks Track](https://www.bankstrack.co.nz/) (October 2022 in full [[trip report](/post/20221102-banks), [pics](https://gallery.patricklam.ca/index.php?/category/1585)]; July 2020 to Flea Bay, [pics](https://gallery.patricklam.ca/index.php?/category/1230)): epic coastal scenery; we did it in 2 days, which is slightly but not really tough. 31km, 700m elevation gain each day. Also lots of lambs in October. Accommodation is spectacular. Mid-winter terrain is actually a bit tricky with slippery leaves.
 * [Mt Grey/Maukatere](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/mount-grey-maukatere-conservation-area/things-to-do/mt-grey-maukatere-tracks/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1282)): good effort-to-reward ratio, we had snow on the top.
 * part of [Te Ara Ōtākaro Avon River Trail](https://ccc.govt.nz/parks-and-gardens/explore-parks/waterways/avon-river/te-ara-trail) in Christchurch (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1279)): flat and by a river, many black swans.
-* [Mount Somers Summit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/mount-somers-area/things-to-do/tracks/mount-somers-summit/) (April 2021): increasingly better weather for us, huge summit plateau, great views, random cow was mooing its head off? The entire loop has intriguing trad climbing on it, would like to go for 3 days and lug gear and rope. October 2021: OK, we came back and hiked to the Mount Somers Hut with gear. It's 3 hours pretty uphill to the hut and then a bit longer to the crag. Worth revisiting for a 3 day trip with a good weather window. Two days with bad weather on day 2 is kind of short, especially driving in on day 1.
+* [Mount Somers Summit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/mount-somers-area/things-to-do/tracks/mount-somers-summit/) (April 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1533)): increasingly better weather for us, huge summit plateau, great views, random cow was mooing its head off? The entire loop has intriguing trad climbing on it, would like to go for 3 days and lug gear and rope. October 2021: OK, we came back and hiked to the Mount Somers Hut with gear. It's 3 hours pretty uphill to the hut and then a bit longer to the crag. Worth revisiting for a 3 day trip with a good weather window. Two days with bad weather on day 2 is kind of short, especially driving in on day 1.
 * [Mount Sunday Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/hakatere-conservation-park/things-to-do/tracks/mount-sunday-track/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1229)): Edoras, chill hike up a small mountain, much bigger (snowy) mountains around too, would like to go back for them. Not far from Mount Somers.
-* [Avalanche Peak Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/things-to-do/tracks/avalanche-peak-route/) (April 2021): came back for this summit, didn’t get to Crow Hut due to rain, saw keas but not up close; more on other tracks (they may, alas, be more habituated to humans on them).
+* [Avalanche Peak Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/things-to-do/tracks/avalanche-peak-route/) (April 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1534)): came back for this summit, didn’t get to Crow Hut due to rain, saw keas but not up close; more on other tracks (they may, alas, be more habituated to humans on them).
 * [Arthur’s Pass Walking Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/things-to-do/tracks/arthurs-pass-walking-track/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1231)): meh, feels like a consolation prize for when other Arthur's Pass trips are out of condition, though you can get a view of Devils Punchbowl walking by. Tried to understand what was going on at Temple Basin, which never opened in 2020. Looks like a worthy ski resort to stay at, though.
 * [Temple Basin Skin Area](https://www.templebasin.co.nz/) (September 2022, [pics](https://gallery.patricklam.ca/index.php?/category/1570)): did a week of mountaineering with two good weather days; would like to do ski touring, but snow insufficient; some easy options and some pretty hard options but kind of a missing middle. Food at the lodge was really good.
 
@@ -207,19 +209,19 @@ NZ has commuter trains and tourist trains but no real passenger trains anymore, 
 
 * [TranzAlpine](https://www.greatjourneysofnz.co.nz/tranzalpine/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1232), [writeup](/post/20200822-arthurs-pass-and-the-tranzalpine/)): snowy mountains.
 * [Northern Explorer](https://www.greatjourneysofnz.co.nz/northern-explorer/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1295)): relaxing way of getting from Wellington to Auckland, if not speedy.
-* [Interislander](https://www.greatjourneysofnz.co.nz/interislander/): one of the easier ways of crossing the Cook Strait.
+* [Interislander](https://www.greatjourneysofnz.co.nz/interislander/): one of the easier ways of crossing the Cook Strait, though the plane is much faster.
 
 Also,
-* all but one Wellington commuter train line (Johnsonville missing)
+* all Wellington commuter train lines
 * Onehunga and Eastern Lines in Auckland
 
 ## Nature Reserves / Sanctuaries
 
 * [Otoruhanga Kiwi House](http://kiwihouse.org.nz/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1368)): there are a lot of inverted night/day kiwi houses in New Zealand but this is the first one we went to. We saw more active kiwi at Pūkaha though.
 * [Sanctuary Mountain](https://www.sanctuarymountain.co.nz/home) (February 2020): a break from cragging at Wharepapa South.
-* [Rotokare Scenic Reserve]((https://www.rotokare.org.nz/) (November 2022): drive-in predator-free reserve with kiwi that one can camp in.
+* [Rotokare Scenic Reserve](https://www.rotokare.org.nz/) (November 2022): drive-in predator-free reserve with kiwi that one can camp in.
 * [Pūkaha/Mount Bruce](https://pukaha.org.nz/) (June 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1348)): has another kiwi house and the only captive kokako, Kahurangi (who says kokako), as well as the other species of kakariki (couldn't see the orange-fronted one though).
-* [Kapiti Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/kapiti-island-nature-reserve/) (January 2020): "friendly" weka and kaka.
+* [Kapiti Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/kapiti-island-nature-reserve/) (January 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1395)): "friendly" weka and kaka.
 * [Matiu/Somes Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/matiu-somes-island/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1374)): small flocks of kakariki, easily accessible from Wellington by ferry and presumably kayak.
 * [Zealandia](https://www.visitzealandia.com) (all the time): shuttle is 50m from our place.
 * [Orokunui](https://orokonui.nz/) (December 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1382)): good Dunedin-based activity with takahē and Otago skinks.
@@ -235,7 +237,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * [Castledowns](https://climbnz.org.nz/nz/si/southland/castledowns) (August 2020, January 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1275)): halfway between Te Anau and Invercargill. Good near-Fiordland cragging stop.
 * [Mapoutahi](https://climbnz.org.nz/nz/si/otago/dunedin/otago-peninsula/mapoutahi) (December 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1383)): near Dunedin, not quite as sandbagged as other places, worked some routes here.
 * [Double Cone](https://climbnz.org.nz/nz/si/otago/the-remarkables/double-cone) (March 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1221), [writeup](https://patricklam.ca/post/20200421-alta-double-cone/)): moderate trad multipitch. We climbed the route George after some routefinding issues, not listed on ClimbNZ.
-* [Wanaka](https://climbnz.org.nz/nz/si/otago/wanaka) (February 2020, [writeup](/post/20200212-climbing-in-wanaka/)): NZAC trip for a bunch of climbing days.
+* [Wānaka](https://climbnz.org.nz/nz/si/otago/wanaka) (February 2020, [writeup](/post/20200212-climbing-in-wanaka/)): NZAC trip for a bunch of climbing days.
 * [Wunderbar Wall](https://climbnz.org.nz/nz/si/canterbury/port-hills/wunderbar-wall), Christchurch (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1280)): moderate sport near Christchurch; not sandbagged.
 * [Cattlestop](https://climbnz.org.nz/nz/si/canterbury/port-hills/cattlestop-crag), Christchurch (April 2020): moderate-plus sport near Christchurch.
 * [Pohara](https://climbnz.org.nz/nz/si/nelson/golden-bay/pohara), Takaka (March 2021): easier than Paynes Ford, some quite long single-pitch.
@@ -257,6 +259,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * Auckland International Open (July 2021), 3rd
 * South Islands (September 2022), 3rd
 * New Zealand National Championships (October 2022), 3rd
+* Wellington Closed (December 2022), 1st (-66)
 
 ## Airports
 
@@ -304,9 +307,9 @@ Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need B
 
 ### Waikato
 
-* [Hobbiton](https://www.hobbitontours.com/en/) (July 2021): went to the mid-winter feast, impressive recreation of Tolkien's Shire. Our guide was enthusiastic and knowledgeable. MP went back this year after going last February with her dad's family.
-* Tirau (July 2021): [corrugated iron sculptures](https://www.atlasobscura.com/articles/corrugated-iron-sculptures-new-zealand)
-* [Waitomo Glowworm Caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves) (February 2020): hmm, was this the last big tourist machine I went to? It's a big tourist machine, though probably the local economy benefits, and they hire Maori.
+* [Hobbiton](https://www.hobbitontours.com/en/) (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1639)): went to the mid-winter feast, impressive recreation of Tolkien's Shire. Our guide was enthusiastic and knowledgeable. MP went back this year after going last February with her dad's family.
+* Tirau (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1640)): [corrugated iron sculptures](https://www.atlasobscura.com/articles/corrugated-iron-sculptures-new-zealand)
+* [Waitomo Glowworm Caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves) (February 2020): hmm, was this the last big tourist machine I went to? It's a big tourist machine, though probably the local economy benefits, and they hire Maori. I have heard good things about the blackwater rafting.
 
 ### Napier
 
@@ -323,9 +326,10 @@ Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need B
 * [Labyrinth Rocks](https://www.nelsontasman.nz/visit-nelson-tasman/plan-your-trip/activities/3395-labyrinth-rocks-park), Takaka (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1238)): walkable from Takaka, kind of like Punakaiki Rocks but not by the sea. It is a labyrinth though!
 * [Albatross Encounter](https://albatrossencounter.co.nz/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1284)): they take you out on a boat and you see lots of seabirds, including various kinds of albatross.
 
-### Queenstown
+### Queenstown / Wānaka
 
 * [Serious Fun Riverboarding](https://www.riverboarding.co.nz/) (March 2020): pretty intense whitewater experience.
+* [Te Ara Wānaka Boardwalk](https://enviroscope.co.nz/wanaka-boardwalk/) (December 2022, [pics](https://gallery.patricklam.ca/index.php?/category/1625)): best spot in the country to see grebes nesting, and if lucky, baby grebes around Christmas.
 
 ### Christchurch
 * [Christchurch Tram](https://www.christchurchattractions.nz/christchurch-tram/) (October 2022): Not transit. It does a 4km loop in 50 minutes with commentary along the way. I guess I'd do it once, but not really again. Now, if only there was actual rail transit in Christchurch again.
@@ -333,15 +337,16 @@ Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need B
 * [Mount Hutt](https://www.mthutt.co.nz/) skiing (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1278)): yep, skiing. No one skis off piste?
 
 ### Oamaru
-* [Steampunk HQ](https://www.steampunkoamaru.co.nz/) (November 2021): kind of creepy.
-* [Victorian Precinct](https://www.victorianoamaru.co.nz/) (November 2021): good to visit on a Sunday, along with the farmer's market. Would've liked to take the tourist train. Also there is a good kids' park nearby.
+* [Steampunk HQ](https://www.steampunkoamaru.co.nz/) (November 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1520)): kind of creepy.
+* [Victorian Precinct](https://www.victorianoamaru.co.nz/) (November 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1520)): good to visit on a Sunday, along with the farmer's market. Would've liked to take the tourist train. Also there is a good kids' park nearby.
 
 ### Lake Tekapo
-* [Church of the Good Shepherd](https://www.churchofthegoodshepherd.org.nz/) (November 2021): Purple, blue, white lupins. Hope you get good light!
+* [Church of the Good Shepherd](https://www.churchofthegoodshepherd.org.nz/) (November 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1453)): Purple, blue, white lupins. Hope you get good light!
 
 ### Mount Cook
-* Various short tracks (October 2021): [Hooker Valley](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/hooker-valley-track/), [Red Tarns](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/red-tarns-track/), [Blue Lakes and Tasman Glacier](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/blue-lakes-and-tasman-glacier-walks/)
-* Black stilts at Glentanner (October 2021)
+* Various short tracks (November 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1452)): [Hooker Valley](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/hooker-valley-track/), [Red Tarns](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/red-tarns-track/), [Blue Lakes and Tasman Glacier](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/blue-lakes-and-tasman-glacier-walks/)
+* Black stilts at Glentanner (November 2021)
+* Glacier kayaking (December 2022): the kayaks are a bit old, but kayaking among the icebergs is a great way to see them. Not sure if one could do that in Newfoundland...
 
 ### Milford Sound
 
@@ -353,7 +358,7 @@ Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need B
 * [Elm Wilderness Tour](https://www.elmwildlifetours.co.nz/) (December 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1381)): there aren't a lot of ways to see yellow-eyed penguins, and this is one of them. We are not the target demographic; maybe Penguin Place would have been better for us. But we did see the penguins.
 
 ### West Coast
-* [Petrel Colony Tours](http://www.petrelcolonytours.co.nz/) (May 2020): the owners built a lot of impressive infrastructure to facilitate Westland Petrel viewing and we saw some of them coming in for the night, but we didn't get a great night. Wild animals aren't always there to serve us.
+* [Petrel Colony Tours](http://www.petrelcolonytours.co.nz/) (May 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1340)): the owners built a lot of impressive infrastructure to facilitate Westland Petrel viewing and we saw some of them coming in for the night, but we didn't get a great night. Wild animals aren't always there to serve us.
 * [West Coast Wildlife Centre](https://www.wildkiwi.co.nz/) (September 2021): on the backstage tour (booked with bookme for a discount), they told us about how they raise baby Haast tokoeka and rowi kiwis until they are predator-proof. They had two 9 month old kiwis doing kiwi things in the dark. (Turns out that my binocular doesn't collect enough light in this kiwi house). Also, despite getting pretty close to tuatara at Zealandia, we were closer here.
 * [Monro Beach Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/haast-paringa-and-moeraki-rivers-area/things-to-do/tracks/walks-north-of-haast-township/) (September 2021): we saw a Fiordland crested penguin coming in, though were at the other end of the beach and didn't get a close-up. Maybe next time.
 * [Waiatoto River Safari](https://www.riversafaris.co.nz/) (September 2021): enjoyable and informative ride up the Waiatoto in a jetboat, learning about the river, the kiwis (birds), the people, and whitebaiting. We didn't get mountain views but it seemed like they'd be epic. Ruth drove our jetboat and told us stuff, also providing scones and a taste of whitebait.
@@ -491,9 +496,9 @@ better than Wellington though!
 
 ### Otago
 
-I guess this contains Queenstown/Wanaka as well, but they are a
+I guess this contains Queenstown/Wānaka as well, but they are a
 different world from Dunedin.  Lots of outdoors and nature here. Apart
-from the obvious Queenstown/Wanaka/Mount Aspiring thing, I enjoyed
+from the obvious Queenstown/Wānaka/Mount Aspiring thing, I enjoyed
 Silverpeaks near Dunedin as well as the beach walks. Dunedin is also a
 historical-looking city which looks nice to visit for a few more days
 than we've done. The Dunedin airport is really quite far from the city
