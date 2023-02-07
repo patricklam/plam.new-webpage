@@ -126,7 +126,7 @@ of herons, South Island pied oystercatchers, and dotterels.
 <figcaption style="text-align:center">Heron; dotterel; moody Mount Cook.</figcaption>
 </figure>
 
-On Christmas Day we walked up to Mueller Hut. There is a full 1000m of elevation gain to
+On Christmas Day we walked up to [Mueller Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/huts/mueller-hut/) on the [Mueller Hut Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/mueller-hut-route/). There is a full 1000m of elevation gain to
 Mueller, but the first half is stairs. The second half isn't that hard
 either, except that walking on wet snow at the end gets your feet
 wet. We also went up an additional 100m to Mount Ollivier.
