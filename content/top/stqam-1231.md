@@ -45,6 +45,11 @@ url:        /stqam-1231/
 
 Referred to in one of the videos from W22. [SymEx.ipynb](/teaching/stqam-2022/SymEx.ipynb)
 
+# Video lectures from W23 offering
+* [W05a: Symbolic Execution](https://www.youtube.com/watch?v=kSj0Ssb77gY)
+* [W05b: z3 SMT solver](https://www.youtube.com/watch?v=gt7vG_gnG4E)
+
 # Video lecture from S22 offering
 
 * [W04: Fuzzing](https://youtu.be/b2_IufQiQ88)
+
