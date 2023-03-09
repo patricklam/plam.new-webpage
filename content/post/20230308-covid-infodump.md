@@ -42,15 +42,20 @@ continue usually masking, bringing around my CO<sub>2</sub> meter, and
 definitely masking in sketchy places. And planes. No reason to not
 mask on a plane.
 
-Here's a Twitter thread by Dr. Trisha Greenhalgh that is a quite detailed discussion of masks in light
+Here's a Twitter thread by Prof. Trisha Greenhalgh that is a quite detailed discussion of masks in light
 of the Cochrane review. Maybe the threadreaderapp link will continue working; who knows how long Twitter will be around.
 * Trisha Greenhalgh. "[New mask thread](https://threadreaderapp.com/thread/1629827584568565760.html)." Twitter
 (via threadreaderapp).
 
+She reiterates the argument that Randomized Controlled Trials are not the only evidence we should believe and
+anyway they need to be consistent with mechanistic explanations. Also in the thread there are links to non-RCTs which
+show a bigger-than-10% effect of mask mandates. She does say that masks should be limited to times where
+there is a lot of COVID going around.
+
 And, this blog post is pretty consistent with what I believe to be
 true in general. Maybe I disagree in that I think that repeat infections are not
 more likely to disable, in the general population. The VA study that shows more badness
-is perhaps not applicable to the general population. (Not less likely,
+in a more vulnerable population is perhaps not applicable to the general population. (Not less likely,
 but not more likely).
 
 * [Summary of current knowledge](https://adviceunasked.blogspot.com/2023/03/covid-three-years-on.html)
