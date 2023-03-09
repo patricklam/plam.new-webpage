@@ -17,6 +17,8 @@ summary:    "A walk around the mountain (Taranaki). Pretty chill except for day 
 
 # Day 4: Takayama, February 21
 
+shoehorns, wow, what technology
+
 # Day 5: Kanazawa, February 22
 
 # Day 6: Train to Sapporo, February 23
