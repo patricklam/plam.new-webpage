@@ -1,8 +1,8 @@
 ---
 layout:     post
 
-title:      "Japan, February 2023"
-date:       2023-02-23
+title:      "Japan part II: historical (looking) buildings in the Japan Alps, February 2023"
+date:       2023-03-20
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas"]
 categories: ["travel"]
@@ -13,23 +13,8 @@ summary:    "A walk around the mountain (Taranaki). Pretty chill except for day 
 
 ---
 
-# Day 3 part 2: Matsumoto, February 20
-
-# Day 4: Takayama, February 21
-
-shoehorns, wow, what technology
-
-# Day 5: Kanazawa, February 22
-
-# Day 6: Train to Sapporo, February 23
-
-Cat on delayed Hakodate to Sapporo train.
-
-Urinals in trains!
-
 # Day 7: Sapporo, February 24
 
 # Day 8: Kushiro, February 25
 
 # Day 9: Tokyo, February 26
-

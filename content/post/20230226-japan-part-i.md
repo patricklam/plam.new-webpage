@@ -379,7 +379,8 @@ wanted to admiring the historical-looking buildings and shrines. We
 even went up to the Tsumago viewpoint (old castle) 5 minutes uphill
 after leaving town, reaching the top at 10:18. There were a couple of
 rural houses and people doing their thing, e.g.  drying their laundry
-(kids' judogis?). We made it to Nagiso by 10:55 and caught the 11:00
+(kids' judogis?). There is a bus from Tsumago to Nagiso but it doesn't run very often.
+We instead walked, and made it to Nagiso by 10:55 and caught the 11:00
 train to Matsumoto (next post!).
 
 <figure>
