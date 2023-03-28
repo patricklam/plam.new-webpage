@@ -272,6 +272,8 @@ and the phone, trying to find a lens that was dry enough.
 
 ## Magome
 
+* [Gallery](https://gallery.patricklam.ca/index.php?/category/1660)
+
 This town was the centre of attention in _Before the Dawn_ and is now
 a restored historic village. In the right season, it seems like it
 would have tons of tour buses. There were people there in February,

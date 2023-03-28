@@ -45,6 +45,8 @@ We managed to find a reasonably pricey, but not extortionate, car rental in Wana
 
 About the shuttle: 1) guy next to us was from Canada (there was an accent, and he was reading news on CTV, but I never asked him) 2) air quality was terrible with 3700ppm.
 
+* [Grebe pictures round 1, December 19](https://gallery.patricklam.ca/index.php?/category/1625)
+
 There is a new boardwalk in Wanaka, opened November 2021. It provides good views of two dozen grebes, who are currently nesting (babies as we were on our way out). The boardwalk was on the way to [Wanaka Bakpaka](https://www.wanakabakpaka.co.nz/), which is a convenient place to stay; very clean.
 
 <figure>
