@@ -2,7 +2,7 @@
 layout:     post
 
 title:      "Japan part II: historical (looking) buildings in the Japan Alps, February 2023"
-nndate:       2023-03-27
+date:       2023-03-27
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas"]
 categories: ["travel"]
