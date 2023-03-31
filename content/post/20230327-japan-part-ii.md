@@ -2,14 +2,14 @@
 layout:     post
 
 title:      "Japan part II: historical (looking) buildings in the Japan Alps, February 2023"
-date:       2023-03-27
+nndate:       2023-03-27
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas"]
 categories: ["travel"]
 published:  true
 image:      "/img/20230327-japan-part-ii/20230223_062440977_weird_cloud_v1.webp"
 showtoc:    true
-summary:    "A walk around the mountain (Taranaki). Pretty chill except for day 3 which had super high winds and day 2 which had a short amount of muddy steep terrain."
+summary:    "Next stops: Matsomoto (a castle!), samurai district, historical houses, festival floats, and gardens. Plus, an 11 hour train ride."
 
 ---
 
