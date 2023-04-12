@@ -4,7 +4,7 @@ layout:     post
 title:      "Biking to Amqui"
 date:       2018-04-08
 author:     "Patrick Lam"
-tags:       ["transit"]
+tags:       ["transit", "qc", "on", "nb", "ca"]
 categories: ["travel"]
 published:  true
 showtoc:    true

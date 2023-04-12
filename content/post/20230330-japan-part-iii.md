@@ -6,7 +6,7 @@ date:       2023-03-30
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas"]
 categories: ["travel"]
-published:  false
+published:  true
 image:      "/img/20230204-amc/20230103_215434683_amc_view_outwards.PANO.jpg"
 showtoc:    true
 summary:    "A walk around the mountain (Taranaki). Pretty chill except for day 3 which had super high winds and day 2 which had a short amount of muddy steep terrain."
@@ -16,18 +16,18 @@ summary:    "A walk around the mountain (Taranaki). Pretty chill except for day 
 The final segment of our trip, after the 11 hour train ride, was in
 Japan's northernmost island, Hokkaido.  (Japan also claims 4 of the
 Kuril islands, and the Ainu used to live there, but the Russians hold
-the island now.) We planned to go skiing and hopefully see red-crowned
-cranes.
-
-Hokkaido is pretty remote and we planned the last day of our Japan
-Rail Pass to include a train from Sapporo to Kushiro, which is pretty
-far even in Hokkaido, but there are even more remote parts.
+the island now.)
 
 There used to be a [5-hour
 ferry](https://www.timeout.com/tokyo/travel/japan-to-russia-on-a-five-hour-ferry)
 covering the 160km from Wakkanai in Hokkaido (not [Waikanae, New
 Zealand](https://gallery.patricklam.ca/index.php?/category/1517)) to
 Korsakov in Sakhalin, but that doesn't seem to run anymore.
+
+Anyway, we planned to go skiing and hopefully see red-crowned
+cranes. Hokkaido is pretty remote and we planned the last day of our
+Japan Rail Pass to include a train from Sapporo to Kushiro, which is
+pretty far even in Hokkaido, but there are even more remote parts.
 
 Previously:
 * [Japan part I: cherry blossoms and part of the Nakasendo](/post/20230226-japan-part-i)
@@ -44,7 +44,7 @@ We got out of the hotel at 8:30 and walked 1.2km to the Nijo market.
 What we saw of the market was kind of small, basically one street with a bunch of stores
 (and "no photography" signs).
 
-Sapporo is famous for crab sushi. At the market there were a lot of monster crabs for sale.
+Sapporo is famous for crab sushi. At the market there were a lot of huge crabs for sale.
 I guess the storeowners are tired of tourists taking pictures of the crabs and not buying them.
 There were also a couple of restaurants with crab sushi and lines. We went to one with no lines.
 Turns out that ours was somewhat underwhelming, and cost us ¥7100 for two.
@@ -61,17 +61,30 @@ meet demand, and the every-two-hours weekday
 somewhat lacking (plus 8:55/9:15/10:20, and hourly on weekends).
 Still, it does get to the ski hill.
 
-Next up, we needed to store our stuff, get rental gear, and lift tickets.
-I should first mention that Sapporo Teine is almost two resorts, linked
-by a gondola: Olympia and Highland. We went to Olympia; it is the first stop,
-and the easier terrain is there. But, everyone else also went to Olympia.
+Next up, we needed to store our stuff, get rental gear, and lift
+tickets.  I should first mention that Sapporo Teine is almost two
+resorts, linked by a gondola: Olympia and Highland. The gondola gets
+you to the top of Olympia/bottom of Highland.  We got off the bus at
+Olympia; it is the first stop, and the easier terrain is there. But,
+everyone else also went to Olympia.
+
 Highland has the high-performance gear, so I should have gone there.
+Instead, I got crappy rear-entry boots and average skis. Definitely
+not as good as my now super-old Volkl 6* skis. So, when I was skiing
+Kitakabe ("super expert") 5×, I experienced an insufficient DIN
+wipeout once. But there was definitely soft bumps on that steep run.
+("Miseibi" = powder).
 
+MP also enjoyed snowboarding. She tried skiing at first, but that didn't work.
+It has been too long. She was able to maneuver around on the snowboard though.
 
-Skiing/snowboarding
-crappy rental skis
+Prices: 5700 ski set, extra amount (1600) to change skis to snowboard, high perf 7100,
+helmet 1900, 1 item 1000.
 
-excellent snow, Kitakabe ("super expert") 5x had slope and soft bumps ("miseibi" = powder)
+After a half day of skiing, it was time to take the bus back to Sapporo Teine. Once
+again, this bus was at capacity. The driver managed to get all of us onboard at Olympia.
+Not so much at the stop after.
+
 
 Return bus was also at capacity and left people behind at the next stop, sucks for them.
 
