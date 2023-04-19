@@ -4,7 +4,7 @@ layout:     post
 title:      "Japan part I: cherry blossoms and part of the Nakasendo, February 2023"
 date:       2023-02-26
 author:     "Patrick Lam"
-tags:       ["trip-reports", "overseas"]
+tags:       ["trip-reports", "overseas", "japan"]
 categories: ["travel"]
 published:  true
 image:      "/img/20230226-japan-part-i/08281_golden_gai_at_night.webp"
