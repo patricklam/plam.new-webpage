@@ -25,6 +25,11 @@ living there at the time.
 <figcaption style="text-align:center">From 2005: rainy Kyoto (so much rain in August); me at a ryokan; Nara deer; Beppu Hells.</figcaption>
 </figure>
 
+All the parts:
+* Japan part I: cherry blossoms and part of the Nakasendo
+* [Japan part II: historical (looking) buildings in the Japan Alps](/post/20230327-japan-part-ii)
+* [Japan part III: two days in Hokkaido and one in Tokyo](/post/20230416-japan-part-iii)
+
 # Pre-trip planning
 
 Once we decided to go to Japan, there was a potential analysis paralysis problem.

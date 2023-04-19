@@ -24,8 +24,10 @@ the case with Magome from part I). Other times they
 were legit historic buildings but moved to be in a village together even though that wasn't historically accurate
 (hi, [Hida Folk Village](https://www.hidanosato-tpo.jp/top.html)!)
 
-Previously:
+All the parts:
 * [Japan part I: cherry blossoms and part of the Nakasendo](/post/20230226-japan-part-i)
+* Japan part II: historical (looking) buildings in the Japan Alps
+* [Japan part III: two days in Hokkaido and one in Tokyo](/post/20230416-japan-part-iii)
 
 # Day 3 part 2: Matsumoto, February 20
 

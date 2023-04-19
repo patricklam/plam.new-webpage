@@ -29,9 +29,10 @@ cranes. Hokkaido is pretty remote and we planned the last day of our
 Japan Rail Pass to include a train from Sapporo to Kushiro, which is
 pretty far even in Hokkaido, but there are even more remote parts.
 
-Previously:
+All the parts:
 * [Japan part I: cherry blossoms and part of the Nakasendo](/post/20230226-japan-part-i)
 * [Japan part II: historical (looking) buildings in the Japan Alps](/post/20230327-japan-part-ii)
+* Japan part III: two days in Hokkaido and one in Tokyo
 
 # Day 7: Sapporo, February 24
 
