@@ -26,7 +26,7 @@ It was also raining and the walk involved being on the side of the rural highway
 </figure>
 
 [Backbone Boulder](https://backboneboulder.com/), tagline: "Pas juste
-un centre d'escalade" ("not just a climbing gym") is in the corner of
+un centre d'escalade" ("not just a climbing gym") is in the corner of a
 field in Bromont, next to a small forest. Except for its
 transit-inaccessible location, it reminds me of European gyms,
 e.g. [minimum](https://minimum.ch/). Though unlike minimum, it has
