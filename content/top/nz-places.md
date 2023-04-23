@@ -2,7 +2,7 @@
 layout:     post
 
 type:       post
-date:       2021-07-29
+date:       2023-01-05
 title:      "Places I've been in Aotearoa New Zealand"
 author:     "Patrick Lam"
 published:  true
