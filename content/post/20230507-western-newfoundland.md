@@ -74,7 +74,7 @@ drop. There are a couple of distinct falls.
 </figure>
 
 The drive out to Corner Brook was about another hour from Gros Morne, with
-stops at the East Arm lookout.
+stops at the East Arm lookout. At the hotel there was an analog [watchman's station](https://www.reddit.com/r/mildlyinteresting/comments/a4rc4x/i_found_an_old_watchmans_station_at_work_today/).
 
 <figure>
 {{< gallery-slider dir="/img/230507-western-newfoundland/east-arm" >}}
