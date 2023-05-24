@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["reviews"]
 categories: ["books"]
 published:  true
-image:      "/img/20230518-before-the-dawn/00228_nakatsugawa_view_v1.JPG"
+image:      "/img/20230518-before-the-dawn/00228_nakatsugawa_view_v1.webp"
 showtoc:    false
 
 ---
