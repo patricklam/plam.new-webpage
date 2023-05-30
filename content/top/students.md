@@ -3,7 +3,6 @@ I'm always looking for excellent, motivated students who are interested in progr
 # Current Students
 
 * Laurian Angelescu (MASc, Fall 2019 -)
-* <a href="https://mohrobati.github.io">Moh (Zoso) Robati</a> (MASc, Fall 2021 -)
 * <a href="https://mohammadmahdi.com">Mohammad Mahdi Abdollahpour</a> (MMath, Fall 2022 -)
 
 # Past Students
@@ -22,3 +21,4 @@ I'm always looking for excellent, motivated students who are interested in progr
 * Ali Iman (MASc, Spring 2021)
 * Qian Liang (MASc, Spring 2021)
 * Sruthi Venkatanarayanan (MMath, Fall 2022)
+* <a href="https://mohrobati.github.io">Moh (Zoso) Robati</a> (MASc, Spring 2023)
