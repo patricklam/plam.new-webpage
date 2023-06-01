@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       []
 categories: ["work"]
 published:  true
-image:      "/img/20200603-may/05368_rocks_at_sunrise_banner.JPG"
+image:      "/img/20200603-may/05368_rocks_at_sunrise_banner.webp"
 showtoc:    false
 
 ---
