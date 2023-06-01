@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Book Review: We the Others: Allophones, Immigrants, and Belonging in Canada by Toula Drimonis"
+title:      "Book Review: We, the Others: Allophones, Immigrants, and Belonging in Canada by Toula Drimonis"
 date:       2023-05-31
 author:     "Patrick Lam"
 tags:       ["reviews"]
@@ -17,7 +17,7 @@ summary:    "Toula Drimonis writes about immigrants and allophones (non-English,
 
 After my West Coast tour and Canadian nationals, I set off for New
 Zealand to join MP.  On the way, I got to reading Toula Drimonis's
-recent book _[We the Others: Allophones, Immigrants, and Belonging in
+recent book _[We, the Others: Allophones, Immigrants, and Belonging in
 Canada](https://www.lindaleith.com/en/Pages/bookDetail/We_Others)_. Her
 story is not quite my story, but there is a lot of overlap.
 
