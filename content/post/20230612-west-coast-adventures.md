@@ -272,7 +272,7 @@ Squamish with Brad and Becca, and stayed over at their place.
 
 <figure>
 {{< gallery-slider dir="/img/20230612-west-coast-adventures/squamish" >}}
-<figcaption style="text-align:center">Climbing The Zip; Trippy and Squirrel; guest room.</figcaption>
+<figcaption style="text-align:center">Climbing The Zip (&#x1F4F7; Rebecca Mayers); Trippy and Squirrel; guest room.</figcaption>
 </figure>
 
 I left for Vancouver early in the morning (to avoid traffic, especially
@@ -318,7 +318,7 @@ trip since 2019. Thanks again!
 | activities | ski touring, climbing, bike commuting, hiking |
 | people visited | 15+ |
 | countries | 2: Canada (BC), US (Washington, California) |
-| areas | Bay Area, Eastern Sierras, Vancouver, Seattle, Rainier, Nelson, Squamish |
+| areas | Bay Area, Eastern Sierras, Vancouver (Squamish), Seattle (Rainier), Nelson |
 | flights | 6: YYZ-SFO, SFO-YVR, SEA-YVR/YVR-YCG, YZZ-YVR, YVR-YYZ |
 | morning flights | 3: YYZ-SFO 8am, SEA-YVR 6am, YVR-YYZ 6am |
 | modes of transportation | walking, driving, flying, bicycling, skiing, bus, LRT, SkyTrain |
