@@ -2,12 +2,12 @@
 layout:     post
 
 title:      "West Coast Adventures: Thanks friends! May 2023"
-date:       2023-06-01
+date:       2023-06-12
 author:     "Patrick Lam"
 tags:       ["trip-reports", "us", "canada"]
 categories: ["travel"]
 published:  true
-image:      "/img/20230601-west-coast-adventures/20230514_205741261_nelson_and_upstream.PANO.webp"
+image:      "/img/20230612-west-coast-adventures/20230514_205741261_nelson_and_upstream.PANO.webp"
 showtoc:    true
 summary:    "All over the West Coast of North America: Eastern Sierras, Seattle, Vancouver (and Squamish), and Nelson. Both work and life, too: gave a talk at UBC and UW, and did a bunch of skiing and hiking. Also bike commuting."
 
@@ -38,7 +38,7 @@ around the nearby Arastradero Reserve, as well as lunch.  Then he
 dropped me off at Christina's place in the city.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/yyz-to-sfo" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/yyz-to-sfo" >}}
 <figcaption style="text-align:center">Mountains along the way; grass at Arastradero; leaving SF.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ re-applied it, because I got pretty burnt. Best to avoid that happening too many
 Spot the dog was pretty tired after running around all day. Pizza in June Lake was great afterwards.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/mount-wood" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/mount-wood" >}}
 <figcaption style="text-align:center">Carson, with Devil's Slide visible as shaded chute on left; Silver Lake and Spot; mountains from false&nbsp;summit.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ meal at [Dos Alas](https://www.dosalascafe.com) in Mammoth Lakes after
 going shopping at Mammoth Mountaineering Supply.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/devils-slide" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/devils-slide" >}}
 <figcaption style="text-align:center">San Joaquim; skiing picture; sunset at Dos Alas.</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ We (well, mostly Christina) drove to the Eastern Sierras via Christina's ski lea
 Truckee. Christina drove all of the 7 hours there; I drove part of the way back.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/drive-to-eastern-sierras" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/drive-to-eastern-sierras" >}}
 <figcaption style="text-align:center">Heart-shaped snowpatch; Mono Lake; Eastern Sierras</figcaption>
 </figure>
 
@@ -132,14 +132,14 @@ to climb on the weekend, though we did see boulderers in the boulder field at th
 the Chief. 
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/yvr-briefly" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/yvr-briefly" >}}
 <figcaption style="text-align:center">Pond below Cleveland Dam; Capilano River Facility; mossy forest; the dam.</figcaption>
 </figure>
 
 Tasty Persian food from [Chelo Kitchen + Eatery](https://www.cheloyvr.com/), [banh mi](https://www.banhmisaigon.ca/) and a quick stop by [Kozak](https://www.kozakeatery.ca/).
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/yvr-bonus" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/yvr-bonus" >}}
 <figcaption style="text-align:center">Boulder at Squamish; at the counter at Kozak.</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ a workshop, Wednesday around and under Seattle, Thursday at Rainier, and out ear
 (taxi companies let me down for my 6am flight so I had to take an Uber at twice the cost).
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/pnw-plse" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/pnw-plse" >}}
 <figcaption style="text-align:center">Waiting for the W Seattle Bridge Trail drawbridge; cruiser bike FTW; PNW PLSE; Suzzallo library; me and Ardi; waiting for the Montlake bridge; Seattle at night.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ Rainier and then we had excellent and untracked snow conditions on the Paradise
 Bowl.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/rainier-paradise-ski-tour" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/rainier-paradise-ski-tour" >}}
 <figcaption style="text-align:center">Pinnacle etc with Mount Adams behind; skinning up Muir snowfield with chiaroscuro; Camp Muir and Cowlitz Cleaver; Rainier in clouds; bootpacking.</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ and worked on the Director's Cut of my PNW PLSE talk, to be delivered
 at UBC shortly.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/sea-to-ycg" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/sea-to-ycg" >}}
 <figcaption style="text-align:center">Mt. Gladstone?; Rescue helo at YCG; Nelson.</figcaption>
 </figure>
 
@@ -215,7 +215,7 @@ The next day, we watched as Grant finished a half-marathon ("Run like
 a Mother" in Nelson for Mother's Day) and visited the Nelson Saturday market (more banh mi!). Also went to famous cafe (for Nelson) Oso Negro.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/run-like-a-mother" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/run-like-a-mother" >}}
 <figcaption style="text-align:center">Race start; Grant and Luke after the race; Nelson market.</figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ worked. I also dropped in on the [Cube](https://cubeclimbing.com/)
 seems abundant.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/cbc-tower" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/cbc-tower" >}}
 <figcaption style="text-align:center">Nelson's Big Orange Bridge; harsh Indian paintbrush; Nelson; green comma (butterfly); buildings at CBC tower; bikes at The Cube.</figcaption>
 </figure>
 
@@ -262,7 +262,7 @@ The logistics in Vancouver this time was that I rented a car from YVR
 next day before going to UBC.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/trail" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/trail" >}}
 <figcaption style="text-align:center">Tulips in Trail; YZZ; on board a Beechcraft 1900D; flying over the mountains.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ weather was good, I managed to get out cragging at Smoke Bluffs in
 Squamish with Brad and Becca, and stayed over at their place.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/squamish" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/squamish" >}}
 <figcaption style="text-align:center">Climbing The Zip; Trippy and Squirrel; guest room.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ crowd of about two dozen. It was good to talk to faculty and students
 at UBC's Software Practices lab.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/yvr-round-two" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/yvr-round-two" >}}
 <figcaption style="text-align:center">The Chief; Indigenous archway at UBC; cat inspecting my gear.</figcaption>
 </figure>
 
@@ -295,7 +295,7 @@ rather than taking another Uber. 6am flights still are the worst but
 surprisingly common in my life.
 
 <figure>
-{{< gallery-slider dir="/img/20230601-west-coast-adventures/out-of-yvr" >}}
+{{< gallery-slider dir="/img/20230612-west-coast-adventures/out-of-yvr" >}}
 <figcaption style="text-align:center">Air Canada aircraft in the morning; all my stuff back at YYZ.</figcaption>
 </figure>
 
