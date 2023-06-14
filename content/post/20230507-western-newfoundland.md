@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["nl", "ca"]
 categories: ["travel", "ski"]
 published:  true
-image:      "/img/230507-western-newfoundland/00613_topography_v1.webp"
+image:      "/img/20230507-western-newfoundland/00613_topography_v1.webp"
 showtoc:    true
 summary:    "Marble Mountain, arguably better than Tremblant; unarguably fewer lines. Gros Morne in the winter."
 
@@ -41,7 +41,7 @@ least 4 hours of driving to get to Iceberg Alley.  St. John's is
 better for that.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/leaving-yyz" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/leaving-yyz" >}}
 <figcaption style="text-align:center">YYZ parking lot; our plane to YDF; waiting area.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ touch. These are the more tiered type of falls rather than the long
 drop. There are a couple of distinct falls.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/bakers-brook-falls" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/bakers-brook-falls" >}}
 <figcaption style="text-align:center">Gros Morne flats; Baker's Brook Falls; Berry Hill.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ The drive out to Corner Brook was about another hour from Gros Morne, with
 stops at the East Arm lookout. At the hotel there was an analog [watchman's station](https://www.reddit.com/r/mildlyinteresting/comments/a4rc4x/i_found_an_old_watchmans_station_at_work_today/).
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/east-arm" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/east-arm" >}}
 <figcaption style="text-align:center">East Arm lookout.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ evening. Marble Mountain is 10 minutes from Corner Brook, so that's
 quite viable for the 32,000 residents of Corner Brook.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/captain-cook" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/captain-cook" >}}
 <figcaption style="text-align:center">Captain Cook, and a crow.</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ at the Griffin Drive sewage outlet (warm water, I guess). Then I had a very aver
 poutine at the Marble Mountain lodge (lukewarm temperature).
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/birbs" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/birbs" >}}
 <figcaption style="text-align:center">Ring-billed gulls, greater scaup, Iceland gull, gull in flight.</figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ confidence in the skis' abilities through the day and was able to ski
 more aggressively straight down the bumps.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/marble-mountain" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/marble-mountain" >}}
 <figcaption style="text-align:center">View of the Humber River; skiing in the trees.</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ kind of fumble my way down black diamonds, but not competently (including
 the last run, oops).
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/boarding" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/boarding" >}}
 <figcaption style="text-align:center">Hard & Icey; Closed & Dark; Humber River and low clouds.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ a walk in the woods on my snowshoes. Didn't see that much, just trees and a few
 birds. It was out of the wind, though, which was useful.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/pasadena" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/pasadena" >}}
 <figcaption style="text-align:center">Welcome to Pasadena Ski & Nature Club; coniferous forest; ski track.</figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ beyond treeline. Didn't quite manage to have lunch. Could've gotten something
 at the airport, but didn't.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/lookout-trail" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/lookout-trail" >}}
 <figcaption style="text-align:center">Tablelands ×2; Discovery Centre (closed); Bonne Bay.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ out. Thanks, Pearson. MP's luggage, from her United flight from
 Houston, came out much faster, so she had to wait for me.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/ydf-to-yyz" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/ydf-to-yyz" >}}
 <figcaption style="text-align:center">YDF; approach to YUL; YYZ.</figcaption>
 </figure>
 
@@ -212,6 +212,6 @@ had a worthy gyro donair from Louis Gee's, which was really busy at
 from Harbour Grounds was pretty good; the hot chocolate was too sweet.
 
 <figure>
-{{< gallery-slider dir="/img/230507-western-newfoundland/food" >}}
+{{< gallery-slider dir="/img/20230507-western-newfoundland/food" >}}
 <figcaption style="text-align:center">Donair gyro; poutine; fish and chips; seafood crepe.</figcaption>
 </figure>
