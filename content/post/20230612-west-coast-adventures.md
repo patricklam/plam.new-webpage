@@ -287,7 +287,7 @@ at UBC's Software Practices lab.
 <figcaption style="text-align:center">The Chief; Indigenous archway at UBC; cat inspecting my gear.</figcaption>
 </figure>
 
-After dinner at East By East, I made my way to the airbnb near YVR
+After dinner at East Is East, I made my way to the airbnb near YVR
 (only two wrong buses). This was a repeat visit; it might well be the closest non-airport hotel-accommodation to YVR.
 6am flight back to Toronto the next day. In fact, it is close enough
 to the airport to walk, and I managed to lug all my stuff to YVR,
@@ -304,7 +304,7 @@ surprisingly common in my life.
 Thanks to Brad and Becca for the climbing and hospitality!
 
 Thanks also to Alex for organizing my UBC visit and taking us all out
-to East by East afterwards.
+to East Is East afterwards.
 
 I definitely appreciate all the hospitality on my first West Coast
 trip since 2019. Thanks again!
@@ -324,4 +324,5 @@ trip since 2019. Thanks again!
 | modes of transportation | walking, driving, flying, bicycling, skiing, bus, LRT, SkyTrain |
 | kms flown | 9340 |
 | kms driven | 2160 |
+| elevation gain/loss | 6300m |
 
