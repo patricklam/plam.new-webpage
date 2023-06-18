@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: February 2023_
+_Last updated: June 2023_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -46,6 +46,7 @@ This closely tracks the Great Walks list but not exactly.
 
 * [Tongariro](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/) (February 2020): alien volcanic scenery, been here for the hikes and the climbing (but not the skiing). The [Round the Mountain Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/round-the-mountain-track/) is on our radar.
 * [Egmont](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/) (March 2020, [summit pics](https://gallery.patricklam.ca/index.php?/category/1216), [Pouakai pics](https://gallery.patricklam.ca/index.php?/category/1361)): we climbed the mountain and did the Pouakai Circuit (getting a great picture of the mountain). Maybe we'll do the confusingly-named [Around the Mountain Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/around-the-mountain-circuit/) one of these days.
+* [Whanganui](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/?tab-id=50578) (June 2023): did a day hike on the [Atene Skyline Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/tracks/atene-skyline-track/); reminded me a bit of the Heaphy; the part to the lookout had better scenery, while the part after the lookout had worse scenery.
 * [Abel Tasman](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/?tab-id=50578) (September 2021): golden beaches on the Abel Tasman Coastal Walk.
 * [Kahurangi](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/kahurangi-national-park/) (July 2020): contains the Heaphy Track, which also has takahe in the wild.
 * [Arthur's Pass](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1231)): been here a couple of times, Avalanche Peak is worthwhile. The NZAC Lodge is good to stay at if you're a member. Looking at some moderate mountaineering objectives.
@@ -56,7 +57,7 @@ This closely tracks the Great Walks list but not exactly.
 * [Westland Tai Poutini](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/) (September 2021): Lake Matheson is impressive on a good day, at least as scenic as a view in the Canadian Rockies. Only saw a small part of the toe of Franz Josef Glacier due to cloud cover. There are a few other walks we'd enjoy in this park, I'm sure, e.g. [Alex Knob](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/alex-knob-track/), [Welcome Flats](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/copland-track-to-welcome-flat-hut/) (or even further with mountaineering gear), [Mount Fox Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/mount-fox-route/), perhaps [Roberts Point](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/roberts-point-track/). We also walked to Lake Gault but it wasn't a great day for it.
 * [Aoraki / Mount Cook](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/) (October 2021): We saw the mountain from Fox Glacier (Lake Matheson) and then went to Mount Cook Village in October. It's a tiny village, kind of like Lake Louise. The Hooker Valley and Red Tarns tracks are spectacular. We aren't quite sure when the best photo time for Hooker Valley is, but we went around sunrise and it was too early for October, because the sun was behind the mountains. The first 4 parties we encountered on our way back all had fancier cameras than I did (and it's not like I just have a point and shoot anymore).
 
-Haven't visited yet: [Whanganui](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/?tab-id=50578), [Nelson Lakes](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/?tab-id=50578) (set foot into the park briefly on way to Charleston).
+Haven't visited yet: [Nelson Lakes](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/?tab-id=50578) (set foot into the park briefly on way to Charleston).
 
 # North Island Lesser Walks
 Well, if they're not Great Walks, then they're Lesser Walks, right?
@@ -107,6 +108,9 @@ We did the [top 20 Welly walks](https://wellington.govt.nz/recreation/outdoors/w
 * [Butterfly Creek Picnic Area and Main Ridge](https://tramper.nz/6192/butterfly-creek/): the main ridge part is definitely much more wild than the creek part. You can take the bus or the ferry. We missed the last ferry.
 
 Let's continue moving north.
+
+## Whanganui National Park
+* [Atene Skyline Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/tracks/atene-skyline-track/) (June 2023): was really scenic with the undercast when we started (clockwise); became less interesting after that. Well-graded though pretty steep towards the Southern Entrance. Trail running benchmark. We walked it in just under 6 hours with a lunch break. Good post-surgery hike for MP.
 
 ## Egmont National Park
 * [Taranaki Summit Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/mount-taranaki-summit-track/) (March 2020, [writeup](/post/20200414-taranaki/), [pics](https://gallery.patricklam.ca/index.php?/category/1216)): summitted less than a week before lockdown!
@@ -220,6 +224,7 @@ Also,
 * [Otoruhanga Kiwi House](http://kiwihouse.org.nz/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1368)): there are a lot of inverted night/day kiwi houses in New Zealand but this is the first one we went to. We saw more active kiwi at Pūkaha though.
 * [Sanctuary Mountain](https://www.sanctuarymountain.co.nz/home) (February 2020): a break from cragging at Wharepapa South.
 * [Rotokare Scenic Reserve](https://www.rotokare.org.nz/) (November 2022): drive-in predator-free reserve with kiwi that one can camp in.
+* [Bushy Park Sanctuary](https://bushypark.nz/) (June 2023): similar deal to Rotokare. Native birds include lots of saddleback, hihi, kereru, robins.
 * [Pūkaha/Mount Bruce](https://pukaha.org.nz/) (June 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1348)): has another kiwi house and the only captive kokako, Kahurangi (who says kokako), as well as the other species of kakariki (couldn't see the orange-fronted one though).
 * [Kapiti Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/kapiti-island-nature-reserve/) (January 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1395)): "friendly" weka and kaka.
 * [Matiu/Somes Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/matiu-somes-island/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1374)): small flocks of kakariki, easily accessible from Wellington by ferry and presumably kayak.
@@ -260,6 +265,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * South Islands (September 2022), 3rd
 * New Zealand National Championships (October 2022), 3rd
 * Wellington Closed (December 2022), 1st (-66)
+* Wellington Open (June 2023), 2nd (-66)
 
 ## Airports
 
@@ -415,11 +421,14 @@ aren't big peaks. There's also touristy things like the glow worms and Hobbiton.
 ### Taranaki / Manawatu-Wanganui
 
 The volcanoes (Ruapehu, Tongariro, Taranaki) are pretty good and still
-have a bunch of longer adventures I'd like to do (Round-the-Mountain and
-Around the Mountain). There's also the Wanganui River Journey. The forest 
-around Taranaki and the boundary with farmland is a quite striking green circle
-from above. I think it's not really the best for skiing but maybe OK for learning.
-Climbing is OK around Ruapehu as well. New Plymouth is surprisingly urban (though tiny).
+have a bunch of longer adventures I'd like to do
+(Round-the-Mountain). There's also the Wanganui River Journey. The
+forest around Taranaki and the boundary with farmland is a quite
+striking green circle from above. I think it's not really the best for
+skiing but maybe OK for learning.  Climbing is OK around Ruapehu as
+well. New Plymouth is surprisingly urban (though tiny).
+
+Have done Taranaki summit, Around-the-Mountain Circuit, and Atene Skyline.
 
 ### Gisborne & Hawke's Bay
 
