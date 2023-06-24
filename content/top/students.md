@@ -1,3 +1,17 @@
+---
+layout:     post
+
+type:       post
+date:       2023-06-23
+title:      "Graduate Students"
+author:     "Patrick Lam"
+published:  true
+url:        /students
+tags:       []
+categories: []
+showtoc:    false
+
+---
 I'm always looking for excellent, motivated students who are interested in program analysis.
 
 # Current Students
