@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: June 2023_
+_Last updated: August 2023_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -47,6 +47,7 @@ This closely tracks the Great Walks list but not exactly.
 * [Tongariro](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/) (February 2020): alien volcanic scenery, been here for the hikes and the climbing (but not the skiing). The [Round the Mountain Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/round-the-mountain-track/) is on our radar.
 * [Egmont](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/) (March 2020, [summit pics](https://gallery.patricklam.ca/index.php?/category/1216), [Pouakai pics](https://gallery.patricklam.ca/index.php?/category/1361)): we climbed the mountain and did the Pouakai Circuit (getting a great picture of the mountain). Maybe we'll do the confusingly-named [Around the Mountain Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park/things-to-do/tracks/around-the-mountain-circuit/) one of these days.
 * [Whanganui](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/?tab-id=50578) (June 2023): did a day hike on the [Atene Skyline Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/tracks/atene-skyline-track/); reminded me a bit of the Heaphy; the part to the lookout had better scenery, while the part after the lookout had worse scenery.
+* [Nelson Lakes](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/?tab-id=50578) (August 2023): walked up to Cupola Hut and attempted Mount Hopeless. Smaller mountains than further south but there is snow and also an avalanche forecast.
 * [Abel Tasman](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/?tab-id=50578) (September 2021): golden beaches on the Abel Tasman Coastal Walk.
 * [Kahurangi](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/kahurangi-national-park/) (July 2020): contains the Heaphy Track, which also has takahe in the wild.
 * [Arthur's Pass](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1231)): been here a couple of times, Avalanche Peak is worthwhile. The NZAC Lodge is good to stay at if you're a member. Looking at some moderate mountaineering objectives.
@@ -56,8 +57,6 @@ This closely tracks the Great Walks list but not exactly.
 * [Rakiura](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1240)): the third NZ island, where you'll also find Oban and the South Sea Hotel.
 * [Westland Tai Poutini](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/) (September 2021): Lake Matheson is impressive on a good day, at least as scenic as a view in the Canadian Rockies. Only saw a small part of the toe of Franz Josef Glacier due to cloud cover. There are a few other walks we'd enjoy in this park, I'm sure, e.g. [Alex Knob](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/alex-knob-track/), [Welcome Flats](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/copland-track-to-welcome-flat-hut/) (or even further with mountaineering gear), [Mount Fox Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/mount-fox-route/), perhaps [Roberts Point](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/roberts-point-track/). We also walked to Lake Gault but it wasn't a great day for it.
 * [Aoraki / Mount Cook](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/) (October 2021): We saw the mountain from Fox Glacier (Lake Matheson) and then went to Mount Cook Village in October. It's a tiny village, kind of like Lake Louise. The Hooker Valley and Red Tarns tracks are spectacular. We aren't quite sure when the best photo time for Hooker Valley is, but we went around sunrise and it was too early for October, because the sun was behind the mountains. The first 4 parties we encountered on our way back all had fancier cameras than I did (and it's not like I just have a point and shoot anymore).
-
-Haven't visited yet: [Nelson Lakes](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/?tab-id=50578) (set foot into the park briefly on way to Charleston).
 
 # North Island Lesser Walks
 Well, if they're not Great Walks, then they're Lesser Walks, right?
@@ -253,6 +252,8 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * [Ruapehu/Tukino](https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu) (February 2020, May 2020, [some words](/post/20200603-may/#ruapehu)): [Mangatoetoenui Gorge](https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/tukino/mangatoetoenui-gorge) aka far side of Ruapehu with nontrivial approach; [Whakapapa Gorge](https://climbnz.org.nz/nz/ni/tongariro/mt-ruapehu/whakapapa) near the ski hill with much easier though nonzero approach.
 * [Elephant Rocks](https://climbnz.org.nz/nz/si/otago/elephant-rocks) (November 2021): Boulders. Slab routes hard. Did some pockets.
 * [Sebastopol Bluffs](https://climbnz.org.nz/nz/si/aoraki/tasman-river/sebastopol-bluffs) (November 2021): Climbed at Red Wall. 3-pitch plaisir climbs on easy slab. Would like to try some of the harder climbs too.
+* [Wye Creek ice](https://climbnz.org.nz/nz/si/queenstown/remarkables/wye-creek-ice) (July 2023): Our guide says the Canadian Rockies are much better, but this is supposedly the best ice in NZ. Helicopter access makes it pretty easy
+(though not cheap). Touchdown was a real slog under our conditions.
 
 ## Judo Tournaments
 * North Wellington Open (March 2020), 1st
@@ -266,6 +267,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * New Zealand National Championships (October 2022), 3rd
 * Wellington Closed (December 2022), 1st (-66)
 * Wellington Open (June 2023), 2nd (-66)
+* North Island Championships (July 2023), 2nd (-66)
 
 ## Airports
 
@@ -290,8 +292,9 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 |TIU  |  Timaru (Nov 2021) |
 |KKE  |  Bay of Islands / Kerikeri (Apr 2022)
 |NPL  |  New Plymouth (Nov 2022) |
+|BHE  |  Marlborough Airport Blenheim (Aug 2023) |
 
-Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need Blenheim).
+Flown to 6/12 North Island Air NZ stations and 8/8 South Island stations.
 
 ## Travel fiasco
 
@@ -310,6 +313,7 @@ Flown to 6/12 North Island Air NZ stations and 7/8 South Island stations (need B
 * [Ruapekapeka Pa](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/ruapekapeka-pa/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1294)): not a castle but had similar purpose.
 * [Muriwai Gannet Colony](https://www.aucklandcouncil.govt.nz/parks-recreation/get-outdoors/aklpaths/Pages/path-detail.aspx?ItemId=4) (November 2020, [pics]((https://gallery.patricklam.ca/index.php?/category/1294) )): so many gannets doing gannet things.
 * [Mangere Market](https://www.mangeremarkets.co.nz/) (November 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1294)): pretty legit market, I appreciated the food stalls. Per their website: "the showplace for New Zealand's multi cultural shopping experience".
+* [The Petrel Station Project](https://www.thepetrelstation.nz/) (August 2023): I guess this is a business that Scott Brooks runs but it almost feels like a co-op where he just gets a boat and brings a bunch of frequent-flier bird fans on the boat. It's on a boat on the ocean, so beware seasickness.
 
 ### Waikato
 
@@ -430,6 +434,9 @@ well. New Plymouth is surprisingly urban (though tiny).
 
 Have done Taranaki summit, Around-the-Mountain Circuit, and Atene Skyline.
 
+Ruapehu is super busy in winter and it is possible to get there late enough that the parking lots are closed.
+I think it's mostly Aucklanders coming to see some snow.
+
 ### Gisborne & Hawke's Bay
 
 Napier is not that remote (4h from Wellington); Gisborne much
@@ -481,7 +488,7 @@ here but the lack of jobs is an issue.
 ### Top of the South (Marlborough/Nelson/Tasman)
 
 There are no cities here. Kaikoura is really pretty with the mountains
-and the seas close by. Also lots of wildlife. Good hikes. The other
+and the seas close by. Nelson Lakes as well. Also lots of wildlife. Good hikes. The other
 experiences I've had are with the Heaphy Track, trips to Charleston
 and Pohara, and the Abel Tasman. Worth visiting but doesn't have anything really
 famous. Sounds like a reason to go there more. Better climbing than
