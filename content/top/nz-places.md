@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: August 2023_
+_Last updated: October 2023_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -254,6 +254,7 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * [Sebastopol Bluffs](https://climbnz.org.nz/nz/si/aoraki/tasman-river/sebastopol-bluffs) (November 2021): Climbed at Red Wall. 3-pitch plaisir climbs on easy slab. Would like to try some of the harder climbs too.
 * [Wye Creek ice](https://climbnz.org.nz/nz/si/queenstown/remarkables/wye-creek-ice) (July 2023): Our guide says the Canadian Rockies are much better, but this is supposedly the best ice in NZ. Helicopter access makes it pretty easy
 (though not cheap). Touchdown was a real slog under our conditions.
+* [Kawakawa Bay](https://climbnz.org.nz/nz/ni/taupo/kawakawa-bay): Haven't been here yet, but access seems hard from Wellington. First a 5 hour drive, and then a 2 hour walk (or a $140 water taxi per way, possibly split 4-5 ways). People speak highly of it.
 
 ## Judo Tournaments
 * North Wellington Open (March 2020), 1st
@@ -320,6 +321,13 @@ Flown to 6/12 North Island Air NZ stations and 8/8 South Island stations.
 * [Hobbiton](https://www.hobbitontours.com/en/) (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1639)): went to the mid-winter feast, impressive recreation of Tolkien's Shire. Our guide was enthusiastic and knowledgeable. MP went back this year after going last February with her dad's family.
 * Tirau (July 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1640)): [corrugated iron sculptures](https://www.atlasobscura.com/articles/corrugated-iron-sculptures-new-zealand)
 * [Waitomo Glowworm Caves](https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves) (February 2020): hmm, was this the last big tourist machine I went to? It's a big tourist machine, though probably the local economy benefits, and they hire Maori. I have heard good things about the blackwater rafting.
+
+### Taupō
+
+* [Craters of the Moon](https://www.cratersofthemoon.co.nz/) (September 2023): MP quite liked this. Interesting to see the volcanic vents with the vegetation. Vegetation makes it seem not moon-like to me. Good experience.
+* [Huka Falls](https://hukafalls.com/) (September 2023): um, it's no Niagara Falls? It's also popular, but not near the same order of magnitude! There was the NZ version of Maid of the Mist also. They also have jetboats here.
+* [Wairakei Terraces](https://www.wairakeiterraces.co.nz/) (September 2023): The terraces are interesting to look at and remind me of [Pamukkale](https://en.wikipedia.org/wiki/Pamukkale), though we felt like Craters of the Moon had a better value for money ratio. The pools were chocka on the first day of school holidays so we gave that a miss.
+* [Maori Rock Carvings](https://www.lovetaupo.com/en/see-do/art-maori-culture/mine-bay-maori-rock-carvings/) with [Taupo Sailing Adventures](https://tauposailingadventures.co.nz/) (October 2023): we got an upgrade to Tiua, which is a flash 58' ocean-going sailboat capably sailed by Dave. For some reason, no one else seemed to get out to the carvings that morning, and Dave had decided to take Tiua rather than Kindred Spirit.
 
 ### Napier
 
