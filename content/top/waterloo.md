@@ -76,3 +76,7 @@ slower and I've never tried it. VIA from Kitchener is fine if the
 schedules work. Getting to YYZ described above. Getting to YTZ is not
 that easy, because you have to get to Union and then shuttle over to
 YTZ.
+
+# References
+
+* mathNEWS writer __init__ about the GO Bus being full: [https://mathnews.uwaterloo.ca/wp-content/uploads/2023/06/mathNEWS-152-2.pdf](Standing on the GO Bus Review: Part 2 (see page 9)).
