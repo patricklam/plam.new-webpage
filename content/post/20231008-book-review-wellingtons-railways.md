@@ -12,7 +12,7 @@ showtoc:    false
 summary:    ""
 
 ---
-David Parsons. _Wellington Railways: Colonial Steam to Matangi_. 2010.
+David Parsons. _Wellington's Railways: Colonial Steam to Matangi_. 2010.
 <figure>
 {{< gallery-slider dir="/img/20231008-book-review-wellingtons-railways/cover" >}}
 </figure>
@@ -22,8 +22,11 @@ development of Wellington region rail (different parts of New Zealand,
 and I guess many other countries, were quite isolated 150 years ago)
 until 1920; refinements from 1920 to 1970; and the changes from 1970
 to 2010. Wellington rail did manage to mostly hang on through the
-global Reagan-Thatcher neoliberal era, until a recent expansion. The
-tramways didn't make it, though, and it actually is kind of hard to
+global Reagan-Thatcher neoliberal era. It has relatively recently
+gotten through to Waikanae and perhaps will reach Levin.
+
+The
+tramways didn't make it through that era, though, and it actually is kind of hard to
 get from one end of central Wellington to the other end by bicycle or
 transit. A good LRT would help with that; Let's Get Wellington Moving
 is also going to work on that even without the LRT, though I wonder how
