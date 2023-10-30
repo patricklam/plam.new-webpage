@@ -337,6 +337,8 @@ Flown to 6/12 North Island Air NZ stations and 8/8 South Island stations.
 
 * [Wright's Hill Fortress](https://wrightshillfortress.org.nz/) (October 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1288)): fortified fortress from controlling vantage point for Wellington Harbour
 
+Also see my [Tourist Guide to Wellington](/wellington).
+
 ## South Island
 
 ### Top of the South / Kaikoura
