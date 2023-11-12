@@ -9,7 +9,7 @@ categories: ["travel", "multiculturalism", "museum"]
 published:  true
 image:      "/img/20231103-canadian-museum-of-human-rights/20231013_205112330_st_boniface_view.webp"
 showtoc:    false
-summary:    ""
+summary:    "I found myself in Winnipeg for 3 days in 2023 (to referee at the Manitoba Open, which was great) and the museum is now open, so I went for a visit after lunch at the Forks. Human rights is an abstract concept, so I was interested to see how the museum would represent that in the form of exhibits."
 
 ---
 
