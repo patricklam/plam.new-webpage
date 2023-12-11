@@ -1,6 +1,34 @@
-a {
-    color: #015668;
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
 }
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+
+details summary::before {
+  content:"🡒 ";
+}
+
+details[open] summary::before { 
+  content:"🡑 "; 
+}
+
 .post-container a {
     color: #015668;
 }
@@ -22,5 +50,6 @@ a {
 }
 
 body {
-    font-family:-apple-system,"Noto Sans","Helvetica Neue",Arial,sans-serif;
+    font-family:"Noto Sans","Helvetica Neue",Arial,sans-serif;
 }
+
