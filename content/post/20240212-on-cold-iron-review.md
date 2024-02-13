@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["reviews", "ethics"]
 categories: ["books"]
 published:  true
-image:      "/img/20240212-on-cold-iron-review/IMG_20191019_173935.jpg"
+image:      "/img/20240212-on-cold-iron-review/IMG_20191019_173935.webp"
 showtoc:    true
 summary:    "About the history of engineering: the Canadian Iron Ring Ceremony and the Quebec Bridge disaster."
 
