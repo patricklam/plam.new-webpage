@@ -103,6 +103,8 @@ Commission. As I wrote above, I'm not that kind of engineer. The book comes with
 but there is a lot of discussion of compression chords (which failed here), and a picture of a truss like the one in the
 [civilengineeringbible](https://civilengineeringbible.com/article.php?i=227) would have helped me.
 
+* [Unreserved (CBC Radio) interview with choreographer of theatre production _Sky Dancers_](https://www.cbc.ca/radio/unreserved/quebec-bridge-disaster-kahnawake-first-nation-1.6476819)
+
 What I can understand, though, is engineering management, supervision, and inspection.
 
 ## Engineering responsibility
