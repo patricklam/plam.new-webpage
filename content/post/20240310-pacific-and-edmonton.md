@@ -19,11 +19,11 @@ summary:    "March has two Canadian circuit judo tournaments: Pacific Internatio
 </style>
 
 
-I flew to Canada on the Thursday before the Pacific International judo
+I flew to Canada on the Thursday before the [Pacific International](https://www.live.judobc.ca/2024-events/pacific-international/) judo
 tournament in Abbotsford, with an early-morning departure, and, yet again, a stop
 in Sydney.  Due to the magic of the International Date Line, I
 also arrived in Vancouver on Thursday, at 6am.  Then I napped in a
-conference room, was on a PhD defense committee, and attended a talk
+conference room, served on a PhD defense committee, and attended a talk
 at SFU.  Then I got a bunch of sleep in Vancouver and drove to
 Abbotsford.
 
@@ -42,7 +42,7 @@ through to Toronto on Monday.
 On Friday, I checked out what was in the area, and found the [George
 C. Reifel Migratory Bird
 Sanctuary](https://www.reifelbirdsanctuary.com) in Delta. It's not far
-from Richmond, but you have to go around the water, so it is about a
+from Richmond, but you have to get to the bridge across the Fraser River, so it is about a
 30 minute drive. After the
 overnight-flight-which-is-impossible-to-sleep-on from Sydney to
 Vancouver (most of it is during daytime hours in terms of your body
@@ -60,6 +60,9 @@ CO<sub>2</sub> from 3300s to 2200s near where I was. It was
 interesting to see that the curtain really impedes airflow and keeps
 the CO<sub>2</sub> level up, despite CO<sub>2</sub> being a gas. My experience
 is that most people are amenable to improving the ventilation in these venues.
+I just wish they had better ventilation in the first place. But an issue
+with judo tournaments is that they are packing in far more people than
+design capacity for the venues.
 
 After the tournament, I flew to Toronto, went bouldering at the Rock
 Oasis with Marco and Blake (saying hi to some OAC folk), and made my
@@ -73,12 +76,13 @@ spare room!
 For Thursday I bought the cheapest ticket of the day, departing at 2135, which got me
 into Edmonton around midnight, at a Comfort fare, which allows standby
 for earlier flights. I managed to confirm onto the 2025 flight but was 3rd on the list for 1400 and
-they only let on two standbys. Then the 2025 flight was an hour late, oops. I went into Toronto, warrantied
+they only let on two standbys. (It was -2 when I checked in at YYZ). Then the 2025 flight was an hour late, oops. With the
+wait between 2pm and 6pm, I took the UP Express into Toronto, warrantied
 [Darn Tough](https://darntough.com/) socks at MEC, and met with Bilal briefly before going back to the airport.
 
 In Edmonton I took the 747 bus to Century Park and stayed at an airbnb
 near there, before meeting Dave for lunch and then making my way to
-the West Edmonton Mall.
+the West Edmonton Mall, near which I had another airbnb.
 
 The Edmonton International is a super big tournament (though still
 substantially smaller than the Quebec Open). We did the ne waza (groundwork)
@@ -86,9 +90,12 @@ tournament on Friday, and then 14 hours of fights on Saturday and 10
 hours on Sunday. Fortunately, they had the junior referees start the
 U10s and U12s on Saturday, so I only started at 10:30. Still, I was on
 for 12 hours on Saturday. At least they provided pizza for dinner.
+Not as good as the excellent lunch they provided, but better than nothing!
 
-When they mailed us with the 12 hour estimate, I figured I'd be fine
-with a 2000 flight to YVR and then 2345 to AKL. Of course I ran into
-many judo people at YEG. Then, it turns out that our former neighbours
-Dirk and Martha were on the same YVR-AKL flight, heading to their NZ
-trip.
+When they mailed us with the 12 hour Sunday estimate, I figured I'd be
+fine with the 2000 flight I'd booked to YVR, connecting with 2345 to
+AKL. I was playing with fire because I had booked this all as 3
+separate itineraries, but nothing bad happened this time. Of course, I
+ran into many judo people at YEG. Then, it turns out that our former
+neighbours Dirk and Martha were on the same YVR-AKL flight, heading to
+their NZ trip.
