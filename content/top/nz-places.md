@@ -20,13 +20,13 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: October 2023_
+_Last updated: April 2024__
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
 # Great Walks
 
-We've so far done 9 of the Great Walks.
+We've so far done 10 of the Great Walks.
 
 * [Tongariro Northern Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/tongariro-northern-circuit/) (February 2021): volcanic leftovers, maybe our favourite scenery of the Great Walks, easiest (cheapest, closest) access from Wellington of any Great Walk.
 * [Heaphy](https://www.doc.govt.nz/heaphytrack) (July 2020, [post](/post/20200905-heaphy-track/), [pics](https://gallery.patricklam.ca/index.php?/category/1227)): Long but relatively easy. Rainbows, one wet day, excellent last day, lots of birds even if we didn’t see takahe (sniff). Fourth day on the beach super-scenic even if we were rushing to catch the plane. Interesting to see mountain bikes.
@@ -37,8 +37,9 @@ We've so far done 9 of the Great Walks.
 * [Hump Ridge](https://www.humpridgetrack.co.nz/) (January 2021): soon to be a Great Walk even if not yet. Excellent views, swimming with Hector’s dolphins, well-appointed lodges, muddy when we went (no pig cull last year due to COVID)
 * [Rakiura](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park/things-to-do/rakiura-track/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1240)): First day to Port William the best of the three. Otherwise perhaps our least-favourite Great Walk even without the [bedbugs](https://www.stuff.co.nz/travel/travel-troubles/124902839/doc-hut-with-the-toughest-bed-bugs-known-to-mankind-to-close-for-refit) last summer (we were there before that problem). Not as many birds as we hoped for, though we did see kakariki on Ulva Island. Also Mason Bay was great, though not quite on this Great Walk. Day 2 is swampy.
 * [Abel Tasman Coastal Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/) (September 2020): harder than it seems! First-class track all the way and many views of beaches, though not so much beach walking. Easy to get in and out even if not cheap, via [Golden Bay Air](https://goldenbayair.co.nz/). Most people don't seem to do it end-to-end, and there are water taxis to facilitate partial trips. One can also have super tasty food at the [Awaroa Lodge](https://www.awaroalodge.co.nz/).
+* [Whanganui Journey](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/tracks/whanganui-journey/) (March/April 2024): it's not a walk, it's a paddle! We got there on transit from Wellington, rented canoes from [Taumarunui Canoe Hire](https://taumarunuicanoehire.co.nz/), and paddled down the river from Taumarunui to Pipiriki. Heaps of welcome swallows on the first two days and far fewer after. Native forest. Cliffs along the sides. Bridge to Nowhere is worth walking to. Rapids were very Grade 1 on our trip and the 50/50 at the end was easy.
 
-Remaining: Lake Waikaremoana ([uh-oh](https://www.stuff.co.nz/national/300456239/lake-waikaremoana-and-its-great-walk-have-been-closed-for-months-as-thoe-say-the-relationship-with-the-crown-has-failed)), Whanganui Journey
+Remaining: Lake Waikaremoana ([uh-oh](https://www.stuff.co.nz/national/300456239/lake-waikaremoana-and-its-great-walk-have-been-closed-for-months-as-thoe-say-the-relationship-with-the-crown-has-failed))
 
 # National Parks
 
@@ -73,6 +74,7 @@ Well, if they're not Great Walks, then they're Lesser Walks, right? Maybe some o
 * [Putangirua Pinnacles](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wairarapa/places/putangirua-pinnacles-scenic-reserve/things-to-do/pinnacles-track/) (January 2020): Paths of the Dead from Lord of the Rings. Don't do like us, go there for golden hour.
 * Cape Palliser (January 2020, [pics]((https://gallery.patricklam.ca/index.php?/category/1352))): baby seals in January, we went back twice to ensure good light and with the appropriate camera.
 * [Patuna Chasm Walk](https://www.patunafarm.co.nz/) (January 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1353)): maybe the most interesting part was the home-grown transport out to the chasm on a wagon. Also good canyoning-like walk.
+* [Waiopehu Hut and Twin Peak](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/tararua-forest-park/things-to-do/huts/waiopehu-hut/) (November 2023): mellow overnight hike with outstanding views over Levin and the Tasman Sea.
 
 ## Wellington proper
 
@@ -103,8 +105,9 @@ We did the [top 20 Welly walks](https://wellington.govt.nz/recreation/outdoors/w
 
 * [Polhill Reserve Loop](https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/across-the-city/polhill-reserve-loop) (April 2020): another lockdown destination near us with mountain biking as well, connected to the [Waimapihi Reserve Trail](https://tracksnz.com/tracks/2869-waimapihi-reserve)
 * [Ridgeline Track at Te Ahumairangi](https://wellington.govt.nz/recreation/outdoors/walks-and-walkways/across-the-city/te-ahumairangi-hill-loop) (August 2021): lockdown took us to this walk; the ridgeline itself is quite short and sometimes has views, but involves some elevation gain to get up there. 
-* [Colonial Knob Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/colonial-knob-scenic-reserve/things-to-do/colonial-knob-walk/): nice that it's train-accessible; now on the list is walking from there to Mount Kaukau.
-* [Butterfly Creek Picnic Area and Main Ridge](https://tramper.nz/6192/butterfly-creek/): the main ridge part is definitely much more wild than the creek part. You can take the bus or the ferry. We missed the last ferry.
+* [Colonial Knob Walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/colonial-knob-scenic-reserve/things-to-do/colonial-knob-walk/) (August 2022, February 2024): nice that it's train-accessible; now on the list is walking from there to Mount Kaukau; on our second trip we walked closer to Kaukau but there is a back road we didn't do.
+* [Butterfly Creek Picnic Area and Main Ridge](https://tramper.nz/6192/butterfly-creek/) (August 2022): the main ridge part is definitely much more wild than the creek part. You can take the bus or the ferry. We missed the last ferry.
+* [Puke Ariki Traverse](https://www.wellingtonnz.com/visit/trails/puke-ariki-haywards-korokoro-traverse) (November 2023): a walk, mostly on grass, with decent distance and some elevation gain. Views towards Wellington to the south.
 
 Let's continue moving north.
 
