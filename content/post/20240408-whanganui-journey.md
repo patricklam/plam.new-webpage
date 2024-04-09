@@ -25,10 +25,15 @@ number 11.  One of the Great Walks is not a walk at all: the
 Taumarunui to Pipiriki on the Whanganui River, over 3 or 5 days.
 
 * [Emerald Hours review: Taumaranui to Pipiriki in early 1900s](/post/20210905-emerald-hours/#taumaranui-to-whanganui)
+* [Full trip gallery](https://gallery.patricklam.ca/index.php?/category/1848); [[before](https://gallery.patricklam.ca/index.php?/category/1856)], [[day 1](https://gallery.patricklam.ca/index.php?/category/1855)], [[day 2](https://gallery.patricklam.ca/index.php?/category/1854)], [[day 3](https://gallery.patricklam.ca/index.php?/category/1852)], [[day 4](https://gallery.patricklam.ca/index.php?/category/1851)], [[day 5](https://gallery.patricklam.ca/index.php?/category/1849)]
+
+Tip: on my site, you can often click on pictures and get the link to the full version.
 
 Having paddled this Journey in April 2024, I now can update that review with our actual experiences on and around the river.
 
 # Getting to Taumarunui (by transit)
+
+* [[Before the Journey photos](https://gallery.patricklam.ca/index.php?/category/1856)]
 
 No cars, no planes. Buses and trains (and vans) from our place in
 Wellington to this adventure. I always find it to be a waste to rent a car
@@ -124,6 +129,8 @@ the morning. (Breakfast ended up being some bars; no cleaning needed.)
 
 # Day 1: On the river; Taumarunui to Ohinepane to Poukaria, 35km
 
+* [Day 1 photos](https://gallery.patricklam.ca/index.php?/category/1855)
+
 Turns out that "Robert" was [Rob O'Callahan](https://robert.ocallahan.org/), who I'd last seen at SPLASH 2022 in
 Auckland, and had known from way back. He runs these trips with a big crowd and,
 in this case, had coincidentally planned the Whanganui River Journey at the same
@@ -200,6 +207,8 @@ campers it wasn't that roomy.
 
 # Day 2: Poukaria to Whakahoro, 24km
 
+* [Day 2 photos](https://gallery.patricklam.ca/index.php?/category/1854)
+
 The extra 7km on day 1 meant a shorter day 2; indeed, we spent just
 over 5 hours on the river, with 4 hours moving time. Less rapids, less
 wind.  We left around 10 and got to Whakahoro by 2:30 or 3, being the
@@ -233,6 +242,8 @@ hunters/mountain bikers (not disjoint groups) showed up at various
 times and left on the mountain biking trails.
 
 # Day 3: People show up; Whakahoro to John Coull, 35km
+
+* [Day 3 photos](https://gallery.patricklam.ca/index.php?/category/1852)
 
 Whakahoro also features the [Blue Duck Station](https://blueduckstation.co.nz/), which serves breakfast
 and lunch. Also accommodation, though I don't know how that works.  I
@@ -276,6 +287,8 @@ were echolocating. Too hard to photograph, though.
 
 
 # Day 4: Bridge to Nowhere; John Coull to Tīeke Marae/Kāinga, 33km
+
+* [Day 4 photos](https://gallery.patricklam.ca/index.php?/category/1851)
 
 An average day, with 32km on the river from Whakahoro to
 [Tīeke Marae/Kāinga](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/huts/tieke-kainga/).
@@ -334,6 +347,8 @@ capacity 10.
 
 
 # Day 5: Featuring the 50/50 Rapids; Tīeke to Pipiriki, 22km
+
+* [Day 5 photos](https://gallery.patricklam.ca/index.php?/category/1849)
 
 After day 1, the next hardest day is supposed to be day 5, from Tīeke
 to Pipiriki. There are 5 significant rapids, of which the last
