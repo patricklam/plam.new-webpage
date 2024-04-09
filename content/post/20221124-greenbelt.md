@@ -4,7 +4,7 @@ layout:     post
 title:      "Submission to Ontario's Proposed Amendments to the Greenbelt Plan"
 date:       2022-11-24
 author:     "Patrick Lam"
-tags:       [advocacy, sprawl]
+tags:       ["advocacy", "sprawl"]
 categories: []
 published:  true
 image:      "/img/20220917-nz-interregional-rail/PXL_20210530_002805808.webp"

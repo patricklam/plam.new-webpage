@@ -193,7 +193,7 @@ all the way to Whanganui, leaving mid-morning and arriving early
 afternoon. Today there appear to be 0 boats ([someone
 tried](https://www.nzherald.co.nz/whanganui-chronicle/news/whanganui-riverboat-tourism-venture-on-the-rocks/X3AWIV5SVRXTDY2UMMOEEA5O3Q/)
 in 2010 from Whakahoro to Pipiriki), but there is a bookable [mail
-bus](https://whanganuitours.co.nz/mail-run/) that takes 3 hours (or 1.5-2 hours in your own car).
+bus](https://www.whanganuitours.co.nz/original-mail-tour/) that takes 3 hours (or 1.5-2 hours in your own car).
 
 # Whanganui to Wellington with a side-trip
 
