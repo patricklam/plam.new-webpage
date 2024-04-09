@@ -64,8 +64,8 @@ our bagels.
 
 The [Afghan Darbar Restaurant](https://afghandarbarrestaurant.co.nz/)
 was a great option. They have doner and kebap, but also Afghan
-dumplings and Kabuli Pulao. I had the pulao, which is not so common
-around here, and was tasty, with tender meat.
+dumplings and Kabuli Pulao. I had the pulao (not so common
+around here) which was tasty, with tender meat.
 
 <figure>
 {{< gallery-slider dir="/img/20240408-whanganui-journey/palmy" >}}
@@ -135,16 +135,16 @@ Since we were both doing 5-day trips, they had us at the same 9:30 briefing,
 where they told us about some of the highlights along the river, and some tips about
 whether we should go left or right. We just had to remember them for 5 days.
 
-Two hours later, we were done with the briefing, loading the canoes,
-and some practice for newbies.  The guy doing the briefing was
-concerned about one of the canoes, gave them a kayak paddle in case it
+Two hours later, we had been briefed, loaded the canoes,
+and had some practice for newbies.  The guy doing the briefing was
+concerned about one of the canoe teams, gave them a kayak paddle in case it
 would help (it didn't), and correctly predicted that they wouldn't
 make it upright through the first rapids, which were just 30 minutes
 in.
 
-Except for the 50/50 rapids on day 5, the first day has the most
+Except for the 50/50 rapids right at the end on day 5, the first day has the most
 challenging rapids throughout the trip. MP and I managed to get
-through them all. There were some spills in Rob's group.
+through them all without swimming. There were some spills in Rob's group.
 
 <figure>
 {{< gallery-slider dir="/img/20240408-whanganui-journey/day1" >}}
@@ -155,7 +155,7 @@ Also, we observed a group (different canoe rental company) who had
 wrapped one of their canoes around a rock. I didn't even think those
 rapids were that big.  But MP was busy rubbernecking and I was like
 "stop rubbernecking! paddle so that we also don't wrap around a rock!"
-The canoe didn't look to be in very good shape. Fortunately, they did
+Their canoe didn't look to be in very good shape. Fortunately, they did
 it close to a road, said that they were OK, and had called for help.
 
 We saw that group back on the water on day 3; they seemed to make it
@@ -191,7 +191,7 @@ We still had another 7km to go. Although the water wasn't very white, there
 was wind making our lives harder, and it started to get cold. Probably this was the toughest 2
 hours on the trip.
 
-Eventually we got to Poukaria, where there was the group of
+Eventually we got to Poukaria, where there was a group of
 5: Claire, Brooke, Carolyn (originally from Canada), Chris, and
 Josh. We'd also be paddling with them over the next few days.
 
@@ -239,7 +239,7 @@ and lunch. Also accommodation, though I don't know how that works.  I
 had eggs benedict. Happy to help out local businesses, and a nice
 change from the ramen that we had for 3 of the 5 days of our trip. The
 whio (blue ducks) certainly aren't on the Whanganui, but the guestbook
-at Blue Duck Station witnesses nearby blue ducks.
+at Blue Duck Station records sightings of blue ducks nearby.
 
 <figure>
 {{< gallery-slider dir="/img/20240408-whanganui-journey/day2-whakahoro" >}}
@@ -348,8 +348,8 @@ group was at logistics. Usually it takes a while for 14 people to
 leave. Throughout the trip, the Germans paddled faster than us, but took more
 breaks, and we always ended up at the destination before them.
 
-Given how people had talked up this day, I stowed everything in a
-barrel.  I did run Gaia GPS tracking from my phone inside a
+Given how people had talked up this day, I stowed everything in
+barrels.  I did run Gaia GPS tracking from my phone inside a
 barrel. That works. No pictures between Tīeke and Pipiriki.
 
 The weather was cloudy but, thankfully, windless. Our average speed
@@ -368,7 +368,7 @@ swamping. It was definitely easier than in this [video](https://www.youtube.com/
 <figcaption style="text-align:center">River guide Stacey's crew; in the rapids; end of the journey.</figcaption>
 </figure>
 
-Despite starting after Rob's group, we caught up to them and were the
+Despite starting after Rob's group, we caught up to them (as we always did) and were the
 third canoe through the rapids. Afterwards, we had lots of time to
 unpack our stuff from the barrels (since we were getting off the van
 in Raetihi), enjoy the cupcakes and orange juice, and even take a
@@ -376,7 +376,7 @@ voluntary dip in the Whanganui. While we were repacking, others were loading
 the canoes onto the trailer, which is quite a production.
 
 _Emerald Hours_ said that Pipiriki had decent tourist infrastructure. Can't say, though Google shows only two adventure tour operator bases
-and no hotels or restaurants.
+and no hotels or restaurants in 2024.
 We just stayed at the dock and then hopped in the minibus, which was about 30 minutes
 to Raetihi.
 
@@ -393,7 +393,7 @@ all day (plus one morning-only café), and a tourist information centre.  Ohakun
 have been better (and has eclairs), but it's 10km down the road. I
 think the InterCity bus comes from Ohakune.
 
-The Taumarunui Canoe Hire van seems to have stopped at Ohakune before getting up; I saw a bag of carrots under the front seat.
+The Taumarunui Canoe Hire van seems to have stopped at Ohakune before getting up; I saw a bag of carrots under the front seat, which is a thing you can get in Ohakune in addition to eclairs.
 
 In any case, we made our way to Raetihi's [Coach Café](https://www.facebook.com/p/Coach-Cafe-Takeaways-100044359309214/). We had 2 hours there
 before our pickup at 4. MP had bacon, egg & Hollaidaise and I had
@@ -416,7 +416,7 @@ So we got to see the river once again. It is possible to paddle from Pipiriki
 to Whanganui, though apparently there are fewer places to stay. It's probably
 not as fun; I'd guess that it would be mostly flat and wide.
 
-The bus to Wellington does not take Transmission Gully but stops in
+The bus to Wellington does not take [Transmission Gully](https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/) but stops in
 Porirua and other places. I left my hat on the bus, oops.
 
 Wellington was windy and cold. We waited 8 minutes for the #4 bus and
