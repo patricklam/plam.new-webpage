@@ -22,14 +22,14 @@ summary:    "Great Walk #9: not a walk at all, but a 145km canoe trip down the W
 New Zealand currently has 10 [Great Walks](https://www.doc.govt.nz/parks-and-recreation/things-to-do/walking-and-tramping/great-walks/), with [Hump Ridge](https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/things-to-do/tracks/hump-ridge-track/) soon to be
 number 11.  One of the Great Walks is not a walk at all: the
 [Whanganui Journey](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/tracks/whanganui-journey/) is an 87 or 145km canoe trip from either Whakahoro or
-Taumarunui to Pipiriki on the Whanganui River, over 3 or 5 days.
+Taumarunui to Pipiriki on the Whanganui River, over 3 or 5 days. 
 
 * [Emerald Hours review: Taumaranui to Pipiriki in early 1900s](/post/20210905-emerald-hours/#taumaranui-to-whanganui)
 * [Full trip gallery](https://gallery.patricklam.ca/index.php?/category/1848); [[before](https://gallery.patricklam.ca/index.php?/category/1856)], [[day 1](https://gallery.patricklam.ca/index.php?/category/1855)], [[day 2](https://gallery.patricklam.ca/index.php?/category/1854)], [[day 3](https://gallery.patricklam.ca/index.php?/category/1852)], [[day 4](https://gallery.patricklam.ca/index.php?/category/1851)], [[day 5](https://gallery.patricklam.ca/index.php?/category/1849)]
 
 Tip: on my site, you can often click on pictures and get the link to the full version.
 
-Having paddled this Journey in April 2024, I now can update that review with our actual experiences on and around the river.
+Having paddled the 5-day version of this Journey in April 2024, I now can update that review with our actual experiences on and around the river.
 
 # Getting to Taumarunui (by transit)
 
