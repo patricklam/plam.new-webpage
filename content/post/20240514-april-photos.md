@@ -20,6 +20,11 @@ summary:    "Let's try something different and separate the photos post from the
 
 Let's try something different and separate the photos post from the summary post. There will still be photos in the summary post, mostly of travels in the month. But there's also the pictures that I've been doing from the backlog, which is this post. Some good progress here, though still an enormous backlog. As always, pictures are clickable to go to the full gallery. This month, I included stats on how many pictures I kept versus how many I took after the album name (x/y).
 
+* Sets of pictures posted: 25
+* Total pictures posted: 848
+* Total pictures in selection pool: 3299
+* Accept rate: 25.7% (min 10.8%, max 65.3%; should compute this per camera; I think multi-shots and tricky captures more common on the good cameras)
+
 <figure>
 {{< gallery-slider dir="/img/20240514-april-photos/highlights" >}}
 <figcaption style="text-align:center">South Rim of the Grand Canyon; Grand Canyon Lodge view; kākā at Zealandia; aerial view of Tapuae-O-Uenuku; rainbow lorikeet at Botanic Garden Mount Annan; nearby red-rumped parrot; Bondi Beach in the distance; kata-guruma at Edmonton International; Makara; Arrowtown huts; Mount Barff; canoe on the Whanganui; leaving Whakahoro; four goats; kayaking a small rapid.</figcaption>
@@ -37,7 +42,7 @@ Grand Canyon, May 2019.
 Zealandia, Wellington, and Colonial Knob; early 2021, August 2021, and August 2022.
 * [Zealandia, January 2021](https://gallery.patricklam.ca/index.php?/category/1867) (33/304)
 * [Zealandia, March/April 2021](https://gallery.patricklam.ca/index.php?/category/1870) (23/150)
-* [Cat and birds, August 2021](https://gallery.patricklam.ca/index.php?/category/1866) (7/57)
+* [Te Ahumairangi Hill, floofy cat and birds, August 2021](https://gallery.patricklam.ca/index.php?/category/1866) (14/82)
 * [Colonial Knob hike, August 2022](https://gallery.patricklam.ca/index.php?/category/1872) (29/62)
 
 <figure>
@@ -100,7 +105,7 @@ Whanganui Journey, March/April 2024, with phone and Lumix bridge camera:
 * [Day 2 to Whakahoro, March 31](https://gallery.patricklam.ca/index.php?/category/1854) (41/158)
 * [Day 3 to John Coull, April 1](https://gallery.patricklam.ca/index.php?/category/1852) (35/103)
 * [Day 4 to Tīeke Marae/Kāinga, April 2](https://gallery.patricklam.ca/index.php?/category/1851) (59/110)
-* [Day 5 to Pipiriki, April 3](https://gallery.patricklam.ca/index.php?/category/1849)
+* [Day 5 to Pipiriki, April 3](https://gallery.patricklam.ca/index.php?/category/1849) (25/84)
 
 <figure>
 {{< gallery-slider dir="/img/20240514-april-photos/whanganui-journey" >}}
