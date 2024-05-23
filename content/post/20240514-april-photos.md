@@ -109,7 +109,7 @@ Whanganui Journey, March/April 2024, with phone and Lumix bridge camera:
 
 <figure>
 {{< gallery-slider dir="/img/20240514-april-photos/whanganui-journey" >}}
-<figcaption style="text-align:center">Toutouwai/North Island robin; yelling tieke/saddleback; pāteke/brown teal.</figcaption>
+<figcaption style="text-align:center">Capital Connection; Palmerston North; Tamaranui Canoe Hire HQ; MP in a canoe setting out; rapids on first day; upside down canoe in rapids on first day; placid water; falls; Whakahoro bunkroom; view from Whakahoro (note elevation gain); welcome swallow; John Coull toilets; Brooke and Claire on day 4; more canoes; me and MP at Bridge to Nowhere; sunset at John Coull Hut (with bats).</figcaption>
 </figure>
 
 Whew!
