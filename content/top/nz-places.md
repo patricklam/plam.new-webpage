@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: April 2024__
+_Last updated: May 2024__
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -158,19 +158,6 @@ Let's continue moving north.
 * [Kaikoura Peninsula Walkway](https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/kaikoura-area/things-to-do/tracks/kaikoura-peninsula-walkway/) (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1281)): did part of this on the same day as the cycle trail but were time-limited by sunset and needing to drive out as well. New as of the earthquake, I think!
 * [Travers-Sabine Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/things-to-do/tracks/travers-sabine-circuit/) (February 2024): there are alpine views and the Blue Lake is great (best view from towards Lake Constance) though I wonder about the Canada geese in the pure lake. There are also three days of forest slogging, some pretty gnarly and slow.
 
-## Queenstown/Wānaka/Mount Aspiring National Park
-
-Mount Aspiring National Park has some pretty tough trips. We tried to do one of them and got rained out. Mostly we did the easy trips.
-
-* [Blue Pools Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/blue-pools-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1305)): easy, scenic, blue indeed.
-* [Brewster Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/brewster-track/) (March 2021, [pics to](https://gallery.patricklam.ca/index.php?/category/1304), [pics back from](https://gallery.patricklam.ca/index.php?/category/1307)): good hut, short and steep, glacier is much more walking.
-* [Roy's Peak](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1402)): was super popular pre-COVID, tons of people even for sunrise, great views of Lake Wānaka, surprisingly much elevation gain. We were slightly behind the vans of people coming for sunrise and ahead of more casual hikers.
-* [Aspiring Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/west-matukituki-track/) (March 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1222)): mostly flat though still significant distance, scenic Matukituki Valley views, NZAC hut looks super comfortable.
-* [Rob Roy Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1301)): was closed on our first visit, later fixed, and now open. Glacier views, easy. 
-* [Tiki trail](https://www.queenstownnz.co.nz/listing/tiki-trail/9099/) (March 2020): short walk up the hill in Queenstown, or you could take the cable car.
-* [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (failed attempt March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)) (December 2022, [writeup](/post/20230120-south-island-adventures/)): a level or two harder than a Great Walk; the average hiking experience level was far higher here!
-* [Mueller Hut Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/mueller-hut-route/) to [Mueller Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/huts/mueller-hut/) (December 2022): 1000m elevation gain but the first half is more "staircase" than route; not that hard. Extremely scenic and also popular. Average experience level much lower. We got excellent views of Aoraki Mount Cook and the sky; indeed, camping ($15) is a good way to see the sky.
-
 ## Canterbury
 
 * [Banks Track](https://www.bankstrack.co.nz/) (October 2022 in full [[trip report](/post/20221102-banks), [pics](https://gallery.patricklam.ca/index.php?/category/1585)]; July 2020 to Flea Bay, [pics](https://gallery.patricklam.ca/index.php?/category/1230)): epic coastal scenery; we did it in 2 days, which is slightly but not really tough. 31km, 700m elevation gain each day. Also lots of lambs in October. Accommodation is spectacular. Mid-winter terrain is actually a bit tricky with slippery leaves.
@@ -182,8 +169,25 @@ Mount Aspiring National Park has some pretty tough trips. We tried to do one of 
 * [Arthur’s Pass Walking Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/things-to-do/tracks/arthurs-pass-walking-track/) (July 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1231)): meh, feels like a consolation prize for when other Arthur's Pass trips are out of condition, though you can get a view of Devils Punchbowl walking by. Tried to understand what was going on at Temple Basin, which never opened in 2020. Looks like a worthy ski resort to stay at, though.
 * [Temple Basin Ski Area](https://www.templebasin.co.nz/) (September 2022, [pics](https://gallery.patricklam.ca/index.php?/category/1570)): did a week of mountaineering with two good weather days; would like to do ski touring, but snow insufficient; some easy options and some pretty hard options but kind of a missing middle. Food at the lodge was really good.
 
+## Aoraki Mount Cook
+
+* [Mueller Hut Route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/mueller-hut-route/) to [Mueller Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/huts/mueller-hut/) (December 2022): 1000m elevation gain but the first half is more "staircase" than route; not that hard. Extremely scenic and also popular. Average experience level much lower. We got excellent views of Aoraki Mount Cook and the sky; indeed, camping ($15) is a good way to see the sky.
+
+## Queenstown/Wānaka/Mount Aspiring National Park
+
+Mount Aspiring National Park has some pretty tough trips. We tried to do one of them and got rained out, and bailed on Cascade Saddle twice so far. Mostly we did the easy trips.
+
+* [Blue Pools Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/blue-pools-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1305)): easy, scenic, blue indeed.
+* [Brewster Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/brewster-track/) (March 2021, [pics to](https://gallery.patricklam.ca/index.php?/category/1304), [pics back from](https://gallery.patricklam.ca/index.php?/category/1307)): good hut, short and steep, glacier is much more walking.
+* [Roy's Peak](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1402)): was super popular pre-COVID, tons of people even for sunrise, great views of Lake Wānaka, surprisingly much elevation gain. We were slightly behind the vans of people coming for sunrise and ahead of more casual hikers.
+* [Aspiring Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/west-matukituki-track/) (March 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1222)): mostly flat though still significant distance, scenic Matukituki Valley views, NZAC hut looks super comfortable.
+* [Rob Roy Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1301)): was closed on our first visit, later fixed, and now open. Glacier views, easy. 
+* [Tiki trail](https://www.queenstownnz.co.nz/listing/tiki-trail/9099/) (March 2020): short walk up the hill in Queenstown, or you could take the cable car.
+* [Ben Lomond Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/queenstown-area/things-to-do/ben-lomond-track/) (May 2024): May could be a marginal time with the weather, but crampons were actually overkill when we went. Long, easy walk (almost sidewalk like) but 1400m elevation gain isn't nothing. In May, less popular than Roy's Peak in February, though there were like 15 Nepalis walking fast.
+* [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (failed attempt March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)) (December 2022, [writeup](/post/20230120-south-island-adventures/)): a level or two harder than a Great Walk; the average hiking experience level was far higher here!
+
 ## Otago
-We went to Dunedin once, just at the end of December 2020 before the New Year. Why stay in Wellington for the holidays?
+We went to Dunedin once, just at the end of December 2020 before the New Year. Why stay in Wellington for the holidays? I think technically Queenstown/Wānaka is Otago, but I put them separately.
 
 * [Silverpeaks Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/silver-peaks-scenic-reserve/things-to-do/silver-peaks-routes/) (December 2020, [day 1 pics](https://gallery.patricklam.ca/index.php?/category/1386), [day 2 pics](https://gallery.patricklam.ca/index.php?/category/1387)): avoided the huge rainstorm a day after which necessitated a [rescue](https://www.odt.co.nz/news/dunedin/trampers-rescued-silver-peaks). Smaller peaks, good outdoors, close to town. Another flash hut (Jubilee), though one could easily be stuck there! ABC Cave much less flash. No pigs sighted.
 * [Mapoutahi Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/purakaunui-waitati-area/things-to-do/mapoutahi-track/) (December 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1383)): mostly climbing here, but there is a beach (and people driving their cars to the beach who we had to dodge as they were doing so, grr.)
@@ -236,7 +240,7 @@ Also,
 * [Te Anau Bird Sanctuary](https://gallery.patricklam.ca/index.php?/category/1319): Antipodes kakariki, takahē, morepork.
 * [Ulva Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/ulva-island-te-wharawhara/) (August 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1273)): saw a kakariki and other birds just pecking away at the ground.
 
-The Invercargill aviary also has the Antipodes (unicolor) kakariki as well as Zac the sulphur-crested cockatoo ("I'm a pretty bird"). Most of these sanctuaries have a predator-proof fence.
+The Invercargill aviary also has the Antipodes (unicolor) kakariki (as does the Te Anau sanctuary) as well as Zac the sulphur-crested cockatoo ("I'm a pretty bird"). Most of these sanctuaries have a predator-proof fence.
 
 ## Crags
 
@@ -354,11 +358,15 @@ Also see my [Tourist Guide to Wellington](/wellington).
 
 * [Serious Fun Riverboarding](https://www.riverboarding.co.nz/) (March 2020): pretty intense whitewater experience.
 * [Te Ara Wānaka Boardwalk](https://enviroscope.co.nz/wanaka-boardwalk/) (December 2022, [pics](https://gallery.patricklam.ca/index.php?/category/1625)): best spot in the country to see grebes nesting, and if lucky, baby grebes around Christmas.
+* [Arrowtown](***) (March 2024): Small town near Queenstown (easy detour on way to Wānaka) with old Chinese settlement. Learn a bit about gold rush life for Chinese migrants. Why so many settlers from Canton in both NZ and Montreal?
+* [Around the Basin Mountain Bike Tours: Queenstown to Gibbston Valley](https://www.aroundthebasin.co.nz/product/queenstown-to-gibbston-valley/) (May 2024): Type I fun according to MP, especially on an ebike. Felt a bit harder on a non-ebike, with 45km of biking (not far!) and 300m of elevation gain (shouldn't be *that* much). Scenic, and pretty fancy wineries. Arrowtown probably feels like more of a place.
 
 ### Christchurch
 * [Christchurch Tram](https://www.christchurchattractions.nz/christchurch-tram/) (October 2022): Not transit. It does a 4km loop in 50 minutes with commentary along the way. I guess I'd do it once, but not really again. Now, if only there was actual rail transit in Christchurch again.
 * [Quake City](https://quakecity.co.nz/) (September 2020): learning about the Christchurch 2011 earthquake, a traumatic event. Lots of info.
 * [Mount Hutt](https://www.mthutt.co.nz/) skiing (September 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1278)): yep, skiing. No one skis off piste?
+* [Willowbank Wildlife Reserve](***) (April 2021, [pics](***)): "NZ Big 5", er, sure, but yes, it does have lots of birds and an up-close eel (tuna) encounter.
+* [International Antarctic Centre](***) (October 2021, [pics](***)): malamutes, Hagglund rides, penguins, and a cold room (not as cold as the actual outside in Montreal in winter).
 
 ### Oamaru
 * [Steampunk HQ](https://www.steampunkoamaru.co.nz/) (November 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1520)): kind of creepy.
