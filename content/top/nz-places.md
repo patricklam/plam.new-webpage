@@ -20,7 +20,7 @@ showtoc:    true
 .pager { display:none; }
 </style>
 
-_Last updated: May 2024__
+_Last updated: May 2024_
 
 I thought I'd put together a list of the (many!) places I've been to in Aotearoa New Zealand, along with capsule reviews.
 
@@ -183,8 +183,9 @@ Mount Aspiring National Park has some pretty tough trips. We tried to do one of 
 * [Aspiring Hut](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/west-matukituki-track/) (March 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1222)): mostly flat though still significant distance, scenic Matukituki Valley views, NZAC hut looks super comfortable.
 * [Rob Roy Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/) (March 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1301)): was closed on our first visit, later fixed, and now open. Glacier views, easy. 
 * [Tiki trail](https://www.queenstownnz.co.nz/listing/tiki-trail/9099/) (March 2020): short walk up the hill in Queenstown, or you could take the cable car.
-* [Ben Lomond Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/queenstown-area/things-to-do/ben-lomond-track/) (May 2024): May could be a marginal time with the weather, but crampons were actually overkill when we went. Long, easy walk (almost sidewalk like) but 1400m elevation gain isn't nothing. In May, less popular than Roy's Peak in February, though there were like 15 Nepalis walking fast.
+* [Ben Lomond Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/queenstown-area/things-to-do/ben-lomond-track/) (May 2024, [writeup](https://patricklam.ca/post/20240607-chc-queenstown-doubtful-sound/#ben-lomond-may-21)): May could be a marginal time with the weather, but crampons were actually overkill when we went. Long, easy walk (almost sidewalk like) but 1400m elevation gain isn't nothing. In May, less popular than Roy's Peak in February, though there were like 15 Nepalis walking fast.
 * [Gillepsie Pass Circuit](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/gillespie-pass-circuit/) (failed attempt March 2021, [writeup](/post/20210402-no-gillespie/), [pics](https://gallery.patricklam.ca/index.php?/category/1300)) (December 2022, [writeup](/post/20230120-south-island-adventures/)): a level or two harder than a Great Walk; the average hiking experience level was far higher here!
+* [Welcome Rock](https://www.welcomerock.co.nz/) (May 2024, [writeup](https://patricklam.ca/post/20240607-chc-queenstown-doubtful-sound/#welcome-rock-may-22-to-23)): 27km loop, an hour from Queenstown, with epic views of mountain ranges, though mainly flat. Private track. Well worth a visit.
 
 ## Otago
 We went to Dunedin once, just at the end of December 2020 before the New Year. Why stay in Wellington for the holidays? I think technically Queenstown/Wānaka is Otago, but I put them separately.
@@ -358,8 +359,9 @@ Also see my [Tourist Guide to Wellington](/wellington).
 
 * [Serious Fun Riverboarding](https://www.riverboarding.co.nz/) (March 2020): pretty intense whitewater experience.
 * [Te Ara Wānaka Boardwalk](https://enviroscope.co.nz/wanaka-boardwalk/) (December 2022, [pics](https://gallery.patricklam.ca/index.php?/category/1625)): best spot in the country to see grebes nesting, and if lucky, baby grebes around Christmas.
-* [Arrowtown](***) (March 2024): Small town near Queenstown (easy detour on way to Wānaka) with old Chinese settlement. Learn a bit about gold rush life for Chinese migrants. Why so many settlers from Canton in both NZ and Montreal?
-* [Around the Basin Mountain Bike Tours: Queenstown to Gibbston Valley](https://www.aroundthebasin.co.nz/product/queenstown-to-gibbston-valley/) (May 2024): Type I fun according to MP, especially on an ebike. Felt a bit harder on a non-ebike, with 45km of biking (not far!) and 300m of elevation gain (shouldn't be *that* much). Scenic, and pretty fancy wineries. Arrowtown probably feels like more of a place.
+* [Arrowtown](https://www.arrowtown.com/) (March 2024): Small town near Queenstown (easy detour on way to Wānaka) with old Chinese settlement. Learn a bit about gold rush life for Chinese migrants. Why so many settlers from Canton in both NZ and Montreal?
+* [Around the Basin Mountain Bike Tours: Queenstown to Gibbston Valley](https://www.aroundthebasin.co.nz/product/queenstown-to-gibbston-valley/) (May 2024, [[pics](https://gallery.patricklam.ca/index.php?/category/1889)], [writeup](https://patricklam.ca/post/20240607-chc-queenstown-doubtful-sound/#queenstown-trails-biking-to-gibbstown-may-20)): Type I fun according to MP, especially on an ebike. Felt a bit harder on a non-ebike, with 45km of biking (not far!) and 300m of elevation gain (shouldn't be *that* much). Scenic, and pretty fancy wineries. Arrowtown probably feels like more of a place.
+* [Doubtful Sound Overnight Cruise by Real Journeys](https://www.realnz.com/en/experiences/overnight-cruises/doubtful-sound-overnight-cruises/) (May 2024, [writeup](https://patricklam.ca/post/20240607-chc-queenstown-doubtful-sound/#doubtful-sound-two-nights-may-24-to-26)): Usually 1 night but in May there is less demand and shorter days. Comfortable small vessel with excellent food, many views of Doubtful Sound, and hopefully some dolphins, seals, and albatrosses (we won on all 3). Kayaking/tender ride available.
 
 ### Christchurch
 * [Christchurch Tram](https://www.christchurchattractions.nz/christchurch-tram/) (October 2022): Not transit. It does a 4km loop in 50 minutes with commentary along the way. I guess I'd do it once, but not really again. Now, if only there was actual rail transit in Christchurch again.

@@ -19,6 +19,7 @@ showtoc:    false
 # Refereed Publications
 
 <ul>
+  <li>Karoliine Holter, Juhan-Oskar Hennoste, Patrick Lam, Simmo Saan, Vesal Vojdani. 2024. Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results. To appear in Symposium on New Ideas in Programming and Reflections on Software (Onward!) 2024 Papers.</li>
   <li>Mohammad Robati Shirzad and Patrick Lam. 2024. <a href="/papers/23.emse.rust-bug-patterns.pdf">A Study of Common Bug Fix Patterns in Rust (preprint)</a>. <i>Empirical Software Engineering</i>, volume 29, issue 2, article 44. [<a href="/papers/23.emse.rust-bug-patterns.bib">bib</a>]</li>
   <li>Dakota Wong, Austin Kothig, and Patrick Lam. <a href="/papers/22.hatra.copilot-verifiability.pdf">HATRA 2022: Exploring the Verifiability of Code Generated with GitHub Copilot</a>. [<a href="https://docs.google.com/presentation/d/15Tl-X9b3GoDVRnfxQ8OWeDXCWjfIRF9-ICF7HG1enxA/edit#slide=id.g1ae5bed488b_0_11">presentation</a>, <a href="/papers/22.hatra.copilot-verifiability.bib">bib</a>]</li>
   <li>Sruthi Venkatanarayanan, Jens Dietrich, Craig Anslow, and Patrick Lam. VISSOFT 2022 NIER: <a href="/papers/22.vissoft.api-surface-usage.pdf">VizAPI: Visualizing Interactions between Java Libraries and Clients</a>. [<a href="/papers/22.vissoft.api-surface-usage.bib">bib</a>, <a href="https://zenodo.org/record/6951140">dataset</a>, <a href="https://sruthivenkat.github.io/VizAPI-graph/">demo</a>]</li>
