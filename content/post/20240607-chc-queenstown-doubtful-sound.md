@@ -14,12 +14,13 @@ summary:    "Not the Cascade Saddle, take 2. Canterbury Open (judo), Queenstown 
 ---
 
 We had moved our Cascade Saddle trip from March to May, but we thought the weather might be
-questionable in May, so we moved it again to December.
+questionable in May, so we moved it again to December. So, we had another week in Queenstown
+where we could do more outdoors activities.
 
 # Christchurch & Canterbury Open, May 17 to 19
 
 On this trip, I first went to Christchurch (well, Lincoln) to referee at the
-Canterbury Open, with a stop at Uprising, the bouldering gym, on the Friday.
+Canterbury Open, with a stop at [Uprising](https://bouldering.co.nz/), the bouldering gym, on the Friday.
 
 It turns out that 6:35AM flight to Christchurch was cheaper.
 I can't remember how much cheaper. At least with a 6:35AM domestic flight
@@ -30,7 +31,7 @@ Anyway, I got to Hotel Give in Christchurch at 8:40am.  Early check-in was
 available. The hotel staff at first quoted $40 for check-in before 9
 and $20 for check-in between 9 and check-in time. I said I'd wait
 till 9, but then he checked me in early for $20 anyway.  Thanks! Then
-I had a nice nap in my room before walking around Christchurch in the
+I had a much-needed nap in my room before walking around Christchurch in the
 afternoon.
 
 Hotel Give is run by a charitable trust, the [Kind
@@ -49,11 +50,16 @@ out how to not slam them, but it takes effort.
 MP came on Saturday and visited
 [Willowbank](https://www.willowbank.co.nz/) again while I was reffing
 the kids on Sunday. The Canterbury Open was pretty small this year and
-I was back in Christchurch by noon on Sunday, at the same time that MP
-made it back from Willowbank. We wandered around Christchurch some
-more (Hotel Give is centrally located, which is nice), getting Bluff
-oysters at Cellar Door before taking the bus to the airport and flying to
-Queenstown. The Air New Zealand CHC lounge was good as usual.
+I was back in Christchurch by noon on Sunday, exactly when MP made it
+back from Willowbank. (She had some trouble getting there on the bus,
+with delays and misconnects, and the Uber she eventually took was just
+as long as it would've been from the hotel, oh well. Go figure.)
+
+We wandered
+around Christchurch some more (Hotel Give is centrally located, which
+is nice), getting Bluff oysters at Cellar Door before taking the bus
+to the airport and flying to Queenstown. The Air New Zealand CHC
+lounge was good as usual.
 
 # Queenstown outdoors, May 20 to 23
 
@@ -63,7 +69,10 @@ sure didn't like that.
 
 We stayed at the [Chalet
 Queenstown](https://www.chaletqueenstown.co.nz/), which is pretty
-boutique (8 rooms?) and good. There was a couple in the room next to
+boutique (7 rooms) and good. Breakfast there would have been pretty expensive but never
+fit with our schedule anyway.
+
+There was a couple in the room next to
 us having an issue. I would be very wary of calling in, say, the
 Montreal police, but, on the advice of the women's shelter (and some
 racial profiling on our part), we called them in, and the NZ Police
@@ -90,14 +99,14 @@ are highly scenic.
 
 <figure>
 {{< gallery-slider dir="/img/20240607-chc-queenstown-doubtful-sound/gibbston" >}}
-<figcaption style="text-align:center">Fall in Queenstown; Walter Peak across Lake Wakatipu; Caution! Steep Slope!; a Remarkable; Kawarau River; Kinross Winery.</figcaption>
+<figcaption style="text-align:center">Fall in Queenstown; Walter Peak across Lake Wakatipu; Caution&mdash;Steep Slope!; a Remarkable; Kawarau River; Kinross Winery.</figcaption>
 </figure>
 
 [Around the Basin](https://www.aroundthebasin.co.nz/) runs trips to Arrowtown or Gibbston (and, more
 importantly, pickups from those places), but we'd just been to Arrowtown a few weeks
 ago, so we went to Gibbston. It has quite a few wineries but doesn't
 feel like a place, or even a village. We chatted with the staff wine
-guy who had moved to Gibbston from UAE, I think, and somewhere in Asia
+guy at [Kinross](https://kinross.nz) who had moved to Gibbston from UAE, I think, and somewhere in Asia
 before that. Yes, Gibbston is highly scenic, even if there is no "there" there.
 
 These tourist businesses&mdash;Around the Basin, Tamaranui Canoe Hire&mdash;do have a lot of
@@ -110,18 +119,18 @@ moving bicycles shouldn't necessarily need so many vans.
 It turned out to be a beautiful day for a Ben Lomond hike. We left at
 7:55, slightly before sunrise, given the 1400m of elevation gain and
 short days. Back in town by 16:15, an hour before sunset and in time
-to get to the airport to pick up the rental car by 17:00 (though GO!
-does do after-hours pickups).
+to get to the airport to pick up the rental car by 17:00 (though [GO rentals](https://www.gorentals.co.nz/)
+does do after-hours pickups and we actually had set ours up as one).
 
 <figure>
 {{< gallery-slider dir="/img/20240607-chc-queenstown-doubtful-sound/ben-lomond" >}}
 <figcaption style="text-align:center">Skyline sign before dawn; hiking pole assembly; almost clear view of Ben Lomond summit; lake Wakatipu and track and slopes; many valleys (Moke Creek?); us on Ben Lomond summit.</figcaption>
 </figure>
 
-The Tiki Trail on the way down wasn't much fun. Apart from that, t
+The Tiki Trail on the way down wasn't much fun. Apart from that, the
 trail was really well-maintained between the top of the cable car and
-the Ben Lomond Saddle, and then just well-maintained through to the
-summit. I looked into one-way gondola rides, but the website does not
+the Ben Lomond Saddle, and then just well-maintained (despite the "maintained trail ends here" sign) through to the
+summit. I looked into one-way gondola rides, but the Skyline website does not
 talk about that.
 
 We brought ice axes and crampons but they didn't help and we gave up
@@ -131,19 +140,19 @@ dozen Nepalis just walked up the mountain very fast.
 
 <figure>
 {{< gallery-slider dir="/img/20240607-chc-queenstown-doubtful-sound/ben-lomond-2" >}}
-<figcaption style="text-align:center">Ben Lomond summit pic 2; snowy; NZ pipit on kea sign; toilet and Lake Wakatipu; hill with cloud behind.</figcaption>
+<figcaption style="text-align:center">Ben Lomond summit pic 2; snowy; NZ pipit on kea sign (35mm lens!); toilet and Lake Wakatipu; hill&nbsp;with cloud behind.</figcaption>
 </figure>
 
 ## Welcome Rock, May 22 to 23
 
-After that, we went to [Welcome Rock](https://www.welcomerock.co.nz/)
+After that, we went to [Welcome Rock](https://www.welcomerock.co.nz/),
 which is another easy and relatively flat, though long (25km), private
 track. We did most of it on the first day, looping around the long way
 to the [Slate
 Hut](https://www.welcomerock.co.nz/accommodation/slate-hut/).  It's
 impressive that the track was constructed with hand tools, though
 there isn't the terrain of the Paparoa to contend with: there was only a small amount of rock moving to do.
-I would be a bit worried about doing it on a bicycle, but it's well
+I would be a bit worried about doing this track on a bicycle (kind of narrow at times), but it's well
 graded for walking.
 
 The scenery was epic, especially near sunrise/sunset. Since we were
@@ -151,7 +160,7 @@ walking until sunset, we did get to appreciate that scenery too.
 
 <figure>
 {{< gallery-slider dir="/img/20240607-chc-queenstown-doubtful-sound/welcome-rock" >}}
-<figcaption style="text-align:center">At Welcome Rock trailhead; Eyre Peak (?); helicopter at work; not working wagon; clouds under us; snowy hills; snowy shaded; disconnected pipes; MP; gentle slope; one of 3 waterfalls; Mud Hut; inside Mud Hut; gently sloping landscape (more); moonrise; mound; MP; MP at Slate Hut; sunset; stars (Orion).</figcaption>
+<figcaption style="text-align:center">At Welcome Rock trailhead; Eyre Peak (?); helicopter at work; not working wagon; clouds under us; snowy hills; snowy shaded; disconnected pipes; MP; gentle slope; one of 3 waterfalls; Mud Hut; inside Mud Hut; gently sloping landscape (again); moonrise; mound; MP; MP at Slate Hut; sunset; stars (Orion).</figcaption>
 </figure>
 
 The mattress in the Slate Hut was comfortable. The prefab hut was wired for
@@ -181,7 +190,7 @@ as well as the Antipodes Island parakeet (not at Zealandia; insurance population
 </figure>
 
 
-# Two nights on Doubtful Sound, May 24 to 26
+# Doubtful Sound, two nights, May 24 to 26
 
 Back in December 2020 we did a [day cruise to Doubtful
 Sound](https://gallery.patricklam.ca/index.php?/category/1329). That's
@@ -195,26 +204,21 @@ just 40m.
 
 We had thought about getting off the Welcome Rock track and proceeding
 to Lake Marian, but that would have been a lot more driving, so we
-just went to Te Anau and washed our clothes at the [Te Anau TOP 10
-Holiday Park](https://teanautop10.co.nz/), where we had a room with
-ensuite bathroom. (Slate Hut definitely has an outhouse, not ensuite).
-[The Coffee Bomb](https://southlandnz.com/listing/the-coffee-bomb/98/)
+just went to Te Anau and stayed there for the day.
+On the way, [The Coffee Bomb](https://southlandnz.com/listing/the-coffee-bomb/98/)
 in Garston had excellent sandwiches (and coffee, but that goes without
-saying in this country). We also stopped by to check out the half
-dozen takahē at [Punanga Manu o Te Anau/Te Anau Bird
-Sanctuary](https://www.doc.govt.nz/teanaubirdsanctuary); this time we
-saw them, as well as the Antipodes kakariki (and the kākā of course).
+saying in this country, but I don't drink coffee anyway).
 
-Since the boat left Manapouri at 12:30, I had scheduled some calls with
+Since the boat left Manapouri at 12:30 the next day, I had scheduled some calls with
 my grad students in the morning, and took those from the holiday park and from
-a cafe in Te Anau. Then we drove over to the Lake Manapouri boat. We were on Doubtful
+the corner of a (the?) surprisingly busy cafe in Te Anau. Then we drove over to the Lake Manapouri boat. We were on Doubtful
 Sound by 2:30, after taking pictures from the usual viewpoint on the Wilmot Pass Road.
 
 I have a lot of photos from this cruise. It's going to take some time
 to sort through them. I discovered that the 12mm lens is actually
 pretty useful here, because one is often too close to the fjords. And
 the 100-400 is indispensable for albatross pictures. But most of the time
-I was using the fixed 35mm (on APS-C, so 52mm equiv).
+I was using the fixed 35mm (on APS-C, so 52mm equivalent).
 
 Skipper Dave (with an open-bridge policy, so I dropped in to say hi a
 few times) arranged it so that we'd be out on the Tasman Sea around
@@ -246,12 +250,12 @@ We stayed in a "family-share cabin", which was going to be renovated
 away as part of scheduled maintenance this winter. It had four beds (two
 times two bunk beds). Not fancy, but comfortable. There are going to be
 twin-share and double cabins next season, apparently all with ensuites.
-We had shared bathrooms and showers.
+We had, again, shared bathrooms and showers, which were totally fine, really.
 
 ## Day 1: to Christmas Cove
 
-The first day was just motoring around to the ocean (way farther than
-one gets on a day trip), looking at the scenery and at the wildlife,
+The first day was just motoring around to the Tasman Sea (way farther than
+Crooked Arm, which is as far as one gets on a day trip), looking at the scenery and at the wildlife,
 and then heading back to Christmas Cove (Precipice Cove on the map) to
 moor for the night. We went through the Malaspina Reach and Thompson
 Sound, for a total of 80km on the Fiordland Navigator.
@@ -281,7 +285,7 @@ on the day, plus 5km in a (not sit-on-top!) kayak.
 
 <figure>
 {{< gallery-slider dir="/img/20240607-chc-queenstown-doubtful-sound/doubtful-sound-2" >}}
-<figcaption style="text-align:center">Rooms below deck; MP paddling off; tree trunk; MP and rainbow; seal; MP and Navigator; furled jib and rainbow; mast and three falls; more falls in Crooked Arm; to the Tasman Sea; underneath stormclouds; Buller's mollymawk; looking out; mollymawk.</figcaption>
+<figcaption style="text-align:center">Rooms below deck; MP paddling off; tree trunk; MP and rainbow; seal; MP and Navigator; furled jib and rainbow; mast and three falls; more falls in Crooked Arm; to the Tasman Sea again; underneath stormclouds; Buller's mollymawk; looking out; mollymawk.</figcaption>
 </figure>
 
 Our second and final dinner was delicious again, with slow-cooked meat
@@ -305,5 +309,5 @@ Two hours of driving later, we got to Queenstown, returned our car,
 and took our flight back to Wellington without any
 complications. Well, getting gas is always a bit annoying, but not a
 huge complication. Arriving at 5pm it's easy to take the number 2
-bus. Sometimes one can even transfer to the 21 and avoid the walk up
+bus from WLG. Sometimes one can even transfer to the 21 and avoid the walk up
 the hill.
