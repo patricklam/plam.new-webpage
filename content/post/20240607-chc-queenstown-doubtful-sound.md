@@ -93,7 +93,7 @@ Lomond, so we swapped the days, and Around the Basin was cool with that.
 Biking from Queenstown to Gibbston was, according to MP, just pure Type 1
 fun. Nothing sketchy at all. The 300m of elevation gain along the 45km was a bit harder for me,
 even though the bike I'd rented was better than my usual commuter.
-MP's ebike made things very easy for her. Anyway, there is really good off-track
+MP's ebike made things very easy for her. There is really good off-track
 bicycle infrastructure around Queenstown&mdash;the [Queenstown Trail](https://www.queenstowntrails.org.nz/)&mdash;and the routes along the rivers
 are highly scenic.
 
@@ -116,7 +116,7 @@ moving bicycles shouldn't necessarily need so many vans.
 
 ## Ben Lomond, May 21
 
-It turned out to be a beautiful day for a Ben Lomond hike. We left at
+This turned out to be a beautiful day for a Ben Lomond hike. We left at
 7:55, slightly before sunrise, given the 1400m of elevation gain and
 short days. Back in town by 16:15, an hour before sunset and in time
 to get to the airport to pick up the rental car by 17:00 (though [GO rentals](https://www.gorentals.co.nz/)
