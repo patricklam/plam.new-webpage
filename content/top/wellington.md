@@ -93,8 +93,15 @@ as exhibitions on social history (e.g. mana whenua the world of Māori;
 Pacific peoples; and about the Treaty of Waitangi) and Gallipolli.
 
 Other museums include the [Cable Car Museum](https://www.museumswellington.org.nz/cable-car-museum/) (free), [Space Place](https://www.museumswellington.org.nz/space-place/), the
-[New Zealand Portrait Gallery](https://www.nzportraitgallery.org.nz/) (we've been to these three), and the
+[New Zealand Portrait Gallery](https://www.nzportraitgallery.org.nz/), 
+the [Nairn Street Cottage](https://www.museumswellington.org.nz/nairn-street-cottage/) (we've been to these four), and the
 Wellington Museum (haven't been).
+
+The Cable Car Museum has a lot of engineering-related information; some things
+don't really change, like the 4-year work experience requirement. Space Place is
+all about space and sometimes there are events where someone tells you about what's been going on.
+Nairn St Cottage is a historic house and has tours with interpretation about the eras of the house,
+with associated artifacts.
 
 <figure>
 {{< gallery-slider dir="/img/wellington/te-papa" >}}
