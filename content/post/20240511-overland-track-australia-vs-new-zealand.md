@@ -4,7 +4,7 @@ layout:     post
 title:      "Trip report: Overland Track, Tasmania—part 1, overall impressions"
 date:       2024-05-11
 author:     "Patrick Lam"
-tags:       ["au"]
+tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
 published:  true
 image:      "/img/20240511-overland-track-australia-vs-new-zealand/20240502_234528930_buttongrass_and_mount_oakleigh.webp"
