@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Trip report: Overland Track, Tasmania—part 3, Cradle Mountain"
+title:      "Trip report: Overland Track, Tasmania—part 3 (day 1), Cradle Mountain"
 date:       2024-06-17
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
@@ -30,7 +30,7 @@ best bet for daily shoulder season transport (i.e. May). Fully endorsed.
 An hour later, we stopped in the town of Sheffield, with the
 [murals](https://www.sheffieldtasmania.com.au/sheffield-mural-tour),
 and a cafe. I ate my leftovers from my enormous chicken parm from the
-night before. (The driver mentioned that Sheffield was copying a town
+night before. (The driver mentioned that Sheffield's mural initiative was inspired by a town
 in Canada; I think that town is
 [Chemanius](https://explorerrvclub.com/blog/the-charming-little-town-of-chemainus-canadas-mural-capital/)
 on Vancouver Island,
@@ -42,8 +42,8 @@ Transport staff member along for the ride. Good dawn views along the
 road.
 
 Two hours after leaving Launceston, we got to the Cradle Mountain Visitor Centre,
-where we checked in and got a safety briefing (nothing surprising to us, but
-I guess they get all kinds).
+where we checked in with the park and got a safety briefing (nothing surprising to us, but
+I guess they get all kinds). There were videos of all sorts of weather conditions that we did not experience.
 
 The trailhead is not at the Visitor Centre, so we took the shuttle bus
 to Ronny Creek.  Non-Overland Track hikers have to pay for the shuttle
@@ -68,14 +68,14 @@ It turns out that the currawong have clued into this, and one cheeky currawong t
 bag of chips. Unfortunately for that bird/fortunately for Hanna, the chips were too heavy for it.
 
 The track starts out well-marked, on boardwalk, across the buttongrass moorland. We also saw a Tasmanian
-nativehen near the start of the track. No other species that day.
+nativehen near the start of the track. No other species for me that day.
 
 The first day has the biggest distance and elevation numbers for sure,
 though the boardwalk makes the terrain easy. Still, day 1 is the day with
 the heaviest packs, and I wasn't used to walking with my Aarn pack, so
 I did twist my ankle twice when it was just a bit rocky. I should get it adjusted again.
 But it turns out that the Overland
-Track has 4 of the 6 days at about 3-4 hours for average walkers, with
+Track has 4 of the 6 days estimated at about 3-4 hours for average walkers, with
 much of the difficulty in the side trips. NZ Great Walks side trips
 are short, like 1-2 hours. Not these!
 
@@ -119,11 +119,11 @@ I was there, and more like 5. I enjoyed the views for a bit and then headed back
 <figcaption style="text-align:center">Cheeky currawong; Tasmanian nativehen; buttongrass moorland; moonrise near Crater Lake; Crater Lake Lookout, with Lilla and Dove Lakes; view back to Ronny Creek.</figcaption>
 </figure>
 
-# Benson Peak, Barn Bluff view, and the hut
+# Benson Peak, Barn Bluff view, and the Waterfall Valley hut
 
 After a toilet break back at Kitchen Hut, we continued towards
 Waterfall Valley Hut, with 2 hours until sunset.  The next mountain
-one passes underneath Benson Peak, which is shaped similarly to
+one passes underneath is Benson Peak, which is shaped similarly to
 Cradle. From Cradle, one can also see Barn Bluff, which is with us for
 quite a while, though I didn't quite manage to ID it for a while.
 
@@ -136,7 +136,7 @@ we decided that we'd take it easy on day 2. Many people did leave early
 from Waterfall Valley, backtracked half an hour, climbed Barn Bluff, and then
 did the rest of the day 2 walk.
 
-We arrived at the hut at 5:30pm, right around sunset. MP saw a wallaby near the hut;
+We arrived at the Waterfall Valley hut at 5:30pm, right around sunset. MP saw a wallaby near the hut;
 I missed it. I did also do some night photography later. I observed another hiker who
 had had a shoe disaster. Apparently in Australia's dry climate, unused shoes delaminate,
 thus ending one's hike.
