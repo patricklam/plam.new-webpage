@@ -18,6 +18,11 @@ summary:    "Advertised as \"Australia's premier alpine walk\", we had six days 
 .meta { color: white; }
 </style>
 
+Next:
+* [Part 2: Before the walk: Melbourne, Hobart and Launceston](/post/20240616-overland-track-before-the-walk)
+* [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
+
+
 For another change of pace, we went to Tasmania and hiked the [Overland Track](https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track) over 6 days. The scenery is outstanding and we were lucky to get a high pressure system giving us 6 days of blue skies in May. Let's talk about overall impressions here, and then about a day-by-day recap in the next post.
 
 <figure>
@@ -202,8 +207,14 @@ Tasmania. We didn't see any actual snow, but it does happen on this track; there
 are reports of it over Christmas. New Zealand Great Walks can very much have snow,
 and avalanches.
 
+# Big Bonus
+
+In general, people are concerned about the dangerous animals of Australia.
+Tasmania does have some snakes but is mostly free of these animals. One animal that
+is in New Zealand but not Tasmania, at least in May, is the sandfly. Hurrah! That part
+was amazing.
+
 # Preview
 
-Next up: our day-by-day adventures on the Overland Track! The first day was relatively long,
-and the two mountains day went until about sunset, but the other days were short, even if the days
-are short in May.
+In the next segment: how we got from Wellington to Launceston.
+* [Part 2: Before the walk: Melbourne, Hobart and Launceston](/post/20240616-overland-track-before-the-walk)

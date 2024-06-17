@@ -9,7 +9,7 @@ categories: ["trip-reports", "hiking"]
 published:  true
 image:      "/img/20240616-overland-track-before-the-walk/20240428_232616385_hobart_from_the_river.avif"
 showtoc:    true
-summary:    "Getting to Tasmania is pretty easy, but here's how we did it."
+summary:    "Getting to Tasmania is pretty easy, but here's how we did it, stopping by Melbourne and then to Hobart and Launceston."
 
 ---
 
@@ -18,8 +18,14 @@ summary:    "Getting to Tasmania is pretty easy, but here's how we did it."
 .meta { color: white; }
 </style>
 
+Previously:
+* [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
+
+Next:
+* [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
+
 I should have pulled this into its own post as well, instead of incorporating it into the April report.
-But I can cut and paste and re-edit it.
+But blog posts are not written in stone, and I can cut and paste and re-edit it.
 
 I'd noticed Air New Zealand's new Auckland-Hobart nonstop last year and booked it a few months ago.
 Thus, originally, we weren't even supposed to have a stop in Melbourne! But, Air New Zealand (and many
@@ -177,4 +183,9 @@ and would also serve as breakfast.
 
 # Next up: Onto the actual track
 
-OK! in the next installment we'll start to write about the track itself.
+OK! in the next installment we'll start to write about the track
+itself. The first day was relatively long, and the two mountains day
+went until about sunset, but the other days were short, even if the
+days are short in May.
+
+* [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
