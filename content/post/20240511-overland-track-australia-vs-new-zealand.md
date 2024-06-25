@@ -18,9 +18,12 @@ summary:    "Advertised as \"Australia's premier alpine walk\", we had six days 
 .meta { color: white; }
 </style>
 
-Next:
-* [Part 2: Before the walk: Melbourne, Hobart and Launceston](/post/20240616-overland-track-before-the-walk)
+Links to other parts of this trip report:
+
+* [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
+* [Part 2: Before the walk](/post/20240616-overland-track-before-the-walk)
 * [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
+* [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere)
 
 
 For another change of pace, we went to Tasmania and hiked the [Overland Track](https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track) over 6 days. The scenery is outstanding and we were lucky to get a high pressure system giving us 6 days of blue skies in May. Let's talk about overall impressions here, and then about a day-by-day recap in the next post.

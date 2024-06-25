@@ -49,7 +49,7 @@
 
     <link rel="canonical" href="{{ .Permalink | relURL }}">
 
-    {{ if and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments) }}
+    {{ if and (not (eq .Site.Config.Services.Disqus.Shortname "")) (not .Params.disable_comments) }}
     <link rel="stylesheet" href="{{ "css/iDisqus.min.css" | relURL }}"/>
 
     {{ end }}

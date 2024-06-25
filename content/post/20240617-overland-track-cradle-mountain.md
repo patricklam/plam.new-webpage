@@ -9,7 +9,7 @@ categories: ["trip-reports", "hiking"]
 published:  true
 image:      "/img/20240617-overland-track-cradle-mountain/04_09464_flats_and_peaks.avif"
 showtoc:    true
-summary:    "Getting to Tasmania is pretty easy, but here's how we did it."
+summary:    "Our first day of actual hiking on the Overland Track, up onto the plateau and atop Cradle Mountain to Waterfall Valley Hut, our first Tasmanian Hut."
 
 ---
 
@@ -17,6 +17,13 @@ summary:    "Getting to Tasmania is pretty easy, but here's how we did it."
 .post-heading h1  { color: white; text-shadow: 2px 2px 2px grey; }
 .meta { color: white; }
 </style>
+
+Links to other parts of this trip report:
+
+* [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
+* [Part 2: Before the walk](/post/20240616-overland-track-before-the-walk)
+* [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
+* [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere)
 
 # Track Transport: Launceston to Cradle Mountain Visitor Centre
 

@@ -2,11 +2,14 @@ baseurl = "https://patricklam.ca"
 title = "Patrick Lam"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
-disqusShortname = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = false
 ignoreErrors = [ "error-remote-getCSV" ]
+
+[services]
+  [services.disqus]
+    shortname = ''
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]

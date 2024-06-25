@@ -18,11 +18,12 @@ summary:    "Getting to Tasmania is pretty easy, but here's how we did it, stopp
 .meta { color: white; }
 </style>
 
-Previously:
-* [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
+Links to other parts of this trip report:
 
-Next:
+* [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
+* [Part 2: Before the walk](/post/20240616-overland-track-before-the-walk)
 * [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
+* [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere)
 
 I should have pulled this into its own post as well, instead of incorporating it into the April report.
 But blog posts are not written in stone, and I can cut and paste and re-edit it.
