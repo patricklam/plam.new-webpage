@@ -8,7 +8,6 @@ tags:       ["covid"]
 categories: []
 published:  true
 showtoc:    false
-markup:     mmark
 image:      "/img/20200904-intl-covid-munging/coronavirus.jpg"
 
 ---
