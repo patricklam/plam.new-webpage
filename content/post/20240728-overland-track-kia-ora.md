@@ -149,11 +149,16 @@ Zealand when he was younger. I also have some recollection that it was actually 
 with the name. Anyway, there is definitely some sort of connection to Aotearoa, but I don't have authoritative
 information about the connection. The plaques are far from me.
 
-Ironically, Kia Ora Hut (newly rebuilt for 2022) was by far the warmest hut on the trip. Too warm. Which is totally
-not the case for average NZ housing. There are new housing standards put in place by the previous Labour government,
-which now require adequate insulation, though I just read in the news that the National minister wants to roll them
-back (they want to roll everything back, even things that are supported by 99% of comments during the public
-comment period).
+Ironically, Kia Ora Hut (newly rebuilt for 2022) was by far the
+warmest hut on the trip. Too warm. Which is totally not the case for
+average NZ housing. There are new housing standards put in place by
+the previous Labour government, which now require adequate insulation,
+though I just [read in the
+news](https://www.rnz.co.nz/news/national/522432/insulation-cost-relatively-small-for-standard-home)
+that the National minister in charge of Building and Construction
+wants to roll them back (they want to roll everything back, even
+things that are supported by 99% of comments during the public comment
+period).
 
 <figure>
 {{< gallery-slider dir="/img/20240624-overland-track-windermere/early-morning" >}}
