@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Trip report: Overland Track, Tasmania—part 6 (day 4), Kia Ora with Mts Ossa and Pelion East"
+title:      "Trip report: Overland Track, Tasmania—part 7 (day 4), Kia Ora with Mts Ossa and Pelion East"
 date:       2024-07-20
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
@@ -9,7 +9,7 @@ categories: ["trip-reports", "hiking"]
 published:  true
 image:      "/img/20240728-overland-track-kia-ora/20_09851_chiaroscuro_v1.avif"
 showtoc:    true
-summary:    "A much easier day on the Overland Track, slightly downhill overall, with a side trip to Lake Will, no waterfalls, a platypus, a wombat, and few birds."
+summary:    "'Mountain day' on the Overland Track, through Pelion Gap with side trips to Ossa (Tasmania highpoint) and Pelion East, before reaching Kia Ora Hut during golden hour."
 
 ---
 
