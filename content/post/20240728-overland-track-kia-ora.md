@@ -68,12 +68,12 @@ estimates.
 # To the Gap
 
 Pelion Gap is where one turns off the main Overland Track for Ossa and
-Pelion East. We left just before 7AM and walked mildly uphill through the forest for
+Pelion East. We left New Pelion Hut just before 7AM and walked mildly uphill through the forest for
 two hours. Not much to say about this part of the walk. We saw some mushrooms,
 pholiota malicola?
 
 We've previously talked about currawongs' propensity to steal food. They can open
-zippers. There's a warning about them on a sign on the ground.
+zippers. At Pelion Gap, there's a warning about them on a sign on the ground.
 
 Not wanting to reproduce the Cradle Mountain lack of food problem, this time
 I brought my pack up, though we put everything heavy into MP's pack.
@@ -96,7 +96,7 @@ there is Pelion Gap between the mountains, and then the summit plateau
 of Ossa was also guarded by two subpeaks; we take the scree between
 the subpeaks. After ascending the scree, there is a striking tarn,
 which makes a great photo spot. But it's not quite the summit. It's
-about 50m below the summit.
+about 50m vertical below the summit.
 
 (Wow, the GPS info on my pictures, even the ones from my phone, is
 quite bad, especially the elevation info, listing some 1154m
@@ -115,8 +115,10 @@ Maybe they keep your stuff from getting wet, but I use dry bags for that.
 One advantage of a pack cover, though, is that currawongs can't operate the zippers if a pack is
 protected by a pack cover.
 
-We didn't have pack covers, so a currawong ate many of our snacks. No more M&Ms for us. I think that
-putting the snacks in the bag itself, rather than the Aarn pack's front pouches, might have worked.
+We didn't have pack covers, and did have food "protected" by zippers,
+so a currawong ate many of our snacks. No more M&Ms for us. I think
+that putting the snacks in the bag itself, rather than the Aarn pack's
+front pouches, might have worked. Currawongs aren't keas and I don't think they tear through nylon.
 
 <figure>
 {{< gallery-slider dir="/img/20240728-overland-track-kia-ora/back-at-gap" >}}
