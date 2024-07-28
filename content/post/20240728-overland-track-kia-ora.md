@@ -2,12 +2,12 @@
 layout:     post
 
 title:      "Trip report: Overland Track, Tasmania—part 6 (day 4), Kia Ora with Mts Ossa and Pelion East"
-date:       2024-07-28
+date:       2024-07-20
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  false
-image:      "/img/20240624-overland-track-windermere/09534_drying_tents_in_the_shadow_of_the_mountain_v1.avif"
+published:  true
+image:      "/img/20240728-overland-track-kia-ora/20_09851_chiaroscuro_v1.avif"
 showtoc:    true
 summary:    "A much easier day on the Overland Track, slightly downhill overall, with a side trip to Lake Will, no waterfalls, a platypus, a wombat, and few birds."
 
@@ -18,35 +18,45 @@ summary:    "A much easier day on the Overland Track, slightly downhill overall,
 .meta { color: white; }
 </style>
 
-Links to other parts of this trip report:
+# TR Navigation
+
+Other parts of this trip report:
 
 * [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
 * [Part 2: Before the walk](/post/20240616-overland-track-before-the-walk) [[Melbourne photos](https://gallery.patricklam.ca/index.php?/category/1881), [Hobart](https://gallery.patricklam.ca/index.php?/category/1891), [Launceston](https://gallery.patricklam.ca/index.php?/category/1880)]
 * [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain) [[photos](https://gallery.patricklam.ca/index.php?/category/1884)]
 * [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere) [[photos](https://gallery.patricklam.ca/index.php?/category/1879)]
-* [Part 5: Overland Track day 3, Pelion](/post/20240713-overland-track-pelion) [[photos](https://gallery.patricklam.ca/index.php?/category/1875)]
+* [Part 5: Overland Track day 3, Pelion](/post/20240718-overland-track-pelion) [[photos](https://gallery.patricklam.ca/index.php?/category/1875)]
+* [Part 6: Overland Track day 4, Kia Ora](/post/20240728-overland-track-kia-ora) [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
+* Part 7: Overland Track day 5, Bert Nichols [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
+* Part 8: Overland Track day 6, Narcissus [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
+* [All Overland Track photos](https://gallery.patricklam.ca/index.php?/category/1874)
 
-Now I'm onto processing photos from day 5, so I definitely have the [day 4 photos](https://gallery.patricklam.ca/index.php?/category/1906) available.
-
-"Today is mountain day" says the guidebook.
+<figure>
+{{< gallery-slider dir="/img/20240728-overland-track-kia-ora/highlights" >}}
+<figcaption style="text-align:center">Pondering Pelion East; Pelion East from Ossa; me and MP at Ossa summit plateau tarn; me at Pelion East summit; view from Pelion East; marsh/forest/mountain; Kia Ora Hut.</figcaption>
+</figure>
 
 # Itinerary for Day 4 from New Pelion Hut to Kia Ora Hut&mdash;mountain day
+
+"Today is mountain day" says the guidebook.
 
 The mountains are optional
 but there are 3 that one can do, including Tasmania's highpoint, which
 is Mount Ossa (and not Cradle Mountain). "If fine weather and time
 allows, you may choose to attempt to summit Tasmania's highest
-mountain (Mt Ossa, 1617m)." Without the mountains, it is another short
+mountain (Mount Ossa, 1617m)." Without the mountains, it is another short
 3-4 hour day, with 8.6km and 300m elevation gain/loss. We had about 10
 hours of daylight and fine weather, so we did indeed climb Mount Ossa,
-and then I managed to talk MP into climbing Mt Pelion East as well.
+and then I managed to talk MP into climbing Mount Pelion East as well.
 
-The other mountain that one can climb is Oakleigh, but that is best
+The other mountain that one can climb is Mount Oakleigh, but that is best
 done either on a rest day, or, as many people who hiked with us did,
-at the end of day 3 (which was easy).  Book time for day 3 is 5-7
-hours and for Oakleigh is 4-6 hours, so definitely doable in a day.
+at the end of (short) day 3.  Book time for day 3 is 5-7
+hours and for Oakleigh is 4-6 hours, so definitely doable in a day, if one is at the fast end of the range,
+though it would still be wise to start before sunrise.
 
-I had actually seen Pelion West on the map; it would also be on day 3,
+I had actually seen Mount Pelion West on the map; it would also be on day 3,
 but the trail looked overgrown and there was a fair amount of
 elevation gain.
 
@@ -70,10 +80,17 @@ I brought my pack up, though we put everything heavy into MP's pack.
 
 # Mount Ossa
 
-A state highpoint! The ranger had advised that even if one wasn't going to summit Ossa, it was well worth it to
-walk 15 minutes, under Mount Doris, for the view. The track was boardwalk and paving stones for quite a while.
+A state highpoint! The ranger at New Pelion Hut had advised that even
+if one wasn't going to summit Ossa, it was well worth it to walk 15
+minutes, under Mount Doris, for the view. The track was boardwalk and
+paving stones for quite a while.
 
-Eventually there are stairs and then (large) scree, where we stowed
+<figure>
+{{< gallery-slider dir="/img/20240728-overland-track-kia-ora/ossa" >}}
+<figcaption style="text-align:center">(Basalt?) columns on Ossa; me at Mount Ossa summit; columns and other mountains; Ossa and Pelion East; poles and Lake Macfarlane and mountains; walkway.</figcaption>
+</figure>
+
+Eventually there are stairs and then a boulder field, where we stowed
 our poles for the scrambling-ish part.  Things are fractal, and so
 there is Pelion Gap between the mountains, and then the summit plateau
 of Ossa was also guarded by two subpeaks; we take the scree between
@@ -99,7 +116,12 @@ One advantage of a pack cover, though, is that currawongs can't operate the zipp
 protected by a pack cover.
 
 We didn't have pack covers, so a currawong ate many of our snacks. No more M&Ms for us. I think that
-putting the snacks in the bag itself, rather than the front pouches, might have worked.
+putting the snacks in the bag itself, rather than the Aarn pack's front pouches, might have worked.
+
+<figure>
+{{< gallery-slider dir="/img/20240728-overland-track-kia-ora/back-at-gap" >}}
+<figcaption style="text-align:center">Currawong attack result; tent, drying; chilling at the platform.</figcaption>
+</figure>
 
 # Mount Pelion East
 
@@ -128,6 +150,11 @@ much. Definitely a currawong, but maybe also some thornbills. Also I
 only had the 16-50mm kit lens on the summits, which is generally not suitable for bird
 photography.
 
+<figure>
+{{< gallery-slider dir="/img/20240728-overland-track-kia-ora/mount-pelion-east" >}}
+<figcaption style="text-align:center">Reaching the rocky bit; Emma action shot; Emma on Pelion East; me and MP; pillars on Pelion East.</figcaption>
+</figure>
+
 # Kia Ora Hut
 
 We repacked and ate some of our diminished snack supply, leaving at 3:50PM (so just over 2 hours
@@ -139,9 +166,14 @@ There is a thing in Australia called "spotlighting", where one attempts to see n
 I did manage to see some possums outside Kia Ora Hut, though didn't really get good photos of them.
 There were 3 of them, including ring-tailed possums.
 
+<figure>
+{{< gallery-slider dir="/img/20240728-overland-track-kia-ora/kia-ora-hut" >}}
+<figcaption style="text-align:center">Cathedral Mountain; Kia Ora hut toilets; some possums; heater out of order.</figcaption>
+</figure>
+
 # About that hut name
 
-"Kia ora" is a Māori greeting often used in Aotearoa New Zealand. Tasmania is not part of Aotearoa, so what gives?
+"Kia ora" is a te reo Māori greeting often used in Aotearoa New Zealand. Tasmania is not part of Aotearoa, so what gives?
 It is hard to find this information on the Internet, but it is written on the interpretative plaques in the huts.
 Unfortunately I didn't take pictures of these plaques. The Internet says that Kia Ora Hut was initially built by
 [Paddy Hartnett](https://adb.anu.edu.au/biography/hartnett-patrick-joseph-paddy-12967), who had spent time in New
@@ -160,9 +192,5 @@ wants to roll them back (they want to roll everything back, even
 things that are supported by 99% of comments during the public comment
 period).
 
-<figure>
-{{< gallery-slider dir="/img/20240624-overland-track-windermere/early-morning" >}}
-<figcaption style="text-align:center">Barn Bluff at 7:30AM; frosty plants; frozen puddle; ranger's hut and more frost.</figcaption>
-</figure>
 
 
