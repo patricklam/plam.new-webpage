@@ -31,6 +31,7 @@ available. As always, pictures are clickable to go to the full gallery.
 * Total pictures posted: 648
 * Total pictures in selection pool: 1828
 * Accept rate: 35% (min 16%, max 68%)
+* Pictures posted on this page: 96
 
 <figure>
 {{< gallery-slider dir="/img/20240801-july-photos/highlights" >}}
