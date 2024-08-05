@@ -45,7 +45,7 @@ Usually, smaller sets have higher accept rates. It does depend on the subject, t
 * [Hobart, April 29](https://gallery.patricklam.ca/index.php?/category/1891) (69/146)
 * [Overland Track day 4 to Kia Ora Hut, May 4](https://gallery.patricklam.ca/index.php?/category/1906) (74/285)
 
-The trip report for this trip is in progress: [part 1](patricklam.ca/post/20240511-overland-track-australia-vs-new-zealand/) etc. As I write this, photos are still ahead of write-up, but you can read about [Hobart](http://localhost:1313/post/20240616-overland-track-before-the-walk/) in part 2.
+The trip report for this trip is in progress: [part 1](patricklam.ca/post/20240511-overland-track-australia-vs-new-zealand/) etc. As I write this, photos are still ahead of write-up, but you can read about [Hobart](/post/20240616-overland-track-before-the-walk/) in part 2.
 
 <figure>
 {{< gallery-slider dir="/img/20240703-june-photos/overland" >}}
