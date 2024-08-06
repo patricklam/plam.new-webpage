@@ -8,12 +8,12 @@ tags:       []
 categories: ["travel"]
 published:  true
 showtoc:    true
-image:      "/img/20200311_201921_pink_sky_banner.jpg"
+image:      "/img/20200421-alta-double-cone/20200311_201921_pink_sky_banner.avif"
 summary:    "On our previous trip to the South Island we stayed around Wanaka cragging and hiking. Although the Darrens were still washed out during our visit, The Remarkables feature some multipitch climbing. In particular, our borrowed Queenstown guidebook listed a dozen climbs above Lake Alta (aka Dimrill Dale). We’d go to Lake Alta and then up to Double Cone and find a moderate climb. To Lake Alta Alpine starts are well advised but difficult, especially after riverboarding the previous day, having dinner in Queenstown with Waterloo students on exchange, and getting back to our Frankton airbnb at 9pm."
 
 ---
 
-<p style="text-align:center"><a href="https://gallery.patricklam.ca/index.php?/category/1221">Double Cone gallery</a></p>
+<p style="text-align:center">Link: <a href="https://gallery.patricklam.ca/index.php?/category/1221">Double Cone gallery</a></p>
 
 On our <a href="https://patricklam.ca/post/20200212-climbing-in-wanaka/">previous trip to the South Island</a> we
  stayed around Wanaka cragging and hiking. Although the Darrens were <a href="https://www.newshub.co.nz/home/new-zealand/2020/02/weather-incredible-footage-of-milford-rd-washed-out-by-torrential-rain-shows-the-extent-of-damage.html">still washed out</a> during our
@@ -42,10 +42,10 @@ chairlift</a>. It was interesting to see how they staged the
 materiel. And we got to enjoy occasional construction noise (plus
 dynamiting later in the day).
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/index.php?/8739/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_083818_chairs-xs.jpg"> <img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_083915_work_site-xs.jpg">
-</a></p>
-
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/base" >}}
+<figcaption style="text-align:center">Chairlifts; work site.</figcaption>
+</figure>
 
 The guidebook said that getting to the top of the Alta Chairlift (1km,
 126m gain) would take 20 minutes, while mapy.cz said 30 minutes. We
@@ -53,10 +53,10 @@ got lost, bushwhacked, and it took us about 30 minutes. The actual
 trail is class-1 gravel. Another 35 minutes (1.25km, 166m) got us to
 Lake Alta at 9:30. (The Internet says 30-45 minutes).
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8744/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_090848_bullwheel-xs.jpg"></a>
-<a href="https://gallery.patricklam.ca/picture.php?/8751/category/1221"><img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_095644_blue_sky_in_lake_alta_v1-xs.jpg"></a>
-</p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/top-of-lift" >}}
+<figcaption style="text-align:center">Bullwheel; blue sky in Lake Alta.</figcaption>
+</figure>
 
 # The Approach
 From there it looked like we were close to the base but we took another
@@ -65,11 +65,10 @@ get to the base of our climb, George, which was supposed to be 5 pitches
 (grades 14, 14, 13, 14, 9). That last part of the approach also involved 400m
 of elevation gain.
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8753/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_121134_inspecting_the_rock-xs.jpg"></a>
-<a href="https://gallery.patricklam.ca/picture.php?/8755/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_130907_some_overhangs-xs.jpg"></a>
-</p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/base-of-climb" >}}
+<figcaption style="text-align:center">Inspecting the rock; some overhangs.</figcaption>
+</figure>
 
 I think that the guidebook's 1h30 of approach is from the end of the
 Lake Alta track.  We still exceeded that by quite a bit, especially
@@ -89,8 +88,10 @@ Zealand. Apparently <a
 href="https://www.doc.govt.nz/parks-and-recreation/things-to-do/hunting/where-to-hunt/otago/central-otago-and-the-remarkables-hunting/where-to-hunt/remarkables-wye-creek/">hunting</a>
 is allowed.
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8756/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_131007_why_a_chamois_v1-xs.jpg"></a></p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/chamois" >}}
+<figcaption style="text-align:center">Why chamois?</figcaption>
+</figure>
 
 # The Route
 Pitch difficulty and routefinding was manageable for the first three
@@ -105,10 +106,10 @@ Petit Couloir. I had a couple of look-arounds at the base of pitch 4
 and noticed the Petit Couloir rap anchor.  All pretty confusing. Bolt
 anchors help a lot for routefinding, and there weren't any here.
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8759/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_150442_grassy_climb-xs.jpg"></a>
-<a href="https://gallery.patricklam.ca/picture.php?/8762/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/i.php?/galleries/2003-queenstown/200311-double-cone/20200311_170631_lake_alta-xs.jpg"></a></p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/route" >}}
+<figcaption style="text-align:center">Grassy climb; Lake Alta.</figcaption>
+</figure>
 
 In any case, the climbing was quite reasonable (especially compared to
 other New Zealand climbs) and we were at the top 3.5 hours after
@@ -116,12 +117,10 @@ leaving the bottom. Pitches went at about 40-50 minutes each,
 including setting up gear anchors. This got us to the summit (Double
 Cone North Peak) at 17:55, so 2 hours before sunset.
 
-<p style="text-align:center; margin-bottom: 0">
-<a href="https://gallery.patricklam.ca/picture.php?/8737/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311181017434_mp_on_summit-me.jpg"></a>
-<a href="https://gallery.patricklam.ca/picture.php?/8764/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_175536-EFFECTS_summit-me.jpg"></a>
-</p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/summit" >}}
+<figcaption style="text-align:center">MP on summit; summit.</figcaption>
+</figure>
 
 # Descent
 The guidebook discusses two options: if one summits Double Cone vs
@@ -147,11 +146,10 @@ once did we knock down big rocks. We got to the end of the rappels at
 8:00pm having lost 100m of elevation. So that left us 500m of elevation
 to lose after sunset.
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8768/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_194146_mystery_walkers-xs.jpg"></a>
-<a href="https://gallery.patricklam.ca/picture.php?/8769/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_195848_good_light_for_now-xs.jpg"></a>
-</p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/starting-descent" >}}
+<figcaption style="text-align:center">Mystery walkers; good light (for now).</figcaption>
+</figure>
 
 The scree was tiresome and, as always, harder to descend than to
 ascend.  It turns out that it took us 3 hours to get back to the top
@@ -165,8 +163,10 @@ trail.
 Getting to the car took us another 40 minutes in the dark even on
 super easy gravel for a total of 15 hours car-to-car.
 
-<p style="text-align:center; margin-bottom: 0"><a href="https://gallery.patricklam.ca/picture.php?/8773/category/1221">
-<img style="display:inline" src="https://gallery.patricklam.ca/_data/i/galleries/2003-queenstown/200311-double-cone/20200311_234133_back_at_car-xs.jpg"></a></p>
+<figure>
+{{< gallery-slider dir="/img/20200421-alta-double-cone/back-at-car" >}}
+<figcaption style="text-align:center">Back at car.</figcaption>
+</figure>
 
 # Back to Queenstown and Wanaka
 
@@ -193,7 +193,7 @@ th:first-child { text-align: left; }
 | top p2   	     | 15:53 | +35 |2249m|
 | mp p2    	     | 16:04 | +11 |
 | top p3   	     | 16:35 | +31 | |
-| top p4 (3rd class) | 17:19 | +44 | 2270m |
+| top p4 (3rd class)&nbsp;&nbsp;&nbsp;&nbsp; | 17:19 | +44 | 2270m |
 |                    | 17:43 | +24 | 2289m |
 | summit             | 17:55 | +12  | 2313m |
 | started descent    | 18:10 | +15 | |
