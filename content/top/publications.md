@@ -105,13 +105,13 @@ Patrice Pominville, and Vijay Sundaresan.  CC 2000: <a href="/papers/cc2000.ps">
 
 # Theses
 <ul>
-  <li>Patrick Lam. PhD thesis, MIT, February 2007: <a href="/papers/plam-thesis.ps">The Hob System for Verifying Software Design Properties</a>. [<a href="/papers/plam-thesis.pdf">pdf</a>, <a href="/papers/plam-thesis.bib">bib</a>]</li>
-  <li>Patrick Lam. MSc thesis, McGill University, August 2000: <a href="/papers/plam-mscThesis.ps">A Generalized Framework for the Flow Analysis of Concurrent Programs</a>. [<a href="/papers/plam-mscThesis.pdf">pdf</a>, <a href="/papers/plam-mscThesis.bib">bib</a>]</li>
+  <li>Patrick Lam. PhD thesis, MIT, February 2007: <a href="/papers/plam-thesis.pdf">The Hob System for Verifying Software Design Properties</a>. [<a href="/papers/plam-thesis.ps">ps</a>, <a href="/papers/plam-thesis.bib">bib</a>]</li>
+  <li>Patrick Lam. MSc thesis, McGill University, August 2000: <a href="/papers/plam-mscThesis.pdf">A Generalized Framework for the Flow Analysis of Concurrent Programs</a>. [<a href="/papers/plam-mscThesis.ps">pdf</a>, <a href="/papers/plam-mscThesis.bib">bib</a>]</li>
 </ul>
 
 # Other publications
 
 <ul>
-  <li>Patrick Lam, Viktor Kuncak and Martin Rinard.  Technical Report 933, MIT Computer Science and Artificial Intelligence Laboratory: <a href="/papers/OnModularPluggableAnalyses.ps">On Modular Pluggable Analyses Using Set Interfaces</a> [<a href="/papers/OnModularPluggableAnalyses.pdf">pdf</a>, <a href="/papers/OnModularPluggableAnalyses.bib">bib</a>].</li> 
-  <li>Patrick Lam, Viktor Kuncak and Martin Rinard.  <a href="/papers/GeneralizedTypestate.ps">Generalized Typestate Checking Using Set Interfaces and Pluggable Analyses</a> [<a href="/papers/GeneralizedTypestate.pdf">pdf</a>, <a href="/papers/GeneralizedTypestate.bib">bib</a>]. SIGPLAN Notices, Volume 39, Issue 3 (March 2004), pages 46-55.</li>
+  <li>Patrick Lam, Viktor Kuncak and Martin Rinard.  Technical Report 933, MIT Computer Science and Artificial Intelligence Laboratory: <a href="/papers/OnModularPluggableAnalyses.pdf">On Modular Pluggable Analyses Using Set Interfaces</a> [<a href="/papers/OnModularPluggableAnalyses.ps">ps</a>, <a href="/papers/OnModularPluggableAnalyses.bib">bib</a>].</li> 
+  <li>Patrick Lam, Viktor Kuncak and Martin Rinard.  <a href="/papers/GeneralizedTypestate.pdf">Generalized Typestate Checking Using Set Interfaces and Pluggable Analyses</a> [<a href="/papers/GeneralizedTypestate.ps">ps</a>, <a href="/papers/GeneralizedTypestate.bib">bib</a>]. SIGPLAN Notices, Volume 39, Issue 3 (March 2004), pages 46-55.</li>
 </ul>
