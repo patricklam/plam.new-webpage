@@ -69,7 +69,7 @@ though maybe not the famous Melbourne food I was hoping for.
 
 Alex had invited us to stay over with him in Eltham when we had last visited
 Melbourne for our one-day stopover on our way to Hobart in May, and I took him up on his offer this time.
-We got up early on Sunday to head to [Sherbrooke Forest](https://www.parks.vic.gov.au/places-to-see/parks/dandenong-ranges-national-park), which contains Grant's Picnic Ground and the [Lyrebird Walk](https://explorethedandenongs.com.au/neuman-track-lyrebird-walk-sherbrooke-forest-dandenongs/). After walking for a while we did manage to see one&mdash;as Alex put it, when you give up hope, then the lyrebird appears. It wasn't in full display, so I was like "is that really a lyrebird?", but it definitely was. And then, except for the lyrebird and the galah, there were tons of birds just at the parking lot (where they used to feed birds).
+We got up early on Sunday to head to [Sherbrooke Forest](https://www.parks.vic.gov.au/places-to-see/parks/dandenong-ranges-national-park), which contains Grant's Picnic Ground and the [Lyrebird Walk](https://explorethedandenongs.com.au/neuman-track-lyrebird-walk-sherbrooke-forest-dandenongs/). After walking for a while we did manage to see a superb lyrebird&mdash;as Alex put it, when you give up hope, then the lyrebird appears. It wasn't in full display, so I was like "is that really a lyrebird?", but it definitely was. And then, except for the lyrebird and the galah, there were tons of birds just at the parking lot (where they used to feed birds).
 
 <figure>
 {{< gallery-slider dir="/img/20240812-melbourne-cairns/sherbrooke-forest" >}}
