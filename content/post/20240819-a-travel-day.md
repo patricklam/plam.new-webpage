@@ -97,7 +97,7 @@ on the 45-minute YUL-YOW segment is not really that helpful.
 
 <figure>
 {{< gallery-slider dir="/img/20240819-a-travel-day/yul" >}}
-<figcaption style="text-align:center">Not doing shenanigans at YUL.</figcaption>
+<figcaption style="text-align:center">Not doing shenanigans at YUL, including the tunnel to the aeroquai.</figcaption>
 </figure>
 
 <b>The whole point of this post is the shenanigans that become possible
