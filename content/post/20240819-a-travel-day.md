@@ -43,7 +43,7 @@ skis.
 To maximize Air Canada (lifetime) miles, I'd booked
 YUL-YVR-BNE-WLG&mdash;that is, Montreal to Vancouver to Brisbane to
 Wellington, adding about 1600mi over the Auckland routing.  Air Canada
-only offers seasonal service to Auckland, but May isn't the season.
+only offers seasonal service to Auckland, but May isn't the season (it is December through March).
 So, the total scheduled distance for the Brisbane routing is 11207
 miles, with a theoretical YUL-WLG being 9083mi and YUL-YVR-AKL-WLG
 being 9636mi.
