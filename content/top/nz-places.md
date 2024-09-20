@@ -278,6 +278,8 @@ There isn't that much roped climbing near Wellington and a bit more bouldering. 
 * Wellington Closed (December 2022), 1st (-66)
 * Wellington Open (June 2023), 2nd (-66)
 * North Island Championships (July 2023), 2nd (-66)
+* Wellington Open (June 2024), 3rd (-66)
+* Waikato Bays Open (August 2024), 3rd (-66)
 
 ## Airports
 
@@ -345,6 +347,7 @@ Flown to 6/12 North Island Air NZ stations and 8/8 South Island stations.
 ### Wellington
 
 * [Wright's Hill Fortress](https://wrightshillfortress.org.nz/) (October 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1288)): fortified fortress from controlling vantage point for Wellington Harbour
+* [Kapiti Island Nature Tours](https://www.kapitiisland.com/) (June 2024)
 
 Also see my [Tourist Guide to Wellington](/wellington).
 
