@@ -40,7 +40,14 @@ Another way that I can't relate with the characters in the book is that the youn
 
 In the context of the story, the five main characters in the book&mdash;the parents, Debbie and Phil; the kids, Jessica and Dustin; and the cousin Thuy, all evolve throughout the course of the story, which is satisfying. It's a family that is not dissimilar from the Simpsons, though 20 years older. The family members all have their flaws, and indeed, have to clean up after each others' messes. But they are ultimately loyal to each other and to the minor characters, which plays a role in the denouément.
 
-I was thinking about whether it was a deus-ex-machina set of saves at the end. I don't think it is; the groundwork had been laid a few years ago through the family's actions, and bore fruit in the end, after many unsuccessful schemes.
+I was thinking about whether it was a deus-ex-machina set of saves at the end. I don't think it is; the groundwork had been laid a few years ago through the family's actions, and bore fruit in the end, after many unsuccessful schemes. But as some other review said, it was perhaps a bit too neat. And yet there are still a lot of open questions about what will happen in the future; it's not that everything is suddenly resolved. Which reminds me of a complaint I've heard about stories, which have a beginning, a middle, and an end. Real life doesn't do that.
+
+<figure>
+{{< gallery-slider dir="/img/20240919-review-sunshine-nails/naillington">}}
+<figcaption style="text-align:center">Naillington in Wellington, very much not Sunshine Nails, but also not Take Ten (its rival in the book).</figcaption>
+
+</figure>
+
 
 [^1]: The whole "nation" discourse is not a thing in Aotearoa New Zealand; "iwi" can apparently translate to "nation", but it's not the same; the Māori King movement, which has been in the news lately with the new Queen, was an attempt to establish an equivalent to the British monarch, but it's not the same.
 
