@@ -30,7 +30,7 @@ available. As always, pictures are clickable to go to the full gallery.
 * Total pictures posted: 346 (523)
 * Total pictures in selection pool: 2037 (2064)
 * Accept rate: 17% (min 8%, max 52%) (July: 25%)
-* Pictures posted on this page: N
+* Pictures posted on this page: 53
 
 <figure>
 {{< gallery-slider dir="/img/20241002-september-photos/highlights" >}}
@@ -78,7 +78,7 @@ and next time they're visiting in February again. Anyway, we met up with them ar
 
 <figure>
 {{< gallery-slider dir="/img/20241002-september-photos/rotokare-and-opunake" >}}
-<figcaption style="text-align:center">Lake Rotokare from above; stuck bee/warp; shag drying; tractors at the museum; tile bench with tūī and harakeke; MP on a swing; cow; tiled mailbox; surfboards wall.</figcaption>
+<figcaption style="text-align:center">Lake Rotokare from above; stuck bee/wasp; shag drying; tractors at the museum; tile bench with tūī and harakeke; MP on a swing; cow; tiled mailbox; surfboards wall.</figcaption>
 </figure>
 
 # Petrel Station (August 2023)
