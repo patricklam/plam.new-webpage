@@ -19,7 +19,7 @@ showtoc:    false
 # Refereed Publications
 
 <ul>
-  <li>Alex Le Blanc and Patrick Lam. To appear at HATRA 2024: Surveying the Rust Verification Landscape. [<a href="/papers/24.hatra.rust-verification.bib">bib</a>]</li>
+  <li>Alex Le Blanc and Patrick Lam. To appear at HATRA 2024: <a href="/papers/24.hatra.rust-verification.pdf">Surveying the Rust Verification Landscape</a>. [<a href="/papers/24.hatra.rust-verification.bib">bib</a>]</li>
   <li>Mohammad Mahdi Abdollahpour, Jens Dietrich, and Patrick Lam. To appear in SCAM 2024: <a href="/papers/24.scam.vulnerable-dependency-analysis.pdf">Enhancing Security through Modularization: A Counterfactual Analysis of Vulnerability Propagation and Detection Precision</a>. [<a href="/papers/24.scam.vulnerable-dependency-analysis.bib">bib</a>]</li>
   <li>Karoliine Holter, Juhan-Oskar Hennoste, Patrick Lam, Simmo Saan, Vesal Vojdani. To appear in Onward! 2024: <a href="/papers/24.onward.abs-debug.pdf">Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results</a>. [<a href="/papers/24.onward.abs-debug.bib">bib</a>]</li>
   <li>Karoliine Holter, Juhan-Oskar Hennoste, Simmo Saan, Patrick Lam, Vesal Vojdani. To appear in DEBT 2024: <a href="/papers/24.debt.abs-debug-demo.pdf">Abstract Debugging with GobPie (Demo)</a>. [<a href="https://youtu.be/KtLFdxMAdD8">video</a>, <a href="/papers/24.debt.abs-debug-demo.bib">bib</a>]</li>
