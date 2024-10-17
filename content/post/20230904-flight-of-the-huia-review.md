@@ -4,7 +4,7 @@ layout:     post
 title:      "Review: Flight of the Huia by Kerry-Jayne Wilson"
 date:       2023-09-04
 author:     "Patrick Lam"
-tags:       ["reviews", "ecology", "birds"]
+tags:       ["reviews", "ecology", "birds", "nz"]
 categories: ["books"]
 published:  true
 image:      "/img/20230904-flight-of-the-huia-review/09335_hills_towards_makara_and_turbines.webp"

@@ -18,7 +18,7 @@ summary:    "About the same number of photos processed in September as in August
 .meta { color: yellow; }
 </style>
 
-I always say that counting is hard. Anyway, by the way I count it, I processed about the same number of photos in September as in August, but not really, because I rejected some of the photos in previous months. Anyway, I got rid of a doozy of a set: the day on the boat with [Petrel Station](https://www.thepetrelstation.nz/) resulted in 982 photos, consuming 11GB.
+I always say that counting is hard. Anyway, by the way I count it, I processed about the same number of photos in September as in August, but not really, because I rejected some of the photos in previous months. Anyway, I got rid of a doozy of a set: the day on the boat with [Petrel Station](https://www.thepetrelstation.nz/) resulted in 982 photos, consuming 11GB. I kept 72 of those 982 photos. (Technically, I keep them all, but mark rejected photos).
 
 I removed 8 sets from the queue and added 7 sets, so definitely ahead, especially since the added sets should be easy.
 
