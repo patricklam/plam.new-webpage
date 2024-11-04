@@ -26,7 +26,7 @@ I removed 8 sets from the queue and added 7 sets, so definitely ahead, especiall
 logs](https://www.github.com/patricklam/picture-processing-logs) still
 available. As always, pictures are clickable to go to the full gallery. 
 
-* Sets of pictures posted: 8 (July: 12)
+* Sets of pictures posted: 8 (August: 12)
 * Total pictures posted: 346 (523)
 * Total pictures in selection pool: 2037 (2064)
 * Accept rate: 17% (min 8%, max 52%) (July: 25%)
