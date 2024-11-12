@@ -7,7 +7,7 @@ author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["trip-reports", "judo"]
 published:  true
-image:      "/img/20241112-rotorua-nz-natls/20241013_210400268_tarmac_at_rot_v1.jpg"
+image:      "/img/20241112-rotorua-nz-natls/20241013_210400268_tarmac_at_rot_v1.avif"
 showtoc:    true
 summary:    "Appended to the Flagstaff trip, a visit to Rotorua for the NZ Judo Nationals."
 
