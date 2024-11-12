@@ -119,7 +119,7 @@ indeed some people left on Saturday evening and it was fine.
 
 <figure>
 {{< gallery-slider dir="/img/20241005-september/ijf-academy" >}}
-<figcaption style="text-align:center">Snowcraft instructor Andy; MP and Ngauruhoe; lanterns at Rotorua Redwood walk; Rotorua from Forest Loop Track; Green Lake and its island; end of the mountain biking portion of Forest Loop; Tunnel Point; Pipikaretu Beach; hoiho (yellow-eyed penguin); petrified wood at Curio Bay; full moon at Wellington Judo Academy.</figcaption>
+<figcaption style="text-align:center">Sign at the Kodokan: "Judo Spirits; Seiryoku Zenyu / Jita Kyoei; Once a judoka, always a judoka"; main dojo at the Kodokan (there are others); randori practice at Kodokan; Khaled, my partner for the course; me, a diploma, and Khaled, with a sling; the Canadian contingent with the IJF Academy instructional staff.</figcaption>
 </figure>
 
 I feel like I shouldn't really leave my bike at the airport for 9

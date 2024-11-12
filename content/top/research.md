@@ -56,6 +56,6 @@ on to different projects.</p>
 <li> <a href="/dsfinder/">DSFinder</a>: applying straightforward static analysis techniques to see how many data structures Java programs implement in practice. (i.e. How much shape analysis do you need to do if you want to understand Java programs?)</li>
 <li> Views: with <a href="http://demsky.eecs.uci.edu">Brian Demsky</a>, a novel language extension which enables developers to declaratively specify fine-grained (sub-object-level) locking policies.
 <li> <a href="/research/tracematch/">Static analysis of tracematches</a>: verifying that specified sequences of program events never occur in any execution.
-<li> <a href="/research/hob/">Hob</a>: verifying that all executions preserve certain set-based specifications.</li>
+<li> Hob: verifying that all executions preserve certain set-based specifications [<a href="/files/hob.tar.gz">tar.gz</a>].</li>
 <li> <a href="/research/tokens/">Tokens</a>: embedding design information into Java source code.
 </ul>
