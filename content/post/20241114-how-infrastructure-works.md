@@ -174,3 +174,19 @@ I'll finish by quoting the principles for the future that Prof. Chachra proposes
 4. Move Toward an Ethics of Care
 5. Recognize, Prioritize, and Defend Nonmonetary Benefits
 6. Make it Public
+
+and also some text on The Pragmatism of Universal Abundance, which I think is particularly relevant to our times,
+and, to some extent, the puzzling political currents we are seeing.
+
+> For wealthy, developed countries that benefited from extractive or
+> settler colonialism, dedicating resources to a global technological
+> transformation might be seen as altruism, although "reparations"
+> would be more accurate. It's also ruthless, selfish pragmatism,
+> because the single best way to safeguard their way of life is to
+> ensure that everyone has access to it.
+
+I agree. It really is an imperative, and beyond the puny "humanitarian
+aid" budgets we have today.  Justin Trudeau's Canada has at least
+managed to provide the basic infrastructure of clean water to First
+Nations reserves, as promised, something which doesn't get nearly
+enough attention.
