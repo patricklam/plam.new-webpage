@@ -23,7 +23,6 @@ but recovering, due to heroic efforts by New Zealanders.
 
 <figure>
 {{< gallery-slider dir="/img/20241015-takahe-bird-of-dreams/cover" >}}
-<figcaption style="text-align:center">.</figcaption>
 </figure>
 
 We were hiking on the [Heaphy
