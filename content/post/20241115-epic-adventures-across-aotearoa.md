@@ -79,8 +79,8 @@ Reading through this, I reflected that I really have been to a lot of [New Zeala
 I also observed that in the earlier tales, navigation and communication were more of an issue, with broken radios and navigation by compass in kayaks. Wildboy, on the other hand, was doing it all on the Internet. Geoff Chapple,
 founder of the Te Aroroa, would have been one of the first to tramp with a laptop and post updates to his blog (since he was aiming to build public support for the trail).
 
-The contents and voice are distinctly Kiwi; although the appendices enumerate traverses and circumnavigations by
-foreigners, the stories that are told are those of locals. Like many New Zealanders, a number of the adventurers
+The contents and voice are distinctly Kiwi; although the appendices enumerate traverses and circumnavigations including by
+foreign visitors, the stories that are told are those of locals. Like many New Zealanders, a number of the adventurers
 have spent significant time abroad. I don't love the writing style: it has more clichés and adjectives
 than people usually use now. But this book is about the stories, not about their telling. I bet that in some cases
 the source material is a better read, though longer; Salisbury's intent was to provide condensed versions of their stories.
