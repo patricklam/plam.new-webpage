@@ -169,7 +169,7 @@ the airbnb and not the dojo into my GPS, causing an extra half hour of rush hour
 at York Mills, which was easy enough to get to, but horrendous to leave, due to the 401 being closed.
 The drive from there to the airbnb would normally be 14 minutes but took 46 minutes and felt like an hour.
 
-Trip |  Distance | Time
+Trip |  &emsp;&emsp;&emsp;&emsp; Distance | &emsp;&emsp;&emsp;&emsp;Time
 ---|---:|---:
 YYZ - Scarborough | 38km | 51min 
  Scarborough - JCCC North York | 17km | 26min
