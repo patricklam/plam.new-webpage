@@ -6,8 +6,6 @@ layout:     post
 # Professional
 
 I'm an Associate Professor of Electrical and Computer Engineering at the University of Waterloo.
-I'm currently on sabbatical as a Visiting Scholar at the Victoria University of Wellington.
-I am next scheduled to teach for the University of Waterloo in January 2021. That term may be remote, and so I may also be remote. Who knows?
 I was the Director of the Software Engineering Program at Waterloo from 2016 through 2019.
 
 My research area is broadly in applications of programming languages research (mostly

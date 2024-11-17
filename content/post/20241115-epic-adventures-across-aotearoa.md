@@ -2,7 +2,7 @@
 layout:     post
 
 title:      "Review: Epic: Adventures across Aotearoa, by Ray Salisbury"
-date:       2024-11-15
+date:       2024-11-16
 author:     "Patrick Lam"
 tags:       ["reviews", "engineering"]
 categories: ["books"]
