@@ -242,7 +242,7 @@ nicer, but I couldn't really fit that in.
 
 <figure>
 {{< gallery-slider dir="/img/20241116-big-trip-ontario-california-manitoba/pasadena">}}
-<figcaption style="text-align:center">BMO in Pasadena; topiary; Pasadena Community College; "Yes on PL"; guns and ammo placemat ad at Mama Lu's Dumpling House; Pasadena City Hall at night.</figcaption>
+<figcaption style="text-align:center">BMO in Pasadena; topiary; Pasadena Community College; "Yes on PL"; guns and ammo placemat ad at Mama Lu's Dumpling House; Pasadena City Hall at night; Onward! talk presented by Karoliine.</figcaption>
 </figure>
 
 On Monday and Tuesday, I did drop by SPLASH and talk to people, as
@@ -418,6 +418,6 @@ and eclair (the latter from yet another Vietnamese bakery) and then
 took the bus back to SYD a few hours early, where I did more OAC admin
 and tried to catch up on 3 weeks' backlog for the te reo Māori course.
 
-The flight from SYD to WLG arrives at 2340. Since I hadn't left my
-bike at the airport for 2 weeks, the options were to walk or to take
+The flight from SYD to WLG arrives at 2340. I hadn't left my
+bike at the airport for 2 weeks, so the options were to walk or to take
 an Uber/taxi. I took an Uber.
