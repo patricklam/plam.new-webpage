@@ -222,7 +222,7 @@ Tasmania does have some snakes but is mostly free of these animals. One animal t
 is in New Zealand but not Tasmania, at least in May, is the sandfly. Hurrah! That part
 was amazing.
 
-# Preview
+# Next part
 
 In the next segment: how we got from Wellington to Launceston.
 * [Part 2: Before the walk: Melbourne, Hobart and Launceston](/post/20240616-overland-track-before-the-walk)

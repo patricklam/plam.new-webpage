@@ -29,7 +29,7 @@ Other parts of this trip report:
 * [Part 5: Overland Track day 3, Pelion](/post/20240718-overland-track-pelion) [[photos](https://gallery.patricklam.ca/index.php?/category/1875)]
 * [Part 6: Overland Track day 4, Kia Ora](/post/20240728-overland-track-kia-ora) [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
 * [Part 7: Overland Track day 5, Bert Nichols](/post/20241117-overland-track-bert-nichols) [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
-* Part 8: Overland Track day 6, Narcissus [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
+* [Part 8: Overland Track day 6, Narcissus](/post/20241126-overland-track-narcissus) [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
 * [All Overland Track photos](https://gallery.patricklam.ca/index.php?/category/1874)
 
 # Program Note
@@ -132,5 +132,6 @@ posted them to a Facebook group that identifies fungi, but all I did was iNatura
 <figcaption style="text-align:center">Leucopaxillus eucalyptorum?; austropaxillus?; flame fungus; bloodred webcap?; mauve splitting webcap; section firmae?; marshmellow bolete?; coral fungi; austropaxillus infundibuliformis?</figcaption>
 </figure>
 
+# Next day
 
-
+* [Part 8: Overland Track day 6, Narcissus](/post/20241126-overland-track-narcissus) [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]

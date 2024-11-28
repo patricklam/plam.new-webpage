@@ -28,8 +28,8 @@ Other parts of this trip report:
 * [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere) [[photos](https://gallery.patricklam.ca/index.php?/category/1879)]
 * [Part 5: Overland Track day 3, Pelion](/post/20240718-overland-track-pelion) [[photos](https://gallery.patricklam.ca/index.php?/category/1875)]
 * [Part 6: Overland Track day 4, Kia Ora](/post/20240728-overland-track-kia-ora) [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
-* Part 7: Overland Track day 5, Bert Nichols [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
-* Part 8: Overland Track day 6, Narcissus [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
+* [Part 7: Overland Track day 5, Bert Nichols](/post/20241117-overland-track-bert-nichols) [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
+* [Part 8: Overland Track day 6, Narcissus](/post/20241126-overland-track-narcissus) [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
 * [All Overland Track photos](https://gallery.patricklam.ca/index.php?/category/1874)
 
 <figure>
@@ -194,5 +194,6 @@ wants to roll them back (they want to roll everything back, even
 things that are supported by 99% of comments during the public comment
 period).
 
+# Next day
 
-
+* [Part 7: Overland Track day 5, Bert Nichols](/post/20241117-overland-track-bert-nichols) [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]

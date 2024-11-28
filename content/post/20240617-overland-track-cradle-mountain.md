@@ -18,12 +18,19 @@ summary:    "Our first day of actual hiking on the Overland Track, up onto the p
 .meta { color: white; }
 </style>
 
-Links to other parts of this trip report:
+# TR Navigation
+
+Other parts of this trip report:
 
 * [Part 1: Australia versus New Zealand](/post/20240511-overland-track-australia-vs-new-zealand)
-* [Part 2: Before the walk](/post/20240616-overland-track-before-the-walk)
-* [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain)
-* [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere)
+* [Part 2: Before the walk](/post/20240616-overland-track-before-the-walk) [[Melbourne photos](https://gallery.patricklam.ca/index.php?/category/1881), [Hobart](https://gallery.patricklam.ca/index.php?/category/1891), [Launceston](https://gallery.patricklam.ca/index.php?/category/1880)]
+* [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain) [[photos](https://gallery.patricklam.ca/index.php?/category/1884)]
+* [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere) [[photos](https://gallery.patricklam.ca/index.php?/category/1879)]
+* [Part 5: Overland Track day 3, Pelion](/post/20240718-overland-track-pelion) [[photos](https://gallery.patricklam.ca/index.php?/category/1875)]
+* [Part 6: Overland Track day 4, Kia Ora](/post/20240728-overland-track-kia-ora) [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
+* [Part 7: Overland Track day 5, Bert Nichols](/post/20241117-overland-track-bert-nichols) [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
+* [Part 8: Overland Track day 6, Narcissus](/post/20241126-overland-track-narcissus) [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
+* [All Overland Track photos](https://gallery.patricklam.ca/index.php?/category/1874)
 
 # Track Transport: Launceston to Cradle Mountain Visitor Centre
 
@@ -152,3 +159,7 @@ thus ending one's hike.
 {{< gallery-slider dir="/img/20240617-overland-track-cradle-mountain/last-bit" >}}
 <figcaption style="text-align:center">Toilet humour; Benson Peak; emergency shelter; to Barn Bluff; flats and peaks; Waterfall Valley Hut; Hut fireplace and shoe disaster; night sky.</figcaption>
 </figure>
+
+# Next day
+
+* [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere) [[photos](https://gallery.patricklam.ca/index.php?/category/1879)]

@@ -27,9 +27,9 @@ Other parts of this trip report:
 * [Part 3: Overland Track day 1, Cradle Mountain](/post/20240617-overland-track-cradle-mountain) [[photos](https://gallery.patricklam.ca/index.php?/category/1884)]
 * [Part 4: Overland Track day 2, Windermere](/post/20240624-overland-track-windermere) [[photos](https://gallery.patricklam.ca/index.php?/category/1879)]
 * [Part 5: Overland Track day 3, Pelion](/post/20240718-overland-track-pelion) [[photos](https://gallery.patricklam.ca/index.php?/category/1875)]
-* Part 6: Overland Track day 4, Kia Ora [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
-* Part 7: Overland Track day 5, Bert Nichols [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
-* Part 8: Overland Track day 6, Narcissus [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
+* [Part 6: Overland Track day 4, Kia Ora](/post/20240728-overland-track-kia-ora) [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
+* [Part 7: Overland Track day 5, Bert Nichols](/post/20241117-overland-track-bert-nichols) [[photos](https://gallery.patricklam.ca/index.php?/category/1917)]
+* [Part 8: Overland Track day 6, Narcissus](/post/20241126-overland-track-narcissus) [[photos](https://gallery.patricklam.ca/index.php?/category/1924)]
 * [All Overland Track photos](https://gallery.patricklam.ca/index.php?/category/1874)
 
 I was worried about running ahead of the photos, but I guess I don't need to worry about that anymore; there is just one more small return day to go. Actually, as I write this, I already have the day 4 writeup done. I accidentally wrote out of sequence, but I don't really want to post out of sequence. So here's day 3 of the track.
@@ -123,3 +123,7 @@ are the edible ones.
 {{< gallery-slider dir="/img/20240718-overland-track-pelion/other-animals" >}}
 <figcaption style="text-align:center">Broad-toothed mouse; wombat fur.</figcaption>
 </figure>
+
+# Next day
+
+* [Part 6: Overland Track day 4, Kia Ora](/post/20240728-overland-track-kia-ora) [[photos](https://gallery.patricklam.ca/index.php?/category/1906)]
