@@ -2,7 +2,7 @@
 layout:     post
 
 title:      "November: photos post"
-date:       2024-11-30
+date:       2024-12-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
