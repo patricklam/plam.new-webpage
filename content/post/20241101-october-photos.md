@@ -29,7 +29,7 @@ available. As always, pictures are clickable to go to the full gallery.
 * Sets of pictures posted: 12 (September: 8)
 * Total pictures posted: 284 (346)
 * Total pictures in selection pool: 767 (2037)
-* Accept rate: 37% (min 16%, max 69%) (July: 17%)
+* Accept rate: 37% (min 16%, max 69%) (September: 17%)
 * Pictures posted on this page: 69
 
 <figure>

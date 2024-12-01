@@ -29,7 +29,7 @@ available. As always, pictures are clickable to go to the full gallery.
 * Sets of pictures posted: 8 (August: 12)
 * Total pictures posted: 346 (523)
 * Total pictures in selection pool: 2037 (2064)
-* Accept rate: 17% (min 8%, max 52%) (July: 25%)
+* Accept rate: 17% (min 8%, max 52%) (August: 25%)
 * Pictures posted on this page: 53
 
 <figure>
