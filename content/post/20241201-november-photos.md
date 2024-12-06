@@ -121,7 +121,7 @@ Here's one day from my second October trip, with lots of birds in Sydney.
 <figcaption style="text-align:center">pied cormorant; NO GO ZONE; galah; New Holland honeyeater; superb fairy wren; pied stilt; chestnut teal; sharp-tailed sandpiper; spotted dove.</figcaption>
 </figure>
 
-# Hīkoi mō Te Tiriti (October 2024)
+# Hīkoi mō Te Tiriti (November 2024)
 
 On November 19th, perhaps the largest demonstration ever in Aotearoa's history converged on Parliament in defence
 of the Treaty of Waitangi.
