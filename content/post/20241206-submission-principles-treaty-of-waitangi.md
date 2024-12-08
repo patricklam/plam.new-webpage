@@ -51,9 +51,11 @@ I wrote that New Zealand is better than Canada at recognizing treaty obligations
 
 We must honour Te Tiriti in its original te reo Māori text, guaranteeing the collective rights of iwi (a concept which is universally recognized, including in the UN Declaration on the Rights of Indigenous Peoples) to have tino rangatinatanga over taonga. I very much value the unique taonga of Aotearoa and am grateful that Māori are there to help exercise kaitiakitanga.
 
-We absolutely must not proceed to a divisive referendum as proposed in the bill. While I generally do have faith in the wisdom of a well-educated populace, this is not an appropriate topic to have a referendum on: Te Tiriti was negotiated between the Crown and the rangatira. The premise of this treaty is that the Crown can unilaterally decide the terms. What kind of contract is that?
+We absolutely must not proceed to a divisive referendum as proposed in the bill. While I generally do have faith in the wisdom of a well-educated populace, this is not an appropriate topic to have a referendum on: Te Tiriti was negotiated between the Crown and the rangatira. The premise of this Bill* is that the Crown can unilaterally decide the terms. What kind of contract is that?
 
 Just raising the question has damaged Crown-Māori relations. The appropriate next step is to withdraw the bill and commit to ongoing reconciliation and honouring of Māori perspectives and collective rights.
+
+\* note: corrected in this version from "treaty" to "Bill"
 
 
 
