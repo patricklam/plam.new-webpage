@@ -28,6 +28,9 @@ based on information from the referee rosters that were distributed
 annually to Quebec referees. This includes names and referee
 grades. I also have limited information on birth years and regions.
 
+Context: Judo Québec has had around 10,000 members for the past 25 years. I have the impression that
+membership may have been up to 2k higher at some point, but the number for 2024 is 9,773.
+
 Some of the scripts used to process the data are on
 [GitHub](https://github.com/patricklam/arbitres). Some of the data
 analysis was done in a spreadsheet which I'm not making publicly
