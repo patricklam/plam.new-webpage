@@ -19,6 +19,7 @@ showtoc:    false
 # Refereed Publications
 
 <ul>
+  <li>Karoliine Holter, Simmo Saan, Patrick Lam, and Vesal Vojdani. To appear in TOPLAS with presentation at PLDI: <a href="/papers/25.toplas.data-race-empirical.pdf">Sound Static Data Race Verification for C: Is the Race Lost?</a> [<a href="/papers/25.toplas.data-race-empirical.bib">bib</a>, <a href="https://doi.org/10.5281/zenodo.10903393">artifact</a>]</li>
   <li>Alex Le Blanc and Patrick Lam. HATRA 2024: <a href="/papers/24.hatra.rust-verification.pdf">Surveying the Rust Verification Landscape</a>. [<a href="https://arxiv.org/abs/2410.01981">arXiv</a>, <a href="/papers/24.hatra.rust-verification.bib">bib</a>]</li>
   <li>Mohammad Mahdi Abdollahpour, Jens Dietrich, and Patrick Lam. SCAM 2024: <a href="/papers/24.scam.vulnerable-dependency-analysis.pdf">Enhancing Security through Modularization: A Counterfactual Analysis of Vulnerability Propagation and Detection Precision</a>. [<a href="/papers/24.scam.vulnerable-dependency-analysis.bib">bib</a>, <a href="/papers/24.scam.vulnerable-dependency-analysis.slides.pdf">slides pdf</a>, <a href="https://docs.google.com/presentation/d/1CPr9W8wmiuxcG6HqfCCltI_2d_BJ-31oDyI-o02B9YQ/edit?usp=sharing">google slides</a>]</li>
   <li>Karoliine Holter, Juhan-Oskar Hennoste, Patrick Lam, Simmo Saan, Vesal Vojdani. Onward! 2024: <a href="/papers/24.onward.abs-debug.pdf">Abstract Debuggers: Exploring Program Behaviors Using Static Analysis Results</a>. [<a href="/papers/24.onward.abs-debug.bib">bib</a>, <a href="/papers/24.onward.abs-debug.slides.pdf">slides</a>]</li>
