@@ -48,7 +48,7 @@ I can't remember why right now, but I decided to do a set from the pretty deep a
 
 # Aurora australis, or not (May 2024)
 
-There was a massive solar storm in May 2024 and heaps of people came out to Island Bay in Wellington (45°S) to try
+There was a massive solar storm in May 2024 and heaps of people came out to Island Bay in Wellington (41°S) to try
 to see the aurora. Unfortunately it was mostly cloudy. I saw some green. I tried the next day as well, but
 there was definitely no aurora that day. Anyway, here are some pictures. The reject rate was extremely high
 for the aurora attempts, 10/78.
