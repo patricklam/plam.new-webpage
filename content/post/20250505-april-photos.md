@@ -66,7 +66,7 @@ for the aurora attempts, 10/78.
 
 French Polynesia isn't *that* close to Aotearoa New Zealand, but it's relatively close compared to other places.
 We went during the Christmas vacation. Here's one day of photos, from the West Coast of Tahiti, including
-waterfalls and hikes, a museum, and snorkelling (but no pictures of that). Also supper was pretty epic.
+waterfalls and hikes, a museum, and snorkelling (but no pictures of that). Also the supper location was pretty epic.
 
 * [Tahiti West Coast (64/197), January 2](https://gallery.patricklam.ca/index.php?/category/2054)
 
