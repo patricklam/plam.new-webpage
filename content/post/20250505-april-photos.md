@@ -18,7 +18,7 @@ summary:    "March was a doozy, so here are the two sets I processed in March, a
 .meta { color: purple; }
 </style>
 
-I just had zero time in March and processed just 151 photos in 2 sets (from Japan). April was more normal. But I also added a lot of sets of photos to process: 7 in March and 12 in April, with the April sets being substantial. More digging of myself into a hole, I guess.
+I had zero time in March and processed just 151 photos in 2 sets (from Japan). April was more normal. But I also added a lot of sets of photos to process: 7 in March and 12 in April, with the April sets being substantial. More digging of myself into a hole, I guess.
 
 [Picture
 logs](https://www.github.com/patricklam/picture-processing-logs) still
