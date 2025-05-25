@@ -30,7 +30,7 @@ I arrived in Lima a couple of days early. Even though there is minimal
 time difference, flying all night is tiring (sleep deprivation, not jetlag).
 
 <figure>
-{{< gallery-slider dir="/img/20250512-trip-report-lima/highlights" >}}
+{{< gallery-slider dir="/img/20250512-trip-report-lima/lima-highlights" >}}
 <figcaption style="text-align:center">Tropical kingbird; Huaca Huallamarca walls; Amazilia hummingbird; black-crowned night heron; Sally Lightfoot crab; Inca terns; Humboldt penguin; Peruvian pelican; spirited sea lion conversation; oystercatcher at work; sunset over the pier in Paracas; Peruvian things at a Lima market; seminar location; lights at Circuito Magico del Agua.</figcaption>
 </figure>
 
