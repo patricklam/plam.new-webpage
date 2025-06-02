@@ -76,7 +76,7 @@ baby fieldfare.</figcaption>
 
 <figure>
 {{< gallery-slider dir="/img/20250601-may-photos/2301" >}}
-<figcaption style="text-align:center">Leaving Kelburn; the green line to the AKL international terminal; covered totem poles at YVR; approaching Greater Toronto Area; bikes on campus; snowy Montréal; more snowy Montréal; Mont-Tremblant; Lac Tremblant sud; Silver Lake at Waterloo; my bike in the snow on campus; Kitchener Public Library.</figcaption>
+<figcaption style="text-align:center">Leaving Kelburn; the green line to the AKL international terminal; covered totem poles at YVR; approaching Greater Toronto Area; bikes on campus; snowy Montréal; Mont-Tremblant; Lac Tremblant sud; Silver Lake at Waterloo; my bike in the snow on campus; Kitchener Public Library.</figcaption>
 </figure>
 
 # Rotorua (August 2023)
