@@ -112,16 +112,44 @@ though a lot of forest.
 
 ### Kumano Kodo Day 2: Chiyakatsuyu to Hongu
 
-This was the best day of hiking on this trip, due in part to conditions. It was also the longest day;
-the materials said 25km, though Gaia GPS reported 30km.
-It had snowed the night before and so everything in the morning was covered in white, making it really scenic.
-There was a fair amount of road walking in the morning, but also it was on top of the ridge and we got
-views off to our right.
+This was the best day of hiking on this trip, due in part to
+conditions. It was also the longest day; the materials said 25km,
+though Gaia GPS reported 30km.  It had snowed the night before and so
+everything in the morning was covered in white, making it really
+scenic.  There was a fair amount of road walking in the morning, but
+also it was on top of the ridge and we got views off to our right.
 
-It is acceptable for the pilgrimage to do just the last 8km of this day, if one also visits other temples.
-But that would be missing out on a lot.
+The ridge views were probably the best views on the whole trip, even
+if they were from the road. We saw a lot of north-facing slopes
+(northern hemisphere) which still had snow. Didn't really see more
+later on in the trip.
 
-We again left quite early.
+It is acceptable for the pilgrimage to do just the last 8km of this
+day, if one also visits other temples.  But that would be missing out
+on a lot.
+
+We again left quite early since the walk was supposed to be long and
+the day was short (11h, sunset 5:45pm). Indeed, we left at 6am and
+sunrise was 6:37am. We had heard that the guesthouse owners get pretty
+worried if you don't arrive by about 4pm.  10 hours should be enough
+for hiking 25km and we indeed took 10h15 total time, 8h20 moving time.
+
+We got to the Mikoshi-toge shelter just before noon in a sudden snow
+squall. It then got sunny but was cold. Quick lunch at the shelter
+(walls but no doors) and then onto the steepest part of the track, but
+pretty much no more snow after the pass.
+
+Lots of civil engineering works. Tunnels, stone water channels. I hear
+there was a lot of subsidies for those. Maybe too many.
+
+It was a lot of kilometres, but easy ones, until the first great
+shrine of the Kumano Kodo, the Kumano Hongu Taisha. The walking was
+definitely doable and I'm glad we didn't take the bus.
+
+The shrine was pretty fancy. There's a huge concrete torii in town as
+well.  We stayed at Guesthouse Yui in Hongu, up the hill, and had
+dinner at the sushi place in town. I think that was our only choice,
+but it was good and cheap.
 
 ### Kumano Kodo Day 3: "Rest" day in Shingu
 

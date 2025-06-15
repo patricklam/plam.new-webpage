@@ -92,6 +92,7 @@ Patrice Pominville, and Vijay Sundaresan.  CC 2000: <a href="/papers/cc2000.ps">
 
 # Posters and Presentations
 <ul>
+  <li>Patrick Lam. <a href="https://docs.google.com/presentation/d/1xJHri6QY1mfUseml7vLB9tRhOLUvEzpR54oaAhqmXrM">Hot Takes on Machine Learning for Program Analysis.</a> Invited talk at UCalgary, May 2025. [<a href="/presentations/25.ucalgary.hot-takes.pdf">PDF</a>]</li>
   <li>Patrick Lam. <a href="https://docs.google.com/presentation/d/1uiaVoXXjhqhJ_DiX1ddWLGeDOQ6GWkvo_DJwB8MpPLY">Hot Takes on Machine Learning for Program Analysis (Director's Cut).</a> Invited talk at UBC, May 2023. [<a href="https://www.youtube.com/watch?v=dtd6PZnX1bc">video</a>, <a href="/presentations/23.ubc.hot-takes.pdf">PDF</a>]</li>
   <li>Patrick Lam. <a href="https://docs.google.com/presentation/d/1PqIhzYytfMKjmxPz-B34TWwC27XNcZxC6B8uaYg_ssU">Hot Takes on Machine Learning for Program Analysis.</a> Keynote at PNW-PLSE, May 2023.</li>
   <li>Patrick Lam. <a href="/presentations/16.iwaco.ownership-types-in-the-world.pdf">Are Ownership Types Reaching the World Yet?</a> Invited talk at <a href="http://2016.ecoop.org/track/IWACO-2016">7th International Workshop on Aliasing, Capabilities and Ownership</a>.</li>
