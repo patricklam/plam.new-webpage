@@ -97,7 +97,7 @@ rather than a 30 minute walk.
 
 # Birds and Old Tallinn, May 3
 
-Estonia's marketing, like New Zealand's, involves a lot of nature. I
+Estonia's marketing, like New Zealand's, also involves a lot of nature. I
 didn't really have capacity to plan logistics for a hike, even though
 some surprisingly long hikes are possible in this small country. I did
 have capacity to go on a [half-day bird tour with Marko](https://www.capture-estonia.ee/bird-wathing-tour-tallinn-area/), where we saw
@@ -184,10 +184,8 @@ Karoliine had planned an excursion around Southern Estonia. We all met up at Del
 then set off to see some classic Estonian bogs; the highpoint of Estonia; and the watchtower
 Pesapuu.
 
-First, Meenikunno. We drove through the countryside and to an empty
-parking lot, and then had a nice hike on a loop through the bog, with
-boardwalks as appropriate. The parking lot we picked was not the
-popular one, and there were indeed some people on the trails, but not
+First, Meenikunno. We drove through the countryside, and then had a nice hike on a loop through the bog, with
+boardwalks as appropriate. There were some people on the trails, but not
 a huge amount.  There was also an observation tower and a lake. The
 lake had some common goldeneyes, and we ran into some fungi
 hunters who pointed out some false morels. Also, there was a nice
@@ -225,10 +223,10 @@ Both the bus and the train stop at Tallinn airport, where I had a two-night rese
 
 The Tallinn airport Mercure was actually quite nice and had a better view of a fountain, a river, and a parking lot, rather
 than just a parking lot. I think the more expensive rooms at Dorpat also had a good view of the river,
-but that's not what I got. Anyway, it was really pretty at sunset. I also saw a bunch of terns in Tallinn
+but that's not what I got. Anyway, it was really pretty at sunset from the Mercure. I also saw a bunch of terns in Tallinn
 between the airport and the hotel.
 
-Tallinn and Tartu both have a bunch of malls. I guess it's dark a lot. I got something from the supermarket
+Tallinn and Tartu both have a bunch of malls. I guess it's dark and cold for a lot of the year. I got something from the supermarket
 on Saturday night, and excellent dumplings at the mall on Sunday, when I had a bit of a later start.
 
 I finally finished the somewhat [depressing Estonia book](post/20250511-grosseilles-de-novembre-review) just before leaving Estonia.
