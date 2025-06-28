@@ -24,7 +24,7 @@ Canadian Nationals and after exams". Fortunately, it was satisfiable, though app
 for the Estonians, but not for me.
 
 I'd arranged this travel so that I'd spend a few days in Montréal before going to Estonia. My flight was
-from Montréal to Tallinn and then from Tallinn back to Toronto. So, after three days in Montreal,
+from Montréal to Tallinn (via Paris) and then from Tallinn back to Toronto (via Amsterdam). So, after three days in Montreal,
 including seeing the parents and visiting the bouldering gyms, it was off to Tallinn. (The Plateau Mont-Royal is
 indeed pretty urban, and, yes, bigger than Wellington. Maybe it'd be nice to live there one day,
 but Québec politics is complicated.)
@@ -55,7 +55,7 @@ Terminal 2. (I tried hard to walk from 2C to 2B, which is not far but
 also apparently impossible.)  Also I had to get some food.
 First-world problems to be sure, but since I was flying Air Baltic
 from CDG to TLL, I'd have no lounge access at Paris CDG.  So I got a
-wholly unremarkable sandwich. People don't like the food at CDG.  Even
+wholly unremarkable sandwich. Per the reviews, people don't like the food at CDG.  Even
 if it's in France.
 
 A further 3 hours on Air Baltic got me to TLL at 1pm. The weather was
@@ -64,21 +64,21 @@ walked to my (budget but serviceable) hotel, Villa Kadriorg, where I'd
 stay for two nights.
 
 The weather got a bit rainier but not a downpour, and I continued walking to the old town,
-aiming in particular for the Alexander Nevelsky katedraal. One might think it looks somewhat
+aiming in particular for the Aleksander Nevski katedraal. One might think it looks somewhat
 Russian, but it's still a key tourist attraction.
 
 One reason that I do airport walks is to see what the infrastructure
 is like.  YYZ loses badly, while, say, GVA is excellent. TLL is
 walkable on sidewalks but there are stroady bits and huge malls near
-the airport. Comparable to LHR, but Tallinn is smaller, so the
+the airport. Comparable to the LHR walk, but Tallinn is smaller, so the
 distance is less. As I got closer to the centre the streets became
 less stroady and there were more old buildings showing up, made of
 wood, brick, or stone (rather than concrete).
 
-Getting to the old town, things looked medieval, and that is also a
-big part of their marketing, with Vikings playing a small role as
+Getting to the old town, things looked medieval, a
+big part of their marketing, with Vikings playing a role as
 well. It's somewhat like Old Montreal, but a few centuries older, and
-with more castles and buildings made of stone. The centre is closed to
+with more castles, and buildings made of stone (also true of Montreal). The centre is closed to
 cars and there are lots of people walking around. Touristy, of course,
 but it seems to work as a place for tourists.
 
@@ -122,6 +122,7 @@ less tired). Marko also recommended [Rataskaevu 16](http://www.rataskaevu16.ee/)
 excellent. It is also highly reviewed on the Internet but does not
 seem to be resting on its laurels.
 
+* [Pictures: Old Tallinn, May 3](https://gallery.patricklam.ca/index.php?/category/2067)
 <figure>
 {{< gallery-slider dir="/img/20250626-may/estonia-tallinn" >}}
 <figcaption style="text-align:center">Rataskaevu 16; Estonian flag; lots of Greek strawberries; market; another hotel view (much better); derogatory fliers at Russian embassy; Tallinna Linnahall; some tower; St. Olaf's Church and Church of Transfiguration of Our Lord; flying out of Tallinn.</figcaption>
@@ -129,13 +130,13 @@ seem to be resting on its laurels.
 
 # Tallinn to Tartu, May 4
 
-Pretty chill day. The train takes two hours. Breakfast (shakshouka) at
-NOP Cafe, then the tram to the train station, then cheburek at Samsa
+Pretty chill day. The train takes two hours. Breakfast at
+NOP Cafe  (shakshouka), then the tram to the train station, then cheburek at Samsa
 at the train station, then train and a walk from the train station to
-Hotell Dorpat. The train station is not in the centre. Despite
+Hotell Dorpat. The Tartu train station is not in the centre. Despite
 Karoliine having told me that nothing is really far in Tartu, it's
-still a half-hour walk. Saw some birds and got to the hotel, which was
-pretty standard, but had a non-stellar view of the bus station.
+still a half-hour walk from the train station to the hotel. Saw some birds along the way and got to the hotel, which was
+pretty standard, but had a non-stellar view, of the bus station.
 The bus is much more central for the hotel than the train!
 
 # Tartu visit, May 5 &ndash; 9
@@ -146,18 +147,18 @@ My fingers actually got really cold after a while, so I left. There were fieldfa
 hooded crows, a great tit, feral pigeons, starlings, and perhaps a European pied flycatcher.
 
 The other visit to a place with birds was the Peetri Cemetary a few days later, in the afternoon, as recommended by Marko.
-I didn't manage to figure out the city bus in Tartu, so I rented an e-kick-scooter to get there.
+I didn't manage to figure out (paying for) the city bus in Tartu, so I rented an e-kick-scooter to get there.
 There were also some interesting memorials in the cemetary, but in terms of birds,
 there were mostly the same birds as the other day, but also a fieldfare nest with a baby, a crow,
 a blackbird, and some common wood pigeons.
 
 I also went to the Tartu bouldering gym. There is also a roped gym next door, but I had no partner.
-Not huge, but some interesting problems, and many people. Self-service admission.
+Not huge, but some interesting problems, and many people. Self-service admission, pay on their webpage.
 
 Rounding out the non-academic activities, I visited judo practice. It seemed to be some sort of
 regional training. The kids were strong.
 
-Karoliine also did the tour guide thing and showed me around the highlights of Tartu.
+One morning, Karoliine also did the tour guide thing and showed me around the highlights of Tartu.
 It's a small town. Even smaller than Kitchener-Waterloo. It's less spread out, and
 I think one can walk from one end to the other in 1 or 1.5 hours. The malls are all together,
 and there are also historic buildings in the old town. There's also a river, and many bridges
@@ -172,6 +173,10 @@ Professionally, it was good to spend a week checking out what was going on in Ta
 A bunch of stuff. I went to a thesis defense, gave some comments on an industrial-outreach
 talk by Vesal, talked to people, and thought about future plans. Good intellectual exposure to
 another environment, though not as intense (i.e. more sustainable) than going to a conference.
+
+* [Pictures: Tartu, mostly Ronmistehaus bouldering, May 8](https://gallery.patricklam.ca/index.php?/category/2093)
+* [Pictures: Tartu, birds in Peetri cemetary, and churches, May 8](https://gallery.patricklam.ca/index.php?/category/2068)
+* [Pictures: Tartu, mostly Delta Centre, May 9](https://gallery.patricklam.ca/index.php?/category/2084)
 
 <figure>
 {{< gallery-slider dir="/img/20250626-may/estonia-tartu" >}}
@@ -214,6 +219,8 @@ After that, it was back to Tartu, where I took the bus to Tallinn. The seats on 
 more comfortable, I guess, but I still prefer trains. But the bus does leave from a more convenient place.
 Both the bus and the train stop at Tallinn airport, where I had a two-night reservation just nearby.
 
+* [Pictures: Southern Estonia, Meenikunno (a bog), May 10](https://gallery.patricklam.ca/index.php?/category/2094)
+
 <figure>
 {{< gallery-slider dir="/img/20250626-may/estonia-southern" >}}
 <figcaption style="text-align:center">Inside the hut; Suur Suurjaav, a chilly lake; forest; spring vetch; false morel; view from Birds Nest; Birds Nest; replica village.</figcaption>
@@ -237,7 +244,7 @@ for a bit, though I didn't have the good lens with me, just the point-and-shoot.
 which is on the water, and hence where the 1980 Olympic sailing happened.
 
 I also visited the [Museum of Photography](https://linnamuuseum.ee/en/museum-of-photography/exhibitions/).
-They had cameras but also exhibitions that were very much not G-rated, as it turns out. Not really
+They had old cameras but also exhibitions that were very much not G-rated, as it turns out. Not really
 what they would talk about in public in Soviet days.
 
 The flight back to Canada on Monday morning had a 1 hour delay at TLL, but fine. Going back to Canada
