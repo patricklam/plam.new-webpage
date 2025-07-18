@@ -99,7 +99,7 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "/publications/"
   [[params.addtional_menus]]
   title =  "STUDENTS"
-  href =  "/top/students/"
+  href =  "/students/"
   [[params.addtional_menus]]
   title =  "TEACHING"
   href =  "/top/teaching/"
