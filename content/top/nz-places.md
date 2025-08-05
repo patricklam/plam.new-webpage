@@ -232,7 +232,7 @@ Also,
 * [Otoruhanga Kiwi House](http://kiwihouse.org.nz/) (February 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1368)): there are a lot of inverted night/day kiwi houses in New Zealand but this is the first one we went to. We saw more active kiwi at Pūkaha though.
 * [Sanctuary Mountain](https://www.sanctuarymountain.co.nz/home) (February 2020): a break from cragging at Wharepapa South.
 * [Rotokare Scenic Reserve](https://www.rotokare.org.nz/) (November 2022): drive-in predator-free reserve with kiwi that one can camp in.
-* [Bushy Park Sanctuary](https://bushypark.nz/) (June 2023): similar deal to Rotokare. Native birds include lots of saddleback, hihi, kereru, robins.
+* [Bushy Park Sanctuary](https://bushypark.nz/) (June 2023): similar deal to Rotokare. Native birds include lots of saddleback, hihi, kererū, robins.
 * [Pūkaha/Mount Bruce](https://pukaha.org.nz/) (June 2021, [pics](https://gallery.patricklam.ca/index.php?/category/1348)): has another kiwi house and the only captive kokako, Kahurangi (who says kokako), as well as the other species of kakariki (couldn't see the orange-fronted one though).
 * [Kapiti Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/kapiti-island-nature-reserve/) (January 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1395)): "friendly" weka and kaka.
 * [Matiu/Somes Island](https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/matiu-somes-island/) (June 2020, [pics](https://gallery.patricklam.ca/index.php?/category/1374)): small flocks of kakariki, easily accessible from Wellington by ferry and presumably kayak.
