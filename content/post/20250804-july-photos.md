@@ -18,13 +18,15 @@ summary:    "Managed to do a lot of photos despite two big trips (Olympus, TMB) 
 .meta { color: white; padding: 0.5em; text-shadow: 2px 2px 2px grey; }
 </style>
 
-
-
-More work and travel in June and so a smaller number of pictures. Some of the sets were pretty small, so that the number of sets is comparable, but only half as many pictures. About 50% of the pictures I processed this month are from May, making up 7 sets, but there are still 10 more sets from May to process. And my Shanghai/Seoul/Narita trip added a lot of pictures, especially from Shanghai and Narita. I don't take that many pictures from inside the conference hall.
+I was away for a lot of July, but still managed to do a quick turn on
+the core Olympus photos, as well as Bromont photos. Did a bunch more
+pictures from 2023 and incremental progress on the Estonia and Seoul
+trips. I am, however, sure that I took more pictures than I processed,
+including 41GB of TMB photos.
 
 [Picture
-logs](https://www.github.com/patricklam/picture-processing-logs) still
-available. As always, pictures are clickable to go to the full gallery. 
+logs](https://www.github.com/patricklam/picture-processing-logs) 
+available, and, as always, pictures are clickable to go to the full gallery. 
 
 * Sets of pictures posted: July=15, June=15
 * Total pictures posted: July=845, June=415
