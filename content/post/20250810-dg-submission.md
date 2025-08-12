@@ -39,9 +39,8 @@ Here is my personal submission for the [Environmental Registry of Ontario call](
 
 > * "Rock alteration is prohibited and includes any removal of rock from its natural position, chipping, or gluing, cementing, or installing artificial holds is prohibited. O. Reg. 347/07, s. 2 (1)." The rock climbing community is committed to low-impact recreation and climbers generally do not deface the rock. Having said that, rockfall is a common geologic process on the Niagara Escarpment, and, in the interests of safety, climbers will sometimes proactively reposition rock before it falls on a subsequent climber. I would propose the following wording: "Routes should be cleaned of loose or dangerous materials, chipping, or gluing, cementing, or installing artificial holds is prohibited. O. Reg. 347/07, s. 2 (1)."
 
-> * Park classification: the change to "natural environment" looks appropriate to me in this context; Devil's Glen indeed protects outstanding recreational landscapes, representative ecosystems and provincially-significant elements of Ontario's natural and cultural heritage, and has played an important role in the development of rock climbing in Ontario.
-
-> It is critical to ensure that the cliff lies in the area classified as "natural environment" and not "nature reserve". This is the case as far as I can tell from the map in Figure 3, but it would be great to have more explicit confirmation of this intent in the text of the plan.
+> * Park classification: the change to "natural environment" looks appropriate to me in this context; Devil's Glen indeed protects outstanding recreational landscapes, representative ecosystems and provincially-significant elements of Ontario's natural and cultural heritage, and has played an important role in the development of rock climbing in Ontario. <br><br>
+ It is critical to ensure that the cliff lies in the area classified as "natural environment" and not "nature reserve". This is the case as far as I can tell from the map in Figure 3, but it would be great to have more explicit confirmation of this intent in the text of the plan.
 
 > * I support the proposed enforcement of unauthorized access and use, especially when it comes to interference with access trails and climbing routes.
 
