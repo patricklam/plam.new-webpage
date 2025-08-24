@@ -320,11 +320,13 @@ flights were not operating on Wednesday, and indeed, the Maple Leaf
 Lounge was empty when I was there, since there were few other
 flights. There was just one guy flying to Malaysia or something.
 
-The flights themselves were uneventful: I left Canada on Wednesday
-morning, had a nice visit to the park in Vancouver, and got to
-Wellington on Friday morning.  This itinerary is probably the shortest
-possible; could have been shorter if I had left for Vancouver later,
-but there are fewer guarantees than usual about cancellations.
+The flights themselves were uneventful.
+
+On the Toronto-Vancouver flight the FA making the announcements in
+English sounded happy to be back in the skies and said something like
+"On behalf of the 10,500 flight attendants I would like to personally
+thank you for your understanding during this disruption". That was the
+only post-strike Air Canada flight I had on this trip.
 
 <figure>
 {{< gallery-slider dir="/img/20250822-ac-fa-strike/yvr-and-taranaki" >}}
@@ -332,6 +334,12 @@ but there are fewer guarantees than usual about cancellations.
 Princess parrot and budgie at Bloedel; YVR aquarium; Taranaki in winter.
 </figcaption>
 </figure>
+
+In summary, I left Canada on Wednesday
+morning, had a nice visit to the park in Vancouver, and got to
+Wellington on Friday morning.  This itinerary is probably the shortest
+possible; could have been shorter if I had left for Vancouver later,
+but there are fewer guarantees than usual about cancellations.
 
 Usually I don't take the Air New Zealand flight as I'm trying to get 1
 million lifetime Air Canada miles, but because of the strike, I should
