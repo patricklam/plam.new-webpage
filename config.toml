@@ -88,25 +88,25 @@ home = ["HTML", "RSS", "Algolia"]
   #title =  "Martin Fowler"
   #href =  "https://martinfowler.com"
   
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "BLOG"
   href =  "/post/"
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "RESEARCH"
   href =  "/top/research/"
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "PUBLICATIONS"
   href =  "/publications/"
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "STUDENTS"
   href =  "/students/"
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "TEACHING"
   href =  "/top/teaching/"
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "GALLERY"
   href =  "https://gallery.patricklam.ca/"
-  [[params.addtional_menus]]
+  [[params.additional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
 
