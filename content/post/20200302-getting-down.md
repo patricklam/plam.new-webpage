@@ -60,7 +60,7 @@ Hut</a> in the Tararua Forest Park about 86km from Wellington. It's
 about 5-6 hours of walking from the trailhead (11.5km and 1476m of
 elevation gain, if you care).
 
-<a href="/img/20200302-near-kime-hut.jpg"><img src="/img/20200302-near-kime-hut-small.jpg"></a>
+<a href="/img/20200302-near-kime-hut.avif"><img src="/img/20200302-near-kime-hut-small.avif"></a>
 
 * Tip: After you climb up the mountain, you also have to descend!
 
@@ -72,7 +72,7 @@ sun will set soon and then it will be dark. Plan on descent time in
 your trip plans. (In our case we stayed at the hut and walked out the
 next day in the mist.)
 
-<a href="/img/20200302-gandalf.jpg"><img src="/img/20200302-gandalf-small.jpg"></a>
+<a href="/img/20200302-gandalf.avif"><img src="/img/20200302-gandalf-small.avif"></a>
 
 Mountaineer <a href="https://en.wikipedia.org/wiki/Ed_Viesturs">Ed Viesturs</a> said it before me: "Getting to the top is
 optional, getting back down is mandatory. A lot of people forget about
