@@ -35,6 +35,6 @@ at the midpoint of the interval, i.e. that the tree will be there for another 80
 years.
 
 <figure>
-<a href="/img/20200426_otari_wilton_800_yo_rimu_orig.jpg"><img src="/img/20200426_otari_wilton_800_yo_rimu.jpg"></a>
+<a href="/img/20200426_otari_wilton_800_yo_rimu_orig.avif"><img src="/img/20200426_otari_wilton_800_yo_rimu.avif"></a>
 <figcaption style="text-align:center">800 year old rimu, Otari-Wilton's Bush.</figcaption>
 </figure>
