@@ -56,11 +56,11 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}">
 
-    <!-- Clean White theme CSS -->
-    <link rel="stylesheet" href="{{ "css/hugo-theme-cleanwhite.min.css" | relURL }}">
-
-    <!-- zangshang CSS -->
-    <link rel="stylesheet" href="{{ "css/zanshang.css" | relURL }}">
+    {{ $cleanWhiteCSS := resources.Get "css/hugo-theme-cleanwhite.css" | minify }}
+    <link href="{{ $cleanWhiteCSS.RelPermalink }}" rel="stylesheet">
+    
+    {{ $zanshangCSS := resources.Get "css/zanshang.css" | minify }}
+    <link href="{{ $zanshangCSS.RelPermalink }}" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" type="text/css">

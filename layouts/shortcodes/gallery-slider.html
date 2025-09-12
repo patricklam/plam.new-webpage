@@ -7,15 +7,6 @@
 {{ $.Scratch.Add "arrow-right" (.Get "arrow-right" | default "fa-chevron-right") }}
 
 {{ $.Scratch.Add "id" (.Get "id" | default ( path.Base ($.Get "dir") ) ) }}
-{{ if ne (.Get "no-fa") "true" }}
-    <!-- FontAwesome -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-{{end}}
-
-{{ if ne (.Get "no-jquery") "true" }}
-    <!-- JQuery -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
-{{end}}
 
 <style>
 .my-chevron {
@@ -44,33 +35,33 @@
 {{ end }}
 
 <!-- Gallery -->
-<div id="slide-{{ $.Scratch.Get "id" }}" class="carousel slide" data-ride="carousel">
+<div id="slide-{{ $.Scratch.Get "id" }}" class="carousel slide" data-bs-ride="carousel">
   {{- with (.Get "dir") -}} 
       {{- $files := readDir (print "/static/" .) }} 
       {{ if gt (len $files) 1 }}
         <ol class="carousel-indicators">
-            <li data-target='#slide-{{ $.Scratch.Get "id" }}' data-slide-to="0" class="active"></li>
+            <li data-bs-target='#slide-{{ $.Scratch.Get "id" }}' data-bs-slide-to="0" class="active"></li>
           {{- range (seq 1 (sub (len $files) 1)) }}
-            <li data-target='#slide-{{ $.Scratch.Get "id" }}' data-slide-to="{{.}}"></li>
+            <li data-bs-target='#slide-{{ $.Scratch.Get "id" }}' data-bs-slide-to="{{.}}"></li>
           {{- end }}
         </ol>
       {{ end }}
       <div class="carousel-inner">
         {{- range first 1 $files -}} 
           {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-          <div class="item active">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}</a>{{ end }}</div>
+          <div class="carousel-item active">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}</a>{{ end }}</div>
         {{- end }} 
         {{- range after 1 $files -}} 
           {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-          <div class="item">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}</a>{{ end }}</div>
+          <div class="carousel-item">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}<a href="{{$.Scratch.Get "gallery"}}{{ index ($links.Get "img") .Name }}">{{ end }}<img class="slide-{{ $.Scratch.Get "id" }}" src="{{ $absoluteUrl }}">{{ if and $galleryLinks (isset ($links.Get "img") .Name) }}</a>{{ end }}</div>
         {{- end }} 
       </div>
     {{ if gt (len $files) 1 }}
-      <a class="left carousel-control" href="#slide-{{ $.Scratch.Get "id" }}" data-slide="prev">
+      <a class="carousel-control-prev" href="#slide-{{ $.Scratch.Get "id" }}" data-bs-slide="prev">
         <span class="fa fa-chevron-left my-chevron"></span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="right carousel-control" href="#slide-{{ $.Scratch.Get "id" }}" data-slide="next">
+      <a class="carousel-control-next" href="#slide-{{ $.Scratch.Get "id" }}" data-bs-slide="next">
         <span class="fa fa-chevron-right my-chevron"></span>
         <span class="sr-only">Next</span>
       </a>
