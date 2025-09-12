@@ -17,11 +17,11 @@ I'm always looking for excellent, motivated students who are interested in progr
 # Current Students
 
 * <a href="https://alexlb99.github.io/">Alex LeBlanc</a> (PhD, Winter 2024 -)
-* Vinayak Sharma (MASc, Fall 2023 -)
 * Laurian Angelescu (MASc, Fall 2019 -)
 
 # Past Students
 
+* Vinayak Sharma (MASc, Spring 2025)
 * <a href="https://mohammadmahdi.com">Mohammad Mahdi Abdollahpour</a> (MMath, Fall 2024)
 * <a href="https://mohrobati.github.io">Mohammad Robati Shirzad</a> (MASc, Spring 2023)
 * Sruthi Venkatanarayanan (MMath, Fall 2022)
