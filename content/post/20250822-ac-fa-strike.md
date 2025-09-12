@@ -19,7 +19,7 @@ summary:    "How I managed to fly to New Zealand as soon as possible after the A
 </style>
 
 I'm glad that the Air Canada flight attendants got a deal that they
-seem to be satisfied with (maybe?), even if it caused me some
+seem to be satisfied with (maybe?) (edit: not so much), even if it caused me some
 inconvenience. Here is my story.
 
 # Setting
