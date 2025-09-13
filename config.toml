@@ -71,6 +71,7 @@ home = ["HTML", "RSS", "Algolia"]
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   github         = "https://github.com/patricklam"
+  mastodon       = "https://mastodon.nz/@va2lam"
   #wechat         = "your wechat qr code image"
   #medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"

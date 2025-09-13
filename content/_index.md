@@ -28,4 +28,3 @@ My <a href="/top/about">about page</a> has more details.
 * FAUW blog: https://fauw.blog/2019/12/04/meet-the-faculty-patrick-lam/
 * University of Waterloo EngSoc: https://www.engsoc.uwaterloo.ca/interview-with-patrick-lam/
 
-<a rel="me" href="https://mastodon.nz/@va2lam">Mastodon</a>
