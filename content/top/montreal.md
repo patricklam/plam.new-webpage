@@ -15,7 +15,7 @@ showtoc:    true
 ---
 
 <style>
-.pager { display:none; }
+.pagination { display:none; }
 </style>
 
 People always ask me what to do when visiting Montreal. I did

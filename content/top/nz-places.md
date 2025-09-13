@@ -17,7 +17,7 @@ showtoc:    true
 <style>
 .post-heading h1  { color: #17202A; }
 .meta { color: #17202A; }
-.pager { display:none; }
+.pagination { display:none; }
 </style>
 
 _Last updated: May 2024_

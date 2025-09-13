@@ -68,16 +68,16 @@
                 {{ end }}
 
                 <hr>
-                <ul class="pager">
+                <ul class="pagination">
                     {{ if .PrevInSection }}
-                    <li class="previous">
-                        <a href="{{ .PrevInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
+                    <li class="previous page-item">
+                        <a class="page-link" href="{{ .PrevInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
                             Previous Post</a>
                     </li>
                     {{ end }}
                     {{ if .NextInSection }}
-                    <li class="next">
-                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
+                    <li class="next page-item">
+                        <a class="page-link" href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
                             Post &rarr;</a>
                     </li>
                     {{ end }}

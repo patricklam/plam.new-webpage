@@ -12,7 +12,7 @@ showtoc:    false
 ---
 
 <style>
-.pager { display:none; }
+.pagination { display:none; }
 .intro-header .post-heading .meta { display:none; }
 </style>
 
