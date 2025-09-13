@@ -4,7 +4,7 @@ layout:     post
 title:      "Review: Ice Walker: A Polar Bear's Journey through the Fragile Arctic by James Raffan"
 date:       2021-05-09
 author:     "Patrick Lam"
-tags:       ["canada"]
+tags:       ["ca"]
 categories: ["travel", "books"]
 published:  true
 image:      "/img/20210509-ice-walker-review/20190629_212236542_sunset.webp"

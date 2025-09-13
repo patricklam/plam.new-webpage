@@ -4,7 +4,7 @@ layout:     post
 title:      "Urban living (2/3): Montreal"
 date:       2021-12-26
 author:     "Patrick Lam"
-tags:       ["canada"]
+tags:       ["ca"]
 categories: ["urbanism"]
 published:  true
 image:      "/img/20211226-urban-living-part-ii-montreal/IMG_20191102_190524.webp"

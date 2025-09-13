@@ -4,7 +4,7 @@ layout:     post
 title:      "Travel during COVID times: NZ to Canada"
 date:       2021-11-26
 author:     "Patrick Lam"
-tags:       ["canada", "covid"]
+tags:       ["ca", "covid"]
 categories: ["travel"]
 published:  true
 image:      "/img/20211114-401-vs-sh1/05393_abbots_creek_valley.webp"

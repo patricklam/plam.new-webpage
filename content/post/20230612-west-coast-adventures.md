@@ -4,7 +4,7 @@ layout:     post
 title:      "West Coast Adventures: Thanks friends! May 2023"
 date:       2023-06-12
 author:     "Patrick Lam"
-tags:       ["trip-reports", "us", "canada"]
+tags:       ["trip-reports", "us", "ca"]
 categories: ["travel"]
 published:  true
 image:      "/img/20230612-west-coast-adventures/20230514_205741261_nelson_and_upstream.PANO.webp"

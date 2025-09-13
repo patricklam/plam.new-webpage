@@ -4,7 +4,7 @@ layout:     post
 title:      "Museum review: Canadian Human Rights Museum / Musée pour les droits de la personne, Winnipeg"
 date:       2023-11-03
 author:     "Patrick Lam"
-tags:       ["trip-reports", "canada"]
+tags:       ["trip-reports", "ca"]
 categories: ["travel", "multiculturalism", "museum"]
 published:  true
 image:      "/img/20231103-canadian-museum-of-human-rights/20231013_205112330_st_boniface_view.webp"

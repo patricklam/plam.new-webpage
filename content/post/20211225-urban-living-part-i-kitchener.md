@@ -4,7 +4,7 @@ layout:     post
 title:      "Urban living (1/3): Kitchener/Waterloo"
 date:       2021-12-25
 author:     "Patrick Lam"
-tags:       ["canada"]
+tags:       ["ca"]
 categories: ["urbanism"]
 published:  true
 image:      "/img/20211225-urban-living-part-i-kitchener/PXL_20211210_213052384.webp"

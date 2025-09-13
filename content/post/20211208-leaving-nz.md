@@ -4,7 +4,7 @@ layout:     post
 title:      "Leaving Aotearoa Part I: WLG to AKL and on to NZ6"
 date:       2021-12-07
 author:     "Patrick Lam"
-tags:       ["canada", "nz", "covid"]
+tags:       ["ca", "nz", "covid"]
 categories: ["travel"]
 published:  true
 image:      "/img/20211208-leaving-nz/PXL_20211129_044617281.webp"
