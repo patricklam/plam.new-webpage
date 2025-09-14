@@ -239,7 +239,7 @@ pre code{
         opacity:1
     }
 }
-.navbar-custom{
+.navbar{
     background:0 0;
     border:none;
     position:absolute;
@@ -248,18 +248,18 @@ pre code{
     width:100%;
     z-index:3;
     font-family:-apple-system,"Helvetica Neue",Arial,sans-serif;
-    line-height:1.7
+    line-height:1.2
 }
-.navbar-custom .navbar-brand{
+.navbar-brand{
     font-weight:800;
     color:#fff;
-    height:56px;
-    line-height:25px
+    line-height:25px;
+    padding-left:20px
 }
-.navbar-custom .navbar-brand:hover{
+.navbar-brand:hover{
     color:rgba(255,255,255,.8)
 }
-.navbar-custom li a{
+.nav-link{
     text-transform:uppercase;
     font-size:12px;
     line-height:20px;
@@ -267,56 +267,54 @@ pre code{
     letter-spacing:1px;
     text-decoration:none
 }
-.navbar-custom li a:active{
+.nav-link a:active{
     background:rgba(0,0,0,.12)
 }
 @media only screen and (min-width:768px){
-    .navbar-custom{
+    .navbar{
         background:0 0;
         border-bottom:1px solid transparent
     }
-    .navbar-custom body{
+    .navbar body{
         font-size:20px
     }
-    .navbar-custom .navbar-brand{
+    .navbar .navbar-brand{
         color:#fff;
-        padding:20px;
-        line-height:20px
+        line-height:10px
     }
-    .navbar-custom .navbar-brand:hover,.navbar-custom .navbar-brand:focus{
+    .navbar .navbar-brand:hover,.navbar .navbar-brand:focus{
         color:rgba(255,255,255,.8)
     }
-    .navbar-custom li a{
-        color:#fff;
-        padding:20px
+    .nav-link{
+        color:#fff
     }
-    .navbar-custom li a:hover,.navbar-custom li a:focus{
+    .nav-link a:hover,.navbar li a:focus{
         color:rgba(255,255,255,.8)
     }
-    .navbar-custom li a:active{
+    .nav-link:active{
         background:0 0
     }
 }
-.navbar-custom.invert .navbar-toggle:active{	
+.navbar.invert .navbar-toggle:active{
     background-color:rgba(0,0,0,.05)	
 }	
-.navbar-custom.invert .navbar-toggle .icon-bar{	
+.navbar.invert .navbar-toggle .icon-bar{
     background-color:#404040	
 }	
-.navbar-custom.invert .navbar-brand{	
+.navbar.invert .navbar-brand{
     color:#404040	
 }	
-.navbar-custom.invert .navbar-brand:hover,.navbar-custom.invert .navbar-brand:focus{	
+.navbar.invert .navbar-brand:hover,.navbar.invert .navbar-brand:focus{
     color:#0085a1	
 }	
-.navbar-custom.invert li a{	
+.nav-link.invert {
     color:#404040	
 }	
-.navbar-custom.invert li a:hover,.navbar-custom.invert li a:focus{	
+.nav-link.invert:hover,.navbar.invert .nav-link:focus{
     color:#0085a1	
 }
 @media only screen and (min-width:1170px){
-    .navbar-custom{
+    .navbar{
         -webkit-transition:background-color .3s;
         -moz-transition:background-color .3s;
         transition:background-color .3s;
@@ -328,7 +326,7 @@ pre code{
         -webkit-backface-visibility:hidden;
         backface-visibility:hidden
     }
-    .navbar-custom.is-fixed{
+    .navbar.is-fixed{
         position:fixed;
         top:-61px;
         background-color:rgba(255,255,255,.9);
@@ -337,19 +335,19 @@ pre code{
         -moz-transition:-moz-transform .3s;
         transition:transform .3s
     }
-    .navbar-custom.is-fixed .navbar-brand{
+    .navbar.is-fixed .navbar-brand{
         color:#404040
     }
-    .navbar-custom.is-fixed .navbar-brand:hover,.navbar-custom.is-fixed .navbar-brand:focus{
+    .navbar.is-fixed .navbar-brand:hover,.navbar.is-fixed .navbar-brand:focus{
         color:#0085a1
     }
-    .navbar-custom.is-fixed li a{
+    .navlink.is-fixed {
         color:#404040
     }
-    .navbar-custom.is-fixed li a:hover,.navbar-custom.is-fixed li a:focus{
+    .nav-link.is-fixed:hover,.nav-link.is-fixed:focus{
         color:#0085a1
     }
-    .navbar-custom.is-visible{
+    .navbar.is-visible{
         -webkit-transform:translate3d(0,100%,0);
         -moz-transform:translate3d(0,100%,0);
         -ms-transform:translate3d(0,100%,0);
