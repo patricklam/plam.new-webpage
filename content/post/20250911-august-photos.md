@@ -130,8 +130,9 @@ Lac Cornu; paragliding; Grenoble Bastille view; cat from Residhotel; streets of 
 </figcaption>
 </figure>
 
-# Beaver Valley Climbing Festival (August 2025)
+# Beaver Valley Climbing Festival/Ottawa/Montreal (August 2025)
 
+* [Canadian Museum of History and merlin, August 6 (31/149)](https://gallery.patricklam.ca/index.php?/category/2124)
 * [Beaver Valley Climbing Festival, August 16/17 (73/417)](https://gallery.patricklam.ca/index.php?/category/2130)
 
 I thought I'd go to the BVCF, organized by the Ontario Alliance of Climbers. This caused me to get caught up
