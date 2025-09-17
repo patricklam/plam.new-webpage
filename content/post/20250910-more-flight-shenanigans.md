@@ -83,7 +83,7 @@ That should work.
 
 The problem with making a booking at 11pm is that you can't really
 book on airbnb: hosts are asleep. And by that time most hotels were full (or expensive).
-Still, MP found a room at the Best Western Ellerslie. Back to Ellerslie by Uber again.
+Still, MP found a room at the Best Western Ellerslie [edit: subsequently reimbursed by Air NZ under the disrupted flight policy; we were sure to point out that it was a mechanical]. Back to Ellerslie by Uber again.
 
 ## AKL-GIS-WLG (Sep 1)
 
