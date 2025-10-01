@@ -5,7 +5,6 @@ type:       post
 date:       2020-01-01
 title:      "Patrick Lam's Research Publications"
 author:     "Patrick Lam"
-published:  true
 url:        /publications/
 showtoc:    false
 
@@ -19,6 +18,7 @@ showtoc:    false
 # Refereed Publications
 
 <ul>
+  <li>Alex Le Blanc and Patrick Lam. VSTTE 2025: <a href="/papers/25.vstte.continued-rust-verification.pdf">Lessons Learned So Far From Verifying the Rust Standard Library (work-in-progress)</a>. [<a href="/papers/25.vstte.continued-rust-verification.bib">bib</a>]</li>
   <li>Vinayak Sharma and Patrick Lam. SCAM 2025: <a href="/papers/25.scam.breaking-exceptions.pdf">Detecting Exception-Related Behavioural Breaking Changes with UnCheckGuard</a>. [<a href="/papers/25.scam.breaking-exceptions.bib">bib</a>, <a href="https://doi.org/10.5281/zenodo.16788650">artifact</a>, <a href="https://docs.google.com/presentation/d/1xkFg0EFL2f_kU5bQHFRPfhGVS7HgrMnddoIX8E1y70E/">slides</a>]</li>
   <li>Karoliine Holter, Simmo Saan, Patrick Lam, and Vesal Vojdani. TOPLAS, with presentation at PLDI: <a href="/papers/25.toplas.data-race-empirical.pdf">Sound Static Data Race Verification for C: Is the Race Lost?</a> [<a href="/papers/25.toplas.data-race-empirical.bib">bib</a>, <a href="https://doi.org/10.5281/zenodo.10903393">artifact</a>]</li>
   <li>Alex Le Blanc and Patrick Lam. HATRA 2024: <a href="/papers/24.hatra.rust-verification.pdf">Surveying the Rust Verification Landscape</a>. [<a href="https://arxiv.org/abs/2410.01981">arXiv</a>, <a href="/papers/24.hatra.rust-verification.bib">bib</a>]</li>
