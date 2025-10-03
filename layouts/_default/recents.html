@@ -11,7 +11,8 @@
             post-container
         ">
             <div class="recents-list">
-              {{ range .Pages }}
+              {{ $pages := .Site.RegularPages }}
+              {{ range (.Paginate $pages).Pages }}
                 <h2 class="f3 near-black">
                    <a href="{{ .RelPermalink }}">
                        {{ .Title }}
@@ -21,8 +22,9 @@
                   <div class="f6">{{ .Date.Format "2 Jan 2006" }}</div>
                 </h3>
                 <p class="post-subtitle">{{ .Summary }}</p>
-                    {{ end }}
+              {{ end }}
             </div>
+            {{ partial "pagination.html" . }}
        	</div>
         {{ partial "sidebar.html" . }}
 	</div>

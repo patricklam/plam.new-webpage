@@ -3,7 +3,6 @@ title = "Patrick Lam"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
-#paginate = 5 #frontpage pagination
 hasCJKLanguage = false
 ignoreErrors = [ "error-remote-getCSV" ]
 
@@ -130,3 +129,6 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.goldmark.renderer]
     unsafe = true
+
+[pagination]
+  pagerSize = 10
