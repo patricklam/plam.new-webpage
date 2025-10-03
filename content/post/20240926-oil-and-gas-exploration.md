@@ -6,7 +6,6 @@ date:       2024-09-26
 author:     "Patrick Lam"
 tags:       [advocacy, aotearoa, transit]
 categories: []
-published:  true
 image:      "/img/20240926-oil-and-gas-exploration/06933_oil_rig_v1.avif"
 showtoc:    false
 summary:    "Get with the program! The NZ Coalition of Chaos wants to reverse the oil and gas exploration ban. It is 2024, not 1984."

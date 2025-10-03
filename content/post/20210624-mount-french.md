@@ -6,7 +6,6 @@ date:       2021-06-24
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["travel"]
-published:  true
 image:      "/img/20210624-mount-french/20210524_012101801_more_mountains.PANO.webp"
 showtoc:    true
 summary:    "I suspected that the Mount French route would be slightly marginal for daylight, since it was posted at 6-7 hours and sunset is currently at 17:15. But I thought we could do it quickly enough. The weather forecast was excellent and there were only a couple of fluffy white clouds in the sky."

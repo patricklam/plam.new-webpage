@@ -6,7 +6,6 @@ date:       2025-03-10
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250301-february-photos/20250125_052527609_taxiing_v1.avif"
 showtoc:    false
 summary:    "Moving right along, I've now posted the Around the Mountain Circuit from 2023, and the next big set is August 2023. I added to the backlog with 2000 pictures from Japan though."

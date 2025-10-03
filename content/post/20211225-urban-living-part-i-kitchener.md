@@ -6,7 +6,6 @@ date:       2021-12-25
 author:     "Patrick Lam"
 tags:       ["ca"]
 categories: ["urbanism"]
-published:  true
 image:      "/img/20211225-urban-living-part-i-kitchener/PXL_20211210_213052384.webp"
 showtoc:    true
 summary:    "OK, so what do I really think about living in Kitchener, Montreal, and Wellington in 2021? Part I: Kitchener/Waterloo."

@@ -6,7 +6,6 @@ date:       2023-01-07
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work", "travel"]
-published:  true
 image:      "/img/20230107-cant-get-there-from-here/20200713_073552_tranzalpine_departing_chc.webp"
 showtoc:    true
 summary:    "A good (though detailed) read about the sad history of NZ passenger rail, with advocacy for a better future."

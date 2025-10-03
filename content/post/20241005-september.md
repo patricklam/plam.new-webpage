@@ -6,7 +6,6 @@ date:       2024-10-05
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work", "travel"]
-published:  true
 image:      "/img/20241005-september/06681_bridge.avif"
 showtoc:    true
 summary:    "Mostly in Wellington except for a weekend in Auckland and a week in Tokyo (the start of a busy travel month). Finalizing papers, reviewing course notes."

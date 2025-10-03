@@ -6,7 +6,6 @@ date:       2024-06-16
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20240616-overland-track-before-the-walk/20240428_232616385_hobart_from_the_river.avif"
 showtoc:    true
 summary:    "Getting to Tasmania is pretty easy, but here's how we did it, stopping by Melbourne and then to Hobart and Launceston."

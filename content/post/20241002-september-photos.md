@@ -6,7 +6,6 @@ date:       2024-10-02
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20241002-september-photos/20230805_203954255_like_kalymnos_v1.avif"
 showtoc:    false
 summary:    "About the same number of photos processed in September as in August, but that includes a doozy of a set from the Petrel Station."

@@ -6,7 +6,6 @@ date:       2024-06-24
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20240624-overland-track-windermere/09534_drying_tents_in_the_shadow_of_the_mountain_v1.avif"
 showtoc:    true
 summary:    "A much easier day on the Overland Track, slightly downhill overall, with a side trip to Lake Will, no waterfalls, a platypus, a wombat, and few birds."

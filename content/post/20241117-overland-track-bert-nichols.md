@@ -6,7 +6,6 @@ date:       2024-11-18
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20241117-overland-track-bert-nichols/00071_flat.avif"
 showtoc:    true
 summary:    "'Waterfall day' on the Overland Track, with three waterfalls available plus a gap before reaching Bert Nichols Hut at Windy Ridge."

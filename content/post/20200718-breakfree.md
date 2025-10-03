@@ -6,7 +6,6 @@ date:       2020-07-15
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20200718-breakfree/20200714_chc_view.jpg"
 showtoc:    false
 

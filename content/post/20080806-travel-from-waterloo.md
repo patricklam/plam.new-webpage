@@ -6,7 +6,6 @@ date:       2008-08-06
 author:     "Patrick Lam"
 tags:       ["transit", "airport"]
 categories: ["travel"]
-published:  true
 
 ---
 

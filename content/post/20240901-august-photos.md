@@ -6,7 +6,6 @@ date:       2024-09-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20240901-august-photos/20240804_025936639_ngauruhoe_v2.avif"
 showtoc:    false
 summary:    "A more selective August, with fewer sets processed but more pictures."

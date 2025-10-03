@@ -6,7 +6,6 @@ date:       2023-05-31
 author:     "Patrick Lam"
 tags:       ["reviews"]
 categories: ["books"]
-published:  true
 image:      "/img/montreal-travel-info/20220704_235119674_eastern_montreal_v1.webp"
 tags:       ["mtl", "ca"]
 categories: []

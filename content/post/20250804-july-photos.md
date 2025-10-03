@@ -6,7 +6,6 @@ date:       2025-08-04
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250804-july-photos/06689_sunset_over_the_mountains_v1.avif"
 showtoc:    false
 summary:    "Managed to do a lot of photos despite two big trips (Olympus, TMB) in July, including a quick turnaround on the bulk of the Olympus photos."

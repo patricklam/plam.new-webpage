@@ -6,7 +6,6 @@ date:       2020-10-03
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20200831-august/20200808_173120_waterloo_peak_and_friends_header.jpg"
 showtoc:    true
 

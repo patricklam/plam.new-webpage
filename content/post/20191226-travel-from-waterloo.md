@@ -6,7 +6,6 @@ date:       2019-12-26
 author:     "Patrick Lam"
 tags:       ["transit", "airport"]
 categories: ["travel"]
-published:  true
 image:      "/img/20191202_141929_trains_banner.jpg"
 
 ---

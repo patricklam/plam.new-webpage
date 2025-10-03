@@ -6,7 +6,6 @@ date:       2022-05-07
 author:     "Patrick Lam"
 tags:       ["trip-reports"]
 categories: ["travel"]
-published:  true
 image:      "/img/20220507-yellowknife/DSC07301.webp"
 showtoc:    true
 summary:    "Checking off another territory from my Canada list; brief visit to Yellowknife (NWT) and successful aurora spotting."

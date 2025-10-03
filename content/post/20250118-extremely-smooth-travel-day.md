@@ -6,7 +6,6 @@ date:       2025-01-18
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20250118-extremely-smooth-travel-day/08918_sunset_v1.avif"
 showtoc:    true
 summary:    "3 segments, 3 reservations, 3 checked bags, 2 countries, no hiccups."

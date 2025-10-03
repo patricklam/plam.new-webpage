@@ -6,7 +6,6 @@ date:       2021-04-02
 author:     "Patrick Lam"
 tags:       ["hiking"]
 categories: ["travel"]
-published:  true
 image:      "/img/20210402-no-gillespie/20210328_221615726-brewster-PANO.webp"
 showtoc:    false
 summary:    "The planned logistics for the Gillespie trip were simple: rent a car, stay at the [Wonderland Lodge](https://www.wonderlandlodge.nz) in Makarora the night before, take a jetboat across the river, walk, and take a jetboat back from Kerin Forks. The jetboat avoids the biggest river crossings.  Ironically, the day before we were to go, we got a call saying that there wasn't enough water to run the jetboat. That's fine, it should be easy to cross the river in that case."

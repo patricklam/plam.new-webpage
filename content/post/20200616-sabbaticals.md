@@ -6,7 +6,6 @@ date:       2020-06-15
 author:     "Patrick Lam"
 tags:       []
 categories: ["work"]
-published:  true
 image:      "/img/20200603-may/05368_rocks_at_sunrise_banner.webp"
 showtoc:    false
 

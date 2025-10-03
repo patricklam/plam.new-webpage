@@ -6,7 +6,6 @@ date:       2025-06-25
 author:     "Patrick Lam"
 tags:       ["estonia", "europe"]
 categories: ["trip-reports", "work"]
-published:  true
 image:      "/img/20250625-trip-report-estonia/03610_cross_of_liberty_vabadussoja_voidusammas_v1.avif"
 showtoc:    true
 summary:    "Research visit to Tartu, passing through Tallinn. First time back in Europe since 2019."

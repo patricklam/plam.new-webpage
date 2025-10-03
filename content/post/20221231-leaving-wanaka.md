@@ -6,7 +6,6 @@ date:       2022-12-31
 author:     "Patrick Lam"
 tags:       ["logistics", "nz", "airport", "trip-reports"]
 categories: ["travel"]
-published:  true
 image:      "/img/20221231-leaving-wanaka/04552_above_the_clouds.webp"
 showtoc:    true
 summary:    "A day in the life. Making and executing last-minute travel plans to get back to Wellington from the South Island."

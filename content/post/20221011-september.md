@@ -6,7 +6,6 @@ date:       2022-10-11
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work", "travel"]
-published:  true
 image:      "/img/20221011-september/20220925_055158351_pano_to_phipps-PANO.webp"
 showtoc:    true
 summary:    "Normal month in a non-teaching term. Making progress with research. Executing and planning trips, though not far afield (South Island)."

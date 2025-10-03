@@ -6,7 +6,6 @@ date:       2020-03-08
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
-published:  true
 image:      "/img/20200228_195102_towards_field_with_clouds_banner.jpg"
 
 ---

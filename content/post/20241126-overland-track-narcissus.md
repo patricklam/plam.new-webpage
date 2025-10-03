@@ -6,7 +6,6 @@ date:       2024-11-26
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20241126-overland-track-narcissus/20240506_020621702_narcissus_hut_interior.avif"
 showtoc:    true
 summary:    "All downhill from here; short day to Narcissus Hut and boat pickup."

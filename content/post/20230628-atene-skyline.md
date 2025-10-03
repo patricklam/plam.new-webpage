@@ -6,7 +6,6 @@ date:       2023-06-28
 author:     "Patrick Lam"
 tags:       ["trip-reports", "nz", "hike"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230628-atene-skyline/20230616_214454746_atene_skyline_view-PANO.webp"
 showtoc:    false
 summary:    "Atene Skyline day hike in Whanganui National Park. A bit faster than predicted time. Well-formed if somewhat steep track. Excellent undercast views. Also, Bushy Park near Whanganui."

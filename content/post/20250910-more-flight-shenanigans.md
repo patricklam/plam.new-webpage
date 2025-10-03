@@ -6,7 +6,6 @@ date:       2025-09-10
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20250910-more-flight-shenanigans/04596_southern_alps_v1.avif"
 showtoc:    true
 summary:    "Not out of the woods yet. Weather and other issues (but mostly weather) causing flight issues in New Zealand."

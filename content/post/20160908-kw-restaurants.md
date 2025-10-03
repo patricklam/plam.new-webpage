@@ -6,7 +6,6 @@ date:       2016-09-08
 author:     "Patrick Lam"
 tags:       []
 categories: ["local"]
-published:  true
 image:      "/img/20200831-august/20200808_173120_waterloo_peak_and_friends_header.jpg"
 showtoc:    false
 

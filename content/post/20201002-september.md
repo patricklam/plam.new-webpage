@@ -6,7 +6,6 @@ date:       2020-10-02
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
-published:  true
 image:      "/img/20201002-september/20200915_111114_fyffe_summit.jpg"
 showtoc:    true
 

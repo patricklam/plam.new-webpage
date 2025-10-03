@@ -6,7 +6,6 @@ date:       2024-08-12
 author:     "Patrick Lam"
 tags:       ["aus"]
 categories: ["trip-reports", "hiking", "cruise", "snorkelling"]
-published:  true
 image:      "/img/20240812-melbourne-cairns/05519_melbourne_town_hall.avif"
 showtoc:    true
 summary:    "Our long-delayed trip to Melbourne, plus a side-trip to Cairns and the Great Barrier Reef."

@@ -6,7 +6,6 @@ date:       2024-07-03
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20240703-june-photos/01062_summit_crowd_v1.avif"
 showtoc:    false
 summary:    "I sure did process a lot of photos in June. Here they are."

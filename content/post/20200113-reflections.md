@@ -6,7 +6,6 @@ date:       2020-01-13
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
-published:  true
 
 ---
 

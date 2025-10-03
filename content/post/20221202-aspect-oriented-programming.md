@@ -6,7 +6,6 @@ date:       2022-12-02
 author:     "Patrick Lam"
 tags:       ["programming"]
 categories: ["work"]
-published:  true
 image:      "/img/20220917-nz-interregional-rail/PXL_20210530_002805808.webp"
 showtoc:    false
 summary:    "Aspect-Oriented Programming used to be trendy but never really got traction. Occasionally people talk about things where AOP would have helped."

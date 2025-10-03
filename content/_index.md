@@ -1,7 +1,13 @@
 ---
-layout:     post
+layout:     page
+type:       homepage
 
 ---
+
+<style>
+.intro-header .post-heading .meta { display: none; }
+</style>
+
 
 # Professional
 

@@ -6,7 +6,6 @@ date:       2020-12-12
 author:     "Patrick Lam"
 tags:       ["academia"]
 categories: ["school"]
-published:  true
 image:      "/img/20201203-november/00219_luxmore_view.JPG"
 showtoc:    true
 

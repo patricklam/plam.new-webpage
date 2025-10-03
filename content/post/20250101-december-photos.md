@@ -6,7 +6,6 @@ date:       2025-01-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250101-december-photos/03704_mueller_hut_closeup.webp"
 showtoc:    false
 summary:    "Wow, I had a really active December 2022. Almost done with pictures from that month now."

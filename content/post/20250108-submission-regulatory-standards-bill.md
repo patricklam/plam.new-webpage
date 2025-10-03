@@ -6,7 +6,6 @@ date:       2025-01-08
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["nzpol"]
-published:  true
 image:      "/img/20241206-submission-principles-treaty-of-waitangi/07707_on_the_steps.avif"
 showtoc:    false
 summary:    "Here we go again. The NZ ACT Party also has an under-the-radar Regulatory Standards Bill which is perhaps as bad as the Treaty Principles Bill but much more technocratic."

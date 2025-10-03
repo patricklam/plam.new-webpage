@@ -6,7 +6,6 @@ date:       2022-09-15
 author:     "Patrick Lam"
 tags:       [aotearoa]
 categories: []
-published:  true
 image:      "/img/20220915-immigration/inz-letterhead.png"
 showtoc:    true
 summary:    "Getting residence. Quite a ride, and I know how to work systems.."

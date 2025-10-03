@@ -12,18 +12,24 @@
    {{ $.Scratch.Set "colStyle" "" }}
 {{ end }}
 
+{{ $data := dict }}
 {{ $arg := .Get 0 }}
-{{ $csv := getCSV "," $arg }}
+{{ with resources.Get $arg }}
+  {{ $opts := dict "delimiter" "," }}
+  {{ $data = . | transform.Unmarshal $opts }}
+{{ else }}
+  {{ errorf "Unable3 to get resource %q" $arg }}
+{{ end }}
 
 <table>
-  {{ range $i, $r := (first 1 $csv) }} 
+  {{ range $i, $r := (first 1 $data) }} 
     <thead><tr>
        {{ range $j, $s := $r}}
         <th style="text-align:left;">{{ humanize $s }}</th>
        {{ end }}
     </tr> </thead>
     {{ end }}
-    {{ range $i, $r := (first ($.Scratch.Get "maxLines") (after 1 $csv)) }}
+    {{ range $i, $r := (first ($.Scratch.Get "maxLines") (after 1 $data)) }}
        <tr>
        {{ range $j, $s := $r}}
           <td style="{{ $.Scratch.Get "colStyle" | safeCSS }}"> {{ $s }} </td>

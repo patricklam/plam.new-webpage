@@ -6,7 +6,6 @@ date:       2023-03-08
 author:     "Patrick Lam"
 tags:       ["covid"]
 categories: []
-published:  true
 image:      "/img/20230308-covid-infodump/covid-19-banner.webp"
 showtoc:    true
 summary:    "We have in fact been learning more about COVID recently, though it feels not as fast as in March 2020."

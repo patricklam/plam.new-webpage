@@ -6,7 +6,6 @@ date:       2021-06-28
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["travel"]
-published:  true
 image:      "/img/20210624-mount-french/20210524_012101801_more_mountains.PANO.webp"
 showtoc:    true
 summary:    "Cliffhanger resolved. We get back to Christchurch (a bit poorer) and thence back to Wellington."

@@ -5,7 +5,6 @@ type:       post
 date:       2023-05-06
 title:      "ChatGPT's Hot Takes on Programming Languages and Software Engineering"
 author:     "ChatGPT"
-published:  true
 url:        /chatgpt-hot-takes
 tags:       []
 categories: ["work"]

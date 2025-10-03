@@ -6,7 +6,6 @@ date:       2021-12-07
 author:     "Patrick Lam"
 tags:       ["ca", "nz", "covid"]
 categories: ["travel"]
-published:  true
 image:      "/img/20211208-leaving-nz/PXL_20211129_044617281.webp"
 showtoc:    true
 summary:    "Ma te wa&mdash;see you later, New Zealand. First half of my trip from Wellington to Montreal, covering travel from Wellington to Auckland and onto the plane to Los Angeles."

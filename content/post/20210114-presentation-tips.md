@@ -6,7 +6,6 @@ date:       2021-01-14
 author:     "Patrick Lam"
 tags:       ["academia"]
 categories: ["sase"]
-published:  true
 image:      "/img/20210114-presentation-tips/20200318_200301_blue_hour_taranaki_header.webp"
 showtoc:    false
 

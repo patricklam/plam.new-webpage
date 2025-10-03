@@ -6,7 +6,6 @@ date:       2020-02-12
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 showtoc:    false
 image:      "/img/20200212-wanaka/20200205_071540_lake_wanaka_pano.vr.webp"
 

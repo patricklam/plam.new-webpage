@@ -6,7 +6,6 @@ date:       2023-05-18
 author:     "Patrick Lam"
 tags:       ["reviews"]
 categories: ["books"]
-published:  true
 image:      "/img/20230518-before-the-dawn/00228_nakatsugawa_view_v1.webp"
 showtoc:    false
 summary:    "A review of the Great Japanese Novel, which describes the life of village chief Aoyama Hanzō along a main highway through the opening of Japan to the world and the Meiji Restoration. Kind of the anti-It's-a-Wonderful-World as he realizes that his efforts didn't bear much fruit."

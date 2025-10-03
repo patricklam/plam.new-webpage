@@ -6,7 +6,6 @@ date:       2024-11-17
 author:     "Patrick Lam"
 tags:       ["ca", "on", "mb"]
 categories: ["trip-reports", "conference"]
-published:  true
 image:      "/img/20241116-big-trip-ontario-california-manitoba/PXL_20241025_024753185.avif"
 showtoc:    true
 summary:    "Wellington to Ontario to California to Manitoba to Wellington. On this trip, two tournaments and a conference; in all, 3 tournaments and 2 conferences."

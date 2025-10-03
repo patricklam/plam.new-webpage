@@ -6,8 +6,8 @@ date:       2025-09-11
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250911-august-photos/01519_festival_v1.avif"
+featured-image: "/img/20250911-august-photos/01519_festival_v1.avif"
 showtoc:    false
 summary:    ""
 

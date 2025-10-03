@@ -6,7 +6,6 @@ date:       2021-02-10
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
-published:  true
 image:      "/img/20210101-december/20201222_003709064-conical-hill-small.jpg"
 showtoc:    true
 summary:    "My non-travel retrospective for 2020: work, life goals, and hobbies."

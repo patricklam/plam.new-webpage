@@ -6,7 +6,6 @@ date:       2022-11-11
 author:     "Patrick Lam"
 tags:       ["nz", "hike"]
 categories: ["travel"]
-published:  true
 image:      "/img/20221111-queen-charlotte-track/20221021_222340355_ferry_pic_from_ferry-PANO.webp"
 showtoc:    false
 summary:    "Post-punted-paper-deadline trip to Queen Charlotte, plus a stay in Anakiwa. Occasional good views, a bit on the long side."

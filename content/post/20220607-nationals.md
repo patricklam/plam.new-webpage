@@ -6,7 +6,6 @@ date:       2022-06-07
 author:     "Patrick Lam"
 tags:       []
 categories: ["judo", "travel"]
-published:  true
 image:      "/img/20220606-may/PXL_20220519_194947200.PANO.webp"
 showtoc:    false
 summary:    "Good showing in seniors (2 wins) and veterans (3rd) at Canadian Open Nationals."

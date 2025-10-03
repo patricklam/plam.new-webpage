@@ -6,7 +6,6 @@ date:       2020-09-10
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20200910-charleston/0169_winking_plam_pano.jpg"
 summary:    "The plan, then, was to get in some climbing on granite in Charleston for the Queen's Birthday long weekend. Side note: In Canada [except Quebec], Victoria Day is the Queen's Birthday (unofficial start to summer), scheduled for the last Monday preceding May 25, while in NZ, it's the first Monday in June. Close but not quite, and the weather is different. Kind of like many things in NZ. It's a different country."
 showtoc:    true

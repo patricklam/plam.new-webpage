@@ -6,7 +6,6 @@ date:       2021-08-15
 author:     "Patrick Lam"
 tags:       ["advocacy"]
 categories: []
-published:  true
 image:      "/img/20210815-ipcc-letter-to-ministers/IMG_20190620_161511427_HDR.webp"
 showtoc:    true
 summary:    "I'm writing as a constituent to urge Canada to take action on climate change. The recent release of the IPCC report highlights the necessity of doing what we can to fix this human-caused problem. We need to take action now as a society, and the government needs to take a leading role: this problem requires collective action, and we as individuals do not have the power to solve it on our own."

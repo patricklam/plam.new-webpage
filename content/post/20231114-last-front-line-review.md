@@ -6,7 +6,6 @@ date:       2023-11-14
 author:     "Patrick Lam"
 tags:       ["reviews", "walk", "hiking", "nz"]
 categories: ["books"]
-published:  true
 image:      "/img/20231114-last-front-line-review/02502_skyline.webp"
 showtoc:    true
 summary:    "How the sausage is made: Brendan O'Dwyer writes about building the Paparoa Great Walk on NZ's West Coast."

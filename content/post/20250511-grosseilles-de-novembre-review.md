@@ -6,7 +6,6 @@ date:       2025-05-11
 author:     "Patrick Lam"
 tags:       ["reviews", "literature"]
 categories: ["books"]
-published:  true
 image:      "/img/20250511-grosseilles-de-novembre-review/20250510_091321312_forest.avif"
 showtoc:    false
 summary:    "Classics of Estonian literature: Days of our Lives for not-so-great feudal villagers."

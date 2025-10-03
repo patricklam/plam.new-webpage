@@ -6,7 +6,6 @@ date:       2023-04-07
 author:     "Patrick Lam"
 tags:       ["qc", "ca"]
 categories: ["travel", "judo"]
-published:  true
 image:      "/img/20230407-championnat-provincial-laval/PXL_20230327_000200082.webp"
 showtoc:    false
 summary:    "By special permission, refereeing at the Quebec provincial judo championships (biggest ever)."

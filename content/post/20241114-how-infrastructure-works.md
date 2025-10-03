@@ -6,7 +6,6 @@ date:       2024-11-15
 author:     "Patrick Lam"
 tags:       ["reviews", "engineering"]
 categories: ["books"]
-published:  true
 image:      "/img/20241114-how-infrastructure-works/PXL_20230105_210015976.avif"
 showtoc:    false
 summary:    "An optimistic look at the role of technology (and specifically infrastructure) in the changes that will be needed in our society in the coming years."

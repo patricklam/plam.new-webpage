@@ -6,7 +6,6 @@ date:       2020-04-08
 author:     "Patrick Lam"
 tags:       []
 categories: []
-published:  true
 showtoc:    false
 image:      "/img/20200401-third-month/04417_setting_out_from_hut_v1.jpg"
 

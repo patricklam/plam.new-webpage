@@ -6,7 +6,6 @@ date:       2024-08-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20240801-july-photos/20230525_033735608_more_sounds_v1.avif"
 showtoc:    false
 summary:    "Treading water: processed a lot of albums in July, but took about the same number of pictures (in 11 sets) as I processed."

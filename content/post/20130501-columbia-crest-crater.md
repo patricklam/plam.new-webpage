@@ -6,7 +6,6 @@ date:       2013-05-01
 author:     "Patrick Lam"
 tags:       ["mountains"]
 categories: ["travel"]
-published:  true
 image:      "/img/20130501-columbia-crest-crater/0669_generic_mountain_scenery_header.jpg"
 showtoc:    false
 summary:    "Shot above (July 8, 2009): at 14,400 ft (route to summit: Emmons-Winthrop Glacier) with David Wentzlaff and Aaron Yahr; shot below (May 1, 2013): at 36,000 ft, from AC 545 flying from LAS to YVR."

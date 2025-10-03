@@ -6,7 +6,6 @@ date:       2023-06-12
 author:     "Patrick Lam"
 tags:       ["trip-reports", "us", "ca"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230612-west-coast-adventures/20230514_205741261_nelson_and_upstream.PANO.webp"
 showtoc:    true
 summary:    "All over the West Coast of North America: Eastern Sierras, Seattle, Vancouver (and Squamish), and Nelson. Both work and life, too: gave a talk at UBC and UW, and did a bunch of skiing and hiking. Also bike commuting."

@@ -3,7 +3,7 @@ title = "Patrick Lam"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+#paginate = 5 #frontpage pagination
 hasCJKLanguage = false
 ignoreErrors = [ "error-remote-getCSV" ]
 
@@ -92,6 +92,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.additional_menus]]
   title =  "BLOG"
   href =  "/post/"
+  [[params.additional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
   [[params.additional_menus]]
   title =  "RESEARCH"
   href =  "/top/research/"

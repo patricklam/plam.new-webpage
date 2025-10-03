@@ -6,7 +6,6 @@ date:       2023-02-26
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas", "japan"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230226-japan-part-i/08281_golden_gai_at_night.webp"
 showtoc:    true
 summary:    "First overseas trip since 2020, to Japan. Walking on a bit of the Nakasendō, plus some info on pre-trip planning, and early cherry blossoms."

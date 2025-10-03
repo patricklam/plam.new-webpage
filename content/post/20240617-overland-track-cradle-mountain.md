@@ -6,7 +6,6 @@ date:       2024-06-17
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20240617-overland-track-cradle-mountain/04_09464_flats_and_peaks.avif"
 showtoc:    true
 summary:    "Our first day of actual hiking on the Overland Track, up onto the plateau and atop Cradle Mountain to Waterfall Valley Hut, our first Tasmanian Hut."

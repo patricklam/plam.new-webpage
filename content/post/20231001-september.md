@@ -6,7 +6,6 @@ date:       2023-10-01
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work", "travel"]
-published:  true
 image:      "/img/20231001-september/20230929_215920026_crater_of_the_moon.webp"
 showtoc:    true
 summary:    ""

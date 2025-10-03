@@ -6,7 +6,6 @@ date:       2024-05-14
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20240514-april-photos/07697_adirondack_chairs.webp"
 showtoc:    false
 summary:    "Let's try something different and separate the photos post from the summary post."

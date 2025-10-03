@@ -3,7 +3,6 @@ layout:     post
 
 title:      "ECE 653 Software Testing, Quality Assurance, and Maintenance, Spring 2022"
 author:     "Patrick Lam"
-published:  true
 url:        /stqam-2022/
 ---
 

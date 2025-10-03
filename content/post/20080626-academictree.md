@@ -6,7 +6,6 @@ date:       2008-06-26
 author:     "Patrick Lam"
 tags:       ["academia"]
 categories: ["work"]
-published:  true
 
 ---
 

@@ -6,7 +6,6 @@ date:       2021-08-24
 author:     "Patrick Lam"
 tags:       ["tech", "meta"]
 categories: ["development"]
-published:  true
 image:      "/img/20210624-mount-french/20210524_012101801_more_mountains.PANO.webp"
 summary:    "I finally got around to adding links to my Hugo gallery sliders. Here's how."
 showtoc:    false
@@ -92,7 +91,7 @@ how to direct input to it, because I don't understand either Hugo Pipes or Page 
 
 There is reference documentation for ```transform.Unmarshal```, but it takes a ```Resource```, and there is no reference documentation for that, only links to the documentation-by-example for [Hugo Pipes](https://gohugo.io/hugo-pipes/) and [Page Bundles](https://gohugo.io/content-management/page-bundles/). OK, I guess Page Bundles are reference-documented, but I put my resources in the ```static``` directory. Maybe I shouldn't. But that's not that clear!
 
-Of course it's ```func GetCSV``` in the source code, but hey, I don't really speak gO and I don't understand the naming conventions. The signature of ```GetCSV``` is
+Of course it's ```func GetCSV``` in the source code, but hey, I don't really speak Go and I don't understand the naming conventions. The signature of ```GetCSV``` is
 
     func (ns *Namespace) GetCSV(sep string, args ...interface{}) (d [][]string, err error) {
 

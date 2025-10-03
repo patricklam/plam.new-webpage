@@ -7,7 +7,6 @@ author:     "Patrick Lam"
 tags:       ["academia"]
 categories: ["work"]
 showtoc:    false
-published:  true
 
 ---
 

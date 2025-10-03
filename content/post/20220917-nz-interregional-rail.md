@@ -6,7 +6,6 @@ date:       2022-09-17
 author:     "Patrick Lam"
 tags:       [advocacy, aotearoa, transit]
 categories: []
-published:  true
 image:      "/img/20220917-nz-interregional-rail/PXL_20210530_002805808.webp"
 showtoc:    false
 summary:    "NZ needs inter-regional passenger rail as an alternative to flying and driving for climate and other reasons. Here's my submission to a Parliamentary inquiry, with comparisons to Canada and Switzerland."

@@ -6,7 +6,6 @@ date:       2024-07-18
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20240718-overland-track-pelion/20240502_235559343_tarn_and_mount_pelion_west_v1.avif"
 showtoc:    true
 summary:    "Mud day on the Overland Track: down to Frog Flats and back up. Lots of fungi, a few birds at New Pelion, and two shovels."

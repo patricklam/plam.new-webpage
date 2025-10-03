@@ -6,7 +6,6 @@ date:       2020-02-16
 author:     "Patrick Lam"
 tags:       ["tips"]
 categories: ["travel"]
-published:  true
 showtoc:    false
 image:      "/img/9774_steamboat_prow_banner.JPG"
 

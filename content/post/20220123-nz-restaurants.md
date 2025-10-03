@@ -6,7 +6,6 @@ date:       2022-01-24
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["travel"]
-published:  true
 image:      "/img/20220123-nz-restaurants/PXL_20210919_031456962.webp"
 showtoc:    true
 summary:    "I looked up two years' of dining history and collected all the New Zealand restaurants I thought were worth mentioning."

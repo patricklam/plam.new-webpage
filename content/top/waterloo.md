@@ -5,7 +5,6 @@ type:       post
 date:       2023-10-04
 title:      "How to leave Waterloo/how to get to YYZ"
 author:     "Patrick Lam"
-published:  true
 url:        /waterloo/
 tags:       ["transit", "airport", "kw", "kitchener", "waterloo", "toronto"]
 categories: ["travel"]

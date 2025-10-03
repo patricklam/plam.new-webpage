@@ -6,7 +6,6 @@ date:       2024-09-20
 author:     "Patrick Lam"
 tags:       ["reviews", "nz"]
 categories: ["trip-reports", "hiking", "books"]
-published:  true
 image:      "/img/20240920-old-ghost-road-versus-paparoa-tracks/02573_sun_below_horizon_v1.avif"
 showtoc:    true
 summary:    "The Old Ghost Road and the Paparoa Great Walk cross similar terrain on the West Coast in New Zealand. But the Old Ghost Road was led by a nonprofit, while the Paparoa was the product of the Department of Conservation. Let's compare them."

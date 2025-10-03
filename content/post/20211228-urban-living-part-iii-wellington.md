@@ -6,7 +6,6 @@ date:       2021-12-28
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["urbanism"]
-published:  true
 image:      "/img/20211228-urban-living-part-iii-wellington/20200413_145724_cable_car.webp"
 showtoc:    true
 summary:    "Part III: What about Wellington? An unexpected 2 years less a month in Wellington, NZ."

@@ -6,7 +6,6 @@ date:       2021-03-19
 author:     "Patrick Lam"
 tags:       []
 categories: ["work"]
-published:  true
 image:      "/img/20210115-overwork/20180409_094833_mtl_skyline.webp"
 showtoc:    false
 

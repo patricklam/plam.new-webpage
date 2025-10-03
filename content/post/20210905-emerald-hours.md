@@ -6,7 +6,6 @@ date:       2021-09-05
 author:     "Patrick Lam"
 tags:       ["aotearoa"]
 categories: ["travel", "transport", "books"]
-published:  true
 image:      "/img/20210905-emerald-hours/IMG_20200101_133541.webp"
 showtoc:    true
 summary:    "Alys Lowth and her party toured New Zealand in the early 1900s and took a surprising amount of public transit. Here, I compare public transit in NZ in 1905 and today. Also: things that are the same (geology), and things that are different (not as much as one would think!)."

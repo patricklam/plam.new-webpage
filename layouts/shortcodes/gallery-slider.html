@@ -8,30 +8,33 @@
 
 {{ $.Scratch.Add "id" (.Get "id" | default ( path.Base ($.Get "dir") ) ) }}
 
-<style>
-.my-chevron {
-    width:30px;
-    height:30px;
-    margin-top:-10px;
-    font-size: 30px;
-    top:50%;
-    position:absolute;
-    display:inline-block;
-};
-</style>
-
-{{ $csvPath := (print "/static" ($.Get "dir") ".csv") }}
+{{ $csvPath := (print "/assets" ($.Get "dir") ".csv") }}
 {{ $csvFile := path.Base $csvPath }}
-{{ $containingDir := print (path.Dir (print "/static" ($.Get "dir"))) }}
+{{ $containingDir := print (path.Dir (print "/assets" ($.Get "dir"))) }}
 {{ $galleryLinks := false }}
-{{ if (where (readDir $containingDir) "Name" $csvFile) }}
+{{ if and (fileExists $containingDir) ((where (readDir $containingDir) "Name" $csvFile)) }}
   {{ $galleryLinks = true }}
 {{ end }}
 
 {{ $links := newScratch }}
 {{ $links.Add "img" dict }}
-{{ range $i, $r := getCSV "," $csvPath }}
-  {{ $links.SetInMap "img" (index $r 0) (index $r 1) }}
+{{ $data := dict }}
+{{ $arg := (.Get "dir") }}
+{{ $csvName := printf "%s.csv" $arg }}
+{{ with resources.Get $csvName }}
+  {{ $opts := dict "delimiter" "," }}
+  {{ $data = . | transform.Unmarshal $opts }}
+{{ end }}
+{{ range $data }}
+  {{ $imgName := (index . 0) }}
+  {{ $links.SetInMap "img" $imgName (index . 1) }}
+  {{/* no extension, just add .avif by default */}}
+  {{ if eq (len (split $imgName ".")) 1 }}
+    {{ $links.SetInMap "img" (printf "%s.avif" $imgName) (index . 1) }}
+  {{ else if eq (len (split $imgName ".")) 2 }}
+    {{ $imgNameSplit := split $imgName "." }}
+    {{ $links.SetInMap "img" (printf "%s.avif" (index $imgNameSplit 0)) (index . 1) }}
+  {{ end }}
 {{ end }}
 
 <!-- Gallery -->

@@ -5,7 +5,6 @@ type:       post
 date:       2023-05-01
 title:      "Montréal"
 author:     "Patrick Lam"
-published:  true
 url:        /montreal/
 tags:       ["mtl", "ca"]
 categories: ["travel"]

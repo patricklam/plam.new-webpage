@@ -5,7 +5,6 @@ type:       post
 date:       2023-10-07
 title:      "Tourist guide to Wellington"
 author:     "Patrick Lam"
-published:  true
 url:        /wellington/
 tags:       ["wellington"]
 categories: ["travel"]

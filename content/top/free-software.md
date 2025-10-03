@@ -3,7 +3,6 @@ layout:     post
 
 title:      "Free Software"
 author:     "Patrick Lam"
-published:  true
 ---
 
 

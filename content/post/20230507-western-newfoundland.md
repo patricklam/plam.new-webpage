@@ -6,7 +6,6 @@ date:       2023-05-07
 author:     "Patrick Lam"
 tags:       ["nl", "ca"]
 categories: ["travel", "ski"]
-published:  true
 image:      "/img/20230507-western-newfoundland/00613_topography_v1.webp"
 showtoc:    true
 summary:    "Marble Mountain, arguably better than Tremblant; unarguably fewer lines. Gros Morne in the winter."

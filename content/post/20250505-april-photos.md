@@ -6,7 +6,6 @@ date:       2025-05-05
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250505-april-photos/01245_pyramid_behind_a_fence_v1.avif"
 showtoc:    false
 summary:    "March was a doozy, so here are the two sets I processed in March, as well as April's pictures."

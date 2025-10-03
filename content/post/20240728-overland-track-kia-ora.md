@@ -6,7 +6,6 @@ date:       2024-07-20
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20240728-overland-track-kia-ora/20_09851_chiaroscuro_v1.avif"
 showtoc:    true
 summary:    "'Mountain day' on the Overland Track, through Pelion Gap with side trips to Ossa (Tasmania highpoint) and Pelion East, before reaching Kia Ora Hut during golden hour."

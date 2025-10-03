@@ -6,7 +6,6 @@ date:       2025-02-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250201-january-photos/20221220_233413223_mountain_panorama.PHOTOSPHERE.avif"
 showtoc:    false
 summary:    "Finished 2022 photos, but didn't have much time to process more photos otherwise. One more January 2023 trip to do and then a huge step forwards in time."

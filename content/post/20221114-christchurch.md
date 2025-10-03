@@ -6,7 +6,6 @@ date:       2022-11-14
 author:     "Patrick Lam"
 tags:       ["nz", "judo"]
 categories: ["travel"]
-published:  true
 image:      "/img/20221102-banks/PXL_20221003_031718383-PANO.webp"
 showtoc:    false
 summary:    "Finally, I make it to NZ judo nationals, taking 3rd. Designer Cottage was a great place to stay. Plus, Christchurch Tram."

@@ -5,7 +5,6 @@ type:       post
 date:       2023-01-05
 title:      "Places I've been in Aotearoa New Zealand"
 author:     "Patrick Lam"
-published:  true
 url:        /nz-places/
 tags:       ["hiking", "aotearoa"]
 categories: ["travel"]

@@ -6,7 +6,6 @@ date:       2019-12-31
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["travel"]
-published:  true
 
 ---
 

@@ -6,7 +6,6 @@ date:       2023-10-08
 author:     "Patrick Lam"
 tags:       ["reviews", "transit", "rail"]
 categories: ["books"]
-published:  true
 image:      "/img/20231008-book-review-wellingtons-railways/20201105_182618307_observation_car.webp"
 showtoc:    false
 summary:    ""

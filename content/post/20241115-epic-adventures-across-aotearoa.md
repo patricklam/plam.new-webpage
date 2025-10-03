@@ -6,7 +6,6 @@ date:       2024-11-16
 author:     "Patrick Lam"
 tags:       ["reviews", "engineering"]
 categories: ["books"]
-published:  true
 image:      "/img/20241115-epic-adventures-across-aotearoa/03936_night_sky_from_mueller_hut.avif"
 showtoc:    false
 summary:    "A collection of tales about going over, across, and around the motu of Aotearoa."

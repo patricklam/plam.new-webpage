@@ -6,7 +6,6 @@ date:       2021-12-26
 author:     "Patrick Lam"
 tags:       ["ca"]
 categories: ["urbanism"]
-published:  true
 image:      "/img/20211226-urban-living-part-ii-montreal/IMG_20191102_190524.webp"
 showtoc:    true
 summary:    "Part II: Ten days, a year, and 20 years living in Montreal."

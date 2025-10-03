@@ -6,7 +6,6 @@ date:       2024-06-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20240601-may-photos/20240502_024637795_buttongrass.PANO.webp"
 showtoc:    false
 summary:    "Happy first day of winter (NZ)! I think I'll continue with split photos posts."

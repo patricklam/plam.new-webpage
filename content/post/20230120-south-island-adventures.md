@@ -6,7 +6,6 @@ date:       2023-01-20
 author:     "Patrick Lam"
 tags:       ["hiking", "climbing", "huts", "trip-reports"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230120-south-island-adventures/03544_glentanner_lake.webp"
 showtoc:    true
 summary:    "Christmas 2022 trip. Like everyone in New Zealand and many people from overseas, we flew in to Queenstown. Got away from the huge hordes by going to Wanaka (small hordes) and Mount Cook Village (some visitors). Did many of the things we'd been planning: Gillespie Circuit, glacier kayaking, Mueller Hut. Also went rock climbing in Wanaka. Featuring many pictures of Wanaka grebes."

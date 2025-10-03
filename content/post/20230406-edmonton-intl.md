@@ -6,7 +6,6 @@ date:       2023-04-06
 author:     "Patrick Lam"
 tags:       ["ab", "ca"]
 categories: ["travel", "judo"]
-published:  true
 image:      "/img/20230406-edmonton-intl/PXL_20230311_192056643.webp"
 showtoc:    false
 summary:    "Off to referee at the Edmonton International Judo Championship for the first time. Easier to get to than Vancouver for a short weekend."

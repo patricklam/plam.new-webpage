@@ -6,7 +6,6 @@ date:       2022-11-24
 author:     "Patrick Lam"
 tags:       ["advocacy", "sprawl"]
 categories: []
-published:  true
 image:      "/img/20220917-nz-interregional-rail/PXL_20210530_002805808.webp"
 showtoc:    false
 summary:    "Stop trying to mess with the GTA Greenbelt!"

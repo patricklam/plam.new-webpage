@@ -6,7 +6,6 @@ date:       2020-09-04
 author:     "Patrick Lam"
 tags:       ["covid"]
 categories: []
-published:  true
 showtoc:    false
 image:      "/img/20200904-intl-covid-munging/coronavirus.jpg"
 
@@ -52,7 +51,7 @@ is lower or higher.])
 
 So here are the results of my data munging.
 
-{{< tableCovid "/assets/200904-intl-covid-munging/stats.csv" >}}
+{{< tableCovid "200904-intl-covid-munging/stats.csv" >}}
 
 These are the countries that are somewhat on my radar; there are, of course,
 many other countries. I don't know much about African and many Asian countries.

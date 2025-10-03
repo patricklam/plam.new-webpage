@@ -6,7 +6,6 @@ date:       2016-06-08
 author:     "Patrick Lam"
 tags:       [""]
 categories: ["academia"]
-published:  true
 showtoc:    false
 
 ---

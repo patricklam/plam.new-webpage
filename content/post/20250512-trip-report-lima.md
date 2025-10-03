@@ -6,7 +6,6 @@ date:       2025-05-12
 author:     "Patrick Lam"
 tags:       ["lima"]
 categories: ["trip-reports", "judo"]
-published:  true
 image:      "/img/20250512-trip-report-lima/02222_cookie_cutter_buildings_v1.avif"
 showtoc:    true
 summary:    "Referee seminar in Lima plus a side trip to Paracas and Isla Blanca."

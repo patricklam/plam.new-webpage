@@ -6,7 +6,6 @@ date:       2004-03-21
 author:     "Patrick Lam"
 tags:       []
 categories: ["work"]
-published:  true
 image:      "/img/20030909_stata_banner.jpg"
 showtoc:    false
 

@@ -6,7 +6,6 @@ date:       2024-05-11
 author:     "Patrick Lam"
 tags:       ["au", "overland"]
 categories: ["trip-reports", "hiking"]
-published:  true
 image:      "/img/20240511-overland-track-australia-vs-new-zealand/20240502_234528930_buttongrass_and_mount_oakleigh.webp"
 showtoc:    true
 summary:    "Advertised as \"Australia's premier alpine walk\", we had six days with outstanding weather and scenery in Tasmania. In this part, I compare our Australian hiking experience with the New Zealand Great Walks."

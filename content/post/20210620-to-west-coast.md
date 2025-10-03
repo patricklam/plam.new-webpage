@@ -6,7 +6,6 @@ date:       2021-06-19
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["travel"]
-published:  true
 image:      "/img/20210620-to-west-coast/20210522_222152690_its_quicker_by_rail.webp"
 showtoc:    true
 summary:    "Fought in the Canterbury Open, and then an action-packed day north of Greymouth."

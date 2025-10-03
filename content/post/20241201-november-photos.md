@@ -6,7 +6,6 @@ date:       2024-12-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20241201-november-photos/03326_looking_towards_hooker_v1.avif"
 showtoc:    false
 summary:    "This month, I processed 50% more photos than usual (and produced other content as well). Easier to do when not travelling and not actively submitting papers."

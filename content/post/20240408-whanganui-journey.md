@@ -6,7 +6,6 @@ date:       2024-04-08
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["trip-reports", "canoeing"]
-published:  true
 image:      "/img/20240408-whanganui-journey/20240402_002752585_canoe_collection.jpg"
 showtoc:    false
 summary:    "Great Walk #9: not a walk at all, but a 145km canoe trip down the Whanganui River, with gentle rapids. We got there using public transit."

@@ -5,7 +5,6 @@ type:       post
 date:       2025-06-26
 title:      "PLDI 2014 or 2024?"
 author:     "Patrick Lam"
-published:  true
 url:        /pldi-quiz
 image:      "/img/pldi-quiz/20250620_062759156_view_from_the_westin.avif"
 tags:       []

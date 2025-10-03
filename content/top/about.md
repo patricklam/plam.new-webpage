@@ -3,7 +3,6 @@ layout:     post
 
 title:      "About me"
 author:     "Patrick Lam"
-published:  true
 ---
 
 (Last updated January 2020).

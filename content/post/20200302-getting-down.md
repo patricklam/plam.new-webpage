@@ -6,7 +6,6 @@ date:       2020-03-02
 author:     "Patrick Lam"
 tags:       ["tips"]
 categories: ["travel"]
-published:  true
 showtoc:    false
 image:      "/img/20200302-misty.jpg"
 

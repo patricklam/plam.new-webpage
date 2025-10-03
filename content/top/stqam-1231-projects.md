@@ -3,7 +3,6 @@ layout:     post
 
 title:      "ECE 453/CS 447/CS 647 Software Testing, Quality Assurance, and Maintenance, Winter 2023: Projects"
 author:     "Patrick Lam"
-published:  true
 url:        /stqam-1231-projects/
 ---
 

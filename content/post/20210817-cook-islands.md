@@ -6,7 +6,6 @@ date:       2021-08-17
 author:     "Patrick Lam"
 tags:       ["travel"]
 categories: []
-published:  true
 image:      "/img/20210817-cook-islands/20210807_220328230_motus.webp"
 showtoc:    true
 summary:    "What we got up to on the Cook Islands, and what we'd do differently."

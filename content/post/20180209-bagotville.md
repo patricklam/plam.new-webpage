@@ -6,7 +6,6 @@ date:       2018-02-09
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20180209-bagotville/20180208_115219851_tarmac_at_yul.webp"
 showtoc:    true
 summary:    "Getting lucky with IRROPS enroute to Bagotville."

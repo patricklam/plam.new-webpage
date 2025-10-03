@@ -6,7 +6,6 @@ date:       2021-10-11
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work"]
-published:  true
 image:      "/img/20211012-september/PXL_20210916_205824306.PANO.webp"
 showtoc:    true
 summary:    "Outside of Auckland, life is almost normal (for now). Busy writing papers and travelling, as well as contributing to teaching a lab course."

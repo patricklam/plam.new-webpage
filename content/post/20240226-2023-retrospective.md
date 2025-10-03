@@ -6,7 +6,7 @@ date:       2024-02-26
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work", "travel"]
-published:  false
+draft:      true
 image:      "/img/20240214-january/05510_dusk_in_wellington.webp"
 showtoc:    true
 summary:    ""

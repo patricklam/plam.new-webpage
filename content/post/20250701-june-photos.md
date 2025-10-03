@@ -6,7 +6,6 @@ date:       2025-07-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250701-june-photos/20230823_205652701_just_the_mountains_v1.avif"
 showtoc:    false
 summary:    "In June, more travel, fewer photos posted and lots of photos captured. Pictures from Montreal, Wellington, Estonia, Calgary, and barely Seoul."

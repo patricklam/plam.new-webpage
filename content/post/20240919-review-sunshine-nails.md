@@ -6,7 +6,6 @@ date:       2024-09-19
 author:     "Patrick Lam"
 tags:       ["reviews", "immigration", "refugees", "ca"]
 categories: ["books"]
-published:  true
 image:      "/img/20240830-ru/06840_tractor.avif"
 showtoc:    true
 summary:    "More Vietnamese refugee content, this time a novel."

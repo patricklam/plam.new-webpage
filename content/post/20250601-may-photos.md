@@ -6,7 +6,6 @@ date:       2025-06-01
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250601-may-photos/01970_algunas_islas_v1.avif"
 showtoc:    false
 summary:    "Returning to normal service with lots of pictures processed in May."

@@ -6,7 +6,6 @@ date:       2025-02-14
 author:     "Patrick Lam"
 tags:       ["judo", "stats"]
 categories: ["judo"]
-published:  true
 image:      "/img/20250214-quebec-referee-stats/IMG_20171105_125849.avif"
 showtoc:    false
 summary:    "An analysis of referee retention for the Judo Québec provincial roster from 2000 through 2025."

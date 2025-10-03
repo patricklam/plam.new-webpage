@@ -6,7 +6,6 @@ date:       2023-04-19
 author:     "Patrick Lam"
 tags:       ["trip-reports", "climbing", "gym"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230419-backbone-bouldering-gym/20230417_184921518_outdoor_area.webp"
 showtoc:    true
 summary:    "Small but worthy climbing gym in Bromont. Also offers other services (café, terrasse, hammocks)."

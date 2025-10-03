@@ -6,7 +6,6 @@ date:       2023-10-12
 author:     "Patrick Lam"
 tags:       ["trip-reports", "nz", "hike", "mountaineering"]
 categories: ["travel"]
-published:  true
 image:      "/img/20231011-mount-hopeless-trip-report/20230826_231114645_nelson_lakes-PANO.webp"
 showtoc:    false
 summary:    "We carried mountaineering gear 50km on a long weekend and had a nice walk in the fluffy snow, but no summit."

@@ -6,7 +6,6 @@ date:       2009-06-30
 author:     "Patrick Lam"
 tags:       ["engineering"]
 categories: ["travel"]
-published:  true
 image:      "/img/20200118_100921_commuter_rail_header.jpg"
 showtoc:    false
 

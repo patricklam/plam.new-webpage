@@ -6,7 +6,6 @@ date:       2021-06-25
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["travel"]
-published:  true
 image:      "/img/20200603-may/20200528_te_ara_papararangi_wlg_harbour.webp"
 showtoc:    true
 summary:    "NZ remains COVID-free, barely."

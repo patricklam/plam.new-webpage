@@ -6,7 +6,6 @@ date:       2021-12-10
 author:     "Patrick Lam"
 tags:       ["nz", "covid"]
 categories: ["travel"]
-published:  true
 image:      "/img/20211209-leaving-nz-part-ii/PXL_20211201_135610024.webp"
 showtoc:    true
 summary:    "Part II: from Auckland to Montreal (and Kitchener). Plus, how did we get here? Looking back at 2019."

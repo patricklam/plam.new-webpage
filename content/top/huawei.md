@@ -3,7 +3,7 @@ layout:     post
 
 title:      "Research Collaborations (Huawei)"
 author:     "Patrick Lam"
-published:  false
+draft:      true
 ---
 
 # Areas I’d be keen to work on again

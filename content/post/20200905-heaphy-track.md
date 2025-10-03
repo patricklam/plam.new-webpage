@@ -6,7 +6,6 @@ date:       2020-09-05
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20200905-heaphy-track/06331_twins_v1_banner.jpg"
 showtoc:    true
 

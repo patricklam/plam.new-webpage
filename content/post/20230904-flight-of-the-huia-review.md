@@ -6,7 +6,6 @@ date:       2023-09-04
 author:     "Patrick Lam"
 tags:       ["reviews", "ecology", "birds", "nz"]
 categories: ["books"]
-published:  true
 image:      "/img/20230904-flight-of-the-huia-review/09335_hills_towards_makara_and_turbines.webp"
 showtoc:    true
 summary:    "A review of a 2004 book about NZ ecology, ecosystems, and species endemic to NZ."

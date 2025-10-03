@@ -6,7 +6,6 @@ date:       2021-10-10
 author:     "Patrick Lam"
 tags:       ["aotearoa"]
 categories: ["travel", "transport", "books"]
-published:  true
 image:      "/img/20211011-emerald-hours-ii/20201217_194630745_mountain_range-PANO.webp"
 showtoc:    true
 summary:    "Second part of my book review / transit comparison between 1905 and 2021. This time featuring the South Island and the Milford Track."

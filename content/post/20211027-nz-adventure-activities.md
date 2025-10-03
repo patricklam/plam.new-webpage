@@ -6,7 +6,6 @@ date:       2021-10-27
 author:     "Patrick Lam"
 tags:       ["advocacy"]
 categories: []
-published:  true
 image:      "/img/20210815-ipcc-letter-to-ministers/IMG_20190620_161511427_HDR.webp"
 showtoc:    true
 summary:    "Following the White Island eruption, the New Zealand Government is soliciting comments on the regulation of adventure activities. Here's what I wrote."

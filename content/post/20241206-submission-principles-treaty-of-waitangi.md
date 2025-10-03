@@ -6,7 +6,6 @@ date:       2024-12-06
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["nzpol"]
-published:  true
 image:      "/img/20241206-submission-principles-treaty-of-waitangi/07707_on_the_steps.avif"
 showtoc:    false
 summary:    "The libertarian minor party, ACT, has introduced a divisive 'Treaty Principles Bill' which threatens to undermine the NZ constitutional order (founded on the Treaty of Waitangi). I submitted to the select committee against this bill."

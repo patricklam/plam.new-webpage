@@ -5,7 +5,6 @@ type:       post
 date:       2023-06-23
 title:      "Graduate Students"
 author:     "Patrick Lam"
-published:  true
 url:        /students
 tags:       []
 categories: []

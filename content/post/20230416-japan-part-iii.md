@@ -6,7 +6,6 @@ date:       2023-04-16
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas", "japan"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230416-japan-part-iii/20230224_023828644_from_the_lodge.webp"
 showtoc:    true
 summary:    "The last segment of our Japan trip: skiing and birbs in Hokkaido, as well as snowshoeing and katte don. Plus most of a day in Tokyo."

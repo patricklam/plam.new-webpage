@@ -6,7 +6,6 @@ date:       2024-10-15
 author:     "Patrick Lam"
 tags:       ["reviews", "ecology", "birds", "nz"]
 categories: ["books"]
-published:  true
 image:      "/img/20241015-takahe-bird-of-dreams/00233_luxmore_hut_view.avif"
 showtoc:    false
 summary:    "Stories about takahē: re-discovery, conservation, and their habits."

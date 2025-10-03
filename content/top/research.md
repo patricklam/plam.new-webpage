@@ -3,7 +3,6 @@ layout:     post
 
 title:      "Research"
 author:     "Patrick Lam"
-published:  true
 ---
 
 # Research

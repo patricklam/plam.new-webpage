@@ -6,7 +6,6 @@ date:       2024-03-10
 author:     "Patrick Lam"
 tags:       ["retrospective"]
 categories: ["work", "travel"]
-published:  true
 image:      "/img/20240310-pacific-and-edmonton/20240303_000025772_morning_matches.webp"
 showtoc:    false
 summary:    "March has two Canadian circuit judo tournaments: Pacific International and Edmonton International. I also stopped by Waterloo for two days and took care of some business."

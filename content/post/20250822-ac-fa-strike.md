@@ -6,7 +6,6 @@ date:       2025-08-22
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20250822-ac-fa-strike/04470_vancouver.avif"
 showtoc:    true
 summary:    "How I managed to fly to New Zealand as soon as possible after the Air Canada Flight Attendant strike, oof."

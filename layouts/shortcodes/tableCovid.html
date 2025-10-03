@@ -11,18 +11,24 @@
    {{ $.Scratch.Set "colStyle" "" }}
 {{ end }}
 
-{{ $arg := .Get 0 }}
-{{ $csv := getCSV "," $arg }}
+{{ $data := dict }}
+{{ $p := "200904-intl-covid-munging/stats.csv" }}
+{{ with resources.Get $p }}
+  {{ $opts := dict "delimiter" "," }}
+  {{ $data = . | transform.Unmarshal $opts }}
+{{ else }}
+  {{ errorf "Unable1 to get resource %q" $p }}
+{{ end }}
 
 <table>
-  {{ range $i, $r := (first 1 $csv) }} 
+  {{ range $i, $r := (first 1 $data) }} 
     <thead><tr>
        {{ range $j, $s := $r}}
         <th style="text-align:right;">{{ $s }}</th>
        {{ end }}
     </tr> </thead>
   {{ end }}
-  {{ range $i, $r := (first ($.Scratch.Get "maxLines") (after 1 $csv)) }}
+  {{ range $i, $r := (first ($.Scratch.Get "maxLines") (after 1 $data)) }}
     {{ if eq (index $r 1) "SUBHEAD" }}
        <tr style="text-align: left"> <td colspan="6"> <strong> {{ index $r 0 }} </strong> </td> </tr>
     {{ else }}

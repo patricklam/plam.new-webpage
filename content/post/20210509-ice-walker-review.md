@@ -6,7 +6,6 @@ date:       2021-05-09
 author:     "Patrick Lam"
 tags:       ["ca"]
 categories: ["travel", "books"]
-published:  true
 image:      "/img/20210509-ice-walker-review/20190629_212236542_sunset.webp"
 showtoc:    false
 summary:    "Canadian content! This short work of creative nonfiction follows a bear, Nanu, as she raises

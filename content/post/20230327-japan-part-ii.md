@@ -6,7 +6,6 @@ date:       2023-03-27
 author:     "Patrick Lam"
 tags:       ["trip-reports", "overseas", "japan"]
 categories: ["travel"]
-published:  true
 image:      "/img/20230327-japan-part-ii/20230223_062440977_weird_cloud_v1.webp"
 showtoc:    true
 summary:    "Next stops: Matsomoto (a castle!), samurai district, historical houses, festival floats, and gardens. Plus, an 11 hour train ride."

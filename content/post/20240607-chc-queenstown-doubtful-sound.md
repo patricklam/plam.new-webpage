@@ -6,7 +6,6 @@ date:       2024-06-06
 author:     "Patrick Lam"
 tags:       ["nz"]
 categories: ["trip-reports", "hiking", "cruise"]
-published:  true
 image:      "/img/20240607-chc-queenstown-doubtful-sound/02407_dark_skies.avif"
 showtoc:    true
 summary:    "Not the Cascade Saddle, take 2. Canterbury Open (judo), Queenstown hikes (Ben Lomond, Welcome Rock) and bike trips (Gibbston), and Doubtful Sound for 2 nights."

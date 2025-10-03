@@ -6,7 +6,6 @@ date:       2020-08-22
 author:     "Patrick Lam"
 tags:       []
 categories: ["travel"]
-published:  true
 image:      "/img/20200822-tranzalpine/07005_sunset_over_the_mountains_header.JPG"
 showtoc:    true
 

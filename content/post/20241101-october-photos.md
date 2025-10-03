@@ -6,7 +6,6 @@ date:       2024-11-02
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20241101-october-photos/01507_morning_mountains_v1.avif"
 showtoc:    false
 summary:    "Didn't process nearly as many photos as in previous months, but got a few more sets in near the end of the month after travel was done."

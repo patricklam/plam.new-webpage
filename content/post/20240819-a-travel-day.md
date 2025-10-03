@@ -6,7 +6,6 @@ date:       2024-08-19
 author:     "Patrick Lam"
 tags:       ["ca"]
 categories: ["trip-reports"]
-published:  true
 image:      "/img/20240819-a-travel-day/20230523_211924477_yow_v1.avif"
 showtoc:    false
 summary:    "'Optimizing' some flights to New Zealand."

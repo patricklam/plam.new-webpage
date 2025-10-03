@@ -6,7 +6,6 @@ date:       2025-08-10
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel"]
-published:  true
 image:      "/img/20250810-dg-submission/IMG_20190728_123351.avif"
 showtoc:    false
 summary:    "Yay! A submission wholly in support of a government initiative (Ontario) which legitimizes climbing at Devil's Glen Provincial Park (and hopefully others in the future)."
