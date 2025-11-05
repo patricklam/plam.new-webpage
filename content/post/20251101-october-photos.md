@@ -87,7 +87,7 @@ September 2 at CHC: Hello Spring; famous Fairlie Bakehouse; Aoraki from over Lak
 <figure>
 {{< gallery-slider dir="/img/20251101-october-photos/skiing-gst-2" >}}
 <figcaption style="text-align:center">
-Clouds streaming over; compound lenticular; J on lunch break; massive lineup at Treble Cone's Saddle Basin Quad; fresh tracks; looking across the Motatapu River; a rest from splitboarding; single file back up to Saddle chair; river crossing on skis (!); leaving Treble Cone; a caravan of caravans.
+Clouds streaming over; compound lenticular; J on lunch break; massive lineup at Treble Cone's Saddle Basin Quad; looking across the Motatapu River; a rest from splitboarding; river crossing on skis (!); leaving Treble Cone; a caravan of caravans.
 </figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Hallowe'en decorations; Banh Mi House, the best banh mi; no trains at Union Stat
 <figure>
 {{< gallery-slider dir="/img/20251101-october-photos/calgary" >}}
 <figcaption style="text-align:center">
-Streets of Calgary; kata discussion; MyMy sub; Calgary Public library; streert art; Pan Am Oceania Championship; training camp; flavours of Quebec; golden hour in Calgary; above SeaTac; Squamish Parking Lot Wall; the Chief.
+Streets of Calgary; kata discussion at Hiro's; MyMy sub; Calgary Public library; street art; Pan Am Oceania Championship; training camp; Flavours of Quebec; golden hour in Calgary; above SeaTac; Squamish Parking Lot Wall; the Chief.
 </figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ Most of the Century Park pictures are flora and fauna, seen above.
 {{< gallery-slider dir="/img/20251101-october-photos/tallinn-shanghai-vancouver-seattle" >}}
 <figcaption style="text-align:center">
 Richmond townhouses; biplane at SEA; Tallinn: go away Copilot; Tartu or Tallinn; Eesti Vabadussoda cross;
-Ukraine & Estonia; public square; anti-Russian graffiti; Kompressor; Stenbock House; medieval wall;
+Ukraine & Estonia; public square; anti-Russian graffiti; graffiti at Linnahall; Kompressor; Stenbock House; medieval wall;
 Shanghai: not a throne; matching clothes; some highrise towers; Montreal Garden in Shanghai.
 </figcaption>
 </figure>
@@ -185,7 +185,7 @@ Wellington's Skyline Track; Wellington Harbour view; a walk at Whitireia Park; P
 <figure>
 {{< gallery-slider dir="/img/20251101-october-photos/on-the-road-2023" >}}
 <figcaption style="text-align:center">
-Various airlines at SYD; morning in Vancouver; YWG baggage claim; Assiniboine River;
+VIA at Union Station; Toronto skyline; various airlines at SYD; morning in Vancouver; YWG baggage claim; Assiniboine River;
 leaving WLG; AKL pohutukawa; AKL int'l; Kaipara entrance to Auckland harbour;
 near La Tontouta; bienvenue en Nouvelle-Calédonie; Magenta airport; fare in Ouvéa; flat Prairies fields.
 </figcaption>
@@ -201,7 +201,7 @@ near La Tontouta; bienvenue en Nouvelle-Calédonie; Magenta airport; fare in Ouv
 <figcaption style="text-align:center">
 Approaching YUL by bus; sunrise over Europe; back in Canada; fields outside Vancouver;
 Rogers Stadium YZD; YYZ int'l Maple Leaf Lounge; Pearson; boarding to GIS;
-valley and hills; landing at GIS near sheep; Rimataka range and Lake Ferry; WLG again;
+valley and hills; landing at GIS near sheep; Remutaka range and Lake Ferry; WLG again;
 new WLG bird; dawn at WLG.
 </figcaption>
 </figure>
@@ -222,7 +222,7 @@ Consolidating some smaller sets here.as well as random pictures from around town
 <figure>
 {{< gallery-slider dir="/img/20251101-october-photos/around-town-canada" >}}
 <figcaption style="text-align:center">
-Canada geese going for a walk in Waterloo; Engineering undergrad design teams space; biking to winter birdwatching;
+Canada geese going for a walk in snowy Waterloo; Engineering undergrad design teams space; biking to winter birdwatching;
 Toronto skyline; Capstone Design Symposium; high water on Laurel Creek; Lego kākāpō; luggage transport via bike;
 Pursuit Climbing in Stratford; Save Max Sports Centre; backyard chicken; Ontario Open 2023; Montreal West train
 station; McGill College Avenue; plants at Bloc Shop; the streets of Montreal.
@@ -242,9 +242,8 @@ station; McGill College Avenue; plants at Bloc Shop; the streets of Montreal.
 The Old Bailey (Wellington); Karori Park on a grey day; slow for kererū; the once and future Wellington Central
 Library/Te Matapihi ki te ao nui; Alexander Turnbull Library; Wellington Cathedral of St Paul; Tigger at
 Harbourside Market; the late Sylvester; "Tree" playing a saxophone; Canadian and other flags; sweeping
-at Wellington Judo Academy; "Albatross" fountain; small plane over the Remarkables; Hilton Queenstown; Taranaki
+at Wellington Judo Academy; "Albatross" fountain; small plane at the Remarkables; Hilton Queenstown; Taranaki
 maunga; Air NZ aircraft at dusk.
-Kākāpō
 </figcaption>
 </figure>
 
