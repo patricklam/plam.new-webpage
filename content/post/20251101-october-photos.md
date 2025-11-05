@@ -141,7 +141,7 @@ Hallowe'en decorations; Banh Mi House, the best banh mi; no trains at Union Stat
 <figure>
 {{< gallery-slider dir="/img/20251101-october-photos/calgary" >}}
 <figcaption style="text-align:center">
-Streets of Calgary; kata discussion; MyMy sub; outside the library; streert art; Pan Am Oceania Championship; training camp; flavours of Quebec; golden hour in Calgary; above SeaTac; Squamish Parking Lot Wall; the Chief.
+Streets of Calgary; kata discussion; MyMy sub; Calgary Public library; streert art; Pan Am Oceania Championship; training camp; flavours of Quebec; golden hour in Calgary; above SeaTac; Squamish Parking Lot Wall; the Chief.
 </figcaption>
 </figure>
 
