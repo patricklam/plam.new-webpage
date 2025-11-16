@@ -4,11 +4,9 @@ layout:     post
 title:      "Book Review: We, the Others: Allophones, Immigrants, and Belonging in Canada by Toula Drimonis"
 date:       2023-05-31
 author:     "Patrick Lam"
-tags:       ["reviews"]
 categories: ["books"]
 image:      "/img/montreal-travel-info/20220704_235119674_eastern_montreal_v1.webp"
-tags:       ["mtl", "ca"]
-categories: []
+tags:       ["reviews", "mtl", "ca"]
 showtoc:    true
 summary:    "Toula Drimonis writes about immigrants and allophones (non-English, non-French mother tongue) in modern Quebec society, talking about integration of immigrants and how broader society evolves in response. Her story, as the daughter of Greek immigrants, overlaps with mine in some ways."
 
