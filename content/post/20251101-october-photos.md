@@ -17,16 +17,16 @@ summary:    ""
 .meta { color: white; background-color: #aaa; background-color: rgba(192,192,192,0.8); padding: 0.5em; text-shadow: 2px 2px 2px grey; border-radius: 30px; }
 </style>
 
-In October I was working on my NSERC Discovery proposal, so I may have procrastinated sometimes by processing pictures. I selected about as many pictures as I did in July (887 versus 846), but the total number of pictures processed was 27% higher in July (3354 versus 2642). July did include a large collection of Estonian bird photos (710) and a walk up to Apostolidis (528). This month, on the other hand, I had lots of tiny sets, including in-transit days. Still, there were 13 over-100-picture days.
+In October I was working on my NSERC Discovery proposal, so I may have procrastinated sometimes by processing pictures. I selected way more pictures than in any recent month (1330 versus 846 in July), and the total number of pictures in the pool was 47% higher in July (3883 versus 2642). July did include a large collection of Estonian bird photos (710) and a walk up to Apostolidis (528). This month, on the other hand, I had lots of tiny sets, including in-transit days. Still, there were 13 over-100-picture days. (updated: spreadsheet error)
 
 [Picture
 logs](https://www.github.com/patricklam/picture-processing-logs) 
 available, and, as always, pictures are clickable to go to the full gallery. 
 
 * Sets of pictures processed: October=39, September=10, August=12, July=15
-* Total pictures processed: October=887, September=414, August=563, July=846
-* Total pictures in selection pool: October=2642, September=1486, August=2123, July=3354
-* Accept rate: 34% (min 28%, max 66%)
+* Total pictures processed: October=1330, September=414, August=563, July=846
+* Total pictures in selection pool: October=3883, September=1486, August=2123, July=3354
+* Accept rate: 34% (min 16%, max 66%)
 * Pictures posted on this page: 204
 
 <figure>
