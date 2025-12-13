@@ -17,7 +17,7 @@ summary:    ""
 .meta { color: white; background-color: #aaa; background-color: rgba(192,192,192,0.8); padding: 0.5em; text-shadow: 2px 2px 2px grey; border-radius: 30px; }
 </style>
 
-In October I was working on my NSERC Discovery proposal, so I may have procrastinated sometimes by processing pictures. I selected way more pictures than in any recent month (1330 versus 846 in July), and the total number of pictures in the pool was 47% higher in July (3883 versus 2642). July did include a large collection of Estonian bird photos (710) and a walk up to Apostolidis (528). This month, on the other hand, I had lots of tiny sets, including in-transit days. Still, there were 13 over-100-picture days. (updated: spreadsheet error)
+In October I was working on my NSERC Discovery proposal, so I may have procrastinated sometimes by processing pictures. I selected way more pictures than in any recent month (1330 versus 846 in July), and the total number of pictures in the pool was 16% higher in July (3883 versus 2642). July did include a large collection of Estonian bird photos (710) and a walk up to Apostolidis (528). This month, on the other hand, I had lots of tiny sets, including in-transit days. Still, there were 13 over-100-picture days. (updated: spreadsheet error)
 
 [Picture
 logs](https://www.github.com/patricklam/picture-processing-logs) 
