@@ -4,12 +4,12 @@ layout:     post
 title:      "Trip report: Kumano Kodo Nakahechi"
 date:       2025-04-05
 author:     "Patrick Lam"
-tags:       ["retrospective"]
-categories: ["work", "travel"]
+tags:       ["walk"]
+categories: ["trip-reports", "hiking"]
 draft:      true
 image:      "/img/20250205-january/20250125_143014461_more_pink_sky_over_fieldhouse_v1.avif"
 showtoc:    true
-summary:    "OK, this month had a trip to Japan. Aside from that, I got to Toronto once, and to Kingston just at the end of the month. February is a short month, though."
+summary:    ""
 
 ---
 ### Pre-trip
