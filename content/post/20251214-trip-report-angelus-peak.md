@@ -26,6 +26,12 @@ on Sunday (it was full on Saturday), summit on Monday, and then return on Monday
 at Pohara for two days.
 
 * [Serialized version of the phone-retrieval saga as a Mastodon thread](https://mastodon.nz/@va2lam/115692622340928453)
+* [Gallery: Pre-trip: climbing at Pohara, December 5](https://gallery.patricklam.ca/index.php?/category/2249)
+* [Gallery: Pohara to Wakefield, December 6](https://gallery.patricklam.ca/index.php?/category/2250)
+* [Gallery: Robert Ridge approach to Angelus Hut, December 7](https://gallery.patricklam.ca/index.php?/category/2248)
+* [Gallery: Angelus Peak, December 7](https://gallery.patricklam.ca/index.php?/category/2247)
+* [Gallery: First Phone Search, December 8](https://gallery.patricklam.ca/index.php?/category/2245)
+* [Gallery: Second (Successful) Search & Back from Angelus Hut, December 9](https://gallery.patricklam.ca/index.php?/category/2244)
 
 Let's get on with it. This medium has different affordances, so let's see how it comes out. The photo album isn't
 ready yet, so no links this time.
