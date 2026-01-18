@@ -42,7 +42,7 @@ Teenage gull wants food; Rainier view; Seattle from the ferry at night; bed in L
 </figcaption>
 </figure>
 
-Birds, other animals, and plants. (There are both sheep and vegetable sheep). The paradise shelducklings were getting quite big. In the highlights above, I finally photographed a grey warbler. Not a great shot, but they are hard to see, even though they are so easy to hear. Definitely less exotic than last month.
+Birds, other animals, and plants. (There are both sheep and vegetable sheep). The paradise shelducklings were getting quite big. In the highlights above, I finally photographed a grey warbler. Not a great shot, but they are hard to see, even though they are so easy to hear. Definitely fewer exotic birds than last month.
 
 <figure>
 {{< gallery-slider dir="/img/20260114-december-photos/fauna" >}}
@@ -69,7 +69,7 @@ more vegetable sheep; dog vomit slime mold.
 </figcaption>
 </figure>
 
-Up next from last month, we have a combination of sets from trips (Angelus, Old Ghost Road,
+Up next, from last month, we have a combination of sets from trips (Angelus, Old Ghost Road,
 and travel to Nelson, BC/Seattle) and general collections of pictures.
 
 # Angelus Hut / Peak (December 2025)
