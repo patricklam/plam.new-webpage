@@ -6,7 +6,7 @@ date:       2026-01-14
 author:     "Patrick Lam"
 tags:       ["photos"]
 categories: ["travel", "nz"]
-image:      "/img/20261114-december-photos/PXL_20251115_070448866.avif"
+image:      "/img/20260114-december-photos/PXL_20251115_070448866.avif"
 showtoc:    false
 summary:    "Still less than 2 years of backlog, though January will be slower for sure, with 3 courses of teaching."
 
