@@ -47,7 +47,7 @@ Birds, other animals, and plants. (There are both sheep and vegetable sheep). Th
 <figure>
 {{< gallery-slider dir="/img/20260114-december-photos/fauna" >}}
 <figcaption style="text-align:center">
-Vancouver: Juvenile gull of some sort; cormorants; american crow at Canada Place. Aotearoa: weka; kakaruai/South Island robin; yellowhammer; paradise shelduck ×3; other ducklings ×2; hopping song thrush with worm; camouflaged NZ pipit; decorated starling; tūī.
+Vancouver: Juvenile gull of some sort; cormorants; american crow at Canada Place. Aotearoa: weka; ngirungiru/tomtit; yellowhammer; paradise shelduck ×3; other ducklings ×2; hopping song thrush with worm; camouflaged NZ pipit; decorated starling; tūī.
 </figcaption>
 </figure>
 
