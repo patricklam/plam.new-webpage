@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Trip report: Angelus Peak Thrice in Three Days, December 4 to 9"
+title:      "Trip report: Angelus Peak Thrice in Three Days, December 5 to 9"
 date:       2025-12-14
 author:     "Patrick Lam"
 tags:       ["nz", "walk"]
