@@ -1,7 +1,7 @@
 ---
 layout:     post
 
-title:      "Trip report: Finally Cascade Saddle, February 18&ndash;25"
+title:      "Trip report: Finally Cascade Saddle, February 18 to 25"
 date:       2026-03-31
 author:     "Patrick Lam"
 tags:       ["nz", "walk"]
