@@ -26,3 +26,20 @@ I was looking at some glacier names recently and found your decision from last O
 Ngā mihi,
 
 Patrick Lam
+
+## Response from the Minister:
+
+Dear Patrick
+
+Thank you for your email, dated 7 April 2026, regarding the decision not to correct the spellings of the three glacier names in Mount Aspiring National Park.
+
+I acknowledge your disappointment at the decisions and your desire to correct such historical misspellings of these personal names.
+
+However, the formaer Minister for Land Information's decisions are final under the New Zealand Geographic Board (Ngā Pou Tauhana o Aotearoa) Act 2008.
+
+Thank you for taking the time to write and express your concerns, which I have noted.
+
+Sincerely
+
+Hon Mike Butterick
+Minister for Land Information
