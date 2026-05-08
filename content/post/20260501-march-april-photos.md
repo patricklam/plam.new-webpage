@@ -126,7 +126,7 @@ more Sounds; near Blenheim; Trips and Transfers van.
 <figure>
 {{< gallery-slider dir="/img/20260501-march-april-photos/wellington-and-zealandia" >}}
 <figcaption style="text-align:center">
-MP at home; koromiko/bellbird; little pied shag; spiderweb.
+MP at home; koromiko; little pied shag; spiderweb.
 </figcaption>
 </figure>
 

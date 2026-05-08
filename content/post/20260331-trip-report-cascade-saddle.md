@@ -209,7 +209,7 @@ still clear, and would remain clear all day, with light winds.
 {{< gallery-slider dir="/img/20260331-trip-report-cascade-saddle/cascade-saddle-crux" >}}
 <figcaption style="text-align:center">
 Ridges next to the Cascade Saddle; Instagram spot; small slab; flattening out near the highpoint;
-cloud rolling in; Reid Glacier and an extreme care sign; crossing the shale; Cascade tributary;
+cloud rolling in; Dart Glacier and an extreme care sign; crossing the shale; Cascade tributary;
 small waterfall; tufts in a tarn; silty stream; other side of Cascade Saddle.
 </figcaption>
 </figure>
