@@ -29,7 +29,7 @@ available, and, as always, pictures are clickable to go to the full gallery.
 * Total pictures selected: March/April=330, February=276, January=27
 * Total pictures in selection pool: March/April=1263m February=1210
 * Accept rate: 26% (min 15%, max 78%)
-* Pictures posted on this page: N
+* Pictures posted on this page: 94
 
 Unsurprisingly, most of the highlight photos are from the Cascade Saddle: although 3/10 sets weren't from that trip, the non-Cascade Saddle sets are tiny and not that photogenic.
 <figure>
