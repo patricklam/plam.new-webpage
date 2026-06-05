@@ -27,7 +27,7 @@ available, and, as always, pictures are clickable to go to the full gallery.
 
 * Sets of pictures processed: March/April=10, February=10, January=1
 * Total pictures selected: March/April=330, February=276, January=27
-* Total pictures in selection pool: March/April=1263m February=1210
+* Total pictures in selection pool: March/April=1263, February=1210
 * Accept rate: 26% (min 15%, max 78%)
 * Pictures posted on this page: 94
 
@@ -56,6 +56,7 @@ I actually managed to finish the photos from this trip, though the last set was 
 * [CHC to Mount Cook Village (37/98), February 18](https://gallery.patricklam.ca/index.php?/category/2271)
 * [Mount Cook Village to Wanaka (31/102), February 19](https://gallery.patricklam.ca/index.php?/category/2273)
 * [Queenstown and Arrowtown (14/18), February 20](https://gallery.patricklam.ca/index.php?/category/2264)
+* [Cascade Saddle Day part 1, to the Cascade Saddle Route (33/119), February 22](https://gallery.patricklam.ca/index.php?/category/2257)
 * [Cascade Saddle Day part 3, near Dart Hut (43/198), February 22](https://gallery.patricklam.ca/index.php?/category/2266)
 * [To Shelter Rock Hut and takahē (61/314), February 23](https://gallery.patricklam.ca/index.php?/category/2265)
 * [Shelter Rock Hut to Muddy Creek Carpark (63/245), February 24](https://gallery.patricklam.ca/index.php?/category/2274)
