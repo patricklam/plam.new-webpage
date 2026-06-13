@@ -90,8 +90,10 @@ def main():
         if archive_equivalent_f.exists():
             with open(archive_equivalent_f, 'rb') as image_file:
                 tags = exifread.process_file(image_file)
-                file_date = tags["EXIF DateTimeOriginal"].values
-                #print (type(file_date))
+                try:
+                    file_date = tags["EXIF DateTimeOriginal"].values
+                except:
+                    file_date = datetime.fromtimestamp(archive_equivalent_f.lstat().st_mtime).strftime('%Y:%m:%d %H:%M:%S')
             #print ("AE file {} date {}".format(archive_equivalent_f, file_date))
         else:
             print ("can't find archive equivalent file {}".format(oldf))
@@ -127,13 +129,19 @@ def main():
 
             piwigo_widget[oldf] = '?/{}/category/{}'.format(id, cat_id)
 
+    for oldf, newn in renamings.items():
+        new_index = files.index(oldf)*2
+        new_name = newn
+        if not parsed_args.preserve_names:
+            new_name = "{:02d}_{}".format(new_index, newn)
+            os.rename(oldf.name, new_name)
+
     with open(csv_path, "w") as csv:
         for oldf, newn in renamings.items():
             new_index = files.index(oldf)*2
             new_name = newn
             if not parsed_args.preserve_names:
                 new_name = "{:02d}_{}".format(new_index, newn)
-                os.rename(oldf.name, new_name)
             if not parsed_args.offline:
                 csv.write ("{},{}\n".format(new_name, piwigo_widget[oldf]))
 
