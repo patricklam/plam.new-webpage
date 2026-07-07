@@ -172,7 +172,7 @@ City pictures; usually cellphone pictures are higher-accept-rate, but not these.
 * [Wellington Open (28/87), May 31-June 1 2025](https://gallery.patricklam.ca/index.php?/category/2320)
 * [Te Matapihi ki te Ao Nui/Wellington Central Library (8/10), May 8 2026](https://gallery.patricklam.ca/index.php?/category/2302)
 * [Harbourside Market and Te Ara Tapua (14/32), May 24 2026](https://gallery.patricklam.ca/index.php?/category/2307)
-* [Around Wellington (42/89), May 2026]((https://gallery.patricklam.ca/index.php?/category/2308)
+* [Around Wellington (42/89), May 2026](https://gallery.patricklam.ca/index.php?/category/2308)
 
 <figure>
 {{< gallery-slider dir="/img/20260701-june-photos/wellington-misc" >}}
