@@ -5,7 +5,7 @@ title:      "July: photos post"
 date:       2026-08-04
 author:     "Patrick Lam"
 tags:       ["photos"]
-categories: ["travel", "nz", "canada"]
+categories: ["travel", "nz", "canada", "alps"]
 image:      "/img/20260804-july-photos/09420_salvins_mollymawk_v1.avif"
 showtoc:    false
 summary:    "Some weekend trips in July, and processing the ensuing pictures, as well as others from the backlog."
