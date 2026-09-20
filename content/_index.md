@@ -20,7 +20,7 @@ techniques for program analysis which take into account programmer-specified inf
 (language extensions, test cases, etc).
 
 I'm always interested in taking on motivated graduate students. If you're interested in working with
-me at Waterloo, send me a non-form-letter email and let's talk!
+me at Waterloo, send me a non-form-letter email and let's talk! I don't want to read emails that have LLM tells.
 
 # Non-professional
 
