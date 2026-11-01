@@ -79,7 +79,7 @@ No pictures posted yet. Briefly:
 * Flew to Napoli, had pizza (which we'd failed to acquire 20 years ago when
 we visited), visited two of the catacombs ([San
 Gennaro](https://catacombedinapoli.it/en/luoghi/catacombs-of-san-gennaro-naples/)
-is a community turnaround success story), tried to see birds, always
+is a community turnaround success story, as told to us by our historian tour guide Emanuele), tried to see birds, always
 felt like I was about to get run over by a car.
 * Train to Benevento via Caserta. Visited the grounds of the [Reggia de Caserta](https://reggiadicaserta.cultura.gov.it/en/),
 which are actually quite large; I thought renting a bike would be overkill, and I didn't, but maybe I should have.
